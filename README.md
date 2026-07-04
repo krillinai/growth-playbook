@@ -744,6 +744,7 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 | [**AI Rank Tracker (DejanSEO)**](https://dejanmarketing.com)     | Experimental tool mapping language-association graphs to reveal which entities LLMs most connect with your brand.                                        |
 | [**Am I on AI?**](https://www.amionai.com)                       | Lightweight checker tracking how often ChatGPT recommends your brand, with weekly visibility reports via email.                                          |
 | [**AppearOnAI**](https://appearonai.com)                         | Audit and action-oriented playbook that boosts your site’s visibility inside ChatGPT, Claude & Gemini answers.                                           |
+| [**AnswerLens**](https://app.sfdj.net/)                          | Free public-evidence audit for B2B SaaS sites; checks crawlable pages, `llms.txt`, pricing, comparison, and proof pages before a paid report path.       |
 | [**AthenaHQ**](https://athenahq.ai)                              | Provides free GEO visibility reports and playbooks for mid-market SaaS brands; analyzed over 3M AI answers.                                              |
 | [**Avenue Z — AIO**](https://avenuez.com)                        | GEO consultancy offering enterprise audits, share-of-voice templates, and guided optimization roadmaps.                                                  |
 | [**Bluefish AI**](https://www.bluefishai.com)                    | Unified visibility and brand-safety console integrating monitoring with engagement tools like FAQs and chat widgets.                                     |
@@ -825,4 +826,3 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 
 - [**AI Overviews Benchmark Study — Semrush Research**](https://www.semrush.com/blog/semrush-ai-overviews-study/) – Oct 2025  
   Large-scale analysis of **Google AI Overview snippets**; finds that fewer than 20% of cited sources match top organic results, signaling a major divergence between **SEO ranking and AI inclusion**.
-
