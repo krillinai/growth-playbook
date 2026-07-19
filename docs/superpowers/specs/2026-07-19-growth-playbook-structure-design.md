@@ -2,20 +2,13 @@
 
 ## Goal
 
-Turn the repository from a GEO-only guide into a complete growth playbook. GEO becomes one module within marketing and distribution, while the repository remains usable during incremental migration.
+Reposition the repository as an incrementally developed growth playbook without pretending that unfinished sections already exist. GEO is the first complete module, not the theme of the entire repository.
 
-## Information Architecture
+## Principle
 
-The handbook follows a four-part growth loop:
+The repository follows a content-first rule: create a directory only when it contains useful material. Future sections belong in a roadmap until writing begins.
 
-1. Strategy and knowledge: understand markets, users, positioning, and growth models.
-2. Content production: plan, create, localize, and repurpose content.
-3. Marketing and distribution: acquire audiences through search, GEO, social media, communities, email, partnerships, and paid channels.
-4. Analytics and optimization: define metrics, run experiments, attribute results, and improve the next cycle.
-
-Shared practical material lives outside the four reading sections so it can be reused without duplication.
-
-## Proposed Directory Structure
+## Initial Structure
 
 ```text
 growth-playbook/
@@ -23,75 +16,57 @@ growth-playbook/
 ├── README.zh.md
 ├── handbook/
 │   ├── README.md
-│   ├── 01-strategy-and-knowledge/
-│   │   └── README.md
-│   ├── 02-content-production/
-│   │   └── README.md
-│   ├── 03-marketing-and-distribution/
-│   │   ├── README.md
-│   │   ├── seo/
-│   │   │   └── README.md
-│   │   ├── geo/
-│   │   │   └── README.zh.md
-│   │   ├── social-media/
-│   │   │   └── README.md
-│   │   ├── email/
-│   │   │   └── README.md
-│   │   ├── community/
-│   │   │   └── README.md
-│   │   ├── partnerships/
-│   │   │   └── README.md
-│   │   └── paid-acquisition/
-│   │       └── README.md
-│   └── 04-analytics-and-optimization/
-│       └── README.md
-├── playbooks/
-│   └── README.md
-├── templates/
-│   └── README.md
-├── case-studies/
-│   └── README.md
-└── resources/
-    └── README.md
+│   └── geo/
+│       └── README.zh.md
+├── ROADMAP.md
+└── docs/
+    └── superpowers/
+        └── specs/
 ```
 
-## Content Boundaries
+## File Responsibilities
 
-- `handbook/` explains the complete growth system in a recommended reading order.
-- `playbooks/` contains goal-oriented, executable workflows that may combine multiple handbook modules.
-- `templates/` contains reusable briefs, checklists, worksheets, and measurement tables.
-- `case-studies/` connects decisions and actions to real outcomes.
-- `resources/` contains external tools, research, datasets, and further reading.
-- Skills and runnable products remain in separate repositories. This repository may link to them but does not host their implementation.
+- `README.md` remains the current English GEO guide temporarily so existing international readers and links continue to work.
+- `README.zh.md` becomes the Chinese homepage for the broader Growth Playbook. It explains the scope, shows GEO as the first available module, and links to the migrated guide.
+- `handbook/README.md` is a short module index. It lists only published modules as available.
+- `handbook/geo/README.zh.md` contains the existing Chinese GEO guide without rewriting its substance during migration.
+- `ROADMAP.md` lists possible future subjects without creating empty section directories or promising a fixed publication order.
+
+## Future Classification
+
+As real content is added, modules may be grouped around the growth loop:
+
+1. Strategy and knowledge.
+2. Content production.
+3. Marketing and distribution.
+4. Analytics and optimization.
+
+These are roadmap categories, not directories in the initial migration. When enough modules exist to justify navigation by category, the repository can introduce category indexes and move modules with compatibility links.
 
 ## GEO Migration
 
-The existing Chinese GEO guide moves to `handbook/03-marketing-and-distribution/geo/README.zh.md` without rewriting its substance in the first migration. The root `README.zh.md` becomes the Chinese entry page for the complete growth playbook and links to the GEO module.
+The existing Chinese GEO guide moves to `handbook/geo/README.zh.md`. Its headings and content remain intact.
 
-The English and other translated GEO guides remain at their current root paths during the first migration. This preserves existing links and avoids presenting partially translated handbook navigation as complete. A later translation pass can move each language into the GEO module and add redirects or compatibility links.
+The root Chinese README becomes a concise Growth Playbook entry page. It must clearly distinguish:
 
-## Initial Content
+- available now: the complete GEO guide;
+- planned: other growth topics;
+- long-term direction: a practical handbook combining frameworks and executable playbooks.
 
-Each new section receives a concise index describing:
-
-- what the section covers;
-- expected outcomes;
-- planned modules;
-- links to available content.
-
-Indexes must clearly label unfinished modules as planned. They should not imply that placeholder material is complete.
+Other translated GEO files remain at their current root paths in this migration. They can move into language-specific module paths in a later translation pass.
 
 ## Compatibility
 
-- Existing GEO headings and anchors remain unchanged inside the migrated Chinese document.
-- Existing non-Chinese files are not modified in the first migration.
-- No external repository or tool code is copied into this repository.
-- Git-tracked index files are used instead of empty directories.
+- Existing non-Chinese GEO files are not modified.
+- No empty category directories are created.
+- No Skills or software product code is added to this repository.
+- The moved Chinese GEO document retains all existing substantive content.
 
 ## Completion Criteria
 
-- The proposed directories and index files exist.
-- Root Chinese navigation describes the complete growth playbook.
-- The full Chinese GEO guide is available under the marketing and distribution section.
-- All relative links added by the migration resolve.
-- A repository search confirms that no Chinese GEO content was accidentally lost.
+- The minimal directory structure exists.
+- The Chinese homepage represents the broader Growth Playbook honestly.
+- The full Chinese GEO guide is accessible under `handbook/geo/`.
+- The module index marks GEO as the only currently published module.
+- The roadmap describes future directions without empty scaffolding.
+- All new relative links resolve.
