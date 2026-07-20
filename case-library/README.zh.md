@@ -11,13 +11,18 @@
 - [Elena Verna](people/elena-verna/README.zh.md)：跨公司增长负责人，围绕 PLG、PLS、商业化、增长模型、自然分发与实验的方法。
 - [Naomi Gleit](people/naomi-gleit/README.zh.md)：Meta Head of Product，围绕激活、留存、新用户引导、数据埋点、实验与清晰的产品协作方法。
 - [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF Test、激活、北极星指标、ICE 排序与高频实验的方法。
+- [查看更多](people/README.zh.md)
 
 ## [案例解析](cases/README.zh.md)
 
+- [Airtable 激活与早期增长](cases/airtable-activation-growth/README.zh.md)：客户洞察、模板、分群引导与协作指标如何支持产品采用。
+- [Duolingo 消费订阅增长](cases/duolingo-consumer-subscription-growth/README.zh.md)：自然触达、国际化、订阅、留存与游戏化如何形成消费增长系统。
 - [Facebook 早期增长](cases/facebook-early-growth/README.zh.md)：产品价值、好友连接、激活、留存、数据、实验和国际化如何形成增长系统。
 - [Lovable：自然增长与产品发布](cases/lovable-earned-growth/README.zh.md)：信任、员工参与、产品建设和自然分发如何在付费扩张前彼此加强。
 
 ## [公司](companies/README.zh.md)
 
+- [Airtable](companies/airtable/README.zh.md)：客户驱动营销、模板、新用户引导、激活与协作采用。
+- [Duolingo](companies/duolingo/README.zh.md)：自然增长、国际化、订阅、实验、留存与游戏化。
 - [Facebook / Meta](companies/facebook/README.zh.md)：校园扩张、激活、留存、实验、国际化与多产品增长。
 - [Lovable](companies/lovable/README.zh.md)：连接 AI 产品增长、信任、自然分发、产品发布、商业化与相关证据。

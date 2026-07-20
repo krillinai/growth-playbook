@@ -67,9 +67,9 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
-| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [Alex Schultz](case-library/people/alex-schultz/README.md)<br>● [Chamath Palihapitiya](case-library/people/chamath-palihapitiya/README.md)<br>● [Elena Verna](case-library/people/elena-verna/README.md)<br>● [Naomi Gleit](case-library/people/naomi-gleit/README.md)<br>● [Sean Ellis](case-library/people/sean-ellis/README.md) |
-| **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ● [Facebook Early Growth](case-library/cases/facebook-early-growth/README.md)<br>● [Lovable: Earned Growth and Product Launches](case-library/cases/lovable-earned-growth/README.md) |
-| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ● [Facebook / Meta](case-library/companies/facebook/README.md)<br>● [Lovable](case-library/companies/lovable/README.md) |
+| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [Alex Schultz](case-library/people/alex-schultz/README.md)<br>● [Chamath Palihapitiya](case-library/people/chamath-palihapitiya/README.md)<br>● [Elena Verna](case-library/people/elena-verna/README.md)<br>● [Naomi Gleit](case-library/people/naomi-gleit/README.md)<br>● [Sean Ellis](case-library/people/sean-ellis/README.md)<br>[View more](case-library/people/README.md) |
+| **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ● [Airtable Activation and Early Growth](case-library/cases/airtable-activation-growth/README.md)<br>● [Duolingo Consumer Subscription Growth](case-library/cases/duolingo-consumer-subscription-growth/README.md)<br>● [Facebook Early Growth](case-library/cases/facebook-early-growth/README.md)<br>● [Lovable: Earned Growth and Product Launches](case-library/cases/lovable-earned-growth/README.md) |
+| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ● [Airtable](case-library/companies/airtable/README.md)<br>● [Duolingo](case-library/companies/duolingo/README.md)<br>● [Facebook / Meta](case-library/companies/facebook/README.md)<br>● [Lovable](case-library/companies/lovable/README.md) |
 
 ## Toolkit
 

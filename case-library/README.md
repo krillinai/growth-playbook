@@ -11,13 +11,18 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Elena Verna](people/elena-verna/README.md): Cross-company growth operator focused on PLG, PLS, monetization, growth models, earned distribution, and experimentation.
 - [Naomi Gleit](people/naomi-gleit/README.md): Meta Head of Product; activation, retention, onboarding, instrumentation, experimentation, and clear product operations.
 - [Sean Ellis](people/sean-ellis/README.md): PMF Test, activation, North Star Metrics, ICE prioritization, and high-tempo experimentation.
+- [View more](people/README.md)
 
 ## [Case Studies](cases/README.md)
 
+- [Airtable Activation and Early Growth](cases/airtable-activation-growth/README.md): how customer insight, templates, segmented onboarding, and collaboration metrics support adoption.
+- [Duolingo Consumer Subscription Growth](cases/duolingo-consumer-subscription-growth/README.md): how organic reach, internationalization, subscriptions, retention, and gamification form a consumer growth system.
 - [Facebook Early Growth](cases/facebook-early-growth/README.md): how product value, friend connections, activation, retention, data, experimentation, and internationalization became a growth system.
 - [Lovable: Earned Growth and Product Launches](cases/lovable-earned-growth/README.md): how trust, employee participation, product building, and earned distribution reinforce one another before paid scale.
 
 ## [Companies](companies/README.md)
 
+- [Airtable](companies/airtable/README.md): customer-led marketing, templates, onboarding, activation, and collaborative adoption.
+- [Duolingo](companies/duolingo/README.md): organic growth, internationalization, subscriptions, experimentation, retention, and gamification.
 - [Facebook / Meta](companies/facebook/README.md): campus expansion, activation, retention, experimentation, internationalization, and multi-product growth.
 - [Lovable](companies/lovable/README.md): AI product growth, trust, earned distribution, launches, monetization, and related evidence.
