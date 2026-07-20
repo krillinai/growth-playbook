@@ -67,9 +67,9 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
-| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [People index](case-library/people/README.md) · 4 profiles |
-| **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ● [Case index](case-library/cases/README.md) · 1 case |
-| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ● [Company index](case-library/companies/README.md) · 1 company |
+| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [Alex Schultz](case-library/people/alex-schultz/README.md)<br>● [Chamath Palihapitiya](case-library/people/chamath-palihapitiya/README.md)<br>● [Elena Verna](case-library/people/elena-verna/README.md)<br>● [Naomi Gleit](case-library/people/naomi-gleit/README.md) |
+| **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ● [Facebook Early Growth](case-library/cases/facebook-early-growth/README.md) |
+| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ● [Facebook / Meta](case-library/companies/facebook/README.md) |
 
 ## Toolkit
 
