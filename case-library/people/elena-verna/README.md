@@ -107,6 +107,24 @@ At Lovable, launches operate as coordinated product and distribution events, not
 
 This approach depends on a product worth demonstrating and an audience that trusts the messengers. Launch volume cannot replace substance.
 
+### 12. AI-Native Product-Market Fit Must Be Re-Earned
+
+In fast-moving AI categories, models, interfaces, user expectations, and competitors can change before a conventional roadmap is complete. Verna describes Product-Market Fit as a moving target rather than a milestone a company reaches once and then scales indefinitely.
+
+Shipping velocity matters because the team must repeatedly observe the market, update the product, and recapture fit. Speed is valuable only when paired with customer contact, retention evidence, and a clear direction.
+
+### 13. Feature Advantages Decay Faster in AI
+
+AI-assisted development reduces the time required to reproduce many software features. A feature can still create a temporary lead, but it becomes less reliable as a durable growth moat.
+
+Verna points instead to advantages that are harder to reproduce: network effects, proprietary data, brand, security, compliance, hardware, customer trust, and distribution. Freemium can also be treated as a marketing investment when free usage creates learning, habit, advocacy, or ecosystem reach.
+
+### 14. Automate Growth 101 and Become a Builder
+
+AI can automate more routine funnel analysis, experiment setup, campaign production, and implementation work. Verna argues that product and growth professionals should reinvest the saved time in customer understanding, creative strategy, vision, and distribution.
+
+The boundaries among product, design, engineering, and growth are becoming less rigid. People who can turn an idea into a working prototype can test assumptions without waiting for a full team. Building ability complements product judgment; it does not replace customer interaction or strategic choice.
+
 ## Growth System Summary
 
 | Layer | Verna's approach | Operating implication |
@@ -120,6 +138,9 @@ This approach depends on a product worth demonstrating and an audience that trus
 | Experimentation | Test important hypotheses, not everything measurable | Prioritize model and product changes over cosmetic volume |
 | AI growth | Build trust through credible product proof | Connect builders, users, and public communication |
 | Organization | Hire for the current constraint and stage | Match role, authority, data, and expectations |
+| AI-native PMF | Revalidate fit as technology and expectations change | Combine shipping velocity with customer and retention signals |
+| Defensibility | Look beyond short-lived feature advantages | Invest in brand, data, networks, trust, security, and distribution |
+| Talent | Automate routine growth work and build directly | Move saved time into judgment, creativity, and customer contact |
 
 ## Talk Index
 
@@ -183,6 +204,45 @@ This approach depends on a product worth demonstrating and an audience that trus
 | [1:10:44](https://www.youtube.com/watch?v=IHwS2By9UKM&t=4244s) | Cosmetic tests, isolated tactics, and friction |
 | [1:15:00](https://www.youtube.com/watch?v=IHwS2By9UKM&t=4500s) | Favorite growth frameworks |
 
+### AI-Native Growth
+
+- Guest: Elena Verna
+- Host: Common Room
+- Upload date: 2025-06-13
+- Duration: 55:54
+- Video: [YouTube](https://www.youtube.com/watch?v=FskZEDptUr0)
+
+| Time | Topic |
+| --- | --- |
+| [03:20](https://www.youtube.com/watch?v=FskZEDptUr0&t=200s) | Moving beyond routine pricing-page and funnel optimization |
+| [03:57](https://www.youtube.com/watch?v=FskZEDptUr0&t=237s) | Activation, monetization, and acquisition foundations |
+| [06:23](https://www.youtube.com/watch?v=FskZEDptUr0&t=383s) | Iteration velocity in AI-native products |
+| [09:01](https://www.youtube.com/watch?v=FskZEDptUr0&t=541s) | Separating ICP signal from hobbyist noise |
+| [18:50](https://www.youtube.com/watch?v=FskZEDptUr0&t=1130s) | Habit moments and retention curves |
+| [20:22](https://www.youtube.com/watch?v=FskZEDptUr0&t=1222s) | Which traditional PLG frameworks still apply |
+| [21:43](https://www.youtube.com/watch?v=FskZEDptUr0&t=1303s) | Earlier monetization in AI products |
+| [26:23](https://www.youtube.com/watch?v=FskZEDptUr0&t=1583s) | Consumption-based monetization |
+| [33:27](https://www.youtube.com/watch?v=FskZEDptUr0&t=2007s) | When to layer in Product-Led Sales |
+| [46:15](https://www.youtube.com/watch?v=FskZEDptUr0&t=2775s) | Combining product, web, and intent signals |
+
+### The New AI-Native Growth Playbook
+
+- Guest: Elena Verna
+- Host: Product School
+- Upload date: 2025-11-26
+- Duration: 43:21
+- Video: [YouTube](https://www.youtube.com/watch?v=8wLXHrZVOys)
+
+| Time | Topic |
+| --- | --- |
+| [00:00](https://www.youtube.com/watch?v=8wLXHrZVOys&t=0s) | Product-Market Fit as a moving target in AI |
+| [12:42](https://www.youtube.com/watch?v=8wLXHrZVOys&t=762s) | Acquisition, retention, and monetization signals |
+| [13:58](https://www.youtube.com/watch?v=8wLXHrZVOys&t=838s) | Repeatedly recapturing Product-Market Fit |
+| [17:42](https://www.youtube.com/watch?v=8wLXHrZVOys&t=1062s) | Velocity as an AI-native capability |
+| [19:35](https://www.youtube.com/watch?v=8wLXHrZVOys&t=1175s) | Activation ownership between growth and core product |
+| [21:30](https://www.youtube.com/watch?v=8wLXHrZVOys&t=1290s) | Retention and product-led loops |
+| [23:30](https://www.youtube.com/watch?v=8wLXHrZVOys&t=1410s) | Brand as a product outcome |
+
 ### How Lovable Launches Product and Uses Social Distribution
 
 - Guest: Elena Verna
@@ -203,6 +263,46 @@ This approach depends on a product worth demonstrating and an audience that trus
 | [37:55](https://www.youtube.com/watch?v=2wdsNwPUCgQ&t=2275s) | Where an unlimited marketing budget would go |
 | [49:47](https://www.youtube.com/watch?v=2wdsNwPUCgQ&t=2987s) | Lovable's product-launch process |
 
+### Why PMs Who Cannot Build Will Get Left Behind
+
+- Guest: Elena Verna
+- Show: Product in Practice by Atlassian
+- Upload date: 2026-03-27
+- Duration: 55:15
+- Video: [YouTube](https://www.youtube.com/watch?v=kyTzrrxTxx4)
+
+| Time | Topic |
+| --- | --- |
+| [02:10](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=130s) | Joining Lovable and automating Growth 101 |
+| [05:36](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=336s) | Product managers becoming product builders |
+| [08:39](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=519s) | AI adoption at growth-stage companies |
+| [11:56](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=716s) | Bottom-up AI fluency |
+| [17:38](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=1058s) | Product, design, and engineering boundaries becoming less rigid |
+| [20:42](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=1242s) | Critical skills for AI-era product managers |
+| [24:16](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=1456s) | Customer interaction, vision, and distribution remain essential |
+| [28:20](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=1700s) | Building a specification and prototype with ChatGPT and Lovable |
+| [49:22](https://www.youtube.com/watch?v=kyTzrrxTxx4&t=2962s) | Career decisions and the superpower framework |
+
+### Feature Differentiation Is Dead: What Wins Now
+
+- Speaker: Elena Verna
+- Host: SaaStr AI
+- Upload date: 2026-06-05
+- Duration: 39:32
+- Video: [YouTube](https://www.youtube.com/watch?v=kdHU-jPxDHw)
+
+| Time | Topic |
+| --- | --- |
+| [05:08](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=308s) | High-impact individual contributors versus title progression |
+| [07:34](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=454s) | Why feature differentiation is harder to sustain |
+| [08:46](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=526s) | Network, data, security, and compliance moats |
+| [10:11](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=611s) | Brand as differentiation in AI markets |
+| [11:54](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=714s) | Building applications for go-to-market work |
+| [19:16](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=1156s) | Flat organization, no internal titles, and craft |
+| [21:32](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=1292s) | The Product-Market Fit treadmill |
+| [24:27](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=1467s) | Directly building a pricing-page change |
+| [34:28](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=2068s) | Freemium as a marketing investment |
+
 ## How to Apply the Method
 
 1. Map the current growth model across acquisition, activation, retention, monetization, and expansion.
@@ -213,12 +313,14 @@ This approach depends on a product worth demonstrating and an audience that trus
 6. Design free access around time to value, natural usage frequency, cost, and a reason to upgrade.
 7. Establish earned distribution before using paid acquisition to scale.
 8. Prioritize experiments by expected strategic impact, not ease of measurement.
-9. Review the growth model whenever audience, product, pricing, or route to market changes.
+9. Review the growth model whenever audience, product, pricing, technology, or route to market changes.
 10. For AI products, measure trust and credible proof alongside activation and revenue.
+11. Track how quickly feature advantages decay and invest in harder-to-copy assets.
+12. Automate routine growth work, then reinvest the time in customers, strategy, and building.
 
 ## Limitations and Caveats
 
-- Current and previous roles can change over time; this profile reflects her career through March 2026.
+- Current and previous roles can change over time; this profile reflects her career through June 2026.
 - The methods span 2022 to 2026 and several companies, market conditions, and stages. They should not be combined without context.
 - This profile does not use Lovable's reported growth rate or revenue as evidence for the effectiveness of a specific method.
 - "Tactics that never work" is intentionally provocative framing. Some tactics can work when they address a diagnosed constraint and are measured against downstream value.
@@ -232,6 +334,10 @@ This approach depends on a product worth demonstrating and an audience that trus
 2. [The ultimate guide to product-led sales - Lenny's Podcast](https://www.youtube.com/watch?v=bxghtN-OlJQ): PLS, qualification signals, systems, staffing, and monetization accountability. Accessed 2026-07-20.
 3. [10 growth tactics that never work - Lenny's Podcast](https://www.youtube.com/watch?v=IHwS2By9UKM): growth hiring, earned channels, growth models, experimentation, and common tactical errors. Accessed 2026-07-20.
 4. [How Lovable launches product and hacks social to go viral - 20VC](https://www.youtube.com/watch?v=2wdsNwPUCgQ): Lovable, trust, social distribution, paid marketing, AI monetization, and launches. Accessed 2026-07-20.
+5. [AI-native growth - Common Room](https://www.youtube.com/watch?v=FskZEDptUr0): AI-native PLG, velocity, intent signals, monetization, retention, and sales. Accessed 2026-07-20.
+6. [Lovable Head of Growth on the new AI-native growth playbook - Product School](https://www.youtube.com/watch?v=8wLXHrZVOys): moving PMF, activation ownership, retention, brand, and velocity. Accessed 2026-07-20.
+7. [Why PMs who can't build will get left behind - Atlassian](https://www.youtube.com/watch?v=kyTzrrxTxx4): AI fluency, product builders, role convergence, customer contact, vision, and distribution. Accessed 2026-07-20.
+8. [Feature differentiation is dead: what actually wins now - SaaStr AI](https://www.youtube.com/watch?v=kdHU-jPxDHw): AI-era moats, brand, freemium, flat organizations, direct building, and PMF velocity. Accessed 2026-07-20.
 
 ## Related Playbook Content
 

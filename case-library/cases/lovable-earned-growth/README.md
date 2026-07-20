@@ -9,11 +9,11 @@
 | Field | Details |
 | --- | --- |
 | Company | Lovable |
-| Period covered | 2026 |
+| Period covered | 2025-2026 |
 | Growth problem | Build trusted distribution for a fast-changing AI product without using paid acquisition to conceal weak fundamentals |
 | Main mechanisms | Founder and employee visibility, product demonstrations, social distribution, customer proof, and coordinated launches |
 | Growth leader | Elena Verna, Head of Growth |
-| Primary source | March 2026 interview on 20VC |
+| Primary sources | Talks and interviews by Elena Verna from June 2025 to June 2026 |
 
 ## Executive Summary
 
@@ -114,6 +114,24 @@ Customer value
 
 Monetization is therefore part of the growth system, not a decision made after acquisition.
 
+## 8. Product-Market Fit Is a Moving Target
+
+Lovable operates in a category where underlying models, competing products, interfaces, and user expectations change quickly. Verna describes the company as repeatedly recapturing Product-Market Fit rather than treating it as a permanent state.
+
+Velocity helps shorten the distance between a market change and a product response. It is not sufficient by itself: the team still needs customer contact, activation, retention, and monetization signals to distinguish useful movement from output volume.
+
+## 9. Defensibility Moves Beyond Features
+
+AI-assisted development makes many software features easier to reproduce. Lovable's growth model therefore places more weight on brand, customer trust, distribution, data, networks, security, compliance, and the speed of learning.
+
+Freemium can support that system when free usage creates product learning, user habits, advocacy, or broader distribution. Its cost should be compared with other marketing investments and downstream value, not treated as automatically efficient.
+
+## 10. Core Product Owns Activation
+
+In conversational AI products, activation often happens inside the central interaction with the agent rather than through a separate onboarding layer. Verna argues that the core product team must own this experience instead of offloading activation to a growth team.
+
+Growth can still work on retention, communication, loops, monetization, and distribution. The ownership boundary keeps the product's first value experience close to the team building the underlying capability.
+
 ## Operating System
 
 | Layer | Lovable approach | Transferable question |
@@ -125,6 +143,9 @@ Monetization is therefore part of the growth system, not a decision made after a
 | Launches | Concentrate product, proof, and communication | Can one event create both reach and learning? |
 | Paid acquisition | Amplify validated value and messaging | What proven signal will paid spend scale? |
 | Monetization | Connect pricing to value and AI usage costs | Does packaging support adoption and sustainable economics? |
+| PMF | Revalidate fit as the category changes | Which customer and retention signals show that fit still holds? |
+| Defensibility | Combine brand, data, networks, trust, and learning speed | Which advantage remains hard to reproduce? |
+| Activation | Keep the core AI interaction with the product team | Who owns the user's first successful outcome? |
 
 ## What Can Be Applied
 
@@ -135,6 +156,9 @@ Monetization is therefore part of the growth system, not a decision made after a
 5. Measure earned response, activation, retention, and advocacy before scaling paid acquisition.
 6. Use paid channels to amplify a validated message rather than discover product value.
 7. Model pricing with customer value, usage intensity, variable cost, and expansion behavior.
+8. Review PMF whenever models, competitors, interfaces, or user expectations shift.
+9. Track feature-copying speed and invest in harder-to-reproduce advantages.
+10. Keep activation ownership with the team responsible for the core AI experience.
 
 ## What Should Not Be Copied
 
@@ -148,7 +172,7 @@ Monetization is therefore part of the growth system, not a decision made after a
 ## Evidence and Limitations
 
 - The primary evidence is Elena Verna's account as Lovable's Head of Growth; it is a participant perspective rather than an independent causal evaluation.
-- The source describes practices and opinions as of March 2026. AI markets and Lovable's operating model may change quickly.
+- The sources describe practices and opinions from June 2025 through June 2026. AI markets and Lovable's operating model may change quickly.
 - Publicly reported growth and revenue figures are not used here to prove that a particular method worked.
 - The interview provides limited cohort, retention, channel-attribution, experiment, and unit-economic data.
 - The relative contribution of product quality, category timing, founder audience, employees, customers, and individual channels cannot be isolated from the available evidence.
@@ -174,6 +198,13 @@ Monetization is therefore part of the growth system, not a decision made after a
 | [32:29](https://www.youtube.com/watch?v=2wdsNwPUCgQ&t=1949s) | AI product monetization and annual subscriptions |
 | [37:55](https://www.youtube.com/watch?v=2wdsNwPUCgQ&t=2275s) | Where an unlimited marketing budget would go |
 | [49:47](https://www.youtube.com/watch?v=2wdsNwPUCgQ&t=2987s) | Lovable's product-launch process |
+
+### Additional Talks
+
+1. [AI-native growth - Common Room](https://www.youtube.com/watch?v=FskZEDptUr0): velocity, activation, retention, monetization, intent signals, and Product-Led Sales.
+2. [The new AI-native growth playbook - Product School](https://www.youtube.com/watch?v=8wLXHrZVOys): moving PMF, activation ownership, product-led loops, velocity, and brand.
+3. [Why PMs who can't build will get left behind - Atlassian](https://www.youtube.com/watch?v=kyTzrrxTxx4): AI fluency, direct building, customer contact, vision, and distribution.
+4. [Feature differentiation is dead - SaaStr AI](https://www.youtube.com/watch?v=kdHU-jPxDHw): defensibility, brand, freemium, organization, and repeated PMF.
 
 ## Related Content
 

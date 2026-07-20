@@ -17,6 +17,8 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 | Product launches | How are product changes and distribution concentrated into an event? | Covered in earned-growth case |
 | Paid acquisition | When does paid marketing amplify rather than hide weak fundamentals? | Covered in earned-growth case |
 | Monetization | How should AI usage costs and customer value shape packaging? | Initial discussion only |
+| Product-Market Fit | How can fit be recaptured as models and user expectations change? | Covered in earned-growth case |
+| Defensibility | What remains difficult to copy when feature advantages decay quickly? | Covered in earned-growth case |
 | Retention | Which behaviors predict durable AI product adoption? | Future case direction |
 
 ## Cases
@@ -31,7 +33,7 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 
 ## Editorial Boundaries
 
-- Current evidence is centered on Elena Verna's March 2026 interview and represents her account of Lovable's practices.
+- Current evidence is centered on Elena Verna's 2025 and 2026 talks and represents her account of Lovable's practices.
 - Reported revenue and growth figures do not establish causality.
 - Lovable's methods reflect a specific AI market, product, team, and period; later changes require separate evidence.
 - Inclusion does not endorse every company decision, product claim, or public position.
