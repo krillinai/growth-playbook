@@ -2,53 +2,74 @@
 
 ## Goal
 
-Show the Growth & Marketing Playbook information architecture directly in both root README files with a GitHub-native Mermaid diagram.
+Replace the Mermaid diagram in both root README files with a monospaced text diagram modeled on the user's reference. The diagram explains the long-term information architecture of Growth & Marketing Playbook without creating empty directories.
 
-## Scope
+## Presentation
 
-The diagram represents only the handbook content structure. It does not include Skills, KrillinAI products, social publishing tools, or other ecosystem projects.
+- Use a fenced `text` block with box-drawing characters.
+- Use English labels inside the diagram to keep column alignment stable across GitHub fonts.
+- Add localized prose immediately below the diagram in each README.
+- Do not use Mermaid, custom colors, raw HTML, or generated images.
 
-## Structure
+## Information Architecture
 
-The diagram presents a continuous four-part growth loop:
+The diagram has three conceptual layers.
 
-1. Strategy and knowledge.
-2. Content production.
-3. Marketing and distribution.
-4. Analytics and optimization.
+### Handbook
 
-The fourth section connects back to the first to communicate continuous feedback rather than a one-way funnel.
+Growth Foundations appears at the top as the shared starting point. It includes metrics, experiments, lifecycle models, funnels, growth loops, positioning, and product-market fit.
 
-## Published And Planned Content
+The foundation feeds five growth stages:
 
-- GEO appears under Marketing and Distribution and is marked as published.
-- Growth Metrics appears under Analytics and Optimization and is marked as published.
-- Market research, positioning, and PMF appear as planned under Strategy and Knowledge.
-- Planning, creation, and localization appear as planned under Content Production.
-- SEO, social media, communities, and paid acquisition appear as planned under Marketing and Distribution.
-- Attribution, experiments, and reviews appear as planned under Analytics and Optimization.
+1. Acquisition.
+2. Activation and Conversion.
+3. Retention and Expansion.
+4. Monetization.
+5. Referral and Growth Loops.
 
-Published module links use solid arrows. Planned topics use dashed arrows and include a planned label so the diagram does not imply that those modules are complete.
+GEO appears as published under Acquisition. Growth Metrics appears as published under Growth Foundations. Other topics are marked as planned.
+
+### Case Library
+
+The reference layer contains:
+
+- People and Ideas;
+- Case Studies;
+- optional company index pages when a company has enough cases to justify one.
+
+The public Chinese label is `人物与思想`, not `增长名人堂`. Case studies are stored once and can later be indexed by company, growth stage, business model, channel, and industry.
+
+### Toolkit
+
+The execution layer contains:
+
+- tool directory;
+- Growth Skills index;
+- workflow combinations.
+
+The handbook repository may catalog and explain Skills. Installable Skill implementations remain eligible for a separate repository when their packaging and release lifecycle requires it.
 
 ## README Integration
 
-- Add the diagram after the introductory principles and before the published module list.
-- `README.md` uses English-first labels.
-- `README.zh.md` uses Chinese-first labels.
-- Add one sentence below each diagram explaining that the four areas form a continuous growth loop.
-- Keep the existing published module descriptions and reading links unchanged.
+- Replace the current Mermaid section in `README.md` and `README.zh.md`.
+- English heading: `How the Playbook Fits Together`.
+- Chinese heading: `手册体系如何协同`.
+- Keep published module descriptions and reading links unchanged.
+- Explain below the diagram that only GEO and Growth Metrics are currently published and other entries show the intended structure.
+- Explain the three layers as Handbook, Case Library, and Toolkit.
 
-## Rendering Constraints
+## Scope Boundaries
 
-- Use GitHub-supported Mermaid `flowchart LR` syntax.
-- Use text labels and line styles only; do not depend on custom colors that may fail in dark mode.
-- Keep labels short enough to remain readable on GitHub mobile layouts.
-- Do not use raw HTML or external image assets.
+- Do not create empty directories for planned chapters.
+- Do not move `handbook/geo/` or `handbook/metrics/` in this change.
+- Do not add people, company, case, tool, or Skill content yet.
+- Do not imply that planned modules are already available.
 
 ## Completion Criteria
 
-- Both root README files contain equivalent Mermaid diagrams in their primary language.
-- GEO and Growth Metrics are visibly marked as published.
-- Planned topics are visually distinct from published modules.
-- The loop connects Analytics and Optimization back to Strategy and Knowledge.
+- Both root README files contain equivalent monospaced architecture diagrams.
+- The diagrams render as aligned text in a GitHub-compatible code block.
+- Growth Metrics and GEO are the only entries marked published.
+- Growth Foundations, five growth stages, Case Library, and Toolkit are visible.
+- No Mermaid blocks remain in either root README.
 - Existing local Markdown links still resolve.
