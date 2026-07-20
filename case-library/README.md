@@ -14,7 +14,9 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 ## [Case Studies](cases/README.md)
 
 - [Facebook Early Growth](cases/facebook-early-growth/README.md): how product value, friend connections, activation, retention, data, experimentation, and internationalization became a growth system.
+- [Lovable: Earned Growth and Product Launches](cases/lovable-earned-growth/README.md): how trust, employee participation, product building, and earned distribution reinforce one another before paid scale.
 
 ## [Companies](companies/README.md)
 
 - [Facebook / Meta](companies/facebook/README.md): company index connecting growth stages, cases, people, and primary sources.
+- [Lovable](companies/lovable/README.md): AI product growth, trust, earned distribution, launches, monetization, and related evidence.

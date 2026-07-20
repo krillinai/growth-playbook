@@ -14,7 +14,9 @@
 ## [案例解析](cases/README.zh.md)
 
 - [Facebook 早期增长](cases/facebook-early-growth/README.zh.md)：产品价值、好友连接、激活、留存、数据、实验和国际化如何形成增长系统。
+- [Lovable：自然增长与产品发布](cases/lovable-earned-growth/README.zh.md)：信任、员工参与、产品建设和自然分发如何在付费扩张前彼此加强。
 
 ## [公司](companies/README.zh.md)
 
 - [Facebook / Meta](companies/facebook/README.zh.md)：连接增长阶段、案例、人物和一手资料的公司索引。
+- [Lovable](companies/lovable/README.zh.md)：连接 AI 产品增长、信任、自然分发、产品发布、商业化与相关证据。

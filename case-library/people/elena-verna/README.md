@@ -235,4 +235,6 @@ This approach depends on a product worth demonstrating and an audience that trus
 
 ## Related Playbook Content
 
+- [Lovable: Earned Growth and Product Launches](../../cases/lovable-earned-growth/README.md)
+- [Lovable company page](../../companies/lovable/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)

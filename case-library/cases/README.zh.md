@@ -9,3 +9,4 @@
 | 案例 | 阶段 | 核心问题 | 页面 |
 | --- | --- | --- | --- |
 | Facebook 早期增长 | 早期扩张与规模化消费增长 | Facebook 如何连接产品价值、激活、留存、数据和分发？ | [阅读案例](facebook-early-growth/README.zh.md) |
+| Lovable：自然增长与产品发布 | AI 原生产品增长 | 信任、产品建设和自然分发如何在付费扩张前彼此加强？ | [阅读案例](lovable-earned-growth/README.zh.md) |
