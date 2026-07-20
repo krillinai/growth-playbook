@@ -1,6 +1,6 @@
 # Companies
 
-Company pages connect people, cases, channels, and growth stages associated with the same organization. They are indexes, not claims that one company followed a single unchanging playbook.
+Growth companies organized by their stages, methods, related people, and cases.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 

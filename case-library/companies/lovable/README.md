@@ -1,14 +1,12 @@
 # Lovable
 
-> A company index connecting Lovable's AI product growth, earned distribution, launch practices, monetization questions, people, and cases.
+> Lovable's AI product growth connects trust, earned distribution, product launches, paid acquisition timing, and monetization.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Why This Company Matters
+## Company Overview
 
 Lovable is a useful case for studying growth in AI-native software, where product capability changes quickly and public demonstrations can become distribution. Its growth work raises questions about trust, founder and employee visibility, earned channels, product launches, paid acquisition timing, and usage-based economics.
-
-This page connects company-specific cases and people. It does not treat every general growth principle discussed by a Lovable employee as a verified company practice.
 
 ## Growth Themes
 
@@ -34,6 +32,6 @@ This page connects company-specific cases and people. It does not treat every ge
 ## Editorial Boundaries
 
 - Current evidence is centered on Elena Verna's March 2026 interview and represents her account of Lovable's practices.
-- Reported revenue and growth figures are not used to establish causality.
+- Reported revenue and growth figures do not establish causality.
 - Lovable's methods reflect a specific AI market, product, team, and period; later changes require separate evidence.
 - Inclusion does not endorse every company decision, product claim, or public position.

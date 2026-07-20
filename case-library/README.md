@@ -18,5 +18,5 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 
 ## [Companies](companies/README.md)
 
-- [Facebook / Meta](companies/facebook/README.md): company index connecting growth stages, cases, people, and primary sources.
+- [Facebook / Meta](companies/facebook/README.md): campus expansion, activation, retention, experimentation, internationalization, and multi-product growth.
 - [Lovable](companies/lovable/README.md): AI product growth, trust, earned distribution, launches, monetization, and related evidence.

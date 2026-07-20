@@ -1,14 +1,12 @@
 # Facebook / Meta
 
-> A company index connecting Facebook and Meta growth cases, practitioners, stages, and primary sources.
+> Facebook's growth history spans campus expansion, activation, retention, experimentation, internationalization, and later multi-product operations at Meta.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Why This Company Matters
+## Company Overview
 
 Facebook is one of the most influential examples of product-led consumer growth. Its early teams connected social value, activation behavior, retention cohorts, instrumentation, experimentation, internationalization, and organization-wide metrics into a repeatable operating system.
-
-This page is a navigation layer. Individual case studies evaluate specific periods and problems rather than treating Facebook's entire history as one success story.
 
 ## Growth Stages
 
@@ -34,6 +32,6 @@ This page is a navigation layer. Individual case studies evaluate specific perio
 
 ## Editorial Boundaries
 
-- A company page connects evidence; it does not attribute company-wide outcomes to one person or team.
+- Company-wide outcomes should not be attributed to one person or team.
 - Methods are analyzed in the context of their time. Later Meta products and policies require separate cases.
 - Inclusion does not endorse all company decisions, management practices, or social effects.
