@@ -28,4 +28,5 @@
 - [字节跳动](companies/bytedance/README.zh.md)：增长中台、LTV、投放自动化、素材系统、风控、国际化与激励。
 - [Duolingo](companies/duolingo/README.zh.md)：自然增长、国际化、订阅、实验、留存与游戏化。
 - [Facebook / Meta](companies/facebook/README.zh.md)：校园扩张、激活、留存、实验、国际化与多产品增长。
-- [Lovable](companies/lovable/README.zh.md)：连接 AI 产品增长、信任、自然分发、产品发布、商业化与相关证据。
+- [Ramp](companies/ramp/README.zh.md)：客户节省、B2B UX、产品速度、增长衡量、品牌与 AI 运营。
+- [查看更多](companies/README.zh.md)

@@ -14,3 +14,6 @@ Case studies reconstruct a specific growth problem, the decisions and systems us
 | Duolingo Consumer Subscription Growth | Scaled consumer subscription | How can organic reach, habit, experimentation, retention, and monetization reinforce one another? | [Read case](duolingo-consumer-subscription-growth/README.md) |
 | Facebook Early Growth | Early expansion and scaled consumer growth | How did Facebook connect product value, activation, retention, data, and distribution? | [Read case](facebook-early-growth/README.md) |
 | Lovable: Earned Growth and Product Launches | AI-native product growth | How can trust, product building, and earned distribution reinforce one another before paid scale? | [Read case](lovable-earned-growth/README.md) |
+| Ramp Growth and Measurement | Scaled B2B growth | How can growth engineering, economic metrics, and conclusive experiments support durable growth? | [Read case](ramp-growth-measurement/README.md) |
+| Ramp Product Velocity | B2B product expansion | How can focus, autonomy, writing, and technical teams reduce time to customer impact? | [Read case](ramp-product-velocity/README.md) |
+| Ramp AI Marketing Organization | AI-enabled marketing operations | How can shared agents change workflows while preserving context, judgment, and measurement? | [Read case](ramp-ai-marketing/README.md) |

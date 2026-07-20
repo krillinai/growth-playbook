@@ -28,4 +28,5 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [ByteDance](companies/bytedance/README.md): growth platform, LTV, acquisition automation, creative systems, risk control, globalization, and incentives.
 - [Duolingo](companies/duolingo/README.md): organic growth, internationalization, subscriptions, experimentation, retention, and gamification.
 - [Facebook / Meta](companies/facebook/README.md): campus expansion, activation, retention, experimentation, internationalization, and multi-product growth.
-- [Lovable](companies/lovable/README.md): AI product growth, trust, earned distribution, launches, monetization, and related evidence.
+- [Ramp](companies/ramp/README.md): customer savings, B2B UX, product velocity, growth measurement, brand, and AI operations.
+- [View more](companies/README.md)
