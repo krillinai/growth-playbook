@@ -1,54 +1,30 @@
-# Referral & Growth Loops
+# Referral & Growth Loops: Cross-Company Cases
 
 > Referrals and growth loops turn product value or user activity into additional distribution, content, data, or value. A loop must close and produce retained quality, not only invitations.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
-
-- What valuable output creates the next input?
-- Why would a user share or invite?
-- Does the loop create retained incremental users or only subsidized activity?
-
-## Cross-Company Patterns
-
-Effective systems connect product value, target behavior, measurement horizon, and economic or quality guardrails. Surface tactics differ, but early signals still need validation against durable value.
+For loop models, metrics, and diagnosis, see [Referral & Growth Loops](../../../handbook/referral-and-loops/README.md).
 
 ## Company Evidence
 
-| Company or person | Evidence and approach |
-| --- | --- |
-| Facebook / Meta | Friend connections, invitations, network value, and the distinction between word of mouth and virality. |
-| Duolingo | Shareable progress, recognizable brand, habits, and learning identity. |
-| ByteDance | Referral incentives, K-factor, portfolio cross-promotion, and anti-abuse. |
-| Lovable | Product demonstrations, employees, customers, launches, and earned distribution. |
+| Company | Loop input and motivation | Next value | Boundary |
+| --- | --- | --- | --- |
+| [Facebook / Meta](../../companies/facebook/README.md) | Connections, invitations, network value | More relevant people and social activity | Invitation volume is not the same as retained network value |
+| [Duolingo](../../companies/duolingo/README.md) | Shareable progress, brand, habit, learning identity | Awareness and new learners | Sharing and Streak behavior must remain connected to learning |
+| [ByteDance](../../companies/bytedance/README.md) | Referral rewards, portfolio cross-promotion | New or reactivated users across products | Incentives require incrementality, anti-abuse, and cannibalization controls |
+| [Lovable](../../companies/lovable/README.md) | Product demonstrations, employees, customers, launches | Visible proof that attracts more builders and outputs | Public attention and employee reach may not repeat or transfer |
 
-## Key Metrics
+## Comparison
 
-- Invitation or share rate
-- Recipient conversion and retained quality
-- K-factor with retention adjustment
-- Cycle time and loop completion rate
-- Incrementality, cost, abuse, and cannibalization
+Facebook's loop is structurally networked, Duolingo makes progress and identity shareable, ByteDance can subsidize and coordinate portfolio movement, and Lovable turns visible product output into proof. Only some of these mechanisms are viral; all require a recipient to reach real value before the loop is complete.
 
-## Transferable Method
+## Transfer Questions
 
-1. Draw the complete loop from value event to next value event.
-2. Define participant motivation and recipient value.
-3. Measure retained incremental quality, not sends alone.
-4. Add fraud, fatigue, platform, and trust guardrails.
-
-## What Not to Copy Directly
-
-- Do not force sharing or request unnecessary permissions.
-- Do not copy referral rewards when product value or anti-abuse capacity is weak.
-
-## Related Companies and People
-
-- [Facebook / Meta](../../companies/facebook/README.md)
-- [Duolingo](../../companies/duolingo/README.md)
-- [ByteDance](../../companies/bytedance/README.md)
-- [Lovable](../../companies/lovable/README.md)
+1. What value causes participation without coercion?
+2. What does the recipient receive before being asked to propagate the loop?
+3. Is growth incremental after retention, incentives, fraud, and cannibalization?
+4. Which platform or trust dependency can interrupt the loop?
 
 ## Evidence and Limits
 

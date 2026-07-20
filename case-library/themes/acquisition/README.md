@@ -1,54 +1,37 @@
-# Acquisition
+# Acquisition: Cross-Company Cases
 
 > Acquisition is the system for reaching people or accounts likely to receive durable product value. It includes earned, paid, product-led, partner, and portfolio distribution without treating raw traffic as success.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
+For acquisition models, metrics, incrementality, and diagnosis, see the Handbook chapter [Acquisition](../../../handbook/acquisition/README.md).
 
-- Which audience has a problem the product can solve?
-- Which channel can reach that audience with credible evidence?
-- Does acquired behavior survive after spend or promotion stops?
+## Comparison Map
 
-## Cross-Company Patterns
+| Company | Context | Acquisition mechanism | Quality or validation signal | Transfer boundary |
+| --- | --- | --- | --- | --- |
+| [ByteDance](../../companies/bytedance/README.md) | Multi-product, multi-market consumer scale | Long-horizon LTV, automated delivery, creative systems, localization | Cohort economics across multiple ROI horizons | Requires data volume, automation, creative supply, and risk control |
+| [Facebook / Meta](../../companies/facebook/README.md) | Early network expansion | Campus sequencing, internationalization, removal of expansion barriers | Local network density and retained social use | Network topology and historical campus context are product-specific |
+| [Lovable](../../companies/lovable/README.md) | Fast-moving AI product with strong public interest | Trust, employee participation, launches, customer proof, earned distribution | Product adoption and retained demand beyond launch attention | Founder and employee reach cannot be assumed or manufactured |
+| [Ramp](../../companies/ramp/README.md) | B2B finance with multiple buyers and high trust requirements | Brand, product differentiation, events, content, growth engineering | Qualified pipeline, activation, sales quality, payback | Sales cycles and finance-category trust differ from self-serve products |
 
-Effective systems connect product value, target behavior, measurement horizon, and economic or quality guardrails. Surface tactics differ, but early signals still need validation against durable value.
+## Shared Pattern
 
-## Company Evidence
+All four cases connect distribution to a product-specific quality signal. They differ in how demand is reached: automated paid systems, geographic sequencing, earned social proof, or B2B brand and sales support. None supports treating channel-reported conversions as the final outcome.
 
-| Company or person | Evidence and approach |
-| --- | --- |
-| ByteDance | Long-horizon LTV, automated delivery, creative systems, and localization. |
-| Facebook / Meta | Campus sequencing, internationalization, and removal of expansion barriers. |
-| Lovable | Trust, employee participation, launches, and earned distribution before paid scale. |
-| Ramp | B2B brand, product differentiation, events, and growth engineering. |
+## Material Differences
 
-## Key Metrics
+- ByteDance optimizes a portfolio and paid-delivery system; Lovable emphasizes earned attention and trust.
+- Facebook's expansion depended on local network density; Ramp can create value account by account.
+- Ramp acquisition often passes through buying committees and sales; the consumer cases have shorter paths.
+- Automation is central to ByteDance, while public participation is unusually important to Lovable.
 
-- Qualified reach and visit rate
-- Activation by source and cohort
-- Incremental CAC and payback
-- Retained users or accounts by source
-- Organic, direct, referral, and branded demand
+## Transfer Questions
 
-## Transferable Method
-
-1. Define the audience and retained value before choosing a channel.
-2. Separate incremental acquisition from users who would have arrived anyway.
-3. Connect channel metrics to activation, retention, and economics.
-4. Scale only after quality and payback remain credible.
-
-## What Not to Copy Directly
-
-- Do not equate impressions, clicks, installs, or signups with growth.
-- Do not copy ByteDance-scale automation or Lovable-style social distribution without matching capabilities.
-
-## Related Companies and People
-
-- [ByteDance](../../companies/bytedance/README.md)
-- [Facebook / Meta](../../companies/facebook/README.md)
-- [Lovable](../../companies/lovable/README.md)
-- [Ramp](../../companies/ramp/README.md)
+1. Does the product need market density, individual intent, or organizational consensus before value appears?
+2. Which signal distinguishes qualified demand from cheap response?
+3. Which capability is the actual constraint: trust, creative supply, localization, sales, data, or automation?
+4. How will incrementality, retained quality, and marginal economics be tested?
 
 ## Evidence and Limits
 

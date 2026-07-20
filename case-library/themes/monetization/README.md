@@ -1,54 +1,30 @@
-# Monetization
+# Monetization: Cross-Company Cases
 
 > Monetization defines who pays, for which value, through which model, and with what economics. Revenue is an outcome of value, pricing, usage, retention, and cost.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Core Questions
-
-- Which customer receives enough value to pay?
-- Which pricing metric grows with delivered value?
-- Do acquisition and serving costs support sustainable payback?
-
-## Cross-Company Patterns
-
-Effective systems connect product value, target behavior, measurement horizon, and economic or quality guardrails. Surface tactics differ, but early signals still need validation against durable value.
+For pricing models, unit economics, and diagnosis, see [Monetization](../../../handbook/monetization/README.md).
 
 ## Company Evidence
 
-| Company or person | Evidence and approach |
-| --- | --- |
-| Ramp | Customer savings, payback periods, contribution margin, and aligned business incentives. |
-| Duolingo | Freemium access, subscriptions, conversion, retention, and advertising tradeoffs. |
-| Lovable | AI usage economics, packaging, trust, and annual-subscription questions. |
-| ByteDance | Predictive LTV, multiple ROI horizons, coupons, and portfolio economics. |
+| Company | Value and payer | Model or decision lens | Boundary |
+| --- | --- | --- | --- |
+| [Ramp](../../companies/ramp/README.md) | Businesses pay for finance efficiency and savings | Payback, contribution margin, aligned incentives | Savings claims, B2B sales, and interchange economics are category-specific |
+| [Duolingo](../../companies/duolingo/README.md) | Learners pay for convenience while learning remains broadly accessible | Freemium, subscription, retention, advertising tradeoffs | Habit, mission, and ad boundaries shape packaging |
+| [Lovable](../../companies/lovable/README.md) | Builders pay for AI-assisted software creation | Usage economics, packaging, trust, annual-plan questions | Fast-changing model cost and product capability make long-term assumptions fragile |
+| [ByteDance](../../companies/bytedance/README.md) | Consumer attention and portfolio economics support multiple revenue and acquisition decisions | Predictive LTV, ROI horizons, coupons, portfolio allocation | Scale, data, and portfolio cross-effects limit transfer |
 
-## Key Metrics
+## Comparison
 
-- Free-to-paid and trial conversion
-- Gross and contribution margin
-- Payback period and LTV sensitivity
-- Paid retention, downgrade, and expansion
-- Cost per successful value event
+The cases differ in payer, cost structure, and value cadence. Ramp emphasizes measurable business savings, Duolingo balances access and subscription value, Lovable must price volatile AI delivery, and ByteDance uses predictive economics across a portfolio. Revenue alone cannot establish that any model is healthy.
 
-## Transferable Method
+## Transfer Questions
 
-1. Map payer, user, value event, price metric, and cost driver.
-2. Separate local conversion wins from retained revenue quality.
-3. Model unit economics by cohort and segment.
-4. Test packaging with adoption, trust, and margin guardrails.
-
-## What Not to Copy Directly
-
-- Do not choose freemium, trials, subscriptions, or usage pricing as ideology.
-- Do not use revenue growth alone to prove pricing or acquisition efficiency.
-
-## Related Companies and People
-
-- [Ramp](../../companies/ramp/README.md)
-- [Duolingo](../../companies/duolingo/README.md)
-- [Lovable](../../companies/lovable/README.md)
-- [ByteDance](../../companies/bytedance/README.md)
+1. Who uses, decides, pays, and receives measurable value?
+2. Which cost grows with usage, and which price metric follows value?
+3. How sensitive are payback and LTV to retention, margin, and model assumptions?
+4. Which packaging choice could damage trust or product adoption?
 
 ## Evidence and Limits
 
