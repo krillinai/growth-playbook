@@ -242,3 +242,7 @@ Listing 增长
 - 我们测试了什么？
 - 我们学到了什么？
 - 下一步要做什么？
+
+## 案例对比
+
+参见 Ramp、Facebook / Meta、Airtable 与字节跳动的[指标与衡量：跨公司案例](../../case-library/themes/metrics-and-measurement/README.zh.md)。

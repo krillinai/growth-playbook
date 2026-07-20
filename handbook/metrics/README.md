@@ -242,3 +242,7 @@ Every weekly review should answer:
 - What did we test?
 - What did we learn?
 - What will we do next?
+
+## Case Comparison
+
+See how Ramp, Facebook / Meta, Airtable, and ByteDance apply measurement systems in [Metrics & Measurement: Cross-Company Cases](../../case-library/themes/metrics-and-measurement/README.md).
