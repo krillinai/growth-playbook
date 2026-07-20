@@ -1,8 +1,8 @@
-# Growth Playbook Structure Implementation Plan
+# Growth & Marketing Playbook Structure Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [x]`) syntax for tracking.
 
-**Goal:** Convert the Chinese entry point from a GEO-only guide into a minimal Growth Playbook homepage while preserving the complete GEO guide as the first handbook module.
+**Goal:** Convert the Chinese entry point from a GEO-only guide into a minimal Growth & Marketing Playbook homepage while preserving the complete GEO guide as the first handbook module.
 
 **Architecture:** Keep the repository content-first: add only a handbook index, the existing GEO module, and a roadmap. Preserve all non-Chinese GEO files at their existing paths, move the Chinese guide with Git history intact, and verify its checksum before creating the new root Chinese README.
 
@@ -58,9 +58,9 @@ Expected: the checksum matches the value recorded in Step 1.
 
 Add a concise Chinese module index that identifies GEO as the only published module and links to `geo/README.zh.md`.
 
-- [x] **Step 2: Replace the Chinese root README with the Growth Playbook homepage**
+- [x] **Step 2: Replace the Chinese root README with the Growth & Marketing Playbook homepage**
 
-The homepage must include the Growth Playbook purpose, the four-part growth loop as long-term organization, an available-now section linking to `handbook/geo/README.zh.md`, a note that other modules will be added only as they are written, and links to the roadmap and international GEO translations.
+The homepage must include the Growth & Marketing Playbook purpose, the four-part growth loop as long-term organization, an available-now section linking to `handbook/geo/README.zh.md`, a note that other modules will be added only as they are written, and links to the roadmap and international GEO translations.
 
 - [x] **Step 3: Verify new local links resolve**
 
@@ -127,7 +127,7 @@ Expected: only the planned documentation files and the implementation plan are c
 Run:
 
 ```bash
-git add README.zh.md ROADMAP.md handbook docs/superpowers/plans/2026-07-19-growth-playbook-structure.md
+git add README.zh.md ROADMAP.md handbook docs/superpowers/plans/2026-07-19-growth-marketing-playbook-structure.md
 git commit -m "docs: establish growth playbook structure"
 ```
 

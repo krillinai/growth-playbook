@@ -1,4 +1,4 @@
-# Growth Playbook Structure Design
+# Growth & Marketing Playbook Structure Design
 
 ## Goal
 
@@ -11,7 +11,7 @@ The repository follows a content-first rule: create a directory only when it con
 ## Initial Structure
 
 ```text
-growth-playbook/
+growth-marketing-playbook/
 ├── README.md
 ├── README.zh.md
 ├── handbook/
@@ -27,7 +27,7 @@ growth-playbook/
 ## File Responsibilities
 
 - `README.md` remains the current English GEO guide temporarily so existing international readers and links continue to work.
-- `README.zh.md` becomes the Chinese homepage for the broader Growth Playbook. It explains the scope, shows GEO as the first available module, and links to the migrated guide.
+- `README.zh.md` becomes the Chinese homepage for the broader Growth & Marketing Playbook. It explains the scope, shows GEO as the first available module, and links to the migrated guide.
 - `handbook/README.md` is a short module index. It lists only published modules as available.
 - `handbook/geo/README.zh.md` contains the existing Chinese GEO guide without rewriting its substance during migration.
 - `ROADMAP.md` lists possible future subjects without creating empty section directories or promising a fixed publication order.
@@ -47,7 +47,7 @@ These are roadmap categories, not directories in the initial migration. When eno
 
 The existing Chinese GEO guide moves to `handbook/geo/README.zh.md`. Its headings and content remain intact.
 
-The root Chinese README becomes a concise Growth Playbook entry page. It must clearly distinguish:
+The root Chinese README becomes a concise Growth & Marketing Playbook entry page. It must clearly distinguish:
 
 - available now: the complete GEO guide;
 - planned: other growth topics;
@@ -65,7 +65,7 @@ Other translated GEO files remain at their current root paths in this migration.
 ## Completion Criteria
 
 - The minimal directory structure exists.
-- The Chinese homepage represents the broader Growth Playbook honestly.
+- The Chinese homepage represents the broader Growth & Marketing Playbook honestly.
 - The full Chinese GEO guide is accessible under `handbook/geo/`.
 - The module index marks GEO as the only currently published module.
 - The roadmap describes future directions without empty scaffolding.

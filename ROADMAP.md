@@ -1,6 +1,6 @@
-# Growth Playbook Roadmap
+# Growth & Marketing Playbook Roadmap
 
-Growth Playbook 采用内容优先的方式逐步建设：先完成有实际价值的模块，再为它创建正式目录。本路线图用于表达方向，不承诺发布时间。
+Growth & Marketing Playbook 采用内容优先的方式逐步建设：先完成有实际价值的模块，再为它创建正式目录。本路线图用于表达方向，不承诺发布时间。
 
 ## 当前状态
 

@@ -1,10 +1,10 @@
-# Growth Playbook
+# Growth & Marketing Playbook
 
 > An evolving, practical growth handbook initiated and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
-Growth Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
+Growth & Marketing Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
@@ -42,4 +42,4 @@ These are planned directions, not claims that every module is already complete. 
 
 ## Contributing
 
-Growth Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to published modules.
+Growth & Marketing Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth and marketing topics, practical examples, data, and improvements to published modules.
