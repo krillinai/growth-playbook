@@ -57,11 +57,11 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 | Area | What it covers | Modules and index |
 | --- | --- | --- |
 | **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.md)<br>○ Lifecycle · Funnels · Growth Loops · Experiments · Positioning · PMF |
-| **Acquisition** | How the right audience discovers and reaches the product | ● [GEO Guide](handbook/geo/README.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
+| **Acquisition** | How the right audience discovers and reaches the product | ● [Acquisition](handbook/acquisition/README.md)<br>● [GEO Guide](handbook/geo/README.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
 | **Activation & Conversion** | How new users reach value and take the next meaningful action | ● [Activation](handbook/activation/README.md)<br>○ Onboarding · CRO · Landing Pages · Offers |
-| **Retention & Expansion** | How users stay, return, deepen usage, and expand | ○ Retention · Lifecycle Marketing · Email · Churn Prevention · Community |
-| **Monetization** | How customer value becomes durable, profitable revenue | ○ Pricing · Revenue Models · LTV · Payback · Upsell · Profitable Growth |
-| **Referral & Growth Loops** | How users and product activity create compounding distribution | ○ Referrals · UGC · Virality · Product Loops · Advocacy |
+| **Retention & Expansion** | How users stay, return, deepen usage, and expand | ● [Retention](handbook/retention/README.md)<br>○ Lifecycle Marketing · Email · Churn Prevention · Community |
+| **Monetization** | How customer value becomes durable, profitable revenue | ● [Monetization](handbook/monetization/README.md)<br>○ Pricing · Revenue Models · Upsell · Profitable Growth |
+| **Referral & Growth Loops** | How users and product activity create compounding distribution | ● [Referral & Growth Loops](handbook/referral-and-loops/README.md)<br>○ UGC · Virality · Product Loops · Advocacy |
 
 ## Case Library
 

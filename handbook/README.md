@@ -18,6 +18,22 @@ A framework for North Star Metrics, business and funnel metrics, guardrails, and
 
 A framework for defining first value, building an activation metric tree, diagnosing friction, and validating activation against retention.
 
+### [Acquisition](acquisition/README.md)
+
+Audience, channel mechanisms, incrementality, acquisition quality, and sustainable economics.
+
+### [Retention](retention/README.md)
+
+Recurring value, cohort retention, growth accounting, resurrection, and retention diagnosis.
+
+### [Monetization](monetization/README.md)
+
+Payers, value metrics, packaging, unit economics, retained revenue, and payback.
+
+### [Referral & Growth Loops](referral-and-loops/README.md)
+
+Loop mechanics, recipient value, retention-adjusted propagation, incrementality, and guardrails.
+
 ## Roadmap
 
 Future directions are listed in the repository [Roadmap](../ROADMAP.md). A planned topic does not imply a fixed release date or final directory structure.
