@@ -2,7 +2,7 @@
 
 ## Goal
 
-Replace the Mermaid diagram in both root README files with a monospaced text diagram modeled on the user's reference. The diagram explains the long-term information architecture of Growth & Marketing Playbook without creating empty directories.
+Replace the Mermaid diagram in both root README files with a monospaced text diagram modeled on the user's reference. The diagram explains the long-term information architecture of Growth Playbook without creating empty directories.
 
 ## Presentation
 

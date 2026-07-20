@@ -2,7 +2,7 @@
 
 ## Goal
 
-Publish the existing Chinese metrics document as the second complete module in Growth & Marketing Playbook. Serve both human practitioners and AI agents without mixing explanatory content with execution rules.
+Publish the existing Chinese metrics document as the second complete module in Growth Playbook. Serve both human practitioners and AI agents without mixing explanatory content with execution rules.
 
 ## Structure
 
