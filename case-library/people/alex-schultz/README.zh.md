@@ -185,6 +185,26 @@ Alex 对获客工作的排序是：先渠道，再定向，然后创意，最后
 - 聚焦留存；
 - 为公司增长选择一个关键指标。
 
+### 13. 把国际化视为拆除增长障碍
+
+Alex 在 2014 年 YC 演讲中表示，Facebook 的国际化做得太晚。当产品仍聚焦美国时，各地本土社交网络获得了成长空间。他把本地化理解为：拆除已经具备价值的产品与尚无法用自己语言获得这种价值的用户之间的障碍。
+
+更广泛的方法，是识别语言、地域、支付、设备或网络连接等采用障碍，并按优先级逐一拆除。翻译本身不是增长战略；它放大的是已经具备留存和 PMF 的产品。
+
+### 14. 把病毒传播作为机制分析，而不是一个标签
+
+Alex 将传播循环拆成三个变量：
+
+```text
+传播效果 = 触达规模 × 频率 × 转化率
+```
+
+- **触达规模：**每次行为能影响多少人；
+- **频率：**这个机制会被触发多少次；
+- **转化率：**接收者中有多少成为用户。
+
+Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Facebook 的口碑，依靠的是不同机制。因此，与其笼统地称产品“具有病毒性”，不如明确谁在传递信息、信息出现在哪里、重复多少次，以及接收者为什么转化。重复曝光还可能降低转化，因此频率并非越高越好。
+
 ## 增长系统总结
 
 | 层级 | Alex 的方法 | 运营含义 |
@@ -198,6 +218,8 @@ Alex 对获客工作的排序是：先渠道，再定向，然后创意，最后
 | 获客 | 渠道 → 定向 → 创意 → 转化 | 先修正上游匹配，再优化下游细节 |
 | 触达 | 为边缘用户而不只是重度用户设计 | 围绕有意义的价值事件发送信息 |
 | 组织 | 早期全公司负责增长，成熟后专业分工 | 不要在产品和公司准备好之前外包增长责任 |
+| 扩张 | 国际化用于拆除采用障碍 | 验证价值后再本地化，并确定市场与约束的优先级 |
+| 传播 | 触达规模 × 频率 × 转化率 | 诊断真实传播机制与重复曝光疲劳 |
 
 ## 演讲索引
 
@@ -229,6 +251,32 @@ Alex 对获客工作的排序是：先渠道，再定向，然后创意，最后
 | [45:40](https://www.youtube.com/watch?v=URiIsrdplbo&t=2740s) | eBay 注册指标与激活指标案例 |
 | [47:25](https://www.youtube.com/watch?v=URiIsrdplbo&t=2845s) | 快速行动、聚焦留存与选择一个指标 |
 
+### Lecture 6: Growth
+
+- 演讲者：Alex Schultz
+- 课程：Y Combinator《How to Start a Startup》
+- 上传者：YC Root Access
+- 上传日期：2014-10-09
+- 时长：47:27
+- 视频：[YouTube](https://www.youtube.com/watch?v=n_yHZ_vKjno)
+
+| 时间 | 主题 |
+| --- | --- |
+| [00:38](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=38s) | 早期 SEO、AdWords、联盟营销与 Alex 进入增长领域的路径 |
+| [02:22](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=142s) | 为什么优秀产品和用户留存必须优先 |
+| [03:28](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=208s) | 阅读留存曲线并寻找稳定平台期 |
+| [05:58](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=358s) | PMF 之前不要套用增长技巧 |
+| [09:53](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=593s) | 留存是最重要的增长变量 |
+| [12:38](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=758s) | 选择适合业务的北极星指标 |
+| [17:02](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1022s) | Magic Moment 与 Facebook 的激活行为 |
+| [19:57](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1197s) | 为边缘用户而不是自己设计产品 |
+| [21:15](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1275s) | 连接北极星指标、Magic Moment 与边缘用户 |
+| [23:36](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1416s) | 把国际化视为拆除增长障碍 |
+| [27:57](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1677s) | 用触达规模、频率和转化率分析传播 |
+| [29:34](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1774s) | Hotmail 的内嵌分发循环 |
+| [31:23](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1883s) | PayPal 的交易市场与激励传播循环 |
+| [32:17](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1937s) | 为什么 Facebook 主要依靠口碑增长 |
+
 ## 如何应用
 
 1. 按获客 Cohort 和产品自然使用周期绘制留存曲线；
@@ -241,11 +289,13 @@ Alex 对获客工作的排序是：先渠道，再定向，然后创意，最后
 8. 按固定周期运行“理解 → 识别 → 执行”流程；
 9. 按渠道、定向、创意和转化的顺序评估获客；
 10. 为每个增长指标搭配质量、信任和用户体验护栏。
+11. 进入新市场前，梳理语言、地域、支付、设备和网络连接障碍；
+12. 用触达规模、频率、转化率和重复曝光疲劳建模每个分发循环。
 
 ## 局限与注意事项
 
 - Meta Leadership 是公司官方来源，会从 Meta 的角度描述 Alex 的贡献；
-- 2017 年演讲反映的是当时 Facebook 的实践和 Alex 的职位，此后他的职责已大幅扩展；
+- 2014 年与 2017 年演讲反映的是当时 Facebook 的实践和 Alex 的职位，此后他的职责已大幅扩展；
 - 月活跃用户不是所有产品的正确北极星指标，衡量周期应匹配产品自然价值周期；
 - 早期行为与留存的相关性不能证明因果，产品改动仍需要对照实验；
 - “14 天内 10 位好友”是从平滑曲线上选出的运营目标，不是通用阈值；
@@ -256,6 +306,7 @@ Alex 对获客工作的排序是：先渠道，再定向，然后创意，最后
 
 1. [Alex Schultz, Chief Data Officer - Meta](https://www.meta.com/about/leadership/alex-schultz/)：当前职位、Meta 任职经历、过往领导岗位、组织职责、产品增长贡献、教育和著作。访问于 2026-07-20。
 2. [How to Get Users and Grow - Stanford CS183F: Startup School](https://www.youtube.com/watch?v=URiIsrdplbo)：留存、增长会计、Magic Moment、指标、数据、实验和获客方法的一手演讲。访问于 2026-07-20。
+3. [Lecture 6: Growth - Y Combinator's How to Start a Startup](https://www.youtube.com/watch?v=n_yHZ_vKjno)：关于留存、北极星指标、Magic Moment、边缘用户、国际化和传播机制的一手演讲。访问于 2026-07-20。
 
 ## 相关手册内容
 

@@ -183,6 +183,26 @@ Data and A/B tests allow teams to make decisions with evidence before they have 
 - focus on retention;
 - choose one key metric for company growth.
 
+### 13. Treat Internationalization as Removing a Growth Barrier
+
+In the 2014 YC lecture, Alex says Facebook internationalized too late, leaving room for local social networks to grow while the product remained focused on the United States. He frames localization as removing a barrier between an already valuable product and users who cannot yet access that value in their own language.
+
+The broader lesson is to identify structural constraints on adoption, such as language, geography, payments, devices, or connectivity, and remove them in priority order. Translation alone is not a growth strategy; it amplifies a product that already has retention and Product-Market Fit.
+
+### 14. Analyze Virality as a Mechanism, Not a Label
+
+Alex breaks a viral loop into three variables:
+
+```text
+Viral impact = Payload x Frequency x Conversion Rate
+```
+
+- **Payload:** how many people each action reaches;
+- **Frequency:** how often the mechanism is triggered;
+- **Conversion rate:** how many recipients become users.
+
+Hotmail's email signature, PayPal's marketplace and referral incentives, and Facebook's word of mouth grew through different mechanisms. Calling a product "viral" is therefore less useful than identifying who carries the message, where it appears, how often it repeats, and why the recipient converts. Repeated exposure can also reduce conversion, so frequency is not unconditionally beneficial.
+
 ## Growth System Summary
 
 | Layer | Alex's approach | Operating implication |
@@ -196,6 +216,8 @@ Data and A/B tests allow teams to make decisions with evidence before they have 
 | Acquisition | Channel -> Targeting -> Creative -> Conversion | Fix upstream fit before optimizing downstream details |
 | Messaging | Design for marginal users, not only power users | Trigger communication around meaningful value events |
 | Organization | Whole-company growth early; specialized team later | Avoid delegating growth before the product and company are ready |
+| Expansion | Internationalization removes access barriers | Localize after validating value, then prioritize markets and constraints |
+| Virality | Payload x Frequency x Conversion Rate | Diagnose the actual transmission mechanism and exposure fatigue |
 
 ## Talk Index
 
@@ -227,6 +249,32 @@ Data and A/B tests allow teams to make decisions with evidence before they have 
 | [45:40](https://www.youtube.com/watch?v=URiIsrdplbo&t=2740s) | eBay registration versus activation metrics |
 | [47:25](https://www.youtube.com/watch?v=URiIsrdplbo&t=2845s) | Move fast, focus on retention, and choose one metric |
 
+### Lecture 6: Growth
+
+- Speaker: Alex Schultz
+- Course: Y Combinator's *How to Start a Startup*
+- Uploaded by: YC Root Access
+- Upload date: 2014-10-09
+- Duration: 47:27
+- Video: [YouTube](https://www.youtube.com/watch?v=n_yHZ_vKjno)
+
+| Time | Topic |
+| --- | --- |
+| [00:38](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=38s) | Early SEO, AdWords, affiliate marketing, and Alex's path into growth |
+| [02:22](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=142s) | Why a great product and retained customers come first |
+| [03:28](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=208s) | Reading a retention curve and looking for a stable plateau |
+| [05:58](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=358s) | Do not apply growth tactics before Product-Market Fit |
+| [09:53](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=593s) | Retention as the most important growth variable |
+| [12:38](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=758s) | Choosing a North Star appropriate to the business |
+| [17:02](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1022s) | Magic Moments and Facebook's activation behavior |
+| [19:57](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1197s) | Designing for the marginal user rather than yourself |
+| [21:15](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1275s) | Connecting the North Star, Magic Moment, and marginal user |
+| [23:36](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1416s) | Internationalization as removing a growth barrier |
+| [27:57](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1677s) | Analyzing virality through payload, frequency, and conversion |
+| [29:34](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1774s) | Hotmail's embedded distribution loop |
+| [31:23](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1883s) | PayPal's marketplace and incentive-driven loops |
+| [32:17](https://www.youtube.com/watch?v=n_yHZ_vKjno&t=1937s) | Why Facebook primarily grew through word of mouth |
+
 ## How to Apply the Method
 
 1. Plot retention by acquisition cohort and the product's natural usage interval.
@@ -239,11 +287,13 @@ Data and A/B tests allow teams to make decisions with evidence before they have 
 8. Run the Understand -> Identify -> Execute cycle on a fixed cadence.
 9. Evaluate acquisition in the order of channel, targeting, creative, and conversion.
 10. Pair every growth metric with quality, trust, and user-experience guardrails.
+11. Map language, geography, payment, device, and connectivity barriers before expanding into a market.
+12. Model each distribution loop through payload, frequency, conversion, and exposure fatigue.
 
 ## Limitations and Caveats
 
 - The Meta leadership biography is an official company source and naturally presents Alex's contributions from Meta's perspective.
-- The 2017 lecture reflects Facebook's practices and Alex's role at that time; his responsibilities expanded substantially afterward.
+- The 2014 and 2017 lectures reflect Facebook's practices and Alex's role at those times; his responsibilities expanded substantially afterward.
 - Monthly active users are not the correct North Star for every product. Usage frequency should match the product's natural value cycle.
 - Correlation between an early behavior and retention does not prove causation. Product interventions still require controlled testing.
 - "Ten friends in 14 days" is an operational target selected from a smooth curve, not a universal threshold.
@@ -254,6 +304,7 @@ Data and A/B tests allow teams to make decisions with evidence before they have 
 
 1. [Alex Schultz, Chief Data Officer - Meta](https://www.meta.com/about/leadership/alex-schultz/): current role, Meta tenure, prior leadership roles, organizational scope, product growth contributions, education, and book. Accessed 2026-07-20.
 2. [How to Get Users and Grow - Stanford CS183F: Startup School](https://www.youtube.com/watch?v=URiIsrdplbo): primary-source lecture on retention, growth accounting, Magic Moments, metrics, data, experimentation, and acquisition. Accessed 2026-07-20.
+3. [Lecture 6: Growth - Y Combinator's How to Start a Startup](https://www.youtube.com/watch?v=n_yHZ_vKjno): primary-source lecture on retention, North Star Metrics, Magic Moments, marginal users, internationalization, and viral mechanisms. Accessed 2026-07-20.
 
 ## Related Playbook Content
 
