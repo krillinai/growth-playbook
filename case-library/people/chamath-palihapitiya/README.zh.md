@@ -2,6 +2,8 @@
 
 > Facebook 前增长负责人，Social Capital 创始人。其增长方法强调核心产品价值、快速到达 Aha Moment、基于行为数据寻找关键指标，以及用组织纪律保护长期用户价值。
 
+**[English](README.md)｜[简体中文](README.zh.md)**
+
 ## 人物速览
 
 | 项目 | 信息 |

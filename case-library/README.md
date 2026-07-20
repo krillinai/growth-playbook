@@ -1,7 +1,9 @@
-# Case Library · 案例资料库
+# Case Library
 
-案例资料库用于沉淀增长人物、思想、公司和具体案例。内容优先引用当事人的演讲、访谈、文章和公司原始资料，并明确区分事实、当事人观点与编辑分析。
+The Case Library collects growth practitioners, ideas, companies, and concrete cases. It prioritizes primary sources such as talks, interviews, articles, and company materials, and clearly separates verified facts, a subject's own claims, and editorial analysis.
 
-## 人物与思想
+**[English](README.md)｜[简体中文](README.zh.md)**
 
-- [Chamath Palihapitiya](people/chamath-palihapitiya/README.zh.md)：Facebook 前增长负责人，围绕核心产品价值、Aha Moment、关键行为指标和增长团队建设的方法。
+## People & Ideas
+
+- [Chamath Palihapitiya](people/chamath-palihapitiya/README.md): Former Facebook growth leader whose methods focus on core product value, Aha Moments, key behavior metrics, and growth team design.

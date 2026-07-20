@@ -1,9 +1,11 @@
-# 人物与思想
+# People & Ideas
 
-这里记录增长领域实践者的经历、方法、代表内容和适用边界。人物入选不代表对其全部商业活动或公共观点的背书。
+This section documents growth practitioners, their experience, methods, representative work, and the limits of their ideas. Inclusion does not endorse all of a person's business activities or public positions.
 
-## 人物索引
+**[English](README.md)｜[简体中文](README.zh.md)**
 
-| 人物 | 代表经历 | 主要主题 | 页面 |
+## People Index
+
+| Person | Representative experience | Main themes | Page |
 | --- | --- | --- | --- |
-| Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [中文](chamath-palihapitiya/README.zh.md) |
+| Chamath Palihapitiya | Former Facebook VP of User Growth; founder of Social Capital | Core product value, Aha Moments, key behavior metrics, growth organization | [English](chamath-palihapitiya/README.md) · [中文](chamath-palihapitiya/README.zh.md) |
