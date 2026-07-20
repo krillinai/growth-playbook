@@ -14,3 +14,4 @@ Growth companies organized by their stages, methods, related people, and cases.
 | Facebook / Meta | Social products, early user growth, activation, retention, internationalization, and experimentation | Core value, activation, retention, data, organization, and expansion | [Company page](facebook/README.md) |
 | Lovable | AI product growth, trust, earned distribution, launches, and monetization | Trust, earned distribution, launches, AI monetization, and PMF | [Company page](lovable/README.md) |
 | Ramp | Customer savings, B2B UX, product velocity, growth measurement, brand, and AI operations | Measurement, product velocity, and AI-agent marketing operations | [Company page](ramp/README.md) |
+| Uber | Marketplace liquidity, driver supply, rider demand, incentives, local operations, and network effects | Supply growth, atomic networks, liquidity metrics, and incentive boundaries | [Company page](uber/README.md) |

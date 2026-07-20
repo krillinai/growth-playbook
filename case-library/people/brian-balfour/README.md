@@ -129,6 +129,7 @@ AI products can also produce rapid initial use with weak durable retention. Team
 
 ## Related Handbook and Cases
 
+- [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Retention](../../../handbook/retention/README.md)

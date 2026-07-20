@@ -14,6 +14,7 @@
 | [Facebook / Meta](../../companies/facebook/README.zh.md) | 早期社交网络扩张 | 校园顺序、国际化、移除扩张障碍 | 本地网络密度与留存社交使用；历史环境特殊 |
 | [Lovable](../../companies/lovable/README.zh.md) | 受到公开关注的快速 AI 产品 | 信任、员工参与、发布、客户证明与自然分发 | 发布后持续采用；创始人与员工影响力不可假定 |
 | [Ramp](../../companies/ramp/README.zh.md) | 高信任、多决策者的 B2B 金融 | 品牌、产品差异、活动、内容与增长工程 | 合格 Pipeline、激活与回本；销售周期限制迁移 |
+| [Uber](../../companies/uber/README.zh.md) | 本地双边 Marketplace | 司机供给、乘客需求、激励与城市运营 | 流动性、成功行程、跨边留存与经济性；劳动、监管、资本和地理限制迁移 |
 
 ## 共性与差异
 
@@ -25,6 +26,12 @@
 2. 哪个信号能区分合格需求与廉价响应？
 3. 真正约束是信任、素材、本地化、销售、数据还是自动化？
 4. 如何验证增量、留存质量与边际经济性？
+
+## 相关人物
+
+- [Andrew Chen](../../people/andrew-chen/README.zh.md)：Hard Side 供给、Atomic Network 与 Marketplace 密度。
+- [Brian Balfour](../../people/brian-balfour/README.zh.md)：Product-Channel Fit、渠道模式约束与增长模型。
+
 
 ## 证据与局限
 

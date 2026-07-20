@@ -14,6 +14,7 @@ For acquisition models, metrics, incrementality, and diagnosis, see the Handbook
 | [Facebook / Meta](../../companies/facebook/README.md) | Early network expansion | Campus sequencing, internationalization, removal of expansion barriers | Local network density and retained social use | Network topology and historical campus context are product-specific |
 | [Lovable](../../companies/lovable/README.md) | Fast-moving AI product with strong public interest | Trust, employee participation, launches, customer proof, earned distribution | Product adoption and retained demand beyond launch attention | Founder and employee reach cannot be assumed or manufactured |
 | [Ramp](../../companies/ramp/README.md) | B2B finance with multiple buyers and high trust requirements | Brand, product differentiation, events, content, growth engineering | Qualified pipeline, activation, sales quality, payback | Sales cycles and finance-category trust differ from self-serve products |
+| [Uber](../../companies/uber/README.md) | Local two-sided marketplace | Driver supply, rider demand, incentives, and city operations | Liquidity, successful trips, cross-side retention, and economics | Labor, regulation, capital intensity, and geography constrain transfer |
 
 ## Shared Pattern
 
@@ -32,6 +33,12 @@ All four cases connect distribution to a product-specific quality signal. They d
 2. Which signal distinguishes qualified demand from cheap response?
 3. Which capability is the actual constraint: trust, creative supply, localization, sales, data, or automation?
 4. How will incrementality, retained quality, and marginal economics be tested?
+
+## Related People
+
+- [Andrew Chen](../../people/andrew-chen/README.md): hard-side supply, atomic networks, and marketplace density.
+- [Brian Balfour](../../people/brian-balfour/README.md): Product-Channel Fit, channel-model constraints, and growth models.
+
 
 ## Evidence and Limits
 

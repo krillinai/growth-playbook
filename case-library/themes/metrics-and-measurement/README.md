@@ -14,12 +14,19 @@ For metric hierarchy, formulas, guardrails, and review cadence, see [Growth Metr
 | [Facebook / Meta](../../companies/facebook/README.md) | Retention, growth accounting, Magic Moments, and data-debt reduction. |
 | [Airtable](../../companies/airtable/README.md) | Activation definitions, week-four collaboration, and experiment guardrails. |
 | [ByteDance](../../companies/bytedance/README.md) | Predictive LTV, multiple ROI horizons, attribution, and portfolio incrementality. |
+| [Uber](../../companies/uber/README.md) | Local supply, liquidity, fulfillment, cross-side retention, incentives, and marketplace economics. |
 
 ## Comparison and Transfer
 
 Ramp connects measurement to B2B economics; Facebook emphasizes retained social value and data quality; Airtable validates early workflow signals against collaboration; ByteDance uses predictive economics across channels and products. They differ in decision horizon, unit of analysis, and dependence on modeled outcomes.
 
 Before transfer, define the customer-value event, observed versus predicted measures, cohort horizon, required segments, decision owner, and guardrails.
+
+## Related People
+
+- [Andrew Chen](../../people/andrew-chen/README.md): atomic-network density, liquidity, and marketplace metrics.
+- [Brian Balfour](../../people/brian-balfour/README.md): growth models linking product, channel, retention, loops, and economics.
+
 
 ## Evidence and Limits
 

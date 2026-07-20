@@ -14,12 +14,19 @@
 | [Facebook / Meta](../../companies/facebook/README.zh.md) | 留存、增长会计、Magic Moment 与数据债务治理。 |
 | [Airtable](../../companies/airtable/README.zh.md) | 激活定义、第四周协作与实验护栏。 |
 | [字节跳动](../../companies/bytedance/README.zh.md) | 预测 LTV、多周期 ROI、归因与产品矩阵增量。 |
+| [Uber](../../companies/uber/README.zh.md) | 本地供给、流动性、履约、跨边留存、激励与 Marketplace 经济性。 |
 
 ## 对比与迁移
 
 Ramp 把衡量连接到 B2B 经济性；Facebook 强调留存社交价值与数据质量；Airtable 用后续协作验证早期工作流信号；字节跳动跨渠道和产品使用预测经济性。它们在决策周期、分析单位和模型依赖上不同。
 
 迁移前需要明确客户价值事件、观察与预测指标边界、Cohort 周期、必要分群、决策负责人和护栏。
+
+## 相关人物
+
+- [Andrew Chen](../../people/andrew-chen/README.zh.md)：Atomic Network 密度、流动性与 Marketplace 指标。
+- [Brian Balfour](../../people/brian-balfour/README.zh.md)：连接产品、渠道、留存、循环与经济性的增长模型。
+
 
 ## 证据与局限
 

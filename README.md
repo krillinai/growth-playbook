@@ -17,7 +17,7 @@ Status: `●` available · `○` planned
                                   |        GROWTH FOUNDATIONS        |
                                   |  ● Growth Metrics                |
                                   |  ○ Lifecycle / Funnel / Loops    |
-                                  |  ○ Experiments / PMF / Position  |
+                                  |  ● Experiments / PMF             |
                                   +----------------+-----------------+
                                                    |
           +--------------------+--------------------+--------------------+--------------------+
@@ -27,8 +27,8 @@ Status: `●` available · `○` planned
 | ACQUISITION      | | ACTIVATION &     | | RETENTION &      | | MONETIZATION     | | REFERRAL &       |
 |                  | | CONVERSION       | | EXPANSION        | |                  | | GROWTH LOOPS     |
 +------------------+ +------------------+ +------------------+ +------------------+ +------------------+
-| ● GEO            | | ● Activation     | | ○ Retention      | | ○ Pricing        | | ○ Referrals      |
-| ○ SEO            | | ○ Onboarding     | | ○ Lifecycle      | | ○ Revenue        | | ○ UGC            |
+| ● Acquisition    | | ● Activation     | | ● Retention      | | ● Monetization   | | ● Referrals      |
+| ● GEO            | | ○ Onboarding     | | ○ Lifecycle      | | ○ Pricing        | | ● Growth Loops   |
 | ○ Content        | | ○ Landing        | | ○ Email          | | ○ LTV / Payback  | | ○ Virality       |
 | ○ Social         | | ○ Offer          | | ○ Churn          | | ○ Upsell         | | ○ Product Loops  |
 | ○ Paid           | | ○ TTV            | | ○ Community      | | ○ Profit         | | ○ Advocacy       |
@@ -56,7 +56,7 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 
 | Area | What it covers | Modules and index |
 | --- | --- | --- |
-| **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.md)<br>○ Lifecycle · Funnels · Growth Loops · Experiments · Positioning · PMF |
+| **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.md)<br>● [Product-Market Fit](handbook/product-market-fit/README.md)<br>○ Lifecycle · Funnels · Positioning |
 | **Acquisition** | How the right audience discovers and reaches the product | ● [Acquisition](handbook/acquisition/README.md)<br>● [GEO Guide](handbook/geo/README.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
 | **Activation & Conversion** | How new users reach value and take the next meaningful action | ● [Activation](handbook/activation/README.md)<br>○ Onboarding · CRO · Landing Pages · Offers |
 | **Retention & Expansion** | How users stay, return, deepen usage, and expand | ● [Retention](handbook/retention/README.md)<br>○ Lifecycle Marketing · Email · Churn Prevention · Community |

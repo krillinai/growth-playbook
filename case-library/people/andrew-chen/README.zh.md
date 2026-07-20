@@ -108,6 +108,7 @@ Marketplace 指标需要把交易规模连接到成功匹配、重复行为、Ta
 
 ## 相关手册与案例
 
+- [Uber](../../companies/uber/README.zh.md)
 - [获客](../../../handbook/acquisition/README.zh.md)
 - [留存](../../../handbook/retention/README.zh.md)
 - [商业化](../../../handbook/monetization/README.zh.md)

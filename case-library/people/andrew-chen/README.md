@@ -108,6 +108,7 @@ This does not mean stopping growth work. It means distinguishing durable mechani
 
 ## Related Handbook and Cases
 
+- [Uber](../../companies/uber/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Retention](../../../handbook/retention/README.md)
 - [Monetization](../../../handbook/monetization/README.md)

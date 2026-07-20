@@ -14,10 +14,17 @@
 | [Duolingo](../../companies/duolingo/README.zh.md) | 可分享进度、品牌、习惯、学习身份 | 认知与新学习者 | 分享和 Streak 必须连接学习价值 |
 | [字节跳动](../../companies/bytedance/README.zh.md) | 推荐奖励、产品互导 | 产品间新增或召回用户 | 需要增量、反作弊与蚕食控制 |
 | [Lovable](../../companies/lovable/README.zh.md) | 产品演示、员工、客户与发布 | 可见证明吸引更多构建者与成果 | 公开关注和员工影响力未必重复 |
+| [Uber](../../companies/uber/README.zh.md) | 本地供给可用性与乘客需求 | 更好流动性可以强化跨边参与 | 质量、经济性、监管与 Multi-homing 会削弱循环 |
 
 ## 对比与迁移
 
 Facebook 的循环依赖网络，Duolingo 让进度和身份可分享，字节跳动使用激励与产品矩阵，Lovable 把产品成果变成证明。只有接收者真正获得价值，循环才闭合。迁移前应确认参与动机、接收者价值、留存后的增量，以及欺诈、蚕食、平台和信任依赖。
+
+## 相关人物
+
+- [Andrew Chen](../../people/andrew-chen/README.zh.md)：Atomic Network、Hard Side、网络效应阶段与 Marketplace 循环。
+- [Brian Balfour](../../people/brian-balfour/README.zh.md)：把循环作为运作模型，把漏斗作为步骤诊断。
+
 
 ## 证据与局限
 

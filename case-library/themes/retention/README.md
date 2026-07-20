@@ -25,6 +25,11 @@ Duolingo reinforces an individual habit, Facebook compounds network value, and A
 3. Does collaboration deepen value or merely add activity?
 4. Are resurrection and continuous retention reported separately?
 
+## Related People
+
+- [Brian Balfour](../../people/brian-balfour/README.md): cohort retention as the foundation of growth models and continuing PMF.
+
+
 ## Evidence and Limits
 
 - Company evidence relies mainly on participant interviews and public material, not complete internal causal evaluation.

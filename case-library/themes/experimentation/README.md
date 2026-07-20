@@ -22,6 +22,11 @@ Ramp treats experiments as a bet portfolio and values conclusive failure; Duolin
 
 Transfer decision discipline, not experiment volume. Check power, instrumentation, product risk, implementation ownership, and whether the tested surface can materially change the outcome.
 
+## Related People
+
+- [Brian Balfour](../../people/brian-balfour/README.md): hypothesis-driven viral experiments, growth machines, and learning systems.
+
+
 ## Evidence and Limits
 
 - Evidence relies mainly on participant interviews and public material, not complete internal causal evaluation.

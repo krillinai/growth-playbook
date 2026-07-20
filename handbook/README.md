@@ -14,6 +14,10 @@ A guide to AI search mechanics, content optimization, brand authority, technical
 
 A framework for North Star Metrics, business and funnel metrics, guardrails, and weekly growth reviews.
 
+### [Product-Market Fit](product-market-fit/README.md)
+
+Segment-specific value, retention, Four Fits, evidence conflicts, and repeated revalidation.
+
 ### [Activation](activation/README.md)
 
 A framework for defining first value, building an activation metric tree, diagnosing friction, and validating activation against retention.

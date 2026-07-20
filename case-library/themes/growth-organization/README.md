@@ -21,6 +21,11 @@ Ramp emphasizes focused autonomy and complementary talent; ByteDance combines a 
 
 Before transfer, identify the current constraint, accountable outcome, required functions, decision rights, shared capabilities, dependency cost, and sustainability guardrails.
 
+## Related People
+
+- [Brian Balfour](../../people/brian-balfour/README.md): multi-dimensional growth expertise, constraint ownership, and the growth machine.
+
+
 ## Evidence and Limits
 
 - Evidence relies mainly on participant interviews and public material, not complete internal causal evaluation.
