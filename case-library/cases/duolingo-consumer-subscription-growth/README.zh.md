@@ -76,6 +76,14 @@ Cheng 把游戏化分为核心循环、长期 Meta Game 和用户 Profile 或身
 
 护栏是学习价值。如果用户只优化积分却避开有意义的练习，参与度上升也没有完成产品任务。
 
+## 7. 把 Streak 设计成留存系统
+
+Jackson Shuttleworth 的叙述表明，Duolingo 的 Streak 不只是连续天数计数器。它组合清晰的每日状态、即时反馈、里程碑、情境化提醒、通过 Streak Freeze 提供的恢复机会，以及不断回到学习行为的循环。
+
+这套系统也说明习惯机制为什么需要护栏。恢复应该保护长期投入，但不能让每日练习失去意义；通知应该促进回访，但不能造成疲劳；商业化也不应该利用用户对失去累计进度的恐惧。
+
+Shuttleworth 讨论了超过 600 次 Streak 相关实验。这是参与者报告的迭代深度，不能证明实验数量或 Streak 单独造成了公司增长。
+
 ## 可以迁移的方法
 
 1. 把订阅增长拆成获客、激活、转化、留存和收入质量。
@@ -85,6 +93,7 @@ Cheng 把游戏化分为核心循环、长期 Meta Game 和用户 Profile 或身
 5. 分开报告留存、召回和流失用户。
 6. 把每项游戏化机制映射到创造真实价值的行为。
 7. 为学习质量、信任、通知疲劳和取消设置护栏。
+8. 保持 Streak 规则清晰，提供有限恢复，并验证被计数行为能否预测持续价值。
 
 ## 不应该直接复制的部分
 
@@ -104,6 +113,7 @@ Cheng 把游戏化分为核心循环、长期 Meta Game 和用户 Profile 或身
 
 - [Gina Gotthilf：订阅增长、自然品牌与国际化](https://www.youtube.com/watch?v=sWClFYdbkRA)
 - [Gina Gotthilf：早期国际化范围、通知实验与增长领导职责](https://www.youtube.com/watch?v=RS1eZibxq9k)
+- [Jackson Shuttleworth：Duolingo Streak、留存机制、通知与实验](https://www.youtube.com/watch?v=_CCwoQZH5hI)
 - [Albert Cheng：Explore-Exploit、留存、实验与游戏化](https://www.youtube.com/watch?v=2BKmNmnEj9w)
 
 ## 相关内容
@@ -111,3 +121,4 @@ Cheng 把游戏化分为核心循环、长期 Meta Game 和用户 Profile 或身
 - [Duolingo 公司页](../../companies/duolingo/README.zh.md)
 - [Gina Gotthilf](../../people/gina-gotthilf/README.zh.md)
 - [Albert Cheng](../../people/albert-cheng/README.zh.md)
+- [Jackson Shuttleworth](../../people/jackson-shuttleworth/README.zh.md)

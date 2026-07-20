@@ -39,6 +39,7 @@ Accessible learning value
 | --- | --- | --- |
 | Gina Gotthilf | Organic growth, brand, internationalization, consumer subscriptions | [Profile](../../people/gina-gotthilf/README.md) |
 | Albert Cheng | Explore-exploit, monetization, retention, experiments, gamification | [Profile](../../people/albert-cheng/README.md) |
+| Jackson Shuttleworth | Streaks, habit formation, recovery mechanics, notifications, and retention experimentation | [Profile](../../people/jackson-shuttleworth/README.md) |
 
 ## Cases
 

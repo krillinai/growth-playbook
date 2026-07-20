@@ -76,6 +76,14 @@ Cheng separates gamification into the core loop, a longer-term metagame, and a u
 
 The guardrail is learning value. If users optimize points while avoiding meaningful practice, engagement rises without fulfilling the product's job.
 
+## 7. Design Streaks as a Retention System
+
+Jackson Shuttleworth's account shows that Duolingo's streak is more than a consecutive-day counter. It combines a clear daily state, immediate feedback, milestones, contextual reminders, recovery through Streak Freeze, and repeated return to the learning action.
+
+The system also illustrates why habit mechanics need guardrails. Recovery should protect long-term commitment without making daily practice optional; notifications should encourage return without creating fatigue; monetization should not exploit a user's fear of losing accumulated progress.
+
+Shuttleworth discusses more than 600 streak-related experiments. That is a participant-reported measure of iteration depth, not causal proof that experiment volume or streaks alone produced company growth.
+
 ## Transferable Method
 
 1. Decompose subscription growth into acquisition, activation, conversion, retention, and revenue quality.
@@ -85,6 +93,7 @@ The guardrail is learning value. If users optimize points while avoiding meaning
 5. Report retained, resurrected, and churned users separately.
 6. Map each gamification mechanic to a real value-producing behavior.
 7. Use guardrails for learning quality, trust, notification fatigue, and cancellation.
+8. Make streak rules clear, allow limited recovery, and measure whether the counted behavior predicts durable value.
 
 ## What Not to Copy Directly
 
@@ -104,6 +113,7 @@ The guardrail is learning value. If users optimize points while avoiding meaning
 
 - [Gina Gotthilf: subscription growth, organic brand, and internationalization](https://www.youtube.com/watch?v=sWClFYdbkRA)
 - [Gina Gotthilf: early international scope, notification experiments, and growth leadership](https://www.youtube.com/watch?v=RS1eZibxq9k)
+- [Jackson Shuttleworth: Duolingo streaks, retention mechanics, notifications, and experimentation](https://www.youtube.com/watch?v=_CCwoQZH5hI)
 - [Albert Cheng: explore-exploit, retention, experiments, and gamification](https://www.youtube.com/watch?v=2BKmNmnEj9w)
 
 ## Related Content
@@ -111,3 +121,4 @@ The guardrail is learning value. If users optimize points while avoiding meaning
 - [Duolingo company page](../../companies/duolingo/README.md)
 - [Gina Gotthilf](../../people/gina-gotthilf/README.md)
 - [Albert Cheng](../../people/albert-cheng/README.md)
+- [Jackson Shuttleworth](../../people/jackson-shuttleworth/README.md)
