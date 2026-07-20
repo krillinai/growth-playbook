@@ -8,6 +8,28 @@ Growth & Marketing Playbook is for independent developers, founders, and product
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
+## How the Handbook Fits Together
+
+```mermaid
+flowchart LR
+    S["1. Strategy & Knowledge"]
+    C["2. Content Production"]
+    M["3. Marketing & Distribution"]
+    A["4. Analytics & Optimization"]
+
+    S --> C --> M --> A --> S
+
+    S -. Planned .-> SP["Market Research<br/>Positioning · PMF"]
+    C -. Planned .-> CP["Planning · Creation<br/>Localization"]
+    M -. Planned .-> MP["SEO · Social · Community<br/>Paid Acquisition"]
+    A -. Planned .-> AP["Attribution · Experiments<br/>Reviews"]
+
+    M --> GEO["GEO<br/>Published"]
+    A --> METRICS["Growth Metrics<br/>Published"]
+```
+
+The four areas form a continuous feedback loop: measurement and learning shape the next strategy cycle rather than ending in a one-way funnel.
+
 ## Published
 
 ### [GEO: The Complete Guide to Generative Engine Optimization](handbook/geo/README.md)
