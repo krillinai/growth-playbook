@@ -4,7 +4,7 @@
 > © 2025 KrillinAI. All rights reserved.
 
 
- **[English](/README.md)｜[简体中文](/README.zh.md)｜[日本語](/README.jp.md)｜[한국어](/README.kr.md)｜[Tiếng Việt](/README.vi.md)｜[Français](/README.fr.md)｜[Deutsch](/README.de.md)｜[Español](/README.es.md)｜[Português](/README.pt.md)｜[Русский](/README.rus.md)｜[اللغة العربية](/README.ar.md)**
+ **[English](/README.md)｜[简体中文](/README.zh.md)**
 
 
 
@@ -825,4 +825,3 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 
 - [**AI Overviews Benchmark Study — Semrush Research**](https://www.semrush.com/blog/semrush-ai-overviews-study/) – Oct 2025  
   Large-scale analysis of **Google AI Overview snippets**; finds that fewer than 20% of cited sources match top organic results, signaling a major divergence between **SEO ranking and AI inclusion**.
-
