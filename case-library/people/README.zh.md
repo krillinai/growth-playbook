@@ -8,5 +8,5 @@
 
 | 人物 | 代表经历 | 主要主题 | 页面 |
 | --- | --- | --- | --- |
-| Alex Schultz | Meta 首任 Chief Data Officer；前 CMO 和 VP of Analytics | 留存、Magic Moment、增长会计、北极星指标、数据与实验 | [English](alex-schultz/README.md) · [中文](alex-schultz/README.zh.md) |
-| Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [English](chamath-palihapitiya/README.md) · [中文](chamath-palihapitiya/README.zh.md) |
+| Alex Schultz | Meta 首任 Chief Data Officer；前 CMO 和 VP of Analytics | 留存、Magic Moment、增长会计、北极星指标、数据与实验 | [查看](alex-schultz/README.zh.md) |
+| Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [查看](chamath-palihapitiya/README.zh.md) |

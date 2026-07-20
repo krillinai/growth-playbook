@@ -56,8 +56,8 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 
 | Area | What it covers | Modules and index |
 | --- | --- | --- |
-| **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.md) · [中文](handbook/metrics/README.zh.md)<br>○ Lifecycle · Funnels · Growth Loops · Experiments · Positioning · PMF |
-| **Acquisition** | How the right audience discovers and reaches the product | ● [GEO Guide](handbook/geo/README.md) · [中文](handbook/geo/README.zh.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
+| **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.md)<br>○ Lifecycle · Funnels · Growth Loops · Experiments · Positioning · PMF |
+| **Acquisition** | How the right audience discovers and reaches the product | ● [GEO Guide](handbook/geo/README.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
 | **Activation & Conversion** | How new users reach value and take the next meaningful action | ○ Onboarding · CRO · Landing Pages · Offers · Time to Value |
 | **Retention & Expansion** | How users stay, return, deepen usage, and expand | ○ Retention · Lifecycle Marketing · Email · Churn Prevention · Community |
 | **Monetization** | How customer value becomes durable, profitable revenue | ○ Pricing · Revenue Models · LTV · Payback · Upsell · Profitable Growth |

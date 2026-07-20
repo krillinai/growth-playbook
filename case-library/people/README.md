@@ -8,5 +8,5 @@ This section documents growth practitioners, their experience, methods, represen
 
 | Person | Representative experience | Main themes | Page |
 | --- | --- | --- | --- |
-| Alex Schultz | Meta's first Chief Data Officer; former CMO and VP of Analytics | Retention, Magic Moments, growth accounting, North Star Metrics, data, experimentation | [English](alex-schultz/README.md) · [中文](alex-schultz/README.zh.md) |
-| Chamath Palihapitiya | Former Facebook VP of User Growth; founder of Social Capital | Core product value, Aha Moments, key behavior metrics, growth organization | [English](chamath-palihapitiya/README.md) · [中文](chamath-palihapitiya/README.zh.md) |
+| Alex Schultz | Meta's first Chief Data Officer; former CMO and VP of Analytics | Retention, Magic Moments, growth accounting, North Star Metrics, data, experimentation | [Profile](alex-schultz/README.md) |
+| Chamath Palihapitiya | Former Facebook VP of User Growth; founder of Social Capital | Core product value, Aha Moments, key behavior metrics, growth organization | [Profile](chamath-palihapitiya/README.md) |
