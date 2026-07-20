@@ -67,7 +67,7 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
-| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [People index](case-library/people/README.md) · 2 profiles |
+| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [People index](case-library/people/README.md) · 3 profiles |
 | **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ○ Case index |
 | **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ○ Company index |
 
