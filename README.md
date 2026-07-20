@@ -23,6 +23,10 @@ The guide covers:
 - structured data and technical implementation;
 - GEO tools, monitoring, and performance analysis.
 
+### [Growth Metrics System](handbook/metrics/README.zh.md) (Chinese)
+
+A practical framework for North Star Metrics, business health, acquisition, activation, retention, revenue, experiments, guardrails, and weekly growth reviews. It also includes a separate [AI Agent metrics guide](handbook/metrics/agent-guide.zh.md).
+
 ## Long-Term Structure
 
 The handbook will expand around a continuous growth loop:
@@ -39,6 +43,7 @@ These are planned directions, not claims that every module is already complete. 
 - [Handbook module index](handbook/README.md)
 - [GEO guide in English](handbook/geo/README.md)
 - [GEO 中文完全指南](handbook/geo/README.zh.md)
+- [增长指标体系](handbook/metrics/README.zh.md) (Chinese)
 
 ## Contributing
 

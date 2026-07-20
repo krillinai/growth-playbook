@@ -11,6 +11,14 @@
 - [中文](geo/README.zh.md)
 - [English](geo/README.md)
 
+### [增长指标体系](metrics/README.zh.md)
+
+覆盖北极星指标、商业与漏斗指标、护栏指标和周度增长复盘，并定义 AI Agent 使用指标的规则。
+
+- [指标体系](metrics/README.zh.md)
+- [AI Agent 指标使用指南](metrics/agent-guide.zh.md)
+- 当前语言：中文
+
 ## 规划中
 
 后续内容方向记录在仓库的 [Roadmap](../ROADMAP.md) 中。规划中的主题不代表已经确定发布时间或最终目录结构。
