@@ -12,7 +12,7 @@
 | 代表职位 | Ramp 增长负责人 |
 | 过往经历 | Instacart 增长战略与运营；Opendoor 早期业务、分析、销售与定价工作 |
 | 主要主题 | 增长工程、北极星指标、回本周期、贡献毛利、实验、团队设计、招聘 |
-| 相关公司 | [Ramp](../../companies/ramp/README.zh.md) |
+| 相关公司 | [Ramp 公司页](../../companies/ramp/README.zh.md) |
 
 ## 核心增长思想
 
@@ -81,4 +81,3 @@ Pipeline、客户或收入规模要与回本周期和贡献毛利一起看。回
 ## 相关内容
 
 - [Ramp 公司页](../../companies/ramp/README.zh.md)
-- [Ramp 增长与衡量](../../cases/ramp-growth-measurement/README.zh.md)

@@ -11,7 +11,7 @@
 | Name | Eric Glyman |
 | Representative role | Co-founder and CEO of Ramp |
 | Main themes | Customer savings, business-model incentives, focus, speed, competition, AI automation |
-| Related company | [Ramp](../../companies/ramp/README.md) |
+| Related company | [Ramp company page](../../companies/ramp/README.md) |
 
 ## Core Growth Ideas
 
@@ -60,4 +60,3 @@ AI can categorize, review, route, and automate finance workflows. Value should b
 ## Related Content
 
 - [Ramp company page](../../companies/ramp/README.md)
-- [Ramp Product Velocity](../../cases/ramp-product-velocity/README.md)

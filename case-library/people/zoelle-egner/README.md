@@ -11,7 +11,7 @@
 | Name | Zoelle Egner |
 | Representative work | Growth and marketing leadership at Airtable |
 | Main themes | Customer insight, customer success, brand, templates, product marketing, early-stage focus |
-| Related company | [Airtable](../../companies/airtable/README.md) |
+| Related company | [Airtable company page](../../companies/airtable/README.md) |
 
 ## Growth-Related Work
 
@@ -82,4 +82,3 @@ Find highly engaged users
 ## Related Content
 
 - [Airtable company page](../../companies/airtable/README.md)
-- [Airtable Activation and Early Growth](../../cases/airtable-activation-growth/README.md)

@@ -13,14 +13,21 @@
 - [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF Test、激活、北极星指标、ICE 排序与高频实验的方法。
 - [查看更多](people/README.zh.md)
 
-## [案例解析](cases/README.zh.md)
+## [增长环节](themes/README.zh.md#增长环节)
 
-- [Airtable 激活与早期增长](cases/airtable-activation-growth/README.zh.md)：客户洞察、模板、分群引导与协作指标如何支持产品采用。
-- [字节跳动增长基础设施](cases/bytedance-growth-infrastructure/README.zh.md)：价值模型、自动化、素材系统、风控、共享服务与本地化如何形成增长平台。
-- [字节跳动激励增长](cases/bytedance-incentive-growth/README.zh.md)：红包、裂变、优惠券、极速版与反作弊如何相互作用。
-- [Duolingo 消费订阅增长](cases/duolingo-consumer-subscription-growth/README.zh.md)：自然触达、国际化、订阅、留存与游戏化如何形成消费增长系统。
-- [Facebook 早期增长](cases/facebook-early-growth/README.zh.md)：产品价值、好友连接、激活、留存、数据、实验和国际化如何形成增长系统。
-- [查看更多](cases/README.zh.md)
+- [获客](themes/acquisition/README.zh.md)
+- [激活](themes/activation/README.zh.md)
+- [留存](themes/retention/README.zh.md)
+- [商业化](themes/monetization/README.zh.md)
+- [推荐与增长循环](themes/referral-and-loops/README.zh.md)
+
+## [横向能力](themes/README.zh.md#横向能力)
+
+- [指标与衡量](themes/metrics-and-measurement/README.zh.md)
+- [实验系统](themes/experimentation/README.zh.md)
+- [增长基础设施](themes/growth-infrastructure/README.zh.md)
+- [激励增长](themes/incentive-growth/README.zh.md)
+- [增长组织](themes/growth-organization/README.zh.md)
 
 ## [公司](companies/README.zh.md)
 

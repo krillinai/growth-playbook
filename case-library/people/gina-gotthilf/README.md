@@ -11,7 +11,7 @@
 | Name | Gina Gotthilf |
 | Representative work | Growth and internationalization leadership at Duolingo |
 | Main themes | Organic growth, brand, copy, community, internationalization, subscription growth, experimentation |
-| Related company | [Duolingo](../../companies/duolingo/README.md) |
+| Related company | [Duolingo company page](../../companies/duolingo/README.md) |
 
 ## Growth-Related Work
 
@@ -97,4 +97,3 @@ With limited engineering support, her early growth work revisited notifications 
 ## Related Content
 
 - [Duolingo company page](../../companies/duolingo/README.md)
-- [Duolingo Consumer Subscription Growth](../../cases/duolingo-consumer-subscription-growth/README.md)

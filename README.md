@@ -40,8 +40,8 @@ Status: `●` available · `○` planned
                                   |   REFERENCE & EXECUTION LAYERS   |
                                   +----------------------------------+
                                   | ● Case Library                   |
-                                  |  People & Ideas / Case Studies   |
-                                  |  Company Index                   |
+                                  |  Growth Stages / Capabilities    |
+                                  |  Companies / People & Ideas      |
                                   +----------------------------------+
                                   | ○ Toolkit                        |
                                   |  Tools / Growth Skills / Flows   |
@@ -68,7 +68,8 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ● [Alex Schultz](case-library/people/alex-schultz/README.md)<br>● [Chamath Palihapitiya](case-library/people/chamath-palihapitiya/README.md)<br>● [Elena Verna](case-library/people/elena-verna/README.md)<br>● [Naomi Gleit](case-library/people/naomi-gleit/README.md)<br>● [Sean Ellis](case-library/people/sean-ellis/README.md)<br>[View more](case-library/people/README.md) |
-| **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ● [Airtable Activation and Early Growth](case-library/cases/airtable-activation-growth/README.md)<br>● [ByteDance Growth Infrastructure](case-library/cases/bytedance-growth-infrastructure/README.md)<br>● [ByteDance Incentive Growth](case-library/cases/bytedance-incentive-growth/README.md)<br>● [Duolingo Consumer Subscription Growth](case-library/cases/duolingo-consumer-subscription-growth/README.md)<br>● [Facebook Early Growth](case-library/cases/facebook-early-growth/README.md)<br>[View more](case-library/cases/README.md) |
+| **Growth Stages** | Cross-company evidence organized by where growth happens in the customer journey | ● [Acquisition](case-library/themes/acquisition/README.md)<br>● [Activation](case-library/themes/activation/README.md)<br>● [Retention](case-library/themes/retention/README.md)<br>● [Monetization](case-library/themes/monetization/README.md)<br>● [Referral & Growth Loops](case-library/themes/referral-and-loops/README.md) |
+| **Growth Capabilities** | Cross-company evidence organized by the systems that support every growth stage | ● [Metrics & Measurement](case-library/themes/metrics-and-measurement/README.md)<br>● [Experimentation](case-library/themes/experimentation/README.md)<br>● [Growth Infrastructure](case-library/themes/growth-infrastructure/README.md)<br>● [Incentive Growth](case-library/themes/incentive-growth/README.md)<br>● [Growth Organization](case-library/themes/growth-organization/README.md) |
 | **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ● [Airtable](case-library/companies/airtable/README.md)<br>● [ByteDance](case-library/companies/bytedance/README.md)<br>● [Duolingo](case-library/companies/duolingo/README.md)<br>● [Facebook / Meta](case-library/companies/facebook/README.md)<br>● [Ramp](case-library/companies/ramp/README.md)<br>[View more](case-library/companies/README.md) |
 
 ## Toolkit

@@ -190,7 +190,6 @@ Do not begin by searching for your product's equivalent of Facebook's "seven fri
 
 ## Related Playbook Content
 
-- [Facebook Early Growth case](../../cases/facebook-early-growth/README.md)
 - [Facebook / Meta company page](../../companies/facebook/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [The Complete Guide to GEO](../../../handbook/geo/README.md)

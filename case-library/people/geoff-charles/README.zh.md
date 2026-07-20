@@ -11,7 +11,7 @@
 | 姓名 | Geoff Charles |
 | 代表职位 | Ramp VP of Product |
 | 主要主题 | 产品速度、聚焦、授权、反馈、写作、第一性原理、招聘 |
-| 相关公司 | [Ramp](../../companies/ramp/README.zh.md) |
+| 相关公司 | [Ramp 公司页](../../companies/ramp/README.zh.md) |
 
 ## 核心增长思想
 
@@ -67,4 +67,3 @@
 ## 相关内容
 
 - [Ramp 公司页](../../companies/ramp/README.zh.md)
-- [Ramp 产品速度](../../cases/ramp-product-velocity/README.zh.md)

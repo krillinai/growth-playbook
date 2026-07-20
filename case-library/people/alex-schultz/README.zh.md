@@ -310,7 +310,6 @@ Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Faceboo
 
 ## 相关手册内容
 
-- [Facebook 早期增长案例](../../cases/facebook-early-growth/README.zh.md)
 - [Facebook / Meta 公司页](../../companies/facebook/README.zh.md)
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
 - [Chamath Palihapitiya](../chamath-palihapitiya/README.zh.md)

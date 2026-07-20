@@ -12,7 +12,7 @@
 | 访谈称呼 | Tom |
 | 代表经历 | 2019 年加入字节跳动，在增长中台负责国际化业务，并将较多精力投入 TikTok 增长 |
 | 主要主题 | UG 中台、LTV、归因、买量、自动化、素材系统、风控、国际化、激励 |
-| 相关公司 | [字节跳动](../../companies/bytedance/README.zh.md) |
+| 相关公司 | [字节跳动公司页](../../companies/bytedance/README.zh.md) |
 
 ## 与增长相关的工作
 
@@ -98,5 +98,3 @@
 ## 相关内容
 
 - [字节跳动公司页](../../companies/bytedance/README.zh.md)
-- [字节跳动增长基础设施](../../cases/bytedance-growth-infrastructure/README.zh.md)
-- [字节跳动激励增长](../../cases/bytedance-incentive-growth/README.zh.md)

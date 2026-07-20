@@ -11,7 +11,7 @@
 | 姓名 | Jackson Shuttleworth |
 | 代表职位 | Duolingo 留存团队 Group Product Manager |
 | 主要主题 | 留存、Streak、习惯形成、实验、通知、恢复机制、团队运行 |
-| 相关公司 | [Duolingo](../../companies/duolingo/README.zh.md) |
+| 相关公司 | [Duolingo 公司页](../../companies/duolingo/README.zh.md) |
 
 ## 与增长相关的工作
 
@@ -96,4 +96,3 @@ Duolingo 的 Streak 工作覆盖入口、视觉状态、里程碑、通知、恢
 ## 相关内容
 
 - [Duolingo 公司页](../../companies/duolingo/README.zh.md)
-- [Duolingo 消费订阅增长](../../cases/duolingo-consumer-subscription-growth/README.zh.md)

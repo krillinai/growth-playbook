@@ -12,7 +12,7 @@
 | Representative role | Growth leadership at Ramp |
 | Previous work | Growth strategy and operations at Instacart; early business, analytics, sales, and pricing work at Opendoor |
 | Main themes | Growth engineering, North Stars, payback, contribution margin, experimentation, team design, hiring |
-| Related company | [Ramp](../../companies/ramp/README.md) |
+| Related company | [Ramp company page](../../companies/ramp/README.md) |
 
 ## Core Growth Ideas
 
@@ -81,4 +81,3 @@ Growth-team org charts are less important than clear outcomes, access to product
 ## Related Content
 
 - [Ramp company page](../../companies/ramp/README.md)
-- [Ramp Growth and Measurement](../../cases/ramp-growth-measurement/README.md)

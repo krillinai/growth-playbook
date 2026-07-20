@@ -11,7 +11,7 @@
 | Name | Geoff Charles |
 | Representative role | VP of Product at Ramp |
 | Main themes | Product velocity, focus, autonomy, feedback, writing, first principles, hiring |
-| Related company | [Ramp](../../companies/ramp/README.md) |
+| Related company | [Ramp company page](../../companies/ramp/README.md) |
 
 ## Core Growth Ideas
 
@@ -67,4 +67,3 @@ Existing category conventions are inputs, not requirements. Teams should derive 
 ## Related Content
 
 - [Ramp company page](../../companies/ramp/README.md)
-- [Ramp Product Velocity](../../cases/ramp-product-velocity/README.md)

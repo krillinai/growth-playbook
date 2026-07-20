@@ -11,7 +11,7 @@
 | Name | Jackson Shuttleworth |
 | Representative role | Group Product Manager, Retention Team at Duolingo |
 | Main themes | Retention, streaks, habit formation, experimentation, notifications, recovery mechanics, team operations |
-| Related company | [Duolingo](../../companies/duolingo/README.md) |
+| Related company | [Duolingo company page](../../companies/duolingo/README.md) |
 
 ## Growth-Related Work
 
@@ -96,4 +96,3 @@ Valuable recurring behavior
 ## Related Content
 
 - [Duolingo company page](../../companies/duolingo/README.md)
-- [Duolingo Consumer Subscription Growth](../../cases/duolingo-consumer-subscription-growth/README.md)

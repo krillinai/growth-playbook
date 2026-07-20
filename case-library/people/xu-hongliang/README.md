@@ -12,7 +12,7 @@
 | Name used in interviews | Tom |
 | Representative experience | Joined ByteDance in 2019; worked on international business in the growth platform, with substantial focus on TikTok |
 | Main themes | UG platform, LTV, attribution, paid acquisition, automation, creative systems, risk control, globalization, incentives |
-| Related company | [ByteDance](../../companies/bytedance/README.md) |
+| Related company | [ByteDance company page](../../companies/bytedance/README.md) |
 
 ## Growth-Related Work
 
@@ -98,5 +98,3 @@ International growth requires local market priorities, channels, creative contex
 ## Related Content
 
 - [ByteDance company page](../../companies/bytedance/README.md)
-- [ByteDance Growth Infrastructure](../../cases/bytedance-growth-infrastructure/README.md)
-- [ByteDance Incentive Growth](../../cases/bytedance-incentive-growth/README.md)

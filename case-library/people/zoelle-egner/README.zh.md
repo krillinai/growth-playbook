@@ -11,7 +11,7 @@
 | 姓名 | Zoelle Egner |
 | 代表经历 | Airtable 增长与营销工作 |
 | 主要主题 | 客户洞察、客户成功、品牌、模板、产品营销、早期增长聚焦 |
-| 相关公司 | [Airtable](../../companies/airtable/README.zh.md) |
+| 相关公司 | [Airtable 公司页](../../companies/airtable/README.zh.md) |
 
 ## 与增长相关的工作
 
@@ -82,4 +82,3 @@ PR、营销活动和内容都应该服务于明确受众、产品行为或战略
 ## 相关内容
 
 - [Airtable 公司页](../../companies/airtable/README.zh.md)
-- [Airtable 激活与早期增长](../../cases/airtable-activation-growth/README.zh.md)

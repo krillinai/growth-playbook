@@ -191,7 +191,6 @@ Chamath 在演讲中提到早期增长团队成员 James Wang、Naomi Gleit、Al
 
 ## 相关手册内容
 
-- [Facebook 早期增长案例](../../cases/facebook-early-growth/README.zh.md)
 - [Facebook / Meta 公司页](../../companies/facebook/README.zh.md)
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
 - [GEO 完全指南](../../../handbook/geo/README.zh.md)

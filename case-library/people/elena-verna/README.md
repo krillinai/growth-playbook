@@ -465,7 +465,6 @@ The goal is to make the product understandable, credible, and accessible whereve
 
 ## Related Playbook Content
 
-- [Lovable: Earned Growth and Product Launches](../../cases/lovable-earned-growth/README.md)
 - [Lovable company page](../../companies/lovable/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [The Complete Guide to GEO](../../../handbook/geo/README.md)

@@ -12,7 +12,7 @@
 | Representative role | Co-founder and CEO of Duolingo |
 | Earlier work | Computer science professor at Carnegie Mellon University; creator of CAPTCHA and co-creator of reCAPTCHA |
 | Main themes | Education access, freemium, motivation, habit design, gamification, brand, culture, AI |
-| Related company | [Duolingo](../../companies/duolingo/README.md) |
+| Related company | [Duolingo company page](../../companies/duolingo/README.md) |
 
 ## Growth-Related Work
 
@@ -170,7 +170,6 @@ Accessible education mission
 ## Related Content
 
 - [Duolingo company page](../../companies/duolingo/README.md)
-- [Duolingo Consumer Subscription Growth](../../cases/duolingo-consumer-subscription-growth/README.md)
 - [Gina Gotthilf](../gina-gotthilf/README.md)
 - [Albert Cheng](../albert-cheng/README.md)
 - [Jackson Shuttleworth](../jackson-shuttleworth/README.md)

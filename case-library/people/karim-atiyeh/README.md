@@ -12,7 +12,7 @@
 | Representative role | Co-founder and CTO of Ramp |
 | Earlier company | Co-founder of Paribus |
 | Main themes | B2B UX, technical builders, differentiation, accountability, hiring, speed, finance automation |
-| Related company | [Ramp](../../companies/ramp/README.md) |
+| Related company | [Ramp company page](../../companies/ramp/README.md) |
 
 ## Core Growth Ideas
 
@@ -68,4 +68,3 @@ AI and better tooling let technical people prototype in product, marketing, and 
 ## Related Content
 
 - [Ramp company page](../../companies/ramp/README.md)
-- [Ramp Product Velocity](../../cases/ramp-product-velocity/README.md)

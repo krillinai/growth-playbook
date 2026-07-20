@@ -308,7 +308,6 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 
 ## Related Playbook Content
 
-- [Facebook Early Growth case](../../cases/facebook-early-growth/README.md)
 - [Facebook / Meta company page](../../companies/facebook/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [Chamath Palihapitiya](../chamath-palihapitiya/README.md)

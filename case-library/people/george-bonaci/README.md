@@ -12,7 +12,7 @@
 | Representative role | VP of Growth at Ramp |
 | Previous roles | Growth leadership at Gong and Samsara |
 | Main themes | Experiment portfolios, velocity, postmortems, growth teams, hiring, brand, AI agents, attribution |
-| Related company | [Ramp](../../companies/ramp/README.md) |
+| Related company | [Ramp company page](../../companies/ramp/README.md) |
 
 ## Core Growth Ideas
 
@@ -86,5 +86,3 @@ Ramp's described AI marketing work reorganizes repeated research, production, an
 ## Related Content
 
 - [Ramp company page](../../companies/ramp/README.md)
-- [Ramp Growth and Measurement](../../cases/ramp-growth-measurement/README.md)
-- [Ramp AI Marketing](../../cases/ramp-ai-marketing/README.md)

@@ -13,14 +13,21 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Sean Ellis](people/sean-ellis/README.md): PMF Test, activation, North Star Metrics, ICE prioritization, and high-tempo experimentation.
 - [View more](people/README.md)
 
-## [Case Studies](cases/README.md)
+## [Growth Stages](themes/README.md#growth-stages)
 
-- [Airtable Activation and Early Growth](cases/airtable-activation-growth/README.md): how customer insight, templates, segmented onboarding, and collaboration metrics support adoption.
-- [ByteDance Growth Infrastructure](cases/bytedance-growth-infrastructure/README.md): how value models, automation, creative systems, risk control, shared services, and localization form a growth platform.
-- [ByteDance Incentive Growth](cases/bytedance-incentive-growth/README.md): how red packets, referrals, coupons, Lite products, and anti-abuse controls interact.
-- [Duolingo Consumer Subscription Growth](cases/duolingo-consumer-subscription-growth/README.md): how organic reach, internationalization, subscriptions, retention, and gamification form a consumer growth system.
-- [Facebook Early Growth](cases/facebook-early-growth/README.md): how product value, friend connections, activation, retention, data, experimentation, and internationalization became a growth system.
-- [View more](cases/README.md)
+- [Acquisition](themes/acquisition/README.md)
+- [Activation](themes/activation/README.md)
+- [Retention](themes/retention/README.md)
+- [Monetization](themes/monetization/README.md)
+- [Referral & Growth Loops](themes/referral-and-loops/README.md)
+
+## [Growth Capabilities](themes/README.md#growth-capabilities)
+
+- [Metrics & Measurement](themes/metrics-and-measurement/README.md)
+- [Experimentation](themes/experimentation/README.md)
+- [Growth Infrastructure](themes/growth-infrastructure/README.md)
+- [Incentive Growth](themes/incentive-growth/README.md)
+- [Growth Organization](themes/growth-organization/README.md)
 
 ## [Companies](companies/README.md)
 

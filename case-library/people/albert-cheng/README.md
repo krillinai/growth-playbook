@@ -11,7 +11,7 @@
 | Name | Albert Cheng |
 | Representative companies | Duolingo, Grammarly, Chess.com |
 | Main themes | Explore-exploit, freemium, subscriptions, retention, resurrection, experimentation, gamification |
-| Related company | [Duolingo](../../companies/duolingo/README.md) |
+| Related company | [Duolingo company page](../../companies/duolingo/README.md) |
 
 ## Growth-Related Work
 
@@ -73,4 +73,3 @@ Gamification works when progress systems reinforce the reason people use the pro
 ## Related Content
 
 - [Duolingo company page](../../companies/duolingo/README.md)
-- [Duolingo Consumer Subscription Growth](../../cases/duolingo-consumer-subscription-growth/README.md)

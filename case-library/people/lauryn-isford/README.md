@@ -11,7 +11,7 @@
 | Name | Lauryn Isford |
 | Representative role | Head of Growth at Airtable |
 | Main themes | Onboarding, activation, experimentation, segmentation, collaboration, guardrails, PLG funnels |
-| Related company | [Airtable](../../companies/airtable/README.md) |
+| Related company | [Airtable company page](../../companies/airtable/README.md) |
 
 ## Growth-Related Work
 
@@ -75,4 +75,3 @@ An onboarding change can raise a local conversion metric while reducing quality,
 ## Related Content
 
 - [Airtable company page](../../companies/airtable/README.md)
-- [Airtable Activation and Early Growth](../../cases/airtable-activation-growth/README.md)

@@ -11,7 +11,7 @@
 | 姓名 | Lauryn Isford |
 | 代表职位 | Airtable Head of Growth |
 | 主要主题 | 新用户引导、激活、实验、分群、协作、护栏指标、PLG 漏斗 |
-| 相关公司 | [Airtable](../../companies/airtable/README.zh.md) |
+| 相关公司 | [Airtable 公司页](../../companies/airtable/README.zh.md) |
 
 ## 与增长相关的工作
 
@@ -75,4 +75,3 @@ Isford 对 Airtable 新用户引导的描述，是从通用界面提示逐步转
 ## 相关内容
 
 - [Airtable 公司页](../../companies/airtable/README.zh.md)
-- [Airtable 激活与早期增长](../../cases/airtable-activation-growth/README.zh.md)
