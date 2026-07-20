@@ -8,27 +8,47 @@ Growth & Marketing Playbook is for independent developers, founders, and product
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
-## How the Handbook Fits Together
+## How the Playbook Fits Together
 
-```mermaid
-flowchart LR
-    S["1. Strategy & Knowledge"]
-    C["2. Content Production"]
-    M["3. Marketing & Distribution"]
-    A["4. Analytics & Optimization"]
-
-    S --> C --> M --> A --> S
-
-    S -. Planned .-> SP["Market Research<br/>Positioning · PMF"]
-    C -. Planned .-> CP["Planning · Creation<br/>Localization"]
-    M -. Planned .-> MP["SEO · Social · Community<br/>Paid Acquisition"]
-    A -. Planned .-> AP["Attribution · Experiments<br/>Reviews"]
-
-    M --> GEO["GEO<br/>Published"]
-    A --> METRICS["Growth Metrics<br/>Published"]
+```text
+                                         +----------------------------------+
+                                         |        GROWTH FOUNDATIONS        |
+                                         |  Growth Metrics     [published]  |
+                                         |  Lifecycle / Funnel / Loops      |
+                                         |  Experiments / PMF / Positioning |
+                                         +----------------+-----------------+
+                                                          |
+       +----------------------+----------------------+-----+----------------+----------------------+
+       |                      |                      |                      |                      |
+       v                      v                      v                      v                      v
++--------------------+ +--------------------+ +--------------------+ +--------------------+ +--------------------+
+| ACQUISITION        | | ACTIVATION &       | | RETENTION &        | | MONETIZATION       | | REFERRAL &         |
+|                    | | CONVERSION         | | EXPANSION          | |                    | | GROWTH LOOPS       |
++--------------------+ +--------------------+ +--------------------+ +--------------------+ +--------------------+
+| GEO    [published] | | Onboarding [plan]  | | Retention  [plan]  | | Pricing    [plan]  | | Referrals  [plan]  |
+| SEO       [plan]   | | CRO        [plan]  | | Lifecycle  [plan]  | | Revenue    [plan]  | | UGC        [plan]  |
+| Content   [plan]   | | Landing    [plan]  | | Email      [plan]  | | LTV/Payback[plan]  | | Virality   [plan]  |
+| Social    [plan]   | | Offer      [plan]  | | Churn      [plan]  | | Upsell     [plan]  | | Product Loop[plan] |
+| Paid      [plan]   | | TTV        [plan]  | | Community  [plan]  | | Profit     [plan]  | | Advocacy   [plan]  |
++----------+---------+ +----------+---------+ +----------+---------+ +----------+---------+ +----------+---------+
+           |                      |                      |                      |                      |
+           +----------------------+----------------------+----------------------+----------------------+
+                                                          |
+                                         +----------------+-----------------+
+                                         |   REFERENCE & EXECUTION LAYERS   |
+                                         +----------------------------------+
+                                         | Case Library          [planned]  |
+                                         |  People & Ideas / Case Studies   |
+                                         |  Company Index                   |
+                                         +----------------------------------+
+                                         | Toolkit               [planned]  |
+                                         |  Tools / Growth Skills / Flows   |
+                                         +----------------------------------+
+                                                          |
+                                         Insights feed the next strategy cycle
 ```
 
-The four areas form a continuous feedback loop: measurement and learning shape the next strategy cycle rather than ending in a one-way funnel.
+The **Handbook** follows the growth journey, the **Case Library** preserves people, ideas, companies, and real-world cases, and the **Toolkit** connects methods to tools and Growth Skills. Only GEO and Growth Metrics are published today; the other entries show the intended structure.
 
 ## Published
 
