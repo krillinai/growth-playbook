@@ -9,8 +9,8 @@
 | Field | Details |
 | --- | --- |
 | Name | Elena Verna |
-| Current role represented in these sources | Head of Growth at Lovable (2026 interview) |
-| Previous roles represented in these sources | SVP of Growth at SurveyMonkey; interim CMO at Miro; interim Head of Growth at Amplitude; growth leadership at Dropbox |
+| Current role | Head of Growth at Lovable |
+| Previous roles | SVP of Growth at SurveyMonkey; interim CMO at Miro; interim Head of Growth at Amplitude; growth leadership at Dropbox |
 | Other work | Advisor, board member, and educator for technology companies |
 | Main domains | B2B SaaS, product-led growth, product-led sales, monetization, lifecycle growth, earned distribution, AI products |
 | Playbook themes | PLG, PLS, freemium, growth models, growth organization, experimentation, earned channels, product launches |
@@ -19,11 +19,11 @@
 
 Elena Verna is useful because her methods were developed across several companies and business stages rather than within one dominant company. Her material addresses a recurring B2B question: how should product, marketing, sales, and monetization work together as a self-serve product moves upmarket?
 
-Across the four talks indexed here, she also challenges tactic-first growth. Hiring a Head of Growth, running more experiments, rebranding, buying traffic, or removing every point of friction cannot compensate for an unclear growth model. Her approach starts with product value, distribution mechanics, organizational readiness, and revenue ownership.
+She also challenges tactic-first growth. Hiring a Head of Growth, running more experiments, rebranding, buying traffic, or removing every point of friction cannot compensate for an unclear growth model. Her approach starts with product value, distribution mechanics, organizational readiness, and revenue ownership.
 
 ## Growth-Related Career
 
-The four podcast descriptions and Verna's own career account identify the following roles:
+Her growth career spans several B2B and product-led companies:
 
 | Company | Role or involvement | Relevant growth context |
 | --- | --- | --- |
@@ -32,8 +32,6 @@ The four podcast descriptions and Verna's own career account identify the follow
 | Amplitude | Interim Head of Growth | Analytics product, PLG, and product behavior data |
 | Dropbox | Growth leadership | Product-led acquisition and expansion |
 | Lovable | Head of Growth | AI-native product growth, trust, social distribution, launches, and monetization |
-
-These role descriptions come from podcast metadata and participant introductions. They are useful biographical evidence but are not a complete independently audited employment history.
 
 ## Core Growth Ideas
 
@@ -81,7 +79,7 @@ Freemium is not automatically correct. The free experience must deliver real val
 
 ### 7. Prioritize Earned Distribution Before Paid Scale
 
-In the 2025 interview, Verna warns against prioritizing other channels above earned channels. In the 2026 Lovable discussion, she describes paid marketing in the first year as a potential "death trap." The underlying concern is that paid acquisition can hide weak positioning, trust, retention, or organic advocacy.
+Verna prioritizes earned channels before other forms of distribution and describes paid marketing in a company's first year as a potential "death trap." The underlying concern is that paid acquisition can hide weak positioning, trust, retention, or organic advocacy.
 
 Earned distribution includes customer advocacy, community, social content, word of mouth, templates, ecosystems, and product outputs people naturally share. Paid channels become more useful after the company understands conversion and retention economics.
 
@@ -105,7 +103,7 @@ Verna's recurring recommendation is to diagnose the internal constraint before r
 
 ### 11. Product Launches Need Concentrated, Cross-Functional Distribution
 
-The Lovable interview presents launches as coordinated product and distribution events, not a marketing announcement added after development. Product changes, demonstrations, founder and employee communication, customer proof, and social response reinforce one another.
+At Lovable, launches operate as coordinated product and distribution events, not marketing announcements added after development. Product changes, demonstrations, founder and employee communication, customer proof, and social response reinforce one another.
 
 This approach depends on a product worth demonstrating and an audience that trusts the messengers. Launch volume cannot replace substance.
 
@@ -220,9 +218,9 @@ This approach depends on a product worth demonstrating and an audience that trus
 
 ## Limitations and Caveats
 
-- The role history above is based primarily on podcast descriptions and Verna's own accounts; it is not an independently audited employment record.
-- The talks span 2022 to 2026. Recommendations reflect different companies, market conditions, and stages and should not be combined without context.
-- Claims about Lovable's growth rate or revenue in the 20VC description are publisher claims and are not independently verified in this profile.
+- Current and previous roles can change over time; this profile reflects her career through March 2026.
+- The methods span 2022 to 2026 and several companies, market conditions, and stages. They should not be combined without context.
+- This profile does not use Lovable's reported growth rate or revenue as evidence for the effectiveness of a specific method.
 - "Tactics that never work" is intentionally provocative framing. Some tactics can work when they address a diagnosed constraint and are measured against downstream value.
 - Freemium, PLG, PLS, and earned-first distribution depend on product economics, buying process, implementation complexity, regulation, and customer segment.
 - Advisory experience provides broad pattern recognition but can also compress important differences between companies.
