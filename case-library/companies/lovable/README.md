@@ -19,6 +19,7 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 | Monetization | How should AI usage costs and customer value shape packaging? | Initial discussion only |
 | Product-Market Fit | How can fit be recaptured as models and user expectations change? | Covered in earned-growth case |
 | Defensibility | What remains difficult to copy when feature advantages decay quickly? | Covered in earned-growth case |
+| Discovery | How do SEO, answer engines, data, brand, and partnerships work together? | Covered in earned-growth case |
 | Retention | Which behaviors predict durable AI product adoption? | Future case direction |
 
 ## Cases

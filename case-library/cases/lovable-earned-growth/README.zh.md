@@ -132,6 +132,12 @@ AI 辅助开发让许多软件功能更容易被复制。Lovable 的增长模型
 
 增长团队仍可负责留存、沟通、增长循环、商业化和分发。这样的责任边界让首次价值体验始终靠近建设核心能力的团队。
 
+## 11. 产品发现不能只依赖一个搜索入口
+
+Lovable 的发现方式超越传统 SEO。可被搜索访问的内容可以帮助答案引擎理解产品，产品数据、品牌、社区、集成和合作伙伴则提供其他进入路径。
+
+AEO/GEO 与 SEO 应被视为彼此相关、持续变化的系统，而不是相互排斥的渠道。长期目标是在用户研究问题的位置建立可信可见性，而不是依赖一种排名机制。
+
 ## 增长运行系统
 
 | 层次 | Lovable 的方法 | 可迁移的问题 |
@@ -146,6 +152,7 @@ AI 辅助开发让许多软件功能更容易被复制。Lovable 的增长模型
 | PMF | 随品类变化重新验证匹配 | 哪些客户和留存信号证明 PMF 仍然成立？ |
 | 防御能力 | 组合品牌、数据、网络、信任与学习速度 | 哪项优势仍然难以复制？ |
 | 激活 | 由核心产品团队负责 AI 交互 | 谁负责用户第一次成功结果？ |
+| 发现 | 组合 SEO、AEO/GEO、数据、品牌与合作伙伴 | 用户在哪里研究问题并接触可信证据？ |
 
 ## 可以迁移的方法
 
@@ -159,6 +166,7 @@ AI 辅助开发让许多软件功能更容易被复制。Lovable 的增长模型
 8. 模型、竞争者、界面或用户预期变化时重新评估 PMF。
 9. 衡量功能复制速度，并投资更难复制的优势。
 10. 让负责核心 AI 体验的团队继续负责激活。
+11. 梳理搜索、答案引擎、社区、集成与合作伙伴生态中的发现路径。
 
 ## 不应该直接复制的部分
 
@@ -205,8 +213,11 @@ AI 辅助开发让许多软件功能更容易被复制。Lovable 的增长模型
 2. [The new AI-native growth playbook - Product School](https://www.youtube.com/watch?v=8wLXHrZVOys)：持续移动的 PMF、激活责任、产品驱动循环、速度与品牌。
 3. [Why PMs who can't build will get left behind - Atlassian](https://www.youtube.com/watch?v=kyTzrrxTxx4)：AI 熟练度、直接建设、客户沟通、愿景与分发。
 4. [Feature differentiation is dead - SaaStr AI](https://www.youtube.com/watch?v=kdHU-jPxDHw)：防御能力、品牌、Freemium、组织与持续重建 PMF。
+5. [The next evolution of PLG - Userpilot](https://www.youtube.com/watch?v=xo5KiqpC26c)：产品循环、数据、品牌、合作与答案引擎发现。
+6. [Why growth playbooks are crumbling - Product School](https://www.youtube.com/watch?v=Vc6ij1ilhwc)：SEO、AEO、数据、品牌、集成与 AI 时代分发。
 
 ## 相关内容
 
 - [Lovable 公司页](../../companies/lovable/README.zh.md)
 - [Elena Verna](../../people/elena-verna/README.zh.md)
+- [GEO 完全指南](../../../handbook/geo/README.zh.md)

@@ -132,6 +132,12 @@ In conversational AI products, activation often happens inside the central inter
 
 Growth can still work on retention, communication, loops, monetization, and distribution. The ownership boundary keeps the product's first value experience close to the team building the underlying capability.
 
+## 11. Discovery Requires More Than One Search Surface
+
+Lovable's discovery approach extends beyond conventional SEO. Search-accessible content can contribute to answer-engine visibility, while product data, brand, communities, integrations, and partnerships create other paths into the product.
+
+AEO/GEO and SEO should be treated as related, evolving systems rather than mutually exclusive channels. The durable objective is credible visibility where users investigate problems, not dependence on one ranking mechanism.
+
 ## Operating System
 
 | Layer | Lovable approach | Transferable question |
@@ -146,6 +152,7 @@ Growth can still work on retention, communication, loops, monetization, and dist
 | PMF | Revalidate fit as the category changes | Which customer and retention signals show that fit still holds? |
 | Defensibility | Combine brand, data, networks, trust, and learning speed | Which advantage remains hard to reproduce? |
 | Activation | Keep the core AI interaction with the product team | Who owns the user's first successful outcome? |
+| Discovery | Combine SEO, AEO/GEO, data, brand, and partnerships | Where do users investigate the problem and encounter credible proof? |
 
 ## What Can Be Applied
 
@@ -159,6 +166,7 @@ Growth can still work on retention, communication, loops, monetization, and dist
 8. Review PMF whenever models, competitors, interfaces, or user expectations shift.
 9. Track feature-copying speed and invest in harder-to-reproduce advantages.
 10. Keep activation ownership with the team responsible for the core AI experience.
+11. Map discovery across search, answer engines, communities, integrations, and partner ecosystems.
 
 ## What Should Not Be Copied
 
@@ -205,8 +213,11 @@ Growth can still work on retention, communication, loops, monetization, and dist
 2. [The new AI-native growth playbook - Product School](https://www.youtube.com/watch?v=8wLXHrZVOys): moving PMF, activation ownership, product-led loops, velocity, and brand.
 3. [Why PMs who can't build will get left behind - Atlassian](https://www.youtube.com/watch?v=kyTzrrxTxx4): AI fluency, direct building, customer contact, vision, and distribution.
 4. [Feature differentiation is dead - SaaStr AI](https://www.youtube.com/watch?v=kdHU-jPxDHw): defensibility, brand, freemium, organization, and repeated PMF.
+5. [The next evolution of PLG - Userpilot](https://www.youtube.com/watch?v=xo5KiqpC26c): product loops, data, brand, partnerships, and answer-engine discovery.
+6. [Why growth playbooks are crumbling - Product School](https://www.youtube.com/watch?v=Vc6ij1ilhwc): SEO, AEO, data, brand, integrations, and AI-era distribution.
 
 ## Related Content
 
 - [Lovable company page](../../companies/lovable/README.md)
 - [Elena Verna](../../people/elena-verna/README.md)
+- [The Complete Guide to GEO](../../../handbook/geo/README.md)

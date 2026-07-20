@@ -125,6 +125,18 @@ AI can automate more routine funnel analysis, experiment setup, campaign product
 
 The boundaries among product, design, engineering, and growth are becoming less rigid. People who can turn an idea into a working prototype can test assumptions without waiting for a full team. Building ability complements product judgment; it does not replace customer interaction or strategic choice.
 
+### 15. Revenue Is an Outcome of the Monetization System
+
+Revenue is an outcome, not an operating KPI by itself. Monetization determines who pays, for what value, at which point in the journey, through which pricing metric, and with how much friction.
+
+It must evolve alongside acquisition and retention because each changes the others. Teams can test local optimizations continuously, while major model changes require cross-functional product, growth, finance, sales, and leadership context.
+
+### 16. Build a Portfolio of Discovery Advantages
+
+Discovery is moving across search engines, answer engines, communities, and model interfaces. Verna does not treat AEO/GEO as a clean replacement for SEO. Search-accessible content can feed answer engines, while brand, proprietary data, integrations, partnerships, communities, and product usage create additional distribution and defensibility.
+
+The goal is to make the product understandable, credible, and accessible wherever users investigate a problem, without depending on one changing algorithm.
+
 ## Growth System Summary
 
 | Layer | Verna's approach | Operating implication |
@@ -141,6 +153,8 @@ The boundaries among product, design, engineering, and growth are becoming less 
 | AI-native PMF | Revalidate fit as technology and expectations change | Combine shipping velocity with customer and retention signals |
 | Defensibility | Look beyond short-lived feature advantages | Invest in brand, data, networks, trust, security, and distribution |
 | Talent | Automate routine growth work and build directly | Move saved time into judgment, creativity, and customer contact |
+| Monetization | Treat revenue as the result of value, pricing, and behavior | Experiment on the system, not only the price point |
+| Discovery | Combine SEO, AEO/GEO, brand, data, communities, and partnerships | Reduce dependence on a single acquisition surface |
 
 ## Talk Index
 
@@ -303,6 +317,108 @@ The boundaries among product, design, engineering, and growth are becoming less 
 | [24:27](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=1467s) | Directly building a pricing-page change |
 | [34:28](https://www.youtube.com/watch?v=kdHU-jPxDHw&t=2068s) | Freemium as a marketing investment |
 
+### Growth Frameworks for Acquisition, Monetization, and Retention
+
+- Host: Amplitude
+- Upload date: 2022-06-06
+- Duration: 39:12
+- Video: [YouTube](https://www.youtube.com/watch?v=9FHYtjw6mjs)
+
+| Time | Topic |
+| --- | --- |
+| [01:54](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=114s) | Revenue as an outcome rather than a KPI |
+| [02:31](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=151s) | Acquisition, retention, and monetization as one model |
+| [03:43](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=223s) | Monetization beyond a price point |
+| [05:39](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=339s) | Monetization friction |
+| [08:51](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=531s) | Where monetization intercepts the journey |
+| [14:20](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=860s) | Who is being monetized |
+| [20:04](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=1204s) | Matching monetization to use cases |
+| [38:18](https://www.youtube.com/watch?v=9FHYtjw6mjs&t=2298s) | Growth optimization and monetization governance |
+
+### Growth Hobbyist: Product-Led Growth and Content
+
+- Show: ProducTea with Leah
+- Upload date: 2023-02-01
+- Duration: 43:50
+- Video: [YouTube](https://www.youtube.com/watch?v=7RrgQCkl53Q)
+
+| Time | Topic |
+| --- | --- |
+| [03:30](https://www.youtube.com/watch?v=7RrgQCkl53Q&t=210s) | LinkedIn content as a freemium model |
+| [08:55](https://www.youtube.com/watch?v=7RrgQCkl53Q&t=535s) | LinkedIn as acquisition |
+| [11:40](https://www.youtube.com/watch?v=7RrgQCkl53Q&t=700s) | Sharing work and learning publicly |
+| [28:00](https://www.youtube.com/watch?v=7RrgQCkl53Q&t=1680s) | B2B acquisition and PLG |
+| [34:50](https://www.youtube.com/watch?v=7RrgQCkl53Q&t=2090s) | Sales incentives in PLG |
+| [39:15](https://www.youtube.com/watch?v=7RrgQCkl53Q&t=2355s) | Growth teams with sales capabilities |
+
+### B2B Growth and Strategy
+
+- Host: Shyvee Shi
+- Upload date: 2023-09-26
+- Duration: 37:15
+- Video: [YouTube](https://www.youtube.com/watch?v=9jmqYwFQwbw)
+
+| Time | Topic |
+| --- | --- |
+| [09:20](https://www.youtube.com/watch?v=9jmqYwFQwbw&t=560s) | Why PLG is not new |
+| [10:23](https://www.youtube.com/watch?v=9jmqYwFQwbw&t=623s) | SurveyMonkey's product-led origin |
+| [11:41](https://www.youtube.com/watch?v=9jmqYwFQwbw&t=701s) | Placing growth according to the growth model |
+| [13:25](https://www.youtube.com/watch?v=9jmqYwFQwbw&t=805s) | Freemium and entry barriers |
+| [17:11](https://www.youtube.com/watch?v=9jmqYwFQwbw&t=1031s) | Product-Market Fit, data, then growth |
+| [19:40](https://www.youtube.com/watch?v=9jmqYwFQwbw&t=1180s) | Frameworks rather than hacks |
+
+### From Senior VP to Solopreneur
+
+- Host: Peter Yang
+- Upload date: 2024-03-24
+- Duration: 36:26
+- Video: [YouTube](https://www.youtube.com/watch?v=tCvcBOnm6q8)
+
+| Time | Topic |
+| --- | --- |
+| [03:00](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=180s) | Finding exponential career paths |
+| [09:59](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=599s) | Advisory roles |
+| [12:33](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=753s) | Starting an advisory practice |
+| [18:19](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=1099s) | Applying growth loops to a solo business |
+| [22:18](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=1338s) | Five growth laws applied to careers |
+| [28:31](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=1711s) | Building career optionality |
+| [31:29](https://www.youtube.com/watch?v=tCvcBOnm6q8&t=1889s) | Positioning an advisory business |
+
+### The Next Evolution of Product-Led Growth
+
+- Event: Product Drive 2025
+- Uploaded by: Userpilot
+- Upload date: 2025-10-08
+- Duration: 47:09
+- Video: [YouTube](https://www.youtube.com/watch?v=xo5KiqpC26c)
+
+| Time | Topic |
+| --- | --- |
+| [06:47](https://www.youtube.com/watch?v=xo5KiqpC26c&t=407s) | Dropbox's product acquisition loop |
+| [07:48](https://www.youtube.com/watch?v=xo5KiqpC26c&t=468s) | Lovable's word-of-mouth loop |
+| [11:31](https://www.youtube.com/watch?v=xo5KiqpC26c&t=691s) | Product organizations owning growth |
+| [19:56](https://www.youtube.com/watch?v=xo5KiqpC26c&t=1196s) | Data as moat and distribution |
+| [20:51](https://www.youtube.com/watch?v=xo5KiqpC26c&t=1251s) | Brand as a product exercise |
+| [22:33](https://www.youtube.com/watch?v=xo5KiqpC26c&t=1353s) | Integrations and partnerships |
+| [33:51](https://www.youtube.com/watch?v=xo5KiqpC26c&t=2031s) | SEO and answer-engine visibility |
+
+### Why Growth Playbooks Are Crumbling and What Comes Next
+
+- Event: ProductCon
+- Uploaded by: Product School
+- Upload date: 2025-10-14
+- Duration: 26:35
+- Video: [YouTube](https://www.youtube.com/watch?v=Vc6ij1ilhwc)
+
+| Time | Topic |
+| --- | --- |
+| [08:27](https://www.youtube.com/watch?v=Vc6ij1ilhwc&t=507s) | Data availability and competition |
+| [11:41](https://www.youtube.com/watch?v=Vc6ij1ilhwc&t=701s) | Dependence on SEO-led acquisition |
+| [16:25](https://www.youtube.com/watch?v=Vc6ij1ilhwc&t=985s) | Why SEO and SEM alone are insufficient |
+| [19:56](https://www.youtube.com/watch?v=Vc6ij1ilhwc&t=1196s) | Data as moat and distribution |
+| [20:51](https://www.youtube.com/watch?v=Vc6ij1ilhwc&t=1251s) | Brand as product responsibility |
+| [22:33](https://www.youtube.com/watch?v=Vc6ij1ilhwc&t=1353s) | Integrations and partnerships |
+
 ## How to Apply the Method
 
 1. Map the current growth model across acquisition, activation, retention, monetization, and expansion.
@@ -317,6 +433,8 @@ The boundaries among product, design, engineering, and growth are becoming less 
 10. For AI products, measure trust and credible proof alongside activation and revenue.
 11. Track how quickly feature advantages decay and invest in harder-to-copy assets.
 12. Automate routine growth work, then reinvest the time in customers, strategy, and building.
+13. Decompose monetization into payer, value, timing, pricing metric, and friction.
+14. Build discovery across SEO, AEO/GEO, brand, data, communities, integrations, and partnerships.
 
 ## Limitations and Caveats
 
@@ -338,9 +456,16 @@ The boundaries among product, design, engineering, and growth are becoming less 
 6. [Lovable Head of Growth on the new AI-native growth playbook - Product School](https://www.youtube.com/watch?v=8wLXHrZVOys): moving PMF, activation ownership, retention, brand, and velocity. Accessed 2026-07-20.
 7. [Why PMs who can't build will get left behind - Atlassian](https://www.youtube.com/watch?v=kyTzrrxTxx4): AI fluency, product builders, role convergence, customer contact, vision, and distribution. Accessed 2026-07-20.
 8. [Feature differentiation is dead: what actually wins now - SaaStr AI](https://www.youtube.com/watch?v=kdHU-jPxDHw): AI-era moats, brand, freemium, flat organizations, direct building, and PMF velocity. Accessed 2026-07-20.
+9. [Growth frameworks for acquisition, monetization, and retention - Amplitude](https://www.youtube.com/watch?v=9FHYtjw6mjs): monetization strategy, friction, use cases, experimentation, and governance. Accessed 2026-07-20.
+10. [Growth Hobbyist - ProducTea with Leah](https://www.youtube.com/watch?v=7RrgQCkl53Q): content acquisition, public learning, B2B PLG, and sales capabilities. Accessed 2026-07-20.
+11. [B2B growth and strategy - Shyvee Shi](https://www.youtube.com/watch?v=9jmqYwFQwbw): PLG, growth organization, freemium, PMF, data, and frameworks. Accessed 2026-07-20.
+12. [The journey from Senior VP to solopreneur - Peter Yang](https://www.youtube.com/watch?v=tCvcBOnm6q8): advisory work, career loops, optionality, and positioning. Accessed 2026-07-20.
+13. [The next evolution of PLG - Userpilot](https://www.youtube.com/watch?v=xo5KiqpC26c): product loops, data, brand, partnerships, and answer-engine discovery. Accessed 2026-07-20.
+14. [Why growth playbooks are crumbling - Product School](https://www.youtube.com/watch?v=Vc6ij1ilhwc): SEO, AEO, data, brand, integrations, and AI-era distribution. Accessed 2026-07-20.
 
 ## Related Playbook Content
 
 - [Lovable: Earned Growth and Product Launches](../../cases/lovable-earned-growth/README.md)
 - [Lovable company page](../../companies/lovable/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
+- [The Complete Guide to GEO](../../../handbook/geo/README.md)
