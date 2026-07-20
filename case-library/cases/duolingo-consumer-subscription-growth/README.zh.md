@@ -103,6 +103,7 @@ Cheng 把游戏化分为核心循环、长期 Meta Game 和用户 Profile 或身
 ## 来源
 
 - [Gina Gotthilf：订阅增长、自然品牌与国际化](https://www.youtube.com/watch?v=sWClFYdbkRA)
+- [Gina Gotthilf：早期国际化范围、通知实验与增长领导职责](https://www.youtube.com/watch?v=RS1eZibxq9k)
 - [Albert Cheng：Explore-Exploit、留存、实验与游戏化](https://www.youtube.com/watch?v=2BKmNmnEj9w)
 
 ## 相关内容

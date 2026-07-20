@@ -103,6 +103,7 @@ The guardrail is learning value. If users optimize points while avoiding meaning
 ## Sources
 
 - [Gina Gotthilf: subscription growth, organic brand, and internationalization](https://www.youtube.com/watch?v=sWClFYdbkRA)
+- [Gina Gotthilf: early international scope, notification experiments, and growth leadership](https://www.youtube.com/watch?v=RS1eZibxq9k)
 - [Albert Cheng: explore-exploit, retention, experiments, and gamification](https://www.youtube.com/watch?v=2BKmNmnEj9w)
 
 ## Related Content

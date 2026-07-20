@@ -41,6 +41,14 @@ Duolingo 的 TikTok 展示了如何适应平台形式和文化。团队仍要把
 
 市场扩张涉及本地需求、语言、渠道、支付、设备条件、文化和运营优先级。逐字翻译不能保证定位或引导在新市场有效。
 
+### 6. 用已经证明的结果扩大职责范围
+
+Gotthilf 表示，她加入 Duolingo 时首先负责巴西，随后随着市场工作产生结果，继续负责阿根廷、墨西哥、欧洲，并最终承担增长领导职责。更普遍的原则是：先在边界明确的领域证明学习与影响，再扩大范围。
+
+### 7. 深挖显著的负向结果
+
+在工程资源有限时，她的早期增长工作重新测试了已被认为充分优化的通知。她认为，具有统计意义的负向结果可能揭示用户高度敏感的关键时刻。团队应先撤回有害变化，再研究这个时刻为什么重要，而不是把实验视为毫无价值。
+
 ## 演讲索引
 
 ### Scaling Duolingo, Embracing Failure, and Latin America's Tech Scene
@@ -63,9 +71,26 @@ Duolingo 的 TikTok 展示了如何适应平台形式和文化。团队仍要把
 | [56:31](https://www.youtube.com/watch?v=sWClFYdbkRA&t=3391s) | Duolingo 的 TikTok |
 | [59:02](https://www.youtube.com/watch?v=sWClFYdbkRA&t=3542s) | 国际化经验 |
 
+### How I Became Duolingo's Head of Growth
+
+- 节目：20VC with Harry Stebbings
+- 上传日期：2023-11-07
+- 时长：2:38
+- 视频：[YouTube](https://www.youtube.com/watch?v=RS1eZibxq9k)
+
+| 时间 | 主题 |
+| --- | --- |
+| [00:00](https://www.youtube.com/watch?v=RS1eZibxq9k&t=0s) | 从巴西扩展到更多市场 |
+| [00:32](https://www.youtube.com/watch?v=RS1eZibxq9k&t=32s) | 从国际化增长转向增长领导职责 |
+| [00:55](https://www.youtube.com/watch?v=RS1eZibxq9k&t=55s) | 在两人团队中学习增长 |
+| [1:10](https://www.youtube.com/watch?v=RS1eZibxq9k&t=70s) | 在资源限制下重新测试通知 |
+| [1:47](https://www.youtube.com/watch?v=RS1eZibxq9k&t=107s) | 加倍投入高信号的关键节点 |
+| [1:59](https://www.youtube.com/watch?v=RS1eZibxq9k&t=119s) | 从具有统计意义的负向结果中学习 |
+
 ## 证据与局限
 
 - 公司实践通过 Gotthilf 的参与者视角呈现。
+- 20VC 短视频压缩了更长的职业与实验经历，没有提供完整任职日期、实验设计或底层指标。
 - 自然触达和订阅增长本身不能证明某项单独策略造成结果。
 - Duolingo 的品牌许可度、品类、产品习惯和规模使直接模仿具有风险。
 
