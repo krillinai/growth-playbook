@@ -8,6 +8,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 
 - [Alex Schultz](people/alex-schultz/README.md): Meta's first Chief Data Officer; retention, Magic Moments, growth accounting, North Star Metrics, data systems, and acquisition methods.
 - [Chamath Palihapitiya](people/chamath-palihapitiya/README.md): Former Facebook growth leader whose methods focus on core product value, Aha Moments, key behavior metrics, and growth team design.
+- [Elena Verna](people/elena-verna/README.md): Cross-company growth operator focused on PLG, PLS, monetization, growth models, earned distribution, and experimentation.
 - [Naomi Gleit](people/naomi-gleit/README.md): Meta Head of Product; activation, retention, onboarding, instrumentation, experimentation, and clear product operations.
 
 ## Case Studies

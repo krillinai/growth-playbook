@@ -10,4 +10,5 @@
 | --- | --- | --- | --- |
 | Alex Schultz | Meta 首任 Chief Data Officer；前 CMO 和 VP of Analytics | 留存、Magic Moment、增长会计、北极星指标、数据与实验 | [查看](alex-schultz/README.zh.md) |
 | Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [查看](chamath-palihapitiya/README.zh.md) |
+| Elena Verna | 曾负责 SurveyMonkey、Miro、Amplitude、Dropbox 与 Lovable 增长 | PLG、PLS、商业化、增长模型、自然分发与实验 | [查看](elena-verna/README.zh.md) |
 | Naomi Gleit | Meta Head of Product；Facebook 早期增长产品经理 | 激活、留存、新用户引导、数据埋点、实验与产品领导 | [查看](naomi-gleit/README.zh.md) |
