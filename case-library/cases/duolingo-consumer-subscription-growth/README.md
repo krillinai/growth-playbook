@@ -12,7 +12,7 @@
 | Period covered | Practices discussed in 2023 and 2025 |
 | Growth problem | Convert broad free usage into durable learning engagement and subscription value |
 | Main mechanisms | Organic acquisition, internationalization, brand, subscription levers, experimentation, retention, resurrection, gamification |
-| Participant perspectives | Gina Gotthilf and Albert Cheng |
+| Participant perspectives | Luis von Ahn, Gina Gotthilf, Albert Cheng, and Jackson Shuttleworth |
 
 ## Case Summary
 
@@ -84,6 +84,14 @@ The system also illustrates why habit mechanics need guardrails. Recovery should
 
 Shuttleworth discusses more than 600 streak-related experiments. That is a participant-reported measure of iteration depth, not causal proof that experiment volume or streaks alone produced company growth.
 
+## 8. Connect Access, Motivation, and Monetization
+
+Luis von Ahn frames Duolingo's system around broad access to education. Freemium creates reach, motivation mechanics support repeated practice, and subscriptions plus advertising fund the product. These layers constrain one another: aggressive monetization can weaken access, while engagement that does not improve practice fails the educational job.
+
+The company also extends its product personality into brand distribution. The owl, playful reminders, and platform-native content are coherent when they point users back to the product. Public attention remains an acquisition input, not evidence of learning, retention, or subscription quality.
+
+AI may expand content and interaction, but generated volume should be evaluated through accuracy, learning outcomes, trust, and retained use rather than production speed alone.
+
 ## Transferable Method
 
 1. Decompose subscription growth into acquisition, activation, conversion, retention, and revenue quality.
@@ -94,6 +102,7 @@ Shuttleworth discusses more than 600 streak-related experiments. That is a parti
 6. Map each gamification mechanic to a real value-producing behavior.
 7. Use guardrails for learning quality, trust, notification fatigue, and cancellation.
 8. Make streak rules clear, allow limited recovery, and measure whether the counted behavior predicts durable value.
+9. Define how free value, paid value, advertising, and serving cost sustain one another without undermining the product mission.
 
 ## What Not to Copy Directly
 
@@ -114,6 +123,10 @@ Shuttleworth discusses more than 600 streak-related experiments. That is a parti
 - [Gina Gotthilf: subscription growth, organic brand, and internationalization](https://www.youtube.com/watch?v=sWClFYdbkRA)
 - [Gina Gotthilf: early international scope, notification experiments, and growth leadership](https://www.youtube.com/watch?v=RS1eZibxq9k)
 - [Jackson Shuttleworth: Duolingo streaks, retention mechanics, notifications, and experimentation](https://www.youtube.com/watch?v=_CCwoQZH5hI)
+- [Luis von Ahn: education access, freemium, and motivation design](https://www.youtube.com/watch?v=P6FORpg0KVo)
+- [Luis von Ahn: company history, leadership, culture, AI, and gamification](https://www.youtube.com/watch?v=ZgmOAqrDzus)
+- [Luis von Ahn: brand, habit loops, organization, and AI](https://www.youtube.com/watch?v=wMUIFD2KXDc)
+- [Luis von Ahn: Duolingo's origin, monetization, and team culture](https://www.youtube.com/watch?v=ri-tzZcGYk0)
 - [Albert Cheng: explore-exploit, retention, experiments, and gamification](https://www.youtube.com/watch?v=2BKmNmnEj9w)
 
 ## Related Content
@@ -122,3 +135,4 @@ Shuttleworth discusses more than 600 streak-related experiments. That is a parti
 - [Gina Gotthilf](../../people/gina-gotthilf/README.md)
 - [Albert Cheng](../../people/albert-cheng/README.md)
 - [Jackson Shuttleworth](../../people/jackson-shuttleworth/README.md)
+- [Luis von Ahn](../../people/luis-von-ahn/README.md)

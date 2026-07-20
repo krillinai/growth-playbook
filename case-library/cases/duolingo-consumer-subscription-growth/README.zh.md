@@ -12,7 +12,7 @@
 | 覆盖时期 | 2023 年与 2025 年访谈讨论的实践 |
 | 增长问题 | 把广泛免费使用转化成持续学习参与和订阅价值 |
 | 主要机制 | 自然获客、国际化、品牌、订阅杠杆、实验、留存、召回与游戏化 |
-| 参与者视角 | Gina Gotthilf、Albert Cheng |
+| 参与者视角 | Luis von Ahn、Gina Gotthilf、Albert Cheng、Jackson Shuttleworth |
 
 ## 案例摘要
 
@@ -84,6 +84,14 @@ Jackson Shuttleworth 的叙述表明，Duolingo 的 Streak 不只是连续天数
 
 Shuttleworth 讨论了超过 600 次 Streak 相关实验。这是参与者报告的迭代深度，不能证明实验数量或 Streak 单独造成了公司增长。
 
+## 8. 连接可及性、动机与商业化
+
+Luis von Ahn 围绕广泛提供教育机会理解 Duolingo 的系统。Freemium 创造覆盖，动机机制支持重复练习，订阅和广告为产品提供资金。这些层次会相互约束：激进商业化可能削弱可及性，不能改善练习的参与也没有完成教育任务。
+
+公司还把产品人格延伸到品牌分发。猫头鹰、趣味提醒和平台原生内容在把用户带回产品时具有一致性。公共关注仍只是获客输入，不是学习、留存或订阅质量的证据。
+
+AI 可能扩大内容和互动，但生成数量需要通过准确性、学习结果、信任和持续使用评估，而不能只看生产速度。
+
 ## 可以迁移的方法
 
 1. 把订阅增长拆成获客、激活、转化、留存和收入质量。
@@ -94,6 +102,7 @@ Shuttleworth 讨论了超过 600 次 Streak 相关实验。这是参与者报告
 6. 把每项游戏化机制映射到创造真实价值的行为。
 7. 为学习质量、信任、通知疲劳和取消设置护栏。
 8. 保持 Streak 规则清晰，提供有限恢复，并验证被计数行为能否预测持续价值。
+9. 明确免费价值、付费价值、广告和服务成本如何相互支持，同时不破坏产品使命。
 
 ## 不应该直接复制的部分
 
@@ -114,6 +123,10 @@ Shuttleworth 讨论了超过 600 次 Streak 相关实验。这是参与者报告
 - [Gina Gotthilf：订阅增长、自然品牌与国际化](https://www.youtube.com/watch?v=sWClFYdbkRA)
 - [Gina Gotthilf：早期国际化范围、通知实验与增长领导职责](https://www.youtube.com/watch?v=RS1eZibxq9k)
 - [Jackson Shuttleworth：Duolingo Streak、留存机制、通知与实验](https://www.youtube.com/watch?v=_CCwoQZH5hI)
+- [Luis von Ahn：教育普惠、Freemium 与动机设计](https://www.youtube.com/watch?v=P6FORpg0KVo)
+- [Luis von Ahn：公司历程、领导、文化、AI 与游戏化](https://www.youtube.com/watch?v=ZgmOAqrDzus)
+- [Luis von Ahn：品牌、习惯循环、组织与 AI](https://www.youtube.com/watch?v=wMUIFD2KXDc)
+- [Luis von Ahn：Duolingo 起点、商业化与团队文化](https://www.youtube.com/watch?v=ri-tzZcGYk0)
 - [Albert Cheng：Explore-Exploit、留存、实验与游戏化](https://www.youtube.com/watch?v=2BKmNmnEj9w)
 
 ## 相关内容
@@ -122,3 +135,4 @@ Shuttleworth 讨论了超过 600 次 Streak 相关实验。这是参与者报告
 - [Gina Gotthilf](../../people/gina-gotthilf/README.zh.md)
 - [Albert Cheng](../../people/albert-cheng/README.zh.md)
 - [Jackson Shuttleworth](../../people/jackson-shuttleworth/README.zh.md)
+- [Luis von Ahn](../../people/luis-von-ahn/README.zh.md)

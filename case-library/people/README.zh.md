@@ -15,6 +15,7 @@
 | Gina Gotthilf | 曾参与 Duolingo 增长与国际化 | 自然增长、品牌、订阅、国际化与实验 | [查看](gina-gotthilf/README.zh.md) |
 | Jackson Shuttleworth | Duolingo 留存团队 Group Product Manager | 留存、Streak、习惯、通知、恢复机制与实验 | [查看](jackson-shuttleworth/README.zh.md) |
 | Lauryn Isford | Airtable Head of Growth | 新用户引导、激活、分群、协作指标与 PLG 漏斗 | [查看](lauryn-isford/README.zh.md) |
+| Luis von Ahn | Duolingo 联合创始人兼 CEO；CAPTCHA 发明者、reCAPTCHA 共同发明者 | 教育普惠、Freemium、动机、游戏化、品牌、文化与 AI | [查看](luis-von-ahn/README.zh.md) |
 | Naomi Gleit | Meta Head of Product；Facebook 早期增长产品经理 | 激活、留存、新用户引导、数据埋点、实验与产品领导 | [查看](naomi-gleit/README.zh.md) |
 | Sean Ellis | 曾参与 LogMeIn、Dropbox、Eventbrite 与 Lookout 早期增长；GrowthHackers 创始人 | PMF Test、激活、北极星指标、ICE 与高频实验 | [查看](sean-ellis/README.zh.md) |
 | Zoelle Egner | 曾参与 Airtable 增长与营销 | 客户洞察、客户成功、品牌、模板与产品营销 | [查看](zoelle-egner/README.zh.md) |
