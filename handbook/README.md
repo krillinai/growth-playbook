@@ -34,6 +34,22 @@ Payers, value metrics, packaging, unit economics, retained revenue, and payback.
 
 Loop mechanics, recipient value, retention-adjusted propagation, incrementality, and guardrails.
 
+### [Experimentation](experimentation/README.md)
+
+Decision hypotheses, effect measurement, uncertainty, guardrails, and reusable learning.
+
+### [Growth Infrastructure](growth-infrastructure/README.md)
+
+Reusable data, decision, delivery, creative, and governance capabilities.
+
+### [Incentive Growth](incentive-growth/README.md)
+
+Incremental behavior, reward economics, post-incentive retention, fraud, and cannibalization.
+
+### [Growth Organization](growth-organization/README.md)
+
+Outcome ownership, decision rights, cross-functional capabilities, and learning systems.
+
 ## Roadmap
 
 Future directions are listed in the repository [Roadmap](../ROADMAP.md). A planned topic does not imply a fixed release date or final directory structure.

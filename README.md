@@ -62,6 +62,7 @@ The **Handbook** follows the growth journey, the **Case Library** preserves peop
 | **Retention & Expansion** | How users stay, return, deepen usage, and expand | ● [Retention](handbook/retention/README.md)<br>○ Lifecycle Marketing · Email · Churn Prevention · Community |
 | **Monetization** | How customer value becomes durable, profitable revenue | ● [Monetization](handbook/monetization/README.md)<br>○ Pricing · Revenue Models · Upsell · Profitable Growth |
 | **Referral & Growth Loops** | How users and product activity create compounding distribution | ● [Referral & Growth Loops](handbook/referral-and-loops/README.md)<br>○ UGC · Virality · Product Loops · Advocacy |
+| **Growth Capabilities** | Systems that support decisions and execution across every growth stage | ● [Metrics](handbook/metrics/README.md)<br>● [Experimentation](handbook/experimentation/README.md)<br>● [Growth Infrastructure](handbook/growth-infrastructure/README.md)<br>● [Incentive Growth](handbook/incentive-growth/README.md)<br>● [Growth Organization](handbook/growth-organization/README.md) |
 
 ## Case Library
 

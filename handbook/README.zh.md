@@ -34,6 +34,22 @@
 
 覆盖循环机制、接收者价值、留存调整扩散、增量与护栏。
 
+### [实验系统](experimentation/README.zh.md)
+
+覆盖决策假设、效应衡量、不确定性、护栏与可复用学习。
+
+### [增长基础设施](growth-infrastructure/README.zh.md)
+
+覆盖可复用的数据、决策、交付、素材与治理能力。
+
+### [激励增长](incentive-growth/README.zh.md)
+
+覆盖增量行为、奖励经济性、激励后留存、作弊与蚕食。
+
+### [增长组织](growth-organization/README.zh.md)
+
+覆盖结果责任、决策权、跨职能能力与学习系统。
+
 ## 规划中
 
 后续内容方向记录在仓库的 [Roadmap](../ROADMAP.md) 中。规划中的主题不代表已经确定发布时间或最终目录结构。
