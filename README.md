@@ -52,43 +52,35 @@ Status: `●` available · `○` planned
 
 The **Handbook** follows the growth journey, the **Case Library** preserves people, ideas, companies, and real-world cases, and the **Toolkit** connects methods to tools and Growth Skills. Solid dots identify current content; hollow dots show the intended structure.
 
-## Published
+## Handbook
 
-### [GEO: The Complete Guide to Generative Engine Optimization](handbook/geo/README.md)
+| Area | What it covers | Modules and index |
+| --- | --- | --- |
+| **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experiments, positioning, and PMF | ● [Growth Metrics System](handbook/metrics/README.zh.md) · [AI Agent Metrics Guide](handbook/metrics/agent-guide.zh.md) (Chinese)<br>○ Lifecycle · Funnels · Growth Loops · Experiments · Positioning · PMF |
+| **Acquisition** | How the right audience discovers and reaches the product | ● [GEO Guide](handbook/geo/README.md) · [中文](handbook/geo/README.zh.md)<br>○ SEO · Content · Social · Community · Partnerships · Paid Acquisition |
+| **Activation & Conversion** | How new users reach value and take the next meaningful action | ○ Onboarding · CRO · Landing Pages · Offers · Time to Value |
+| **Retention & Expansion** | How users stay, return, deepen usage, and expand | ○ Retention · Lifecycle Marketing · Email · Churn Prevention · Community |
+| **Monetization** | How customer value becomes durable, profitable revenue | ○ Pricing · Revenue Models · LTV · Payback · Upsell · Profitable Growth |
+| **Referral & Growth Loops** | How users and product activity create compounding distribution | ○ Referrals · UGC · Virality · Product Loops · Advocacy |
 
-Learn how to improve the visibility, credibility, and citation rate of brands and content across products such as ChatGPT, Claude, Gemini, and Perplexity.
+## Case Library
 
-The guide covers:
+| Collection | What belongs here | Index |
+| --- | --- | --- |
+| **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | ○ People index |
+| **Case Studies** | A single growth problem, the decisions made, execution, evidence, and lessons | ○ Case index |
+| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | ○ Company index |
 
-- how AI search works;
-- core GEO concepts and metrics;
-- content optimization for AI systems;
-- brand authority and external citations;
-- structured data and technical implementation;
-- GEO tools, monitoring, and performance analysis.
+## Toolkit
 
-### [Growth Metrics System](handbook/metrics/README.zh.md) (Chinese)
+| Collection | What belongs here | Index |
+| --- | --- | --- |
+| **Tools** | Growth and marketing tools organized by job, stage, and use case | ○ Tool directory |
+| **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | ○ Skills index |
+| **Workflows** | Repeatable combinations of handbook methods, tools, and Skills | ○ Workflow index |
 
-A practical framework for North Star Metrics, business health, acquisition, activation, retention, revenue, experiments, guardrails, and weekly growth reviews. It also includes a separate [AI Agent metrics guide](handbook/metrics/agent-guide.zh.md).
-
-## Long-Term Structure
-
-The handbook will expand around a continuous growth loop:
-
-1. **Strategy and knowledge:** markets, users, positioning, value propositions, and growth models;
-2. **Content production:** research, planning, creation, localization, and repurposing;
-3. **Marketing and distribution:** SEO, GEO, social media, communities, email, partnerships, and paid acquisition;
-4. **Analytics and optimization:** metrics, attribution, experiments, reviews, and scaling.
-
-These are planned directions, not claims that every module is already complete. See the [Roadmap](ROADMAP.md) for the current status.
-
-## Start Reading
-
-- [Handbook module index](handbook/README.md)
-- [GEO guide in English](handbook/geo/README.md)
-- [GEO 中文完全指南](handbook/geo/README.zh.md)
-- [增长指标体系](handbook/metrics/README.zh.md) (Chinese)
+See the [Roadmap](ROADMAP.md) for how this structure will grow as complete material is added.
 
 ## Contributing
 
-Growth & Marketing Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth and marketing topics, practical examples, data, and improvements to published modules.
+Growth & Marketing Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth and marketing topics, practical examples, data, and improvements to existing modules.
