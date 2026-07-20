@@ -1,4 +1,4 @@
-# Xu Hongliang (徐宏亮)
+# Xu Hongliang (徐洪亮)
 
 > Former ByteDance user-growth practitioner whose accounts connect international growth, paid acquisition, LTV modeling, automation, creative production, risk control, incentives, and growth-platform organization.
 
@@ -8,7 +8,7 @@
 
 | Field | Details |
 | --- | --- |
-| Name | Xu Hongliang (徐宏亮) |
+| Name | Xu Hongliang (徐洪亮) |
 | Name used in interviews | Tom |
 | Representative experience | Joined ByteDance in 2019; worked on international business in the growth platform, with substantial focus on TikTok |
 | Main themes | UG platform, LTV, attribution, paid acquisition, automation, creative systems, risk control, globalization, incentives |
