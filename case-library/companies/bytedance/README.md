@@ -8,7 +8,7 @@
 
 ByteDance operates consumer content and AI products across multiple markets. The current coverage studies how user growth was described as a reusable organizational capability rather than a collection of isolated campaigns.
 
-The evidence centers on two 2026 interviews with former growth practitioner Xu Hongliang. It covers historical practices across Toutiao, Douyin, TikTok, Lite products, Fanqie Novel, Red Fruit Short Drama, and Doubao, but does not represent a complete or current company account.
+The evidence combines two 2026 interviews with former growth practitioner Xu Hongliang and an archived 2014 interview with founder Zhang Yiming. It covers early Toutiao and historical practices across Douyin, TikTok, Lite products, Fanqie Novel, Red Fruit Short Drama, and Doubao, but does not represent a complete or current company account.
 
 ## Growth Themes
 
@@ -48,7 +48,12 @@ Product value and retention
 
 ## Evidence and Limits
 
-- Current coverage relies on one former participant and publisher-provided episode timelines.
+- Current coverage combines one former growth participant's retrospective account, publisher-provided episode timelines, and a contemporaneous founder interview from 2014.
+- The 2014 interview is available through a 2024 YouTube archive upload without captions or chapters; recording context and exact segment boundaries are limited.
 - Reported company metrics, budgets, thresholds, and outcomes are treated as claims, not causal proof.
 - Product quality, recommendation systems, timing, capital, content supply, regulation, teams, and competitors also shaped outcomes.
 - Methods developed at ByteDance's scale may require infrastructure and risk capacity unavailable to smaller companies.
+
+## Additional Source
+
+- [2014 interview with Zhang Yiming on Toutiao's early growth and the market window](https://www.youtube.com/watch?v=pceoZc7QOpo), archived on YouTube on 2024-08-09, duration 43:37.

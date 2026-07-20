@@ -12,7 +12,7 @@
 | Period discussed | Historical practices from the 2010s through the mid-2020s |
 | Growth problem | Coordinate acquisition and lifecycle growth across products, channels, and countries at large scale |
 | Main mechanisms | Predictive LTV, ROI horizons, delivery automation, creative operations, attribution, risk control, shared SDKs, local teams |
-| Participant perspective | Xu Hongliang, former ByteDance growth practitioner |
+| Source perspectives | Xu Hongliang, former ByteDance growth practitioner; Zhang Yiming, founder, in an archived 2014 interview |
 
 ## Case Summary
 
@@ -34,6 +34,8 @@ The sequence is an editorial reconstruction of Xu Hongliang's account, not an of
 ## 1. Treat Growth as an Experimental Capability
 
 Xu contrasts a product company that runs campaigns with an experimental company that repeatedly changes product, distribution, and operations based on evidence. Growth cannot rescue a product without value, but it can help a working product reach its market faster and learn where the constraint lies.
+
+An archived 2014 interview provides a nearer-to-the-period founder perspective on Toutiao's early growth. Zhang Yiming attributes the opportunity partly to the era and market window. That framing complements the later infrastructure account: organizational capability matters, but timing, mobile adoption, distribution conditions, and product-market fit cannot be removed from the explanation.
 
 ## 2. Forecast Value Beyond the Immediate Payback Window
 
@@ -111,6 +113,7 @@ The transferable part is the learning system: measure retained value, model cost
 
 ## Source Index
 
+- [2014 Zhang Yiming interview: Toutiao's early growth and the market window](https://www.youtube.com/watch?v=pceoZc7QOpo), 43:37; archived upload without chapters or captions.
 - [04:53: predictive LTV and ROI horizons](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=293s)
 - [19:46: UG as a shared platform](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=1186s)
 - [38:42: automated acquisition](https://www.youtube.com/watch?v=qcCGl3EKrnE&t=2322s)
