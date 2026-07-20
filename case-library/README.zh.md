@@ -16,13 +16,16 @@
 ## [案例解析](cases/README.zh.md)
 
 - [Airtable 激活与早期增长](cases/airtable-activation-growth/README.zh.md)：客户洞察、模板、分群引导与协作指标如何支持产品采用。
+- [字节跳动增长基础设施](cases/bytedance-growth-infrastructure/README.zh.md)：价值模型、自动化、素材系统、风控、共享服务与本地化如何形成增长平台。
+- [字节跳动激励增长](cases/bytedance-incentive-growth/README.zh.md)：红包、裂变、优惠券、极速版与反作弊如何相互作用。
 - [Duolingo 消费订阅增长](cases/duolingo-consumer-subscription-growth/README.zh.md)：自然触达、国际化、订阅、留存与游戏化如何形成消费增长系统。
 - [Facebook 早期增长](cases/facebook-early-growth/README.zh.md)：产品价值、好友连接、激活、留存、数据、实验和国际化如何形成增长系统。
-- [Lovable：自然增长与产品发布](cases/lovable-earned-growth/README.zh.md)：信任、员工参与、产品建设和自然分发如何在付费扩张前彼此加强。
+- [查看更多](cases/README.zh.md)
 
 ## [公司](companies/README.zh.md)
 
 - [Airtable](companies/airtable/README.zh.md)：客户驱动营销、模板、新用户引导、激活与协作采用。
+- [字节跳动](companies/bytedance/README.zh.md)：增长中台、LTV、投放自动化、素材系统、风控、国际化与激励。
 - [Duolingo](companies/duolingo/README.zh.md)：自然增长、国际化、订阅、实验、留存与游戏化。
 - [Facebook / Meta](companies/facebook/README.zh.md)：校园扩张、激活、留存、实验、国际化与多产品增长。
 - [Lovable](companies/lovable/README.zh.md)：连接 AI 产品增长、信任、自然分发、产品发布、商业化与相关证据。

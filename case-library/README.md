@@ -16,13 +16,16 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 ## [Case Studies](cases/README.md)
 
 - [Airtable Activation and Early Growth](cases/airtable-activation-growth/README.md): how customer insight, templates, segmented onboarding, and collaboration metrics support adoption.
+- [ByteDance Growth Infrastructure](cases/bytedance-growth-infrastructure/README.md): how value models, automation, creative systems, risk control, shared services, and localization form a growth platform.
+- [ByteDance Incentive Growth](cases/bytedance-incentive-growth/README.md): how red packets, referrals, coupons, Lite products, and anti-abuse controls interact.
 - [Duolingo Consumer Subscription Growth](cases/duolingo-consumer-subscription-growth/README.md): how organic reach, internationalization, subscriptions, retention, and gamification form a consumer growth system.
 - [Facebook Early Growth](cases/facebook-early-growth/README.md): how product value, friend connections, activation, retention, data, experimentation, and internationalization became a growth system.
-- [Lovable: Earned Growth and Product Launches](cases/lovable-earned-growth/README.md): how trust, employee participation, product building, and earned distribution reinforce one another before paid scale.
+- [View more](cases/README.md)
 
 ## [Companies](companies/README.md)
 
 - [Airtable](companies/airtable/README.md): customer-led marketing, templates, onboarding, activation, and collaborative adoption.
+- [ByteDance](companies/bytedance/README.md): growth platform, LTV, acquisition automation, creative systems, risk control, globalization, and incentives.
 - [Duolingo](companies/duolingo/README.md): organic growth, internationalization, subscriptions, experimentation, retention, and gamification.
 - [Facebook / Meta](companies/facebook/README.md): campus expansion, activation, retention, experimentation, internationalization, and multi-product growth.
 - [Lovable](companies/lovable/README.md): AI product growth, trust, earned distribution, launches, monetization, and related evidence.

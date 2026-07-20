@@ -19,3 +19,4 @@
 | Naomi Gleit | Meta Head of Product；Facebook 早期增长产品经理 | 激活、留存、新用户引导、数据埋点、实验与产品领导 | [查看](naomi-gleit/README.zh.md) |
 | Sean Ellis | 曾参与 LogMeIn、Dropbox、Eventbrite 与 Lookout 早期增长；GrowthHackers 创始人 | PMF Test、激活、北极星指标、ICE 与高频实验 | [查看](sean-ellis/README.zh.md) |
 | Zoelle Egner | 曾参与 Airtable 增长与营销 | 客户洞察、客户成功、品牌、模板与产品营销 | [查看](zoelle-egner/README.zh.md) |
+| 徐宏亮 | 字节跳动前国际化用户增长实践者 | 增长中台、LTV、投放自动化、素材系统、风控、国际化与激励 | [查看](xu-hongliang/README.zh.md) |

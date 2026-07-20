@@ -19,3 +19,4 @@ This section documents growth practitioners, their experience, methods, represen
 | Naomi Gleit | Meta Head of Product; early Facebook growth product manager | Activation, retention, onboarding, instrumentation, experimentation, product leadership | [Profile](naomi-gleit/README.md) |
 | Sean Ellis | Early growth leader at LogMeIn, Dropbox, Eventbrite, and Lookout; GrowthHackers founder | PMF Test, activation, North Star Metrics, ICE, high-tempo experimentation | [Profile](sean-ellis/README.md) |
 | Zoelle Egner | Growth and marketing work at Airtable | Customer insight, customer success, brand, templates, and product marketing | [Profile](zoelle-egner/README.md) |
+| Xu Hongliang | Former ByteDance international user-growth practitioner | Growth platforms, LTV, acquisition automation, creative systems, risk control, globalization, and incentives | [Profile](xu-hongliang/README.md) |
