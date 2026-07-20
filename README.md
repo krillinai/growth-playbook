@@ -13,41 +13,41 @@ We follow a content-first approach: a module is published only when it contains 
 Status: `●` available · `○` planned
 
 ```text
-                                         +----------------------------------+
-                                         |        GROWTH FOUNDATIONS        |
-                                         |  ● Growth Metrics                |
-                                         |  ○ Lifecycle / Funnel / Loops    |
-                                         |  ○ Experiments / PMF / Position  |
-                                         +----------------+-----------------+
-                                                          |
-       +----------------------+----------------------+-----+----------------+----------------------+
-       |                      |                      |                      |                      |
-       v                      v                      v                      v                      v
-+--------------------+ +--------------------+ +--------------------+ +--------------------+ +--------------------+
-| ACQUISITION        | | ACTIVATION &       | | RETENTION &        | | MONETIZATION       | | REFERRAL &         |
-|                    | | CONVERSION         | | EXPANSION          | |                    | | GROWTH LOOPS       |
-+--------------------+ +--------------------+ +--------------------+ +--------------------+ +--------------------+
-| ● GEO              | | ○ Onboarding       | | ○ Retention        | | ○ Pricing          | | ○ Referrals        |
-| ○ SEO              | | ○ CRO              | | ○ Lifecycle        | | ○ Revenue          | | ○ UGC              |
-| ○ Content          | | ○ Landing          | | ○ Email            | | ○ LTV / Payback    | | ○ Virality         |
-| ○ Social           | | ○ Offer            | | ○ Churn            | | ○ Upsell           | | ○ Product Loops    |
-| ○ Paid             | | ○ TTV              | | ○ Community        | | ○ Profit           | | ○ Advocacy         |
-+----------+---------+ +----------+---------+ +----------+---------+ +----------+---------+ +----------+---------+
-           |                      |                      |                      |                      |
-           +----------------------+----------------------+----------------------+----------------------+
-                                                          |
-                                         +----------------+-----------------+
-                                         |   REFERENCE & EXECUTION LAYERS   |
-                                         +----------------------------------+
-                                         | ○ Case Library                   |
-                                         |  People & Ideas / Case Studies   |
-                                         |  Company Index                   |
-                                         +----------------------------------+
-                                         | ○ Toolkit                        |
-                                         |  Tools / Growth Skills / Flows   |
-                                         +----------------------------------+
-                                                          |
-                                         Insights feed the next strategy cycle
+                                  +----------------------------------+
+                                  |        GROWTH FOUNDATIONS        |
+                                  |  ● Growth Metrics                |
+                                  |  ○ Lifecycle / Funnel / Loops    |
+                                  |  ○ Experiments / PMF / Position  |
+                                  +----------------+-----------------+
+                                                   |
+          +--------------------+--------------------+--------------------+--------------------+
+          |                    |                    |                    |                    |
+          v                    v                    v                    v                    v
++------------------+ +------------------+ +------------------+ +------------------+ +------------------+
+| ACQUISITION      | | ACTIVATION &     | | RETENTION &      | | MONETIZATION     | | REFERRAL &       |
+|                  | | CONVERSION       | | EXPANSION        | |                  | | GROWTH LOOPS     |
++------------------+ +------------------+ +------------------+ +------------------+ +------------------+
+| ● GEO            | | ○ Onboarding     | | ○ Retention      | | ○ Pricing        | | ○ Referrals      |
+| ○ SEO            | | ○ CRO            | | ○ Lifecycle      | | ○ Revenue        | | ○ UGC            |
+| ○ Content        | | ○ Landing        | | ○ Email          | | ○ LTV / Payback  | | ○ Virality       |
+| ○ Social         | | ○ Offer          | | ○ Churn          | | ○ Upsell         | | ○ Product Loops  |
+| ○ Paid           | | ○ TTV            | | ○ Community      | | ○ Profit         | | ○ Advocacy       |
++---------+--------+ +---------+--------+ +---------+--------+ +---------+--------+ +---------+--------+
+          |                    |                    |                    |                    |
+          +--------------------+--------------------+--------------------+--------------------+
+                                                   |
+                                  +----------------+-----------------+
+                                  |   REFERENCE & EXECUTION LAYERS   |
+                                  +----------------------------------+
+                                  | ○ Case Library                   |
+                                  |  People & Ideas / Case Studies   |
+                                  |  Company Index                   |
+                                  +----------------------------------+
+                                  | ○ Toolkit                        |
+                                  |  Tools / Growth Skills / Flows   |
+                                  +----------------------------------+
+                                                   |
+                                  Insights feed the next strategy cycle
 ```
 
 The **Handbook** follows the growth journey, the **Case Library** preserves people, ideas, companies, and real-world cases, and the **Toolkit** connects methods to tools and Growth Skills. Solid dots identify current content; hollow dots show the intended structure.
