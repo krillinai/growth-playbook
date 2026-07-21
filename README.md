@@ -16,8 +16,9 @@ Status: `●` available · `○` planned
                                   +----------------------------------+
                                   |        GROWTH FOUNDATIONS        |
                                   |  ● Growth Metrics                |
-                                  |  ○ Lifecycle / Funnel / Loops    |
-                                  |  ● Experiments / PMF             |
+                                  |  ● Product-Market Fit            |
+                                  |  ● Experimentation               |
+                                  |  ○ Growth Models                 |
                                   +----------------+-----------------+
                                                    |
           +--------------------+--------------------+--------------------+--------------------+
@@ -28,13 +29,27 @@ Status: `●` available · `○` planned
 |                  | | CONVERSION       | | EXPANSION        | |                  | | GROWTH LOOPS     |
 +------------------+ +------------------+ +------------------+ +------------------+ +------------------+
 | ● Acquisition    | | ● Activation     | | ● Retention      | | ● Monetization   | | ● Referrals      |
-| ● GEO            | | ○ Onboarding     | | ○ Lifecycle      | | ○ Pricing        | | ● Growth Loops   |
-| ○ Content        | | ○ Landing        | | ○ Email          | | ○ LTV / Payback  | | ○ Virality       |
-| ○ Social         | | ○ Offer          | | ○ Churn          | | ○ Upsell         | | ○ Product Loops  |
-| ○ Paid           | | ○ TTV            | | ○ Community      | | ○ Profit         | | ○ Advocacy       |
+| ● GEO            | | ● Funnels / CRO  | | ● Lifecycle      | | ● Pricing/Models | | ● Growth Loops   |
+| ● Content/Social | | ● Onboard / TTV  | | ● Lifecycle Mktg | | ● LTV / Payback  | | ● Virality       |
+| ● Paid           | | ○ Landing/Offers | | ● Churn Prevent. | | ● Profit Growth  | | ● Product Loops  |
+| ○ SEO/Partners   | |                  | | ○ Email/Community| | ○ Upsell         | | ● Advocacy       |
 +---------+--------+ +---------+--------+ +---------+--------+ +---------+--------+ +---------+--------+
           |                    |                    |                    |                    |
           +--------------------+--------------------+--------------------+--------------------+
+                                                   |
+                                  +----------------+-----------------+
+                                  |    CROSS-CUTTING SYSTEMS         |
+                                  +----------------------------------+
+                                  | ● Growth Infrastructure          |
+                                  | ● Incentive Growth               |
+                                  | ● Growth Organization            |
+                                  | ○ Network Effects                |
+                                  | ○ Marketplace Growth             |
+                                  | ○ Product-Led Growth             |
+                                  | ○ Internationalization           |
+                                  | ○ Habit & Gamification           |
+                                  | ○ Brand & Earned Growth          |
+                                  +----------------+-----------------+
                                                    |
                                   +----------------+-----------------+
                                   |   REFERENCE & EXECUTION LAYERS   |
@@ -50,7 +65,7 @@ Status: `●` available · `○` planned
                                   Insights feed the next strategy cycle
 ```
 
-The **Handbook** follows the growth journey, the **Case Library** preserves people, ideas, companies, and real-world cases, and the **Toolkit** connects methods to tools and Growth Skills. Solid dots identify current content; hollow dots show the intended structure.
+The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Cross-Cutting Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth Skills. Solid dots identify current content; hollow dots show the intended structure.
 
 ## Handbook
 
