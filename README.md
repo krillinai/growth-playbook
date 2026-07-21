@@ -40,15 +40,8 @@ Status: `●` available · `○` planned
                                   +----------------+-----------------+
                                   |    CROSS-CUTTING SYSTEMS         |
                                   +----------------------------------+
-                                  | ● Growth Infrastructure          |
-                                  | ● Incentive Growth               |
-                                  | ● Growth Organization            |
-                                  | ○ Network Effects                |
-                                  | ○ Marketplace Growth             |
-                                  | ○ Product-Led Growth             |
-                                  | ○ Internationalization           |
-                                  | ○ Habit & Gamification           |
-                                  | ○ Brand & Earned Growth          |
+                                  | ● Growth Capabilities            |
+                                  | ○ Growth Patterns                |
                                   +----------------+-----------------+
                                                    |
                                   +----------------+-----------------+
