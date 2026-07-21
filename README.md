@@ -1,6 +1,6 @@
 # Growth Playbook
 
-> Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth.
+> Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth. KrillinAI also develops [krillinai/growth-skills](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
