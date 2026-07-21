@@ -20,6 +20,16 @@
 
 Facebook 的循环依赖网络，Duolingo 让进度和身份可分享，字节跳动使用激励与产品矩阵，Lovable 把产品成果变成证明。只有接收者真正获得价值，循环才闭合。迁移前应确认参与动机、接收者价值、留存后的增量，以及欺诈、蚕食、平台和信任依赖。
 
+## 概念证据地图
+
+| 概念 | 证据 | 支持的结论 |
+| --- | --- | --- |
+| 病毒传播 | Facebook；Brian Balfour；Sean Ellis | 扩散、接收者转化、实验与留存调整质量 |
+| 产品增长循环 | Brian Balfour；Andrew Chen；Facebook；Uber；Lovable | 通过协作、网络、交易与证明让输出创造输入 |
+| 用户倡导 | Lovable；Duolingo；Ramp | 客户和员工证明、身份、品牌信任与下游行为 |
+
+UGC 出现在多个循环中，但创作者系统证据仍不足以建立独立章节。
+
 ## 相关人物
 
 - [Andrew Chen](../../people/andrew-chen/README.zh.md)：Atomic Network、Hard Side、网络效应阶段与 Marketplace 循环。

@@ -51,6 +51,27 @@ Split by audience, intent, channel, creative or promise, geography, device, and 
 5. Read marginal rather than average performance and estimate incrementality.
 6. Reallocate based on retained contribution, not platform-reported conversions.
 
+## Paid Acquisition
+
+Paid acquisition should be managed on marginal, incremental, retained economics rather than platform attribution. Connect audience, promise, creative, bid, landing path, activation, retention, and contribution margin in one cohort view.
+
+`incremental payback = incremental acquisition cost / periodic incremental contribution margin`
+
+Scale only while marginal quality and payback remain inside the decision boundary. Creative fatigue, audience saturation, attribution overlap, and delayed retention can make average historical performance misleading.
+
+## Content and Social Distribution
+
+Content creates demand by explaining a problem, demonstrating value, building trust, or producing an asset others distribute. Social distribution depends on participant credibility, native format, timing, conversation, and the path from attention to product value.
+
+| Mechanism | Leading signal | Durable validation |
+| --- | --- | --- |
+| Educational content | Qualified consumption and return | Activated and retained demand |
+| Product demonstration | Relevant viewers reaching the product | Successful value events |
+| Employee or customer distribution | Credible participation and shares | Incremental qualified users |
+| Brand-led social | Branded demand and direct response | Retention, conversion, and trust |
+
+Do not count content volume or follower growth as customer value. Separate earned response from demand that would have arrived through other channels.
+
 ## Common Mistakes
 
 - Treating impressions, clicks, installs, leads, or signups as growth.

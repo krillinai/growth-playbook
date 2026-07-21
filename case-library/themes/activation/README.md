@@ -118,6 +118,16 @@ Before applying an approach, answer:
 5. What selection effects could make the early event appear more predictive than it is?
 6. Which errors, support costs, trust signals, or economic outcomes must act as guardrails?
 
+## Concept Evidence Map
+
+| Concept | Evidence | Supported conclusion |
+| --- | --- | --- |
+| Funnels | Airtable; Sean Ellis; Brian Balfour | End-to-end value paths, step diagnosis, and funnels inside loops |
+| Onboarding | Airtable; Facebook / Meta; Naomi Gleit; Lauryn Isford | Intent segmentation, templates, connections, instrumentation, and downstream validation |
+| CRO | Airtable experiments; Sean Ellis value path | Improve a constrained transition while protecting retained activation and quality |
+
+Landing pages and offer design remain supporting tactics rather than standalone modules.
+
 ## Evidence and Limits
 
 - Evidence relies mainly on participant interviews, talks, and public material rather than complete internal datasets.

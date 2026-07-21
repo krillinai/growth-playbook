@@ -45,6 +45,24 @@ Word of mouth is a motivation and communication process; referral is a prompted 
 5. Add fraud, fatigue, permissions, trust, platform, and margin guardrails.
 6. Improve the weakest edge rather than adding more prompts.
 
+## Virality
+
+Virality is a propagation pattern in which users or product outputs expose and convert additional users. Measure participant rate, qualified recipients, recipient value conversion, retention-adjusted K, and cycle time.
+
+Viral reach without recipient value is distribution noise. Network effects and virality are different: a product can spread virally without becoming more valuable as usage grows.
+
+## Product Loops
+
+Product loops encode growth into normal product value. Collaboration, shared artifacts, generated content, transactions, and data can create the next input when the recipient also receives value.
+
+Map every edge, eligibility rule, transition rate, delay, and quality loss. Improve the weakest edge instead of adding prompts to the top.
+
+## Advocacy
+
+Advocacy is voluntary endorsement grounded in experienced value and trust. Customer stories, reviews, referrals, communities, and employee participation can distribute proof, but incentives or scripts can weaken credibility.
+
+Measure qualified downstream behavior and trust, not testimonial volume alone.
+
 ## Common Mistakes
 
 - Calling invitations a loop before recipients receive value.

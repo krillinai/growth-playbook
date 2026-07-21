@@ -26,6 +26,16 @@ The cases differ in payer, cost structure, and value cadence. Ramp emphasizes me
 3. How sensitive are payback and LTV to retention, margin, and model assumptions?
 4. Which packaging choice could damage trust or product adoption?
 
+## Concept Evidence Map
+
+| Concept | Evidence | Supported conclusion |
+| --- | --- | --- |
+| Pricing | Duolingo; Lovable; Ramp | Freemium boundaries, AI usage economics, willingness, trust, and value alignment |
+| Revenue models | Ramp; Duolingo; Lovable; ByteDance | B2B incentives, subscriptions and ads, AI packages, and portfolio economics |
+| Profitable growth | Ramp; ByteDance; Brian Balfour | Contribution, payback, LTV sensitivity, retained economics, and downturn discipline |
+
+Direct upsell evidence remains too thin for a standalone chapter.
+
 ## Evidence and Limits
 
 - Company evidence relies mainly on participant interviews and public material, not complete internal causal evaluation.

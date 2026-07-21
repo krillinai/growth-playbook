@@ -44,6 +44,28 @@ Analyze conversion, discounting, downgrade, expansion, churn, cost-to-serve, and
 4. Test willingness to pay and packaging before optimizing checkout surfaces.
 5. Read mature cohort economics and customer trust as guardrails.
 
+## Pricing
+
+Pricing defines the value metric, package boundary, price level, discount rules, and path between plans. Evaluate willingness to pay with retained use, service cost, competitive alternatives, and buyer risk.
+
+## Revenue Models
+
+| Model | Fits when | Main risk |
+| --- | --- | --- |
+| Subscription | Value repeats predictably | Paying without repeated value increases churn |
+| Usage-based | Usage tracks customer value | Bills and margin can become unpredictable |
+| Transaction / take rate | Platform enables measurable exchange | Excess take can weaken liquidity |
+| Advertising | Attention creates advertiser value | Ads can damage user value or trust |
+| Hybrid | Different value streams coexist | Complexity obscures economics and choice |
+
+Choose based on value delivery and cost structure, not category fashion.
+
+## Profitable Growth
+
+Profitable growth means incremental cohorts produce durable contribution after acquisition, serving, support, incentives, refunds, and risk costs. Report marginal payback and mature cohort contribution, not revenue growth alone.
+
+`cohort contribution = retained revenue - variable acquisition - serving - support - incentive - risk costs`
+
 ## Common Mistakes
 
 - Choosing freemium, trials, subscription, or usage pricing as ideology.

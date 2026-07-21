@@ -25,6 +25,16 @@ Duolingo reinforces an individual habit, Facebook compounds network value, and A
 3. Does collaboration deepen value or merely add activity?
 4. Are resurrection and continuous retention reported separately?
 
+## Concept Evidence Map
+
+| Concept | Evidence | Supported conclusion |
+| --- | --- | --- |
+| Lifecycle | Facebook growth accounting; Duolingo resurrection | Separate new, retained, lapsed, resurrected, and churned behavior |
+| Lifecycle marketing | Duolingo notifications; ByteDance incentives | State-triggered contact with fatigue and incrementality guardrails |
+| Churn prevention | Duolingo recovery; Airtable collaboration; Brian Balfour | Diagnose recurring-value loss before relying on reminders or discounts |
+
+Direct email-program evidence remains too thin for a standalone chapter.
+
 ## Related People
 
 - [Brian Balfour](../../people/brian-balfour/README.md): cohort retention as the foundation of growth models and continuing PMF.

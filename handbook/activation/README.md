@@ -136,6 +136,28 @@ Current evidence and confidence:
 
 Keep separate activation definitions when customer jobs or value paths materially differ. Review them whenever the product, target customer, acquisition mix, or natural usage frequency changes.
 
+## Funnels
+
+A funnel is a diagnostic model of eligible users moving through defined states. Every step needs an eligibility rule, event, denominator, window, and decision owner.
+
+```text
+Eligible entry -> first action -> value event -> retained value
+```
+
+Report step conversion and end-to-end conversion together. A high intermediate conversion can simply move friction downstream.
+
+## Onboarding
+
+Onboarding should reduce the distance between user intent and first value. It can use templates, defaults, progressive setup, imported context, education, or human assistance, but completion is not the outcome.
+
+Segment onboarding only when intent, role, prerequisite, or value path materially changes. Validate each path through activation quality and retained behavior.
+
+## Conversion Rate Optimization
+
+CRO improves a defined transition without damaging downstream value. Start with the constraint and mechanism, not cosmetic variation. Read conversion with retained activation, errors, support, trust, and economics.
+
+`qualified conversion = users reaching the downstream value state / eligible users entering the tested transition`
+
 ## Common Mistakes
 
 - Copying another product's Aha Moment, threshold, or time window.

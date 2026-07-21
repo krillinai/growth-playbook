@@ -27,6 +27,16 @@ Facebook's loop is structurally networked, Duolingo makes progress and identity 
 3. Is growth incremental after retention, incentives, fraud, and cannibalization?
 4. Which platform or trust dependency can interrupt the loop?
 
+## Concept Evidence Map
+
+| Concept | Evidence | Supported conclusion |
+| --- | --- | --- |
+| Virality | Facebook; Brian Balfour; Sean Ellis | Propagation, recipient conversion, experiments, and retention-adjusted quality |
+| Product loops | Brian Balfour; Andrew Chen; Facebook; Uber; Lovable | Outputs create inputs through collaboration, networks, transactions, and proof |
+| Advocacy | Lovable; Duolingo; Ramp | Customer and employee proof, identity, brand trust, and downstream behavior |
+
+UGC appears inside several loops, but creator-system evidence remains too thin for a standalone chapter.
+
 ## Related People
 
 - [Andrew Chen](../../people/andrew-chen/README.md): atomic networks, hard sides, network-effects stages, and marketplace loops.

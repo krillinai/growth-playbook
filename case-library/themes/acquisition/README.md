@@ -34,6 +34,16 @@ All four cases connect distribution to a product-specific quality signal. They d
 3. Which capability is the actual constraint: trust, creative supply, localization, sales, data, or automation?
 4. How will incrementality, retained quality, and marginal economics be tested?
 
+## Concept Evidence Map
+
+| Concept | Evidence | Supported conclusion |
+| --- | --- | --- |
+| Paid acquisition | ByteDance; Ramp | LTV and ROI horizons, automation, creative systems, payback, and marginal economics |
+| Content | Ramp; Lovable | Category education, product proof, brand differentiation, and demand creation |
+| Social distribution | Lovable; Duolingo brand evidence | Employee and customer participation, launches, identity, and earned reach |
+
+SEO, partnerships, and community still lack enough direct evidence for standalone chapters.
+
 ## Related People
 
 - [Andrew Chen](../../people/andrew-chen/README.md): hard-side supply, atomic networks, and marketplace density.
