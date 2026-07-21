@@ -38,7 +38,7 @@ Status: `●` available · `○` planned
           +--------------------+--------------------+--------------------+--------------------+
                                                    |
                                   +----------------+-----------------+
-                                  |    CROSS-CUTTING SYSTEMS         |
+                                  |          GROWTH SYSTEMS          |
                                   +----------------------------------+
                                   | ● Growth Capabilities            |
                                   | ○ Growth Patterns                |
@@ -58,7 +58,7 @@ Status: `●` available · `○` planned
                                   Insights feed the next strategy cycle
 ```
 
-The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Cross-Cutting Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth Skills. Solid dots identify current content; hollow dots show the intended structure.
+The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Growth Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth Skills. Solid dots identify current content; hollow dots show the intended structure.
 
 ## Handbook
 
