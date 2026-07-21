@@ -6,6 +6,10 @@
 
 ## 已发布
 
+### [增长诊断协议](diagnosis/README.zh.md)
+
+用于识别核心增长约束、评估证据、选择 30 天行动并确定正确执行路径的可重复方法。
+
 ### [GEO：生成式引擎优化](geo/README.zh.md)
 
 关于 AI 搜索机制、内容优化、品牌权威、技术实施和效果分析的完整指南。
@@ -58,6 +62,7 @@
 
 | 分类 | 已发布概念 |
 | --- | --- |
+| 增长诊断 | [Context、Outcome、Constraint、Evidence、Action 与 Execution](diagnosis/README.zh.md#六层诊断结构) · [获客](diagnosis/README.zh.md#获客诊断) · [激活](diagnosis/README.zh.md#激活诊断) · [留存](diagnosis/README.zh.md#留存诊断) · [商业化](diagnosis/README.zh.md#商业化诊断) · [增长循环](diagnosis/README.zh.md#增长循环诊断) · [增长系统](diagnosis/README.zh.md#增长系统诊断) |
 | 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) |
 | 获客 | [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [Kindle 与 Fire](acquisition/README.zh.md#kindle-与-fire-策略) |
 | 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |

@@ -1,4 +1,4 @@
-# Growth Playbook
+# Growth Playbook by clawee.ai
 
 > Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth. KrillinAI also develops [krillinai/growth-skills](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
 
@@ -8,9 +8,31 @@ Growth Playbook is for independent developers, founders, and product, marketing,
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
+## Diagnose Before You Execute
+
+**Diagnose your growth constraint. Learn from proven cases. Execute with open-source skills.**
+
+The [Growth Diagnosis Protocol](handbook/diagnosis/README.md) turns a visible symptom into one primary constraint, an evidence ledger, a 30-day action plan, and the right execution route.
+
+| Diagnosis path | Start here |
+| --- | --- |
+| Acquisition | [Diagnose demand, channels, and acquisition economics](handbook/diagnosis/README.md#acquisition-diagnosis) |
+| Activation | [Diagnose the path to first value](handbook/diagnosis/README.md#activation-diagnosis) |
+| Retention | [Diagnose recurring value and churn](handbook/diagnosis/README.md#retention-diagnosis) |
+| Monetization | [Diagnose conversion to durable revenue](handbook/diagnosis/README.md#monetization-diagnosis) |
+| Growth Loops | [Diagnose compounding distribution and value](handbook/diagnosis/README.md#growth-loops-diagnosis) |
+| Growth System | [Diagnose measurement, decisions, and execution](handbook/diagnosis/README.md#growth-system-diagnosis) |
+
+Use the Playbook for diagnosis and methods, [krillinai/growth-skills](https://github.com/krillinai/growth-skills) for bounded open-source execution, and [clawee.ai](https://clawee.ai/) when implementation requires persistent systems, private data, governance, or cross-team coordination.
+
 ## How the Playbook Fits Together
 
 ```text
+                                  +----------------------------------+
+                                  |       GROWTH DIAGNOSIS           |
+                                  |  Constraint / Evidence / Action  |
+                                  +----------------+-----------------+
+                                                   |
                                   +----------------------------------+
                                   |        GROWTH FOUNDATIONS        |
                                   |  Growth Metrics                  |
@@ -53,12 +75,13 @@ We follow a content-first approach: a module is published only when it contains 
                                   Insights feed the next strategy cycle
 ```
 
-The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Growth Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth Skills.
+**Growth Diagnosis** identifies the current constraint and next decision. The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Growth Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth Skills.
 
 ## Handbook
 
 | Area | What it covers | Modules and index |
 | --- | --- | --- |
+| **Growth Diagnosis** | Turn symptoms into evidence-backed constraints, actions, and execution routes | [Growth Diagnosis Protocol](handbook/diagnosis/README.md) |
 | **Growth Foundations** | Metrics, lifecycle, funnels, growth loops, experimentation, and PMF | [Growth Metrics System](handbook/metrics/README.md)<br>[Product-Market Fit](handbook/product-market-fit/README.md)<br>[Lifecycle](handbook/retention/README.md#customer-lifecycle)<br>[Funnels](handbook/activation/README.md#funnels) |
 | [**Acquisition**](handbook/acquisition/README.md) | How the right audience discovers and reaches the product | [GEO Guide](handbook/geo/README.md)<br>[Content & Social](handbook/acquisition/README.md#content-and-social-distribution)<br>[Paid Acquisition](handbook/acquisition/README.md#paid-acquisition)<br>[SEO Page Systems](handbook/acquisition/README.md#scalable-seo-page-systems) |
 | **[Activation](handbook/activation/README.md) & Conversion** | How new users reach value and take the next meaningful action | [Onboarding](handbook/activation/README.md#onboarding)<br>[Setup, Aha & Habit](handbook/activation/README.md#setup-aha-and-habit)<br>[CRO](handbook/activation/README.md#conversion-rate-optimization) |

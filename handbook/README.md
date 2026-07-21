@@ -6,6 +6,10 @@ This index lists modules with complete, useful material. A new module directory 
 
 ## Available Modules
 
+### [Growth Diagnosis Protocol](diagnosis/README.md)
+
+A repeatable method for identifying the primary growth constraint, evaluating evidence, selecting 30-day actions, and choosing the right execution route.
+
 ### [GEO: Generative Engine Optimization](geo/README.md)
 
 A guide to AI search mechanics, content optimization, brand authority, technical implementation, and performance analysis.
@@ -58,6 +62,7 @@ Outcome ownership, decision rights, cross-functional capabilities, and learning 
 
 | Area | Published concepts |
 | --- | --- |
+| Diagnosis | [Context, outcome, constraint, evidence, action, and execution](diagnosis/README.md#the-six-diagnostic-layers) · [Acquisition](diagnosis/README.md#acquisition-diagnosis) · [Activation](diagnosis/README.md#activation-diagnosis) · [Retention](diagnosis/README.md#retention-diagnosis) · [Monetization](diagnosis/README.md#monetization-diagnosis) · [Growth Loops](diagnosis/README.md#growth-loops-diagnosis) · [Growth System](diagnosis/README.md#growth-system-diagnosis) |
 | Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) |
 | Acquisition | [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [Kindle and Fire](acquisition/README.md#kindle-and-fire-strategies) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
