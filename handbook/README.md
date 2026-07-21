@@ -1,4 +1,4 @@
-# Growth Playbook Modules
+# Growth Playbook by clawee.ai Modules
 
 This index lists modules with complete, useful material. A new module directory is created only when writing has begun.
 

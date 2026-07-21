@@ -1,10 +1,10 @@
-# Growth Playbook
+# Growth Playbook by clawee.ai
 
 > An evolving, practical growth handbook initiated and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
-Growth Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
+Growth Playbook by clawee.ai is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
@@ -85,4 +85,4 @@ See the [Roadmap](ROADMAP.md) for how this structure will grow as complete mater
 
 ## Contributing
 
-Growth Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
+Growth Playbook by clawee.ai is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
