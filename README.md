@@ -1,6 +1,6 @@
 # Growth Playbook
 
-> An evolving, practical growth handbook initiated and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth.
+> A [clawee.ai](https://clawee.ai) production, created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
