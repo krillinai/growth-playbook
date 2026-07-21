@@ -84,7 +84,7 @@ The **Foundations** define how growth is understood, the **Growth Journey** show
 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
-| **Tools** | Growth and marketing tools organized by job, stage, and use case | ● [Semrush](toolkit/tools/semrush/README.md)<br>[View tools](toolkit/tools/README.md) |
+| **Tools** | Growth and marketing tools organized by job, stage, and use case | ● [Semrush](toolkit/tools/semrush/README.md)<br>● [Sensor Tower](toolkit/tools/sensor-tower/README.md)<br>[View tools](toolkit/tools/README.md) |
 | **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [krillinai/growth-skills](https://github.com/krillinai/growth-skills) |
 | **Workflows** | Repeatable combinations of handbook methods, tools, and Skills | ○ Workflow index |
 
