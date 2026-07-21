@@ -54,6 +54,17 @@ Incremental behavior, reward economics, post-incentive retention, fraud, and can
 
 Outcome ownership, decision rights, cross-functional capabilities, and learning systems.
 
+## Concept Index
+
+| Area | Published concepts |
+| --- | --- |
+| Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) |
+| Acquisition | [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) |
+| Activation | [Onboarding](activation/README.md#onboarding) · [CRO](activation/README.md#conversion-rate-optimization) |
+| Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
+| Monetization | [Pricing](monetization/README.md#pricing) · [Revenue Models](monetization/README.md#revenue-models) · [Profitable Growth](monetization/README.md#profitable-growth) |
+| Referral & Loops | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
+
 ## Roadmap
 
 Future directions are listed in the repository [Roadmap](../ROADMAP.md). A planned topic does not imply a fixed release date or final directory structure.

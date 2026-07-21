@@ -54,6 +54,17 @@
 
 覆盖结果责任、决策权、跨职能能力与学习系统。
 
+## 概念索引
+
+| 分类 | 已发布概念 |
+| --- | --- |
+| 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) |
+| 获客 | [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) |
+| 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [CRO](activation/README.zh.md#转化率优化) |
+| 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |
+| 商业化 | [定价](monetization/README.zh.md#定价) · [收入模型](monetization/README.zh.md#收入模型) · [盈利性增长](monetization/README.zh.md#盈利性增长) |
+| 推荐与循环 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |
+
 ## 规划中
 
 后续内容方向记录在仓库的 [Roadmap](../ROADMAP.md) 中。规划中的主题不代表已经确定发布时间或最终目录结构。
