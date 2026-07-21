@@ -61,6 +61,14 @@
 
 只有边际质量和回本仍在决策边界内时才扩大。素材疲劳、人群饱和、归因重叠和延迟留存会让历史平均表现失真。
 
+### 渠道衰减与付费依赖
+
+随着新鲜感消失、竞争者复制方法、高意图受众饱和和频次增加，渠道表现通常会下降。不能把早期 CTR、CAC 或回本周期当作规模化后的常数。
+
+应按渠道、素材、受众和 Cohort 衡量边际表现，区分单渠道 CAC 与 Blended CAC，定义可接受回本周期并观察渠道集中度。当预算必须持续增加、边际 CAC 恶化，同时没有第二增长引擎时，付费获客会成为结构性风险。
+
+应对方式不是自动停止预算，而是根据经济性限制暴露，改善产品价值与留存，并投资行为机制不同于饱和渠道的分发方式。
+
 ## 内容与社媒分发
 
 案例证据：[Ramp、Lovable 与 Duolingo 相关分发证据](../../case-library/themes/acquisition/README.zh.md#概念证据地图)。
@@ -82,6 +90,12 @@
 - 比较成熟窗口不同的渠道。
 - 平均 CAC 尚可时忽略边际 CAC 恶化。
 - 把归因功劳当成因果贡献。
+
+## 相关证据
+
+- [Airbnb](../../case-library/companies/airbnb/README.zh.md)：产品化接入已有需求渠道及其平台边界。
+- [Dropbox](../../case-library/companies/dropbox/README.zh.md)：较弱付费搜索经济性与原生分享、推荐的对比。
+- [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：渠道衰减、边际 CAC 与付费营销集中。
 
 ## 案例对比
 

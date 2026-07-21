@@ -39,6 +39,7 @@ Direct email-program evidence remains too thin for a standalone chapter.
 
 ## Related People
 
+- [Andrew Chen](../../people/andrew-chen/README.md): early retention curves, frequency distributions, and retention-adjusted virality.
 - [Brian Balfour](../../people/brian-balfour/README.md): cohort retention as the foundation of growth models and continuing PMF.
 - [Morgan Brown](../../people/morgan-brown/README.md): acquisition-retention balance and recurring customer value across commerce and AI products.
 

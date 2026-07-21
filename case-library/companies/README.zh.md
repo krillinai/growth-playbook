@@ -9,6 +9,7 @@
 | 公司 | 覆盖范围 | 详细证据 | 页面 |
 | --- | --- | --- | --- |
 | Airtable | 客户驱动营销、模板、新用户引导、激活与协作采用 | 引导改版、激活指标与协作信号 | [公司页面](airtable/README.zh.md) |
+| Airbnb | Marketplace 分发、Craigslist 集成、技术型增长与平台依赖 | 产品化跨平台发布、漏斗衡量与渠道边界 | [公司页面](airbnb/README.zh.md) |
 | 字节跳动 | 增长中台、LTV、投放自动化、素材系统、风控、国际化与激励 | 基础设施、国际化、红包、裂变与极速版 | [公司页面](bytedance/README.zh.md) |
 | Duolingo | 自然增长、国际化、订阅、实验、留存与游戏化 | 订阅系统、留存、召回、游戏化与 Streak | [公司页面](duolingo/README.zh.md) |
 | Dropbox | 推荐增长、PLG、扩展、AI 搜索、评估与产品领导 | 早期推荐循环、产品驱动获客与 Dropbox Dash | [公司页面](dropbox/README.zh.md) |

@@ -61,6 +61,14 @@ Paid acquisition should be managed on marginal, incremental, retained economics 
 
 Scale only while marginal quality and payback remain inside the decision boundary. Creative fatigue, audience saturation, attribution overlap, and delayed retention can make average historical performance misleading.
 
+### Channel Decay and Paid Dependency
+
+Channel performance commonly declines as novelty fades, competitors copy tactics, high-intent audiences saturate, and frequency increases. Early CTR, CAC, or payback should not be projected as a constant.
+
+Track marginal performance by channel, creative, audience, and cohort. Separate channel CAC from blended CAC, define acceptable payback, and monitor concentration. Paid acquisition becomes a structural risk when spend must continually rise while marginal CAC worsens and no second growth engine develops.
+
+The response is not automatic budget elimination. It is to cap exposure according to economics, improve product value and retention, and invest in distribution mechanisms whose behavior differs from the saturated channel.
+
 ## Content and Social Distribution
 
 Case evidence: [Ramp, Lovable, and Duolingo-related distribution evidence](../../case-library/themes/acquisition/README.md#concept-evidence-map).
@@ -82,6 +90,12 @@ Do not count content volume or follower growth as customer value. Separate earne
 - Comparing channels with different maturity windows.
 - Scaling average CAC while marginal CAC is deteriorating.
 - Confusing attribution credit with causal contribution.
+
+## Related Evidence
+
+- [Airbnb](../../case-library/companies/airbnb/README.md): productized access to an existing demand channel and its platform boundaries.
+- [Dropbox](../../case-library/companies/dropbox/README.md): weak paid-search economics versus native sharing and referral.
+- [Andrew Chen](../../case-library/people/andrew-chen/README.md): channel decay, marginal CAC, and paid-marketing concentration.
 
 ## Case Comparison
 

@@ -209,6 +209,32 @@ Content Growth
 | Growth Hacking | Growth Hacking | Uses rapid, low-cost experiments to find growth opportunities | Experiment design and growth sprints |
 | Retargeting | Retargeting | Reaches people who have already interacted with the product | Conversion recovery, recall, and reactivation |
 
+## Engagement Frequency Distribution
+
+A blended stickiness ratio such as DAU/MAU can hide materially different user groups. A Power User Curve plots the number or share of users active on each possible number of days in a fixed window.
+
+```text
+L7 bucket = users active on 1, 2, ... 7 days in a week
+L30 bucket = users active on 1, 2, ... 30 days in a month
+```
+
+Use a value-bearing action rather than an app open when possible. Select the window according to product rhythm. Compare the distribution by cohort, segment, market, and period; do not assume every healthy product needs daily use or a smile-shaped curve.
+
+## Net Promoter Score
+
+```text
+NPS = % Promoters (9-10) - % Detractors (0-6)
+```
+
+NPS is a survey signal about stated willingness to recommend, not observed referral, retention, or revenue. Collect the reason for the score, use representative samples, control for engagement and tenure bias, and connect recurring themes to product decisions.
+
+## CAC and CPA
+
+- **CAC** measures cost to acquire a defined paying customer.
+- **CPA** measures cost to reach another state such as a lead, registration, trial, or activated free user.
+
+A fully loaded CAC should define the customer, attribute spend across the conversion delay, separate new and returning customers, and include relevant people, tools, overhead, and support cost. Report channel and marginal CAC alongside blended CAC.
+
 ## Funnel Metrics
 
 - **Acquisition:** qualified traffic, UV, PV, CTR, CPC, CPM, CPA, CPL, CAC, creator ROI, and organic visibility.
@@ -242,6 +268,11 @@ Every weekly review should answer:
 - What did we test?
 - What did we learn?
 - What will we do next?
+
+## Related Evidence
+
+- [Andrew Chen](../../case-library/people/andrew-chen/README.md): Power User Curves, NPS source boundaries, CAC/CPA, consumer benchmarks, and lifecycle reach.
+- [Dropbox](../../case-library/companies/dropbox/README.md): paid-search economics, referral quality, and product-aligned acquisition.
 
 ## Case Comparison
 

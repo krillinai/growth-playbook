@@ -9,6 +9,7 @@ Growth companies organized by their stages, methods, related people, and cases.
 | Company | Scope | Detailed evidence | Page |
 | --- | --- | --- | --- |
 | Airtable | Customer-led marketing, templates, onboarding, activation, and collaborative adoption | Onboarding redesign, activation metrics, and collaboration signals | [Company page](airtable/README.md) |
+| Airbnb | Marketplace distribution, Craigslist integration, technical growth, and platform dependency | Productized cross-posting, funnel measurement, and channel boundaries | [Company page](airbnb/README.md) |
 | ByteDance | Growth platform, LTV, acquisition automation, creative systems, risk control, globalization, and incentives | Infrastructure, internationalization, red packets, referrals, and Lite products | [Company page](bytedance/README.md) |
 | Duolingo | Organic growth, internationalization, subscriptions, experimentation, retention, and gamification | Subscription system, retention, resurrection, gamification, and streaks | [Company page](duolingo/README.md) |
 | Dropbox | Referral growth, PLG, expansion, AI search, evaluation, and product leadership | Early referral loop, product-led acquisition, and Dropbox Dash | [Company page](dropbox/README.md) |

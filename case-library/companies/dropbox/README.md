@@ -26,6 +26,21 @@ Elena Verna's Dropbox evidence connects product usage to acquisition and expansi
 
 Product-led signals still require clear ownership and boundaries. A product event may indicate interest without proving readiness, authority, budget, or durable expansion.
 
+## Paid Acquisition Versus Native Distribution
+
+Chen's paid-marketing article uses Dropbox's early paid-search tests as a contrast between channel optimization and product-aligned distribution. Paid search reportedly faced mature competition and unattractive economics, while folder sharing and storage rewards connected acquisition to product value.
+
+The decision model is broader than “paid versus viral”:
+
+```text
+Channel CAC and payback
+vs. recipient activation and retention
+vs. reward and abuse cost
+vs. marginal performance at scale
+```
+
+The case supports changing mechanisms when economics and user alignment are weak. It does not prove that paid acquisition is unsuitable for every Dropbox product, period, or segment.
+
 ## Dropbox Dash and AI Product Evaluation
 
 Morgan Brown's 2025 interview describes Dash as an AI agent for finding information at work and discusses the evaluation process behind search results.
@@ -72,6 +87,9 @@ Customer task
 1. [AI Workflows and Dropbox Dash](https://www.youtube.com/watch?v=XrbORtL7c94), Peter Yang, uploaded 2025-07-13.
 2. [Sean Ellis profile and source index](../../people/sean-ellis/README.md).
 3. [Elena Verna profile and source index](../../people/elena-verna/README.md).
+4. Andrew Chen, [How Startups Die From Their Addiction to Paid Marketing](https://andrewchen.com/paid-marketing-addiction/).
+5. Brian Balfour, [How To (Actually) Calculate CAC](https://andrewchen.com/how-to-actually-calculate-cac/), hosted by Andrew Chen.
+6. Andrew Chen, [More Retention, More Viral Growth](https://andrewchen.com/more-retention-more-viral-growth/).
 
 ## Evidence and Limits
 

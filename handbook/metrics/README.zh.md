@@ -209,6 +209,32 @@ Listing 增长
 | Growth Hacking | Growth Hacking | 增长黑客 | 用低成本实验快速试错 | 实验设计和增长冲刺 |
 | Retargeting | Retargeting | 再营销 | 对已接触用户再次触达或投放 | 转化修复、召回和再激活 |
 
+## 使用频率分布
+
+DAU/MAU 等混合黏性指标可能隐藏差异很大的用户群。Power User Curve 展示用户在固定周期内活跃 1 天、2 天直到全部天数的数量或占比。
+
+```text
+L7 = 一周内分别活跃 1、2、...、7 天的用户分布
+L30 = 一个月内分别活跃 1、2、...、30 天的用户分布
+```
+
+尽量使用承载价值的行为，而不只是打开应用。时间窗口应匹配产品节奏，并按 Cohort、分群、市场和时期对比。健康产品不一定需要每日使用或形成微笑曲线。
+
+## Net Promoter Score
+
+```text
+NPS = 推荐者占比（9-10）- 贬损者占比（0-6）
+```
+
+NPS 是用户自述推荐意愿的调查信号，不是已观察到的推荐、留存或收入。需要收集评分原因，使用有代表性的样本，控制参与度与用户年限偏差，并把反复出现的主题连接到产品决策。
+
+## CAC 与 CPA
+
+- **CAC** 衡量获得一个明确定义的付费客户所需成本。
+- **CPA** 衡量获得 Lead、注册、试用或已激活免费用户等其他状态的成本。
+
+Fully Loaded CAC 应定义客户，按照转化延迟匹配投入，区分新增和回流客户，并纳入相关人员、工具、管理费用与支持成本。应同时报告单渠道、边际和 Blended CAC。
+
 ## 漏斗指标
 
 - **获客：** 合格流量、UV、PV、CTR、CPC、CPM、CPA、CPL、CAC、达人 ROI、自然可见性。
@@ -242,6 +268,11 @@ Listing 增长
 - 我们测试了什么？
 - 我们学到了什么？
 - 下一步要做什么？
+
+## 相关证据
+
+- [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：Power User Curve、NPS 来源边界、CAC/CPA、消费产品基准与生命周期 Reach。
+- [Dropbox](../../case-library/companies/dropbox/README.zh.md)：付费搜索经济性、推荐质量与产品价值一致的获客。
 
 ## 案例对比
 

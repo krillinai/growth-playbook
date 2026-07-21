@@ -61,6 +61,27 @@ More supply can improve availability, which can increase rider value and demand;
 
 The case therefore supports measuring each transition rather than asserting that scale automatically strengthens the network.
 
+Chen's virtuous-cycle article makes three transitions more concrete: greater density can reduce pickup time, extend geographic coverage, and improve driver utilization. Better utilization can support driver earnings or lower prices, which may expand supply or demand. Each arrow remains a hypothesis that should be evaluated market by market.
+
+## Why “Uber for X” Often Broke
+
+The rideshare model gave drivers the possibility of frequent requests across many hours. Other on-demand categories could face similar supply acquisition cost but much lower demand frequency, sharp time-of-day peaks, and insufficient work between requests.
+
+The transferable test starts from the supplier's economics:
+
+1. Can supply receive enough relevant work to remain available?
+2. Does demand frequency support utilization without permanent subsidy?
+3. Is the labor pool differentiated from competing marketplaces?
+4. When incentives fall, do supply, quality, and retention persist?
+
+Copying the interface of rideshare does not reproduce its frequency, labor pool, density, or unit economics.
+
+## Growth-Team Evolution
+
+Chen describes Uber's growth organization moving through several configurations, from cross-functional work to stronger ownership of product surfaces and systems. The company also used geographically scoped tests, including city-level launches and small traffic allocations.
+
+This supports a general organization principle: ownership should match the constraint and required execution. It does not establish that Uber's scale, headcount, structure, or culture should be copied elsewhere.
+
 ## Transferable Lessons
 
 1. Measure local liquidity rather than aggregate marketplace size.
@@ -85,6 +106,9 @@ The case therefore supports measuring each transition rather than asserting that
 3. [The Cold Start Problem](https://www.youtube.com/watch?v=TSnYO34b3TA), Talks at Google, uploaded 2021-12-09.
 4. [Atomic Networks for Early-Stage Marketplaces](https://www.youtube.com/watch?v=mc3ez8SrUJg), Everything Marketplaces, uploaded 2022-04-16.
 5. [Marketplace Monetization and Metrics](https://www.youtube.com/watch?v=KbJCBJ_wEMc), Everything Marketplaces, uploaded 2022-04-21.
+6. Andrew Chen, [Uber's Virtuous Cycle](https://andrewchen.com/ubers-virtuous-cycle-5-important-reads-about-uber/).
+7. Andrew Chen, [Why “Uber for X” Startups Failed](https://andrewchen.com/why-uber-for-x-failed/).
+8. Andrew Chen, [How to Build a Growth Team](https://andrewchen.com/how-to-build-a-growth-team/).
 
 ## Evidence and Limits
 

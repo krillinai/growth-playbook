@@ -43,6 +43,28 @@ Common shapes include a centralized team, embedded teams, a functional center of
 5. Use written reviews and postmortems to improve the system rather than assign blame.
 6. Revisit the organization when the constraint or product stage changes.
 
+## Ownership Models
+
+| Model | Strength | Main risk |
+| --- | --- | --- |
+| Growth-as-a-Service | Moves quickly between high-value constraints | Weak ownership and recurring dependency on host teams |
+| Functional pods | Keeps specialists in product, marketing, data, and engineering homes | Fragmented priorities and slow decisions |
+| Autonomous growth unit | Owns outcomes, staffing, and relevant product surfaces | Duplication, conflict, and long-term maintenance load |
+| Hybrid | Matches ownership to the current constraint | Ambiguous boundaries if decision rights are not explicit |
+
+Choose the model after defining the KPI, diagnosed constraint, required capabilities, decision rights, ownership, and expected duration. The org chart is an output of the problem, not the starting template.
+
+## Project Prioritization
+
+Prioritize by effort, probability of success, and absolute upside. Upside depends on both reach and impact; a large relative lift on a tiny surface may contribute less than a modest lift affecting most eligible users.
+
+Maintain a mix of low-effort learning and larger structural bets. Measure whether projects move top-level outcomes, not whether a local metric improved in isolation.
+
+## Related Evidence
+
+- [Andrew Chen](../../case-library/people/andrew-chen/README.md): growth-team mission, ownership spectrum, hiring signals, reach, impact, and organizational fit.
+- [Uber](../../case-library/companies/uber/README.md): evolving ownership and geographically scoped experimentation.
+
 ## Common Mistakes
 
 - Hiring a growth team to manufacture product-market fit.

@@ -26,7 +26,7 @@ Before transfer, define the customer-value event, observed versus predicted meas
 
 ## Related People
 
-- [Andrew Chen](../../people/andrew-chen/README.md): atomic-network density, liquidity, and marketplace metrics.
+- [Andrew Chen](../../people/andrew-chen/README.md): Power User Curves, CAC/CPA, NPS source boundaries, consumer benchmarks, network density, and liquidity.
 - [Brian Balfour](../../people/brian-balfour/README.md): growth models linking product, channel, retention, loops, and economics.
 - [Morgan Brown](../../people/morgan-brown/README.md): constraint diagnosis, customer outcomes, and evaluation that separates activity from progress.
 

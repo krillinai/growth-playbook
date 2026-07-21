@@ -75,6 +75,26 @@ Separate voluntary churn, involuntary churn, inactivity, contraction, and switch
 
 Intervene before or after risk only when a credible value path remains. Discounts and reminders can delay churn while hiding the underlying problem.
 
+## Early Retention and Frequency
+
+The steepest loss often occurs during the first visits or days, but the correct interval depends on product cadence. Diagnose separately whether users completed activation, how frequently the use case naturally recurs, whether long-term cohorts stabilize, and whether retained users perform the value-bearing action.
+
+Notification volume rarely fixes a weak first-value path or a product with no recurring job. Segment early curves by intent, channel, device, market, and activation path before selecting an intervention.
+
+## Retention-Adjusted Virality
+
+```text
+Long-term viral contribution
+= X x Y x Z + X x Y x Z^2 + X x Y x Z^3 + ...
+```
+
+Here, `X` is participation in a sharing action, `Y` is recipients per action, and `Z` is retention between opportunities. The model favors useful collaboration and content sharing over forced invitations, while requiring recipient activation and retention before calling the loop successful.
+
+## Related Evidence
+
+- [Andrew Chen](../../case-library/people/andrew-chen/README.md): early mobile retention, usage frequency, and retention-adjusted virality.
+- [Dropbox](../../case-library/companies/dropbox/README.md): native sharing and referral grounded in retained product value.
+
 ## Common Mistakes
 
 - Using aggregate DAU or returning-user counts as retention.

@@ -128,6 +128,10 @@ Before applying an approach, answer:
 
 Landing pages and offer design remain supporting tactics rather than standalone modules.
 
+## Related People
+
+- [Andrew Chen](../../people/andrew-chen/README.md): early retention, engagement walls, lifecycle reach, and the Next Feature Fallacy.
+
 ## Evidence and Limits
 
 - Evidence relies mainly on participant interviews, talks, and public material rather than complete internal datasets.

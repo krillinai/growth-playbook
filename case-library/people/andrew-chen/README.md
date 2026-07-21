@@ -94,6 +94,57 @@ When capital becomes expensive, teams need clearer evidence that acquisition pro
 
 This does not mean stopping growth work. It means distinguishing durable mechanisms from growth purchased through temporarily cheap capital.
 
+### 10. Retention Compounds Virality
+
+Chen revises the simple viral-factor model by adding repeated use. A user-aligned sharing action may reach only a few people in each session, but strong retention creates more sessions and more opportunities for the loop to operate.
+
+```text
+Viral contribution over time
+= X x Y x Z + X x Y x Z^2 + X x Y x Z^3 + ...
+
+X = share or invite participation
+Y = recipients per action
+Z = retention between opportunities
+```
+
+This favors collaboration, content sharing, and other native product actions over forced address-book invitations. Virality can amplify acquisition, but it cannot rescue a product whose users do not retain.
+
+### 11. Measure Frequency as a Distribution
+
+The Power User Curve plots how many days each user performs a meaningful action during a week or month. Unlike a blended DAU/MAU ratio, it reveals occasional users, the middle of the distribution, and highly engaged users.
+
+The appropriate window and action depend on product rhythm. A work product may use an L7 curve around meaningful weekday activity; a consumer network may use L30. A smile-shaped curve is not a universal target because infrequent products can still create and monetize substantial value.
+
+### 12. Channel Performance Decays
+
+The “Law of Shitty Clickthroughs” describes a recurring channel dynamic: novelty fades, competitors copy working tactics, audience quality falls as spend expands, and users learn to ignore familiar formats.
+
+Creative rotation can slow decay, but it does not remove saturation. Teams need marginal channel measurement, new distribution mechanisms, and product-aligned channels rather than assuming an early CAC or CTR will persist at scale.
+
+### 13. Avoid Paid Marketing Addiction
+
+Paid acquisition can create a local maximum when top-line growth depends on continually increasing spend while channel CAC rises, payback stretches, and organic growth does not scale with the budget.
+
+Chen contrasts this with Dropbox, where weak paid-search economics pushed the company toward folder sharing and value-aligned referrals. The lesson is not to reject paid channels, but to separate channel CAC from blended CAC, monitor marginal economics, and build a second and third acquisition engine before the dominant channel saturates.
+
+### 14. Define CAC Before Calculating It
+
+The CAC article, written by Brian Balfour and hosted by Chen, distinguishes customer acquisition cost from cost per acquisition. CAC applies to a paying customer; CPA may apply to a registration, lead, trial, or activated free user.
+
+Accurate CAC also requires matching spend to the conversion delay, defining new versus returning customers, and including salaries, overhead, tools, and relevant free-product support costs. A monthly spend divided by same-month customers can reverse the apparent result of a channel when the sales or upgrade cycle spans multiple periods.
+
+### 15. Fix the Lifecycle, Not the Next Feature
+
+The Next Feature Fallacy is the belief that another feature will suddenly make people use the whole product. Most features reach too few users or sit behind an “engagement wall” that new and inactive users never cross.
+
+Features intended to change growth should be evaluated by reach and impact across the lifecycle. Landing pages, onboarding, first value, resurrection, and logged-out surfaces may have more leverage than deeper functionality available only to retained users.
+
+### 16. Build the Growth Team Around the Constraint
+
+Chen's growth-team material separates core product work, which deepens product value, from growth work, which helps more people reach and repeat that value. The boundary is contextual rather than fixed.
+
+Possible ownership models range from Growth-as-a-Service, where a team moves between constraints, to autonomous ownership of onboarding, notifications, experimentation, payments, or acquisition systems. Organization should follow the KPI, diagnosed problem, required execution, and maintenance burden rather than copying another company's org chart.
+
 ## Framework Summary
 
 | Layer | Question | Example evidence |
@@ -115,6 +166,28 @@ This does not mean stopping growth work. It means distinguishing durable mechani
 - [Referral & Growth Loops](../../../handbook/referral-and-loops/README.md)
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
 - [Referral & Growth Loops: Cross-Company Cases](../../themes/referral-and-loops/README.md)
+- [Metrics & Measurement: Cross-Company Cases](../../themes/metrics-and-measurement/README.md)
+- [Growth Organization: Cross-Company Cases](../../themes/growth-organization/README.md)
+- [Airbnb](../../companies/airbnb/README.md)
+
+## Article Index
+
+| Article | Primary contribution | Authorship note |
+| --- | --- | --- |
+| [Uber's Virtuous Cycle](https://andrewchen.com/ubers-virtuous-cycle-5-important-reads-about-uber/) | Hyperlocal density, pickup time, coverage, utilization, pricing, and driver supply | Andrew Chen |
+| [Why “Uber for X” Failed](https://andrewchen.com/why-uber-for-x-failed/) | Supply economics, frequency, utilization, subsidies, and first-principles marketplace analysis | Andrew Chen |
+| [Growth Interview Questions](https://andrewchen.com/growth-interview-questions-atlassian-surveymonkey-gusto-hubspot/) | Hiring for problem solving, metrics depth, resilience, opportunity, and growth judgment | Guest essay by Susan Su / Reforge with multiple contributors |
+| [A Practitioner's Guide to Net Promoter Score](https://andrewchen.com/a-practitioners-guide-to-net-promoter-score/) | NPS calculation, sampling, cadence, verbatim analysis, and product action | Guest essay by Sachin Rekhi |
+| [The Power User Curve](https://andrewchen.com/power-user-curve/) | Engagement-frequency distributions, L7/L30, cohorts, segmentation, and monetization fit | Written with Li Jin; essay credits Li Jin as lead author |
+| [The Law of Shitty Clickthroughs](https://andrewchen.com/the-law-of-shitty-clickthroughs/) | Channel decay, novelty, competition, saturation, and new-channel discovery | Andrew Chen |
+| [How To (Actually) Calculate CAC](https://andrewchen.com/how-to-actually-calculate-cac/) | CAC versus CPA, conversion lag, fully loaded cost, and customer definition | Guest essay by Brian Balfour |
+| [More Retention, More Viral Growth](https://andrewchen.com/more-retention-more-viral-growth/) | Retention-adjusted viral factor and native sharing loops | Andrew Chen |
+| [Paid Marketing Addiction](https://andrewchen.com/paid-marketing-addiction/) | Marginal CAC, payback expansion, channel concentration, and alternative growth engines | Andrew Chen |
+| [Mobile Retention Benchmarks](https://andrewchen.com/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) | Early retention curves, activation, category differences, and notification limits | Andrew Chen with Quettra data |
+| [Why Consumer Product Metrics Are All Terrible](https://andrewchen.com/why-consumer-product-metrics-are-all-terrible/) | Signup, frequency, retention, social-graph density, and benchmark caution | Andrew Chen |
+| [The Next Feature Fallacy](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/) | Lifecycle reach, activation, engagement walls, and feature prioritization | Andrew Chen |
+| [How to Build a Growth Team](https://andrewchen.com/how-to-build-a-growth-team/) | Team mission, ownership models, scientific method, reach, impact, and organizational fit | Andrew Chen with Brian Balfour / Reforge material |
+| [Airbnb's Craigslist Distribution Case](https://andrewchen.com/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/) | Productized distribution, platform integration, funnel optimization, and technical growth work | Andrew Chen |
 
 ## Video Index
 

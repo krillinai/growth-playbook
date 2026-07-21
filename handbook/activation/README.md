@@ -164,6 +164,21 @@ CRO improves a defined transition without damaging downstream value. Start with 
 
 `qualified conversion = users reaching the downstream value state / eligible users entering the tested transition`
 
+## Lifecycle Reach and the Next Feature Fallacy
+
+A feature cannot materially change growth if too few people can reach it. Features behind an engagement wall require users to invest, configure, create, or collaborate before receiving value; new and inactive users may never encounter them.
+
+```text
+Expected absolute movement = eligible reach x expected impact x confidence
+```
+
+Evaluate whether the constraint sits on a landing page, in onboarding, at first value, in resurrection, or inside the retained-user experience. A high-reach early step can move more downstream users than a larger percentage improvement on a rarely used feature.
+
+## Related Evidence
+
+- [Andrew Chen](../../case-library/people/andrew-chen/README.md): Next Feature Fallacy, engagement walls, reach, and early retention.
+- [Airbnb](../../case-library/companies/airbnb/README.md): cross-channel listing completion and qualified downstream transactions.
+
 ## Common Mistakes
 
 - Copying another product's Aha Moment, threshold, or time window.

@@ -40,7 +40,7 @@ UGC appears inside several loops, but creator-system evidence remains too thin f
 
 ## Related People
 
-- [Andrew Chen](../../people/andrew-chen/README.md): atomic networks, hard sides, network-effects stages, and marketplace loops.
+- [Andrew Chen](../../people/andrew-chen/README.md): retention-adjusted virality, native sharing, atomic networks, hard sides, and marketplace loops.
 - [Brian Balfour](../../people/brian-balfour/README.md): loops as operating models and funnels as transition diagnostics.
 - [Morgan Brown](../../people/morgan-brown/README.md): growth systems connecting product value, distribution, retention, and experimentation.
 
