@@ -1,10 +1,10 @@
-# Growth Playbook by clawee.ai：增长手册
+# Growth Playbook：增长手册
 
 > 由专注内容智能与全球增长的 AI 团队 [KrillinAI](https://github.com/KrillinAI) 发起并维护。
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
-Growth Playbook by clawee.ai 是一本持续生长的实战增长手册，面向独立开发者、创业者以及产品、市场和增长团队。
+Growth Playbook 是一本持续生长的实战增长手册，面向独立开发者、创业者以及产品、市场和增长团队。
 
 它不会先搭建一套庞大但空洞的框架。每个模块都会在形成完整、可执行的内容后发布，逐步覆盖从策略制定到内容生产、营销分发和数据优化的完整增长闭环。
 
@@ -85,4 +85,4 @@ Growth Playbook by clawee.ai 是一本持续生长的实战增长手册，面向
 
 ## 参与贡献
 
-Growth Playbook by clawee.ai 仍在早期阶段。欢迎通过 Issue 提议新的增长主题、补充案例和数据，或通过 Pull Request 改进现有内容。
+Growth Playbook 仍在早期阶段。欢迎通过 Issue 提议新的增长主题、补充案例和数据，或通过 Pull Request 改进现有内容。

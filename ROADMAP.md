@@ -1,6 +1,6 @@
-# Growth Playbook by clawee.ai Roadmap
+# Growth Playbook Roadmap
 
-Growth Playbook by clawee.ai 采用内容优先的方式逐步建设：先完成有实际价值的模块，再为它创建正式目录。本路线图用于表达方向，不承诺发布时间。
+Growth Playbook 采用内容优先的方式逐步建设：先完成有实际价值的模块，再为它创建正式目录。本路线图用于表达方向，不承诺发布时间。
 
 ## 当前状态
 
@@ -99,4 +99,4 @@ Growth Playbook by clawee.ai 采用内容优先的方式逐步建设：先完成
 
 ## 配套仓库
 
-- [krillinai/growth-skills](https://github.com/krillinai/growth-skills)：将手册中的增长方法逐步转化为可由 AI 执行的 Skills。Skill 实现、脚本和测试保留在独立仓库，Growth Playbook by clawee.ai 负责方法、背景、案例和使用入口。
+- [krillinai/growth-skills](https://github.com/krillinai/growth-skills)：将手册中的增长方法逐步转化为可由 AI 执行的 Skills。Skill 实现、脚本和测试保留在独立仓库，Growth Playbook 负责方法、背景、案例和使用入口。
