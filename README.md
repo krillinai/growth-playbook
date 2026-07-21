@@ -17,7 +17,6 @@ Status: `●` available · `○` planned
                                   |        GROWTH FOUNDATIONS        |
                                   |  ● Growth Metrics                |
                                   |  ● Product-Market Fit            |
-                                  |  ● Experimentation               |
                                   |  ○ Growth Models                 |
                                   +----------------+-----------------+
                                                    |
