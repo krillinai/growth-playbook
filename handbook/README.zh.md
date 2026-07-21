@@ -20,11 +20,11 @@
 
 ### [激活](activation/README.zh.md)
 
-覆盖首次价值定义、激活指标树、摩擦诊断，以及通过留存验证激活的方法。
+覆盖首次价值定义、激活指标树、摩擦诊断、Setup-Aha-Habit，以及通过留存验证激活的方法。
 
 ### [获客](acquisition/README.zh.md)
 
-覆盖目标人群、渠道机制、增量、获客质量与可持续经济性。
+覆盖目标人群、渠道机制、增量、获客质量、可持续经济性、可规模化 SEO 页面系统，以及从 Kindle 进入可重复增长的方法。
 
 ### [留存](retention/README.zh.md)
 
@@ -59,8 +59,8 @@
 | 分类 | 已发布概念 |
 | --- | --- |
 | 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) |
-| 获客 | [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) |
-| 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [CRO](activation/README.zh.md#转化率优化) |
+| 获客 | [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [Kindle 与 Fire](acquisition/README.zh.md#kindle-与-fire-策略) |
+| 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |
 | 商业化 | [定价](monetization/README.zh.md#定价) · [收入模型](monetization/README.zh.md#收入模型) · [盈利性增长](monetization/README.zh.md#盈利性增长) |
 | 推荐与循环 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |

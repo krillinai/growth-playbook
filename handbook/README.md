@@ -20,11 +20,11 @@ Segment-specific value, retention, Four Fits, evidence conflicts, and repeated r
 
 ### [Activation](activation/README.md)
 
-A framework for defining first value, building an activation metric tree, diagnosing friction, and validating activation against retention.
+A framework for defining first value, building an activation metric tree, diagnosing friction, connecting Setup, Aha, and Habit, and validating activation against retention.
 
 ### [Acquisition](acquisition/README.md)
 
-Audience, channel mechanisms, incrementality, acquisition quality, and sustainable economics.
+Audience, channel mechanisms, incrementality, acquisition quality, sustainable economics, scalable SEO page systems, and the transition from kindle to repeatable growth.
 
 ### [Retention](retention/README.md)
 
@@ -59,8 +59,8 @@ Outcome ownership, decision rights, cross-functional capabilities, and learning 
 | Area | Published concepts |
 | --- | --- |
 | Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) |
-| Acquisition | [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) |
-| Activation | [Onboarding](activation/README.md#onboarding) · [CRO](activation/README.md#conversion-rate-optimization) |
+| Acquisition | [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [Kindle and Fire](acquisition/README.md#kindle-and-fire-strategies) |
+| Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
 | Monetization | [Pricing](monetization/README.md#pricing) · [Revenue Models](monetization/README.md#revenue-models) · [Profitable Growth](monetization/README.md#profitable-growth) |
 | Referral & Loops | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
