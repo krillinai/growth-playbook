@@ -1,6 +1,6 @@
 # Growth Playbook：增长手册
 
-> 由 [clawee.ai](https://clawee.ai) 出品，[KrillinAI](https://github.com/KrillinAI) 团队创作并维护，专注于内容智能与全球增长。
+> 由企业级增长 Agent 产品 [clawee.ai](https://clawee.ai) 出品，[KrillinAI](https://github.com/KrillinAI) 团队创作并维护，专注于内容智能与全球增长。
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
