@@ -16,6 +16,7 @@ For retention models, cohort metrics, and diagnosis, see [Retention](../../../ha
 | [Shopify](../../companies/shopify/README.md) | Repeated merchant success and continued platform value | Product capability, education, community, and lifecycle support | Retained merchant use and business outcomes; acquisition volume alone is insufficient |
 | [Dropbox](../../companies/dropbox/README.md) | File utility, collaborative work, and AI-assisted knowledge access | Stored value, collaboration, expansion, and repeated successful retrieval | Cohort use and task quality; AI feature shipment does not establish retention |
 | [Pinterest](../../companies/pinterest/README.md) | Repeated discovery and saving of relevant ideas | Personalized content, interests, and returning use cases | Cohort retention after Setup and Aha; search conversion alone is insufficient |
+| [HubSpot](../../companies/hubspot/README.md) | Repeated value from knowing when prospects engage with tracked communication | Fast feedback and recurring external sales activity | Flattening retention curves in the early HubSpot Sales account; exact internal cohorts are not public |
 
 ## Comparison
 
@@ -34,7 +35,7 @@ Duolingo reinforces an individual habit, Facebook compounds network value, Airta
 | --- | --- | --- |
 | [Lifecycle](../../../handbook/retention/README.md#customer-lifecycle) | Facebook growth accounting; Duolingo resurrection | Separate new, retained, lapsed, resurrected, and churned behavior |
 | [Lifecycle marketing](../../../handbook/retention/README.md#lifecycle-marketing) | Duolingo notifications; ByteDance incentives | State-triggered contact with fatigue and incrementality guardrails |
-| [Churn prevention](../../../handbook/retention/README.md#churn-prevention) | Duolingo recovery; Airtable collaboration; Brian Balfour | Diagnose recurring-value loss before relying on reminders or discounts |
+| [Churn prevention](../../../handbook/retention/README.md#churn-prevention) | Duolingo recovery; Airtable collaboration; HubSpot Sales; Brian Balfour | Diagnose recurring-value loss before relying on reminders or discounts |
 
 Direct email-program evidence remains too thin for a standalone chapter.
 

@@ -16,6 +16,7 @@
 | Eventbrite | 活动 Marketplace、可持续获客、产品领导力与增长所有权 | Kindle 到 Fire 的获客与产品组织边界 | [公司页面](eventbrite/README.zh.md) |
 | Facebook / Meta | 社交产品、早期用户增长、激活、留存、国际化与实验 | 核心价值、激活、留存、数据、组织与扩张 | [公司页面](facebook/README.zh.md) |
 | Grubhub | 餐厅 Marketplace、本地密度、配送演进与网络竞争 | 供需循环、履约与有条件的网络效应 | [公司页面](grubhub/README.zh.md) |
+| HubSpot | B2B 软件、Freemium、产品套餐、Inbound 分发、销售与 Four Fits | HubSpot Sales 留存、病毒与付费增长、套餐经济性和市场选择 | [公司页面](hubspot/README.zh.md) |
 | Lovable | AI 产品增长、信任、自然分发、产品发布与商业化 | 信任、自然分发、发布、AI 商业化与 PMF | [公司页面](lovable/README.zh.md) |
 | Pinterest | SEO 入口页、转化、新用户引导、留存与国际增长 | 结构化 Landing Page、真实入口界面与 Setup-Aha-Habit | [公司页面](pinterest/README.zh.md) |
 | Ramp | 客户节省、B2B UX、产品速度、增长衡量、品牌与 AI 运营 | 衡量、产品速度与 AI Agent 营销运营 | [公司页面](ramp/README.zh.md) |

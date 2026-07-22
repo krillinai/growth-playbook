@@ -14,6 +14,7 @@
 | [Duolingo](../../companies/duolingo/README.zh.md) | 学习者为便利付费，同时保持学习可及性 | Freemium、订阅、留存、广告权衡 | 使命、习惯和广告边界影响包装 |
 | [Lovable](../../companies/lovable/README.zh.md) | 构建者为 AI 软件生产付费 | 用量经济性、套餐、信任、年付 | 模型成本与能力快速变化 |
 | [字节跳动](../../companies/bytedance/README.zh.md) | 消费注意力与产品矩阵经济性 | 预测 LTV、多周期 ROI、优惠券 | 规模、数据与组合效应限制迁移 |
+| [HubSpot](../../companies/hubspot/README.zh.md) | 销售专业人员与 Mid-Market 账户为降低不确定性和销售工作流价值付费 | Freemium、套餐定价、最低席位、年度合同与 Channel-Model Fit | 2014-2016 近似回顾；后续定价与结果不在范围内 |
 
 ## 对比与迁移
 
@@ -23,9 +24,9 @@ Ramp 强调可衡量企业节省，Duolingo 平衡可及性与订阅价值，Lov
 
 | 概念 | 证据 | 支持的结论 |
 | --- | --- | --- |
-| [定价](../../../handbook/monetization/README.zh.md#定价) | Duolingo；Lovable；Ramp | Freemium 边界、AI 用量经济性、支付意愿、信任与价值对齐 |
-| [收入模型](../../../handbook/monetization/README.zh.md#收入模型) | Ramp；Duolingo；Lovable；字节跳动 | B2B 激励、订阅与广告、AI 套餐与产品矩阵经济性 |
-| [盈利性增长](../../../handbook/monetization/README.zh.md#盈利性增长) | Ramp；字节跳动；Brian Balfour | 贡献、回本、LTV 敏感性、留存经济性与下行周期纪律 |
+| [定价](../../../handbook/monetization/README.zh.md#定价) | Duolingo；Lovable；Ramp；HubSpot | Freemium 边界、AI 用量经济性、支付意愿、信任、套餐与价值对齐 |
+| [收入模型](../../../handbook/monetization/README.zh.md#收入模型) | Ramp；Duolingo；Lovable；字节跳动；HubSpot | B2B 激励、订阅与广告、AI 套餐、产品矩阵经济性与年度合同 |
+| [盈利性增长](../../../handbook/monetization/README.zh.md#盈利性增长) | Ramp；字节跳动；HubSpot；Brian Balfour | 贡献、回本、ARPU-CAC 匹配、留存经济性与下行周期纪律 |
 
 直接 Upsell 证据仍不足以建立独立章节。
 

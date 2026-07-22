@@ -14,6 +14,7 @@ For pricing models, unit economics, and diagnosis, see [Monetization](../../../h
 | [Duolingo](../../companies/duolingo/README.md) | Learners pay for convenience while learning remains broadly accessible | Freemium, subscription, retention, advertising tradeoffs | Habit, mission, and ad boundaries shape packaging |
 | [Lovable](../../companies/lovable/README.md) | Builders pay for AI-assisted software creation | Usage economics, packaging, trust, annual-plan questions | Fast-changing model cost and product capability make long-term assumptions fragile |
 | [ByteDance](../../companies/bytedance/README.md) | Consumer attention and portfolio economics support multiple revenue and acquisition decisions | Predictive LTV, ROI horizons, coupons, portfolio allocation | Scale, data, and portfolio cross-effects limit transfer |
+| [HubSpot](../../companies/hubspot/README.md) | Sales professionals and mid-market accounts pay for reduced uncertainty and sales workflow value | Freemium, tier pricing, minimum seats, annual contracts, and Channel-Model Fit | Approximate 2014-2016 retrospective; later pricing and results are outside scope |
 
 ## Comparison
 
@@ -30,9 +31,9 @@ The cases differ in payer, cost structure, and value cadence. Ramp emphasizes me
 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
-| [Pricing](../../../handbook/monetization/README.md#pricing) | Duolingo; Lovable; Ramp | Freemium boundaries, AI usage economics, willingness, trust, and value alignment |
-| [Revenue models](../../../handbook/monetization/README.md#revenue-models) | Ramp; Duolingo; Lovable; ByteDance | B2B incentives, subscriptions and ads, AI packages, and portfolio economics |
-| [Profitable growth](../../../handbook/monetization/README.md#profitable-growth) | Ramp; ByteDance; Brian Balfour | Contribution, payback, LTV sensitivity, retained economics, and downturn discipline |
+| [Pricing](../../../handbook/monetization/README.md#pricing) | Duolingo; Lovable; Ramp; HubSpot | Freemium boundaries, AI usage economics, willingness, trust, tiers, and value alignment |
+| [Revenue models](../../../handbook/monetization/README.md#revenue-models) | Ramp; Duolingo; Lovable; ByteDance; HubSpot | B2B incentives, subscriptions and ads, AI packages, portfolio economics, and annual contracts |
+| [Profitable growth](../../../handbook/monetization/README.md#profitable-growth) | Ramp; ByteDance; HubSpot; Brian Balfour | Contribution, payback, ARPU-CAC alignment, retained economics, and downturn discipline |
 
 Direct upsell evidence remains too thin for a standalone chapter.
 

@@ -115,6 +115,40 @@ The 2025 and 2026 discussions extend the framework into AI-native products and C
 
 AI products can also produce rapid initial use with weak durable retention. Teams still need to identify repeated value, cohort behavior, switching dynamics, cost-to-serve, and whether an AI capability creates a defensible workflow rather than temporary novelty.
 
+### 12. Choose Acquisition Channels as Hypotheses
+
+Channel selection starts with the result the company needs now: learning, volume, or cost efficiency. The team then makes time, money, targeting, legal, control, and scale constraints explicit before comparing channels.
+
+A channel matrix makes the comparison visible. Useful dimensions include targeting precision, cost, input time, output time, control, and scale. The result is not a permanent channel strategy; it is a focused hypothesis about the one or two channels most likely to answer the current question.
+
+Early diversification can weaken learning because each channel requires enough creative, product, measurement, and operational depth to test properly. Expansion becomes more useful after a primary channel works, its marginal performance is understood, or its ceiling is becoming visible.
+
+### 13. Use a Constellation of Metrics
+
+A North Star is usually an output metric: it describes an important result but is too broad to tell a team what to change next. It should be decomposed into actionable input metrics and protected by trade-off metrics.
+
+At minimum, the metric system should represent retention breadth, engagement depth, and monetization. Inputs can change as the team learns; stable output metrics preserve direction. A combined metric can create false rigor when improvement in one component hides deterioration in another.
+
+### 14. Launch Through Scoped Learning Loops
+
+A broad launch can expose an early product or feature to people it was not designed for, weaken word of mouth, create noisy retention evidence, and spend future audience attention. A scoped launch reverses the sequence:
+
+```text
+Define the initial audience
+-> access that audience
+-> filter for fit
+-> observe qualitative and retained success signals
+-> expand to the next audience layer
+```
+
+The launch is a repeatable learning and distribution process, not a single publicity event. Filters should be removed only after the product creates value for the intended audience and the next growth mechanism is understood.
+
+### 15. AI Can Reduce Friction Inside a Content Loop
+
+The LinkedIn collaborative-article analysis describes AI generating questions, structure, and starter content while members add fresh professional contributions. The output can re-enter search, acquisition, feed distribution, and re-engagement.
+
+The mechanism reduces three constraints common to UGC loops: the effort required to become a creator, the chance that content targets no useful demand, and the difficulty of keeping pages unique and current. Scale does not establish quality. Content usefulness, contributor incentives, search durability, recipient value, and platform trust remain necessary guardrails.
+
 ## Framework Summary
 
 | Layer | Main question | Evidence |
@@ -138,6 +172,22 @@ AI products can also produce rapid initial use with weak durable retention. Team
 - [Growth Organization](../../../handbook/growth-organization/README.md)
 - [GEO](../../../handbook/geo/README.md)
 
+## Article Index
+
+| Date | Article | Main topic |
+| --- | --- | --- |
+| 2012-05-02 | [5 Quick Tips To Find Scalable Customer Acquisition](https://brianbalfour.com/essays/5-tips-on-customer-acquisition) | Channel focus, early diversification, paid learning, and channel viability |
+| 2012-06-13 | [Achieving The Network Effect: Solving The Chicken or The Egg](https://brianbalfour.com/essays/the-network-effect-marketplaces) | Marketplace seeding, community density, and manual cold starts |
+| 2013-05-21 | [5 Steps To Choose Your Customer Acquisition Channel](https://brianbalfour.com/essays/5-steps-to-choose-your-customer-acquisition-channel) | Objectives, constraints, channel matrices, and focused hypotheses |
+| 2017-07-18 | [Get Out of the ARPU-CAC Danger Zone with Channel Model Fit](https://brianbalfour.com/essays/channel-model-fit-for-user-acquisition) | Pricing, annual revenue, CAC, payback, and channel economics |
+| 2017-07-26 | [The Model Market Fit Threshold & What it Means for Your Growth Strategy](https://brianbalfour.com/essays/model-market-fit-threshold-for-growth) | Market size, ARPU, attainable share, and revenue ceiling |
+| 2017-08-03 | [Why Most Companies Fail At Moving Up or Down Market](https://brianbalfour.com/essays/key-lessons-for-100m-growth) | Four Fits across market tiers and changing strategies |
+| 2017-09-26 | [6 Mistakes Growth Candidates Make in the Interview Process](https://brianbalfour.com/essays/6-mistakes-growth-interview) | Growth definitions, customer hypotheses, data, and diagnostic thinking |
+| 2017-10-13 | [Building a Growth Framework Towards a $100 Million Product](https://brianbalfour.com/essays/hubspot-growth-framework-100m) | HubSpot Sales, Four Fits, channels, tiers, and market choice |
+| 2018-01-11 | [Don't Let Your North Star Metric Deceive You](https://brianbalfour.com/essays/north-star-metric-growth) | Output, input, and trade-off metric constellations |
+| 2019-01-24 | [How To Launch A Product or Feature To Maximize Growth](https://brianbalfour.com/essays/how-to-launch-a-product-or-feature-to-maximize-growth) | Scoped launches, audience filters, success signals, and expansion |
+| 2023-07-31 | [A Breakdown of LinkedIn's AI Assisted Growth Loop](https://brianbalfour.com/essays/a-breakdown-of-linkedins-ai-assisted-growth-loop) | AI-assisted UGC, SEO, creator friction, and content freshness |
+
 ## Video Index
 
 | Date | Source | Topic | Duration |
@@ -159,3 +209,4 @@ AI products can also produce rapid initial use with weak durable retention. Team
 - Titles and public interviews summarize broad ideas; exact claims should be checked against the full recording and Balfour's primary writing.
 - HubSpot and Reforge outcomes reflect many people, product decisions, market conditions, and resources.
 - Four Fits, loops, and PMF Treadmill are diagnostic frameworks, not guarantees or universal maturity models.
+- The LinkedIn and Superhuman discussions are Balfour's external analyses, not first-person operating accounts from those companies.

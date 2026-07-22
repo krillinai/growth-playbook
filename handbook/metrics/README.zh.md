@@ -36,6 +36,20 @@
 
 GMV 或收入有时有用，但通常太宽，难以指导每周动作。
 
+## 指标星座
+
+North Star 应该位于一套精简的输出、输入与 Trade-off Metrics 系统中。
+
+| 指标角色 | 作用 | 示例 |
+| --- | --- | --- |
+| 输出指标 | 表示持续客户或业务结果 | Weekly Active Teams、留存收入 |
+| 输入指标 | 表示团队可以直接改变的行为 | 完成协作工作流的团队数 |
+| Trade-off Metric | 检测改善其他指标时产生的伤害 | 通知退订、内容新鲜度、毛利 |
+
+输出指标通常是滞后计分板。团队需要持续拆解，直到获得足够接近产品或渠道行为、能够支持决策的输入指标。输入仍然是假设：如果实验推动输入却没有改善输出，就应该放弃或替换它。
+
+当留存、参与、商业化、供给或质量可能向相反方向变化时，不要强行把它们合并成一个数字。精简的指标星座既保持聚焦，也让这些关系保持可见。
+
 ## 常见北极星指标
 
 ### DTC 品牌
@@ -272,6 +286,7 @@ Fully Loaded CAC 应定义客户，按照转化延迟匹配投入，区分新增
 ## 相关证据
 
 - [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：Power User Curve、NPS 来源边界、CAC/CPA、消费产品基准与生命周期 Reach。
+- [Brian Balfour](../../case-library/people/brian-balfour/README.zh.md)：指标星座中的输出、输入与 Trade-off Metrics。
 - [Dropbox](../../case-library/companies/dropbox/README.zh.md)：付费搜索经济性、推荐质量与产品价值一致的获客。
 
 ## 案例对比

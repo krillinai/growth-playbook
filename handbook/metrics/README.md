@@ -36,6 +36,20 @@ A useful North Star Metric should:
 
 GMV or revenue can be useful, but they are usually too broad to guide weekly action.
 
+## Metric Constellation
+
+A North Star should sit inside a small system of output, input, and trade-off metrics.
+
+| Metric role | Purpose | Example |
+| --- | --- | --- |
+| Output | Represents a durable customer or business result | Weekly active teams, retained revenue |
+| Input | Represents a behavior the team can change directly | Teams completing a collaborative workflow |
+| Trade-off | Detects harm created while improving another metric | Notification opt-outs, content freshness, gross margin |
+
+Output metrics are usually lagging scoreboards. Decompose them until the team reaches inputs close enough to product or channel behavior to support a decision. Inputs remain hypotheses: discard or replace them when experiments move the input without improving the output.
+
+Do not force retention, engagement, monetization, supply, or quality into one combined number when the components can move in opposing directions. A small constellation preserves focus while making those relationships visible.
+
 ## Common North Star Metrics
 
 ### DTC Brands
@@ -272,6 +286,7 @@ Every weekly review should answer:
 ## Related Evidence
 
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): Power User Curves, NPS source boundaries, CAC/CPA, consumer benchmarks, and lifecycle reach.
+- [Brian Balfour](../../case-library/people/brian-balfour/README.md): output, input, and trade-off metrics within a metric constellation.
 - [Dropbox](../../case-library/companies/dropbox/README.md): paid-search economics, referral quality, and product-aligned acquisition.
 
 ## Case Comparison

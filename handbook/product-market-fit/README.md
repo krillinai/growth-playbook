@@ -41,6 +41,21 @@ PMF should be evaluated by segment. Strong fit in one use case can disappear whe
 
 These fits constrain one another. Product value can be real while distribution or economics remain unworkable.
 
+## Model-Market Fit
+
+Model-Market Fit tests whether the target market and revenue model can support the intended scale.
+
+```text
+annual revenue per customer
+x target customers in market
+x realistically attainable share
+= potential annual revenue
+```
+
+The equation is a hypothesis, not a forecast. Market definition, willingness to pay, reachable customer count, competitive response, churn, gross margin, and the time required to capture share can all invalidate it.
+
+A narrow initial segment can be correct for finding retained value even when it cannot support the long-term revenue target. Document the next expansion markets and which Four Fits must be reproven at each transition. A material change to market, product, channel, price, or packaging requires the other hypotheses to be reviewed.
+
 ## Evidence Framework
 
 | Layer | Evidence | Diagnostic question |
@@ -102,6 +117,7 @@ AI-native categories make this especially visible because model capability, cost
 
 - [Sean Ellis](../../case-library/people/sean-ellis/README.md): must-have survey, activation, retention, and scaling sequence.
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md): Four Fits and the PMF Treadmill.
+- [HubSpot](../../case-library/companies/hubspot/README.md): HubSpot Sales market definition, tier economics, channel changes, and Four Fits revisions.
 - [Elena Verna](../../case-library/people/elena-verna/README.md): growth cannot manufacture PMF and AI-native fit must be re-earned.
 - [Alex Schultz](../../case-library/people/alex-schultz/README.md): PMF and retention before acquisition tactics.
 - [Lovable](../../case-library/companies/lovable/README.md): repeated fit in a fast-changing AI category.

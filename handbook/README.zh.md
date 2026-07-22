@@ -65,12 +65,12 @@
 | 分类 | 已发布概念 |
 | --- | --- |
 | 增长诊断 | [Context、Outcome、Constraint、Evidence、Action 与 Execution](diagnosis/README.zh.md#六层诊断结构) · [获客](diagnosis/README.zh.md#获客诊断) · [激活](diagnosis/README.zh.md#激活诊断) · [留存](diagnosis/README.zh.md#留存诊断) · [商业化](diagnosis/README.zh.md#商业化诊断) · [增长循环](diagnosis/README.zh.md#增长循环诊断) · [增长系统](diagnosis/README.zh.md#增长系统诊断) |
-| 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) |
-| 获客 | [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [Kindle 与 Fire](acquisition/README.zh.md#kindle-与-fire-策略) |
+| 增长基础 | [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [产品市场匹配](product-market-fit/README.zh.md) · [Model-Market Fit](product-market-fit/README.zh.md#model-market-fit) · [指标星座](metrics/README.zh.md#指标星座) |
+| 获客 | [渠道选择矩阵](acquisition/README.zh.md#渠道选择矩阵) · [付费获客](acquisition/README.zh.md#付费获客) · [内容与社媒分发](acquisition/README.zh.md#内容与社媒分发) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [Kindle 与 Fire](acquisition/README.zh.md#kindle-与-fire-策略) |
 | 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |
 | 商业化 | [定价](monetization/README.zh.md#定价) · [收入模型](monetization/README.zh.md#收入模型) · [盈利性增长](monetization/README.zh.md#盈利性增长) |
-| 推荐与循环 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |
+| 推荐与循环 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [AI 辅助 UGC 内容循环](referral-and-loops/README.zh.md#ai-辅助-ugc-内容循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |
 
 ## 规划中
 

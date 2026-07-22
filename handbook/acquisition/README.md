@@ -51,6 +51,34 @@ Split by audience, intent, channel, creative or promise, geography, device, and 
 5. Read marginal rather than average performance and estimate incrementality.
 6. Reallocate based on retained contribution, not platform-reported conversions.
 
+## Channel Selection Matrix
+
+Choose a channel according to the decision the company needs to make, not according to a generic ranking of popular tactics.
+
+| Dimension | Question |
+| --- | --- |
+| Objective | Is the priority learning, volume, cost efficiency, or access to a specific segment? |
+| Targeting | Can the channel reach the intended customer and intent precisely enough? |
+| Cost | What upfront, marginal, and operating costs are required? |
+| Input time | How long until the first credible test can begin? |
+| Output time | How long until activation, retention, or revenue evidence matures? |
+| Control | Can exposure be started, stopped, and segmented deliberately? |
+| Scale | How much qualified demand can the channel supply before saturation? |
+
+Select one or two channel hypotheses that best fit the objective and constraints. Testing many channels shallowly can produce less information than testing one channel deeply enough to understand audience, promise, landing path, activation, and retained economics.
+
+## Channel-Model Fit
+
+The business model constrains which acquisition channels can work. Low annual revenue per customer usually requires low-cost, low-friction channels; higher-cost sales and partnership channels require enough retained gross profit to fund acquisition and payback.
+
+```text
+retained annual contribution per customer
+-> acceptable acquisition cost and payback
+-> viable channel set
+```
+
+Pricing and packaging changes can break a working channel. Evaluate product friction, ARPU or ACV, gross margin, conversion delay, payback, and capital requirements together.
+
 ## Paid Acquisition
 
 Case evidence: [ByteDance and Ramp acquisition systems](../../case-library/themes/acquisition/README.md#concept-evidence-map).
@@ -104,6 +132,20 @@ Early “kindle” strategies use manual, narrow, or unscalable work to find a r
 
 Move toward scale only after the customer, value, channel-model fit, and marginal economics are understood. Scaling before PMF magnifies leakage; remaining manual after the mechanism is proven limits compounding.
 
+## Scoped Product and Feature Launches
+
+A launch should expose the product to the audience for which the current hypothesis was designed, then expand as evidence strengthens.
+
+```text
+Scope audience
+-> access and filter
+-> observe qualitative response
+-> validate retained product value
+-> expand to the next audience layer
+```
+
+An untargeted release can create noisy feedback, weaken retention evidence, damage word of mouth, and consume audience attention. Define the intended customer, filtering rules, success signals, core-product guardrails, and expansion decision before opening distribution. Publicity is an access mechanism; it is not proof of product or feature fit.
+
 ## Common Mistakes
 
 - Treating impressions, clicks, installs, leads, or signups as growth.
@@ -119,6 +161,8 @@ Move toward scale only after the customer, value, channel-model fit, and margina
 - [Pinterest](../../case-library/companies/pinterest/README.md): structured SEO pages and conversion on actual entry surfaces.
 - [Eventbrite](../../case-library/companies/eventbrite/README.md): kindle-to-fire acquisition and scaling boundaries.
 - [Casey Winters](../../case-library/people/casey-winters/README.md): sustainable acquisition and channel-model fit.
+- [Brian Balfour](../../case-library/people/brian-balfour/README.md): channel matrices, focused channel hypotheses, Channel-Model Fit, and scoped launches.
+- [HubSpot](../../case-library/companies/hubspot/README.md): product tiers, acquisition channels, model economics, and market choice in HubSpot Sales.
 
 ## Case Comparison
 

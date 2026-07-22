@@ -61,6 +61,23 @@ Product loops encode growth into normal product value. Collaboration, shared art
 
 Map every edge, eligibility rule, transition rate, delay, and quality loss. Improve the weakest edge instead of adding prompts to the top.
 
+## AI-Assisted UGC Content Loops
+
+AI can create a question, outline, or starter artifact that lowers the effort required for a user to contribute. Human additions can then improve specificity and freshness before the result re-enters search, feeds, sharing, and re-engagement.
+
+```text
+Demand or topic signal
+-> AI-assisted starter artifact
+-> qualified human contribution
+-> indexable or shareable output
+-> recipient discovery and value
+-> new demand, contribution, or return
+```
+
+Measure contributor participation, accepted contribution quality, page usefulness, qualified search or feed demand, recipient activation, retained value, refresh cost, and cycle time. Add originality, expert attribution, spam, misinformation, contributor consent, search dependency, and content-decay guardrails.
+
+AI output volume is not loop health. The mechanism compounds only when the content helps recipients and the platform can keep quality and trust above the cost of production and moderation.
+
 ## Advocacy
 
 Case evidence: [Lovable, Duolingo, and Ramp](../../case-library/themes/referral-and-loops/README.md#concept-evidence-map).
@@ -72,6 +89,7 @@ Measure qualified downstream behavior and trust, not testimonial volume alone.
 ## Common Mistakes
 
 - Calling invitations a loop before recipients receive value.
+- Scaling AI-generated or AI-assisted pages before usefulness, originality, and recipient value are established.
 - Forcing sharing or requesting unnecessary permissions.
 - Reading gross K-factor without retention and incrementality.
 - Launching rewards without fraud and cannibalization controls.

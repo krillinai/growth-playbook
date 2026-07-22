@@ -35,9 +35,10 @@ Facebook's loop is structurally networked, Duolingo makes progress and identity 
 | --- | --- | --- |
 | [Virality](../../../handbook/referral-and-loops/README.md#virality) | Facebook; Brian Balfour; Sean Ellis | Propagation, recipient conversion, experiments, and retention-adjusted quality |
 | [Product loops](../../../handbook/referral-and-loops/README.md#product-loops) | Brian Balfour; Andrew Chen; Facebook; Uber; Lovable | Outputs create inputs through collaboration, networks, transactions, and proof |
+| [AI-assisted UGC content loops](../../../handbook/referral-and-loops/README.md#ai-assisted-ugc-content-loops) | Brian Balfour's external analysis of LinkedIn collaborative articles | AI can reduce creator and topic-selection friction while human contributions add freshness; quality and search dependency remain boundaries |
 | [Advocacy](../../../handbook/referral-and-loops/README.md#advocacy) | Lovable; Duolingo; Ramp | Customer and employee proof, identity, brand trust, and downstream behavior |
 
-UGC appears inside several loops, but creator-system evidence remains too thin for a standalone chapter.
+LinkedIn evidence comes from Balfour's external analysis and third-party Ahrefs estimates, not LinkedIn internal evaluation. UGC appears inside several loops, but creator-system evidence remains too thin for a standalone company case.
 
 ## Related People
 

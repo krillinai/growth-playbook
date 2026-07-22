@@ -65,12 +65,12 @@ Outcome ownership, decision rights, cross-functional capabilities, and learning 
 | Area | Published concepts |
 | --- | --- |
 | Diagnosis | [Context, outcome, constraint, evidence, action, and execution](diagnosis/README.md#the-six-diagnostic-layers) · [Acquisition](diagnosis/README.md#acquisition-diagnosis) · [Activation](diagnosis/README.md#activation-diagnosis) · [Retention](diagnosis/README.md#retention-diagnosis) · [Monetization](diagnosis/README.md#monetization-diagnosis) · [Growth Loops](diagnosis/README.md#growth-loops-diagnosis) · [Growth System](diagnosis/README.md#growth-system-diagnosis) |
-| Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) |
-| Acquisition | [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [Kindle and Fire](acquisition/README.md#kindle-and-fire-strategies) |
+| Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) · [Model-Market Fit](product-market-fit/README.md#model-market-fit) · [Metric Constellation](metrics/README.md#metric-constellation) |
+| Acquisition | [Channel Selection Matrix](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [Kindle and Fire](acquisition/README.md#kindle-and-fire-strategies) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
 | Monetization | [Pricing](monetization/README.md#pricing) · [Revenue Models](monetization/README.md#revenue-models) · [Profitable Growth](monetization/README.md#profitable-growth) |
-| Referral & Loops | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
+| Referral & Loops | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [AI-Assisted UGC Content Loops](referral-and-loops/README.md#ai-assisted-ugc-content-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
 
 ## Roadmap
 
