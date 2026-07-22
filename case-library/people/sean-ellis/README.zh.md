@@ -276,3 +276,7 @@ Dropbox 推荐计划是著名案例，但它能运转是因为用户已经重视
 ## 相关手册内容
 
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
+
+## 可执行 Skill
+
+- [Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens) — 运用 Sean Ellis 的公开方法评估 must-have PMF、激活、留存、增长阶段、价值型 North Star、实验系统、优先级与推荐循环。

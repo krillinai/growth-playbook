@@ -279,3 +279,7 @@ Teams should distinguish organic word of mouth from engineered referrals, then m
 ## Related Playbook Content
 
 - [Growth Metrics System](../../../handbook/metrics/README.md)
+
+## Executable Skill
+
+- [Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens) — evaluate must-have PMF, activation, retention, growth stages, value-based North Stars, experimentation, prioritization, and referral loops using Sean Ellis's public methods.
