@@ -110,4 +110,6 @@ See [Monetization](../../case-library/themes/monetization/README.md).
 
 ## Related People
 
+- [Customer Segmentation & ICP](../customer-segmentation/README.md)
+- [Growth Model](../growth-model/README.md)
 - [Madhavan Ramanujam](../../case-library/people/madhavan-ramanujam/README.md)

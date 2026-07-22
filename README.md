@@ -63,9 +63,10 @@ We follow a content-first approach: a module is published only when it contains 
 | Module | What it explains |
 | --- | --- |
 | [Product-Market Fit](handbook/product-market-fit/README.md) | Segment-specific value, retention evidence, Four Fits, and repeated revalidation |
+| [Customer Segmentation & ICP](handbook/customer-segmentation/README.md) | Customer jobs, best-fit conditions, behavioral and economic evidence, and differentiated paths |
 | [Positioning](handbook/positioning/README.md) | Competitive alternatives, differentiated value, best-fit customers, and market categories |
-| [Customer Lifecycle Model](handbook/retention/README.md#customer-lifecycle) | How customers move from first contact to recurring and expanding value |
 | [Funnel & Constraint Model](handbook/activation/README.md#funnels) | How to represent transitions, diagnose drop-offs, and identify the primary constraint |
+| [Growth Model](handbook/growth-model/README.md) | How value, acquisition, retention, monetization, expansion, and reinvestment form a causal growth system |
 
 ## Growth Lifecycle
 

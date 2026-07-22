@@ -186,6 +186,8 @@ Do not optimize each stage independently. Removing setup can increase completion
 
 ## Related Evidence
 
+- [Customer Segmentation & ICP](../customer-segmentation/README.md): creating different activation paths only when customer conditions change the value journey.
+- [Growth Model](../growth-model/README.md): connecting first value with retention, monetization, and the primary system constraint.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): Next Feature Fallacy, engagement walls, reach, and early retention.
 - [Airbnb](../../case-library/companies/airbnb/README.md): cross-channel listing completion and qualified downstream transactions.
 - [Pinterest](../../case-library/companies/pinterest/README.md): entry-page conversion, product comprehension, and Setup-Aha-Habit.

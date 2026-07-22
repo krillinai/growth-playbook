@@ -155,6 +155,8 @@ An untargeted release can create noisy feedback, weaken retention evidence, dama
 
 ## Related Evidence
 
+- [Customer Segmentation & ICP](../customer-segmentation/README.md): customer jobs, reachability, channel fit, and retained acquisition quality.
+- [Growth Model](../growth-model/README.md): acquisition as one input in a retained and economically sustainable system.
 - [Airbnb](../../case-library/companies/airbnb/README.md): productized access to an existing demand channel and its platform boundaries.
 - [Dropbox](../../case-library/companies/dropbox/README.md): weak paid-search economics versus native sharing and referral.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): channel decay, marginal CAC, and paid-marketing concentration.

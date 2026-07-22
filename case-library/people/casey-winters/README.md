@@ -144,6 +144,8 @@ Making expertise searchable can create network and data advantages, but only if 
 
 ## Related Handbook and Cases
 
+- [Growth Model](../../../handbook/growth-model/README.md)
+- [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Activation](../../../handbook/activation/README.md)

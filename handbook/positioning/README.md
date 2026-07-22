@@ -155,6 +155,7 @@ Run message tests as supporting evidence, not as a substitute for market behavio
 ## Related People and Cases
 
 - [April Dunford](../../case-library/people/april-dunford/README.md)
+- [Customer Segmentation & ICP](../customer-segmentation/README.md)
 - [Product-Market Fit](../product-market-fit/README.md)
 - [Acquisition](../acquisition/README.md)
 - [Monetization](../monetization/README.md)

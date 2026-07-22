@@ -115,6 +115,8 @@ AI-native categories make this especially visible because model capability, cost
 
 ## Related Evidence
 
+- [Customer Segmentation & ICP](../customer-segmentation/README.md): defining and validating the segment for which fit is expected.
+- [Growth Model](../growth-model/README.md): connecting fit with channel, retention, monetization, constraints, and revalidation.
 - [Sean Ellis](../../case-library/people/sean-ellis/README.md): must-have survey, activation, retention, and scaling sequence.
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md): Four Fits and the PMF Treadmill.
 - [HubSpot](../../case-library/companies/hubspot/README.md): HubSpot Sales market definition, tier economics, channel changes, and Four Fits revisions.

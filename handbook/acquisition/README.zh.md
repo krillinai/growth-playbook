@@ -155,6 +155,8 @@
 
 ## 相关证据
 
+- [客户分群与 ICP](../customer-segmentation/README.zh.md)：客户任务、可触达性、渠道匹配与留存获客质量。
+- [增长模型](../growth-model/README.zh.md)：把获客作为留存且经济性可持续系统中的一项输入。
 - [Airbnb](../../case-library/companies/airbnb/README.zh.md)：产品化接入已有需求渠道及其平台边界。
 - [Dropbox](../../case-library/companies/dropbox/README.zh.md)：较弱付费搜索经济性与原生分享、推荐的对比。
 - [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：渠道衰减、边际 CAC 与付费营销集中。

@@ -142,6 +142,7 @@
 ## 相关人物与案例
 
 - [April Dunford](../../case-library/people/april-dunford/README.zh.md)
+- [客户分群与 ICP](../customer-segmentation/README.zh.md)
 - [产品市场匹配](../product-market-fit/README.zh.md)
 - [获客](../acquisition/README.zh.md)
 - [商业化](../monetization/README.zh.md)

@@ -285,6 +285,8 @@ Every weekly review should answer:
 
 ## Related Evidence
 
+- [Growth Model](../growth-model/README.md): organizing outcome, input, and guardrail metrics around explicit causal relationships.
+- [Customer Segmentation & ICP](../customer-segmentation/README.md): using segment evidence only when it changes a decision.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): Power User Curves, NPS source boundaries, CAC/CPA, consumer benchmarks, and lifecycle reach.
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md): output, input, and trade-off metrics within a metric constellation.
 - [Dropbox](../../case-library/companies/dropbox/README.md): paid-search economics, referral quality, and product-aligned acquisition.
