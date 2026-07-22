@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens)
+**可执行 Skill：**[Brian Balfour Growth Lens](skill/)
 
 适用于增长无法复利、Product、Market、Channel 或 Model 可能错配，或团队缺少一致指标和循环系统的情况。
 

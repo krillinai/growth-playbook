@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[James Currier Network Effects Lens](https://github.com/krillinai/growth-skills/tree/main/skills/james-currier-network-effects-lens)
+**可执行 Skill：**[James Currier Network Effects Lens](skill/)
 
 适用于网络效应类型、White-Hot Center、Hard Side、Marketplace 结构、Market Networks、Disguised Marketplace、Multi-homing、防御性或 AI 时代网络问题。
 

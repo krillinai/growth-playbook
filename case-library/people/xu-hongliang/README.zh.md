@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[徐洪亮增长基础设施视角](https://github.com/krillinai/growth-skills/tree/main/skills/xu-hongliang-growth-infrastructure-lens)
+**可执行 Skill：**[徐洪亮增长基础设施视角](skill/)
 
 适用于共享增长平台、多周期价值模型、受治理自动化、素材系统、激励、防作弊、产品组合流量、本地化或归因校准问题。
 

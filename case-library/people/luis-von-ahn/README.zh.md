@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[Luis von Ahn Habit Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/luis-von-ahn-habit-growth-lens)
+**可执行 Skill：**[Luis von Ahn Habit Growth Lens](skill/)
 
 适用于使命一致的 Freemium、伦理动机、Streak 恢复、提醒、产品型品牌、品类扩张、实验治理或 AI 学习质量问题。
 

@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[April Dunford Positioning Lens](https://github.com/krillinai/growth-skills/tree/main/skills/april-dunford-positioning-lens)
+**可执行 Skill：**[April Dunford Positioning Lens](skill/)
 
 适用于买家无法理解产品、销售线索质量不稳定、定位被简化成文案，或 AI 与产品组合主张高度同质化的情况。
 

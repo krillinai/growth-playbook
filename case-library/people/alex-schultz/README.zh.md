@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[Alex Schultz Data Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/alex-schultz-data-growth-lens)
+**可执行 Skill：**[Alex Schultz Data Growth Lens](skill/)
 
 适用于留存、激活、Growth Accounting、数据质量、获客顺序或病毒机制不清晰的情况。
 

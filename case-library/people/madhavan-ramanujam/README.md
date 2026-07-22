@@ -6,7 +6,7 @@
 
 ## Apply This Lens
 
-**Executable Skill:** [Madhavan Ramanujam Monetization Lens](https://github.com/krillinai/growth-skills/tree/main/skills/madhavan-ramanujam-monetization-lens)
+**Executable Skill:** [Madhavan Ramanujam Monetization Lens](skill/)
 
 Use this lens for willingness to pay, value segmentation, packaging, price metrics, revenue models, freemium, profitable growth, or AI monetization.
 

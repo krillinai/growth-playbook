@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[Elena Verna PLG Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/elena-verna-plg-growth-lens)
+**可执行 Skill：**[Elena Verna PLG Growth Lens](skill/)
 
 适用于 PLG、Product-Led Sales、Freemium、商业化、Earned Distribution、实验、AI-native PMF、发布或发现渠道组合问题。
 

@@ -6,7 +6,7 @@
 
 ## Apply This Lens
 
-**Executable Skill:** [Luis von Ahn Habit Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/luis-von-ahn-habit-growth-lens)
+**Executable Skill:** [Luis von Ahn Habit Growth Lens](skill/)
 
 Use this lens for mission-aligned freemium, ethical motivation, streak recovery, reminders, product-led brand, category expansion, experimentation governance, or AI learning quality.
 

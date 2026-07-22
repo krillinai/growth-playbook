@@ -6,7 +6,7 @@
 
 ## Apply This Lens
 
-**Executable Skill:** [Elena Verna PLG Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/elena-verna-plg-growth-lens)
+**Executable Skill:** [Elena Verna PLG Growth Lens](skill/)
 
 Use this lens for PLG, Product-Led Sales, freemium, monetization, earned distribution, experimentation, AI-native PMF, launches, or discovery portfolios.
 

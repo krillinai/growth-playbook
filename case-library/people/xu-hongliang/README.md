@@ -6,7 +6,7 @@
 
 ## Apply This Lens
 
-**Executable Skill:** [Xu Hongliang Growth Infrastructure Lens](https://github.com/krillinai/growth-skills/tree/main/skills/xu-hongliang-growth-infrastructure-lens)
+**Executable Skill:** [Xu Hongliang Growth Infrastructure Lens](skill/)
 
 Use this lens for shared growth platforms, multi-horizon value models, governed automation, creative systems, incentives, anti-abuse, portfolio traffic, localization, or attribution calibration.
 

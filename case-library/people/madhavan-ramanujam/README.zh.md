@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[Madhavan Ramanujam Monetization Lens](https://github.com/krillinai/growth-skills/tree/main/skills/madhavan-ramanujam-monetization-lens)
+**可执行 Skill：**[Madhavan Ramanujam Monetization Lens](skill/)
 
 适用于支付意愿、价值分群、套餐、计价单位、收入模型、Freemium、盈利增长或 AI 商业化问题。
 

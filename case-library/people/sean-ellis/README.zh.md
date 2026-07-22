@@ -6,7 +6,7 @@
 
 ## 应用此视角
 
-**可执行 Skill：**[Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens)
+**可执行 Skill：**[Sean Ellis PMF Growth Lens](skill/)
 
 适用于 Must-have PMF、激活、留存、增长阶段、价值型 North Star、高频实验、ICE 优先级或推荐问题。
 

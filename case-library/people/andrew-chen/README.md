@@ -6,7 +6,7 @@
 
 ## Apply This Lens
 
-**Executable Skill:** [Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens)
+**Executable Skill:** [Andrew Chen Network Growth Lens](skill/)
 
 Use this lens for cold starts, atomic networks, marketplace liquidity, hard-side supply, growth loops, channel decay, lifecycle reach, or growth ownership.
 

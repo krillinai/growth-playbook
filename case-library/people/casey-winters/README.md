@@ -6,7 +6,7 @@
 
 ## Apply This Lens
 
-**Executable Skill:** [Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens)
+**Executable Skill:** [Casey Winters Product Growth Lens](skill/)
 
 Use this lens for retention, Setup-Aha-Habit onboarding, marketplace supply, geographic or category expansion, SEO systems, conversion, sustainable acquisition, or growth ownership.
 
