@@ -4,10 +4,10 @@
 [![MIT License](https://img.shields.io/github/license/krillinai/growth-playbook?style=flat-square&label=License)](LICENSE)
 [![English](https://img.shields.io/badge/Language-English-0969da?style=flat-square)](README.md)
 [![Chinese](https://img.shields.io/badge/Language-Chinese-c8202f?style=flat-square)](README.zh.md)
-[![Growth Skills](https://img.shields.io/badge/Growth-Skills-1f883d?style=flat-square)](https://github.com/krillinai/growth-skills)
+[![Growth & Marketing Skills](https://img.shields.io/badge/Growth_%26_Marketing-Skills-1f883d?style=flat-square)](https://github.com/krillinai/growth-skills)
 [![clawee.ai](https://img.shields.io/badge/clawee.ai-Enterprise_Growth_Agent-6f42c1?style=flat-square)](https://clawee.ai)
 
-> Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth. KrillinAI also develops [krillinai/growth-skills](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
+> Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth. KrillinAI also develops [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
@@ -30,7 +30,7 @@ The [Growth Diagnosis Protocol](handbook/diagnosis/README.md) turns a visible sy
 | Growth Loops | [Diagnose compounding distribution and value](handbook/diagnosis/README.md#growth-loops-diagnosis) |
 | Growth System | [Diagnose measurement, decisions, and execution](handbook/diagnosis/README.md#growth-system-diagnosis) |
 
-Use the Playbook for diagnosis and methods, [krillinai/growth-skills](https://github.com/krillinai/growth-skills) for bounded open-source execution, and [clawee.ai](https://clawee.ai/) when implementation requires persistent systems, private data, governance, or cross-team coordination.
+Use the Playbook for diagnosis and methods, [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) for bounded open-source execution, and [clawee.ai](https://clawee.ai/) when implementation requires persistent systems, private data, governance, or cross-team coordination.
 
 ## How the Playbook Fits Together
 
@@ -76,13 +76,14 @@ Use the Playbook for diagnosis and methods, [krillinai/growth-skills](https://gi
                                   |  Companies / People & Ideas      |
                                   +----------------------------------+
                                   |  Toolkit                        |
-                                  |  Tools / Growth Skills           |
+                                  |  Tools                           |
+                                  |  Growth & Marketing Skills       |
                                   +----------------------------------+
                                                    |
                                   Insights feed the next strategy cycle
 ```
 
-**Growth Diagnosis** identifies the current constraint and next decision. The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Growth Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth Skills.
+**Growth Diagnosis** identifies the current constraint and next decision. The **Foundations** define how growth is understood, the **Growth Journey** shows where growth happens, and **Growth Systems** explain how it is operated. The **Case Library** preserves evidence from people and companies, while the **Toolkit** connects methods to tools and Growth & Marketing Skills.
 
 ## Handbook
 
@@ -111,7 +112,7 @@ Use the Playbook for diagnosis and methods, [krillinai/growth-skills](https://gi
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **Tools** | Growth and marketing tools organized by job, stage, and use case | [Semrush](toolkit/tools/semrush/README.md)<br>[Sensor Tower](toolkit/tools/sensor-tower/README.md)<br>[View tools](toolkit/tools/README.md) |
-| **Growth Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [krillinai/growth-skills](https://github.com/krillinai/growth-skills) |
+| **Growth & Marketing Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) |
 
 See the [Roadmap](ROADMAP.md) for how this structure will grow as complete material is added.
 

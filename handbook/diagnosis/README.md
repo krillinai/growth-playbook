@@ -57,7 +57,7 @@ Use this path when qualified demand, reach, channel scale, or acquisition econom
 4. Check channel-model fit, saturation, creative or content supply, and attribution overlap.
 5. Select the largest constraint that can be tested without increasing low-quality volume.
 
-Start with the Handbook chapter [Acquisition](../acquisition/README.md), compare [Acquisition cases](../../case-library/themes/acquisition/README.md), and use [Growth Skills](https://github.com/krillinai/growth-skills) for bounded execution such as an SEO audit.
+Start with the Handbook chapter [Acquisition](../acquisition/README.md), compare [Acquisition cases](../../case-library/themes/acquisition/README.md), and use [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) for bounded execution such as an SEO audit.
 
 ### Activation Diagnosis
 
@@ -180,9 +180,9 @@ The machine-readable contract is available in [`protocol.schema.json`](protocol.
 
 Use the Playbook directly when the team can access the necessary data, make the decision, and execute a bounded change without persistent integration.
 
-### Growth Skills
+### Growth & Marketing Skills
 
-Use [krillinai/growth-skills](https://github.com/krillinai/growth-skills) when the diagnosis maps to a reusable, auditable workflow. The current catalog includes an [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) for evidence-backed technical, content, and search diagnosis.
+Use [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) when the diagnosis maps to a reusable, auditable workflow. The current catalog includes an [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) for evidence-backed technical, content, and search diagnosis.
 
 ### clawee.ai Enterprise
 

@@ -57,7 +57,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 4. 检查渠道模式匹配、饱和、素材或内容供给与归因重叠。
 5. 选择无需增加低质量流量即可验证的最大约束。
 
-从主手册[获客](../acquisition/README.zh.md)开始，参考[获客案例](../../case-library/themes/acquisition/README.zh.md)，并使用 [Growth Skills](https://github.com/krillinai/growth-skills) 执行 SEO Audit 等有明确边界的任务。
+从主手册[获客](../acquisition/README.zh.md)开始，参考[获客案例](../../case-library/themes/acquisition/README.zh.md)，并使用 [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) 执行 SEO Audit 等有明确边界的任务。
 
 ### 激活诊断
 
@@ -180,9 +180,9 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 
 当团队可以访问必要数据、完成决策，并且无需持续集成即可执行有边界的改动时，直接使用 Playbook。
 
-### Growth Skills
+### Growth & Marketing Skills
 
-当诊断可以映射成可复用、可审计的工作流时，使用 [krillinai/growth-skills](https://github.com/krillinai/growth-skills)。当前目录包含 [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit)，用于形成有证据支持的技术、内容与搜索诊断。
+当诊断可以映射成可复用、可审计的工作流时，使用 [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills)。当前目录包含 [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit)，用于形成有证据支持的技术、内容与搜索诊断。
 
 ### clawee.ai 企业实施
 

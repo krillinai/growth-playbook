@@ -11,7 +11,7 @@ The [Growth Diagnosis Protocol](../handbook/diagnosis/README.md) identifies the 
 | Route | Use it for |
 | --- | --- |
 | Playbook | Self-serve diagnosis, concepts, metrics, decision rules, and cases |
-| [Growth Skills](https://github.com/krillinai/growth-skills) | Bounded, reusable, and auditable workflows such as the current [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) |
+| [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) | Bounded, reusable, and auditable workflows such as the current [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) |
 | [clawee.ai](https://clawee.ai/) | Persistent integrations, private data, continuous Agent execution, governance, and cross-team enterprise implementation |
 
 ## Collections
@@ -19,6 +19,6 @@ The [Growth Diagnosis Protocol](../handbook/diagnosis/README.md) identifies the 
 | Collection | Index |
 | --- | --- |
 | Tools | [Tool Directory](tools/README.md) |
-| Growth Skills | [krillinai/growth-skills](https://github.com/krillinai/growth-skills) |
+| Growth & Marketing Skills | [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) |
 
 Tool inclusion is not an endorsement. Features, data coverage, pricing, and terms can change; validate decisions with current product documentation and first-party business data.

@@ -64,7 +64,7 @@ Use the core intake for every diagnosis, then complete the path that best matche
 | What budget and economic limits apply? | `Budget; period; CAC/payback/margin threshold; approval boundary` or `Unknown` |
 | What channel, platform, market, or supply constraints apply? | `Constraint; affected scope; controllable/uncontrollable; expected duration` or `Unknown` |
 | What trust, safety, legal, privacy, or regulatory guardrails apply? | `Guardrail; prohibited outcome; review/approval owner` or `Unknown` |
-| Which execution route is currently feasible? | `Self-serve / Growth Skills / clawee.ai enterprise; owner; required access; dependency` or `Unknown` |
+| Which execution route is currently feasible? | `Self-serve / Growth & Marketing Skills / clawee.ai enterprise; owner; required access; dependency` or `Unknown` |
 
 See the [Growth Diagnosis Protocol](README.md) for constraint selection, evidence types, actions, and execution routes.
 
