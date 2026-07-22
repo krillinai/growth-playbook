@@ -78,6 +78,6 @@
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |
 | 商业化 | [定价](monetization/README.zh.md#定价) · [收入模型](monetization/README.zh.md#收入模型) · [盈利性增长](monetization/README.zh.md#盈利性增长) |
 | 推荐与扩张 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [网络效应](referral-and-loops/README.zh.md#网络效应) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |
-| 增长系统 | [指标](metrics/README.zh.md) · [实验](experimentation/README.zh.md) · [基础设施](growth-infrastructure/README.zh.md) · [激励](incentive-growth/README.zh.md) · [组织](growth-organization/README.zh.md) |
+| 增长系统 | [指标](metrics/README.zh.md) · [实验](experimentation/README.zh.md) · [基础设施](growth-infrastructure/README.zh.md) · [数据基础](growth-infrastructure/README.zh.md#1-数据基础) · [实验服务](growth-infrastructure/README.zh.md#3-实验服务) · [决策服务](growth-infrastructure/README.zh.md#4-决策服务) · [执行系统](growth-infrastructure/README.zh.md#5-执行系统) · [素材系统](growth-infrastructure/README.zh.md#6-素材系统) · [治理](growth-infrastructure/README.zh.md#7-治理与运营) · [成熟度](growth-infrastructure/README.zh.md#成熟度模型) · [激励](incentive-growth/README.zh.md) · [组织](growth-organization/README.zh.md) |
 
 后续内容方向记录在仓库的 [Roadmap](../ROADMAP.md) 中。

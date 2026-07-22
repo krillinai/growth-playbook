@@ -322,5 +322,6 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 
 - [Facebook / Meta company page](../../companies/facebook/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
+- [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
 - [Chamath Palihapitiya](../chamath-palihapitiya/README.md)
 - [The Complete Guide to GEO](../../../handbook/geo/README.md)

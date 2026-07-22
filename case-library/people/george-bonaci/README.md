@@ -85,4 +85,6 @@ Ramp's described AI marketing work reorganizes repeated research, production, an
 
 ## Related Content
 
+- [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
+
 - [Ramp company page](../../companies/ramp/README.md)

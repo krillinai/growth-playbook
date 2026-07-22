@@ -80,4 +80,6 @@ Growth-team org charts are less important than clear outcomes, access to product
 
 ## Related Content
 
+- [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
+
 - [Ramp company page](../../companies/ramp/README.md)

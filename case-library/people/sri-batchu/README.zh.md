@@ -80,4 +80,6 @@ Pipeline、客户或收入规模要与回本周期和贡献毛利一起看。回
 
 ## 相关内容
 
+- [增长基础设施](../../../handbook/growth-infrastructure/README.zh.md)
+
 - [Ramp 公司页](../../companies/ramp/README.zh.md)

@@ -153,5 +153,6 @@ Her meeting practice includes circulating a pre-read about 24 hours in advance, 
 
 - [Facebook / Meta company page](../../companies/facebook/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
+- [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
 - [Alex Schultz](../alex-schultz/README.md)
 - [Chamath Palihapitiya](../chamath-palihapitiya/README.md)

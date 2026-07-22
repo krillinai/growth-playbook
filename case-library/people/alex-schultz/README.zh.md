@@ -324,5 +324,6 @@ Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Faceboo
 
 - [Facebook / Meta 公司页](../../companies/facebook/README.zh.md)
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
+- [增长基础设施](../../../handbook/growth-infrastructure/README.zh.md)
 - [Chamath Palihapitiya](../chamath-palihapitiya/README.zh.md)
 - [GEO 完全指南](../../../handbook/geo/README.zh.md)
