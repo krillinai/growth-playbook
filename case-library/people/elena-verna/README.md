@@ -468,3 +468,7 @@ The goal is to make the product understandable, credible, and accessible whereve
 - [Lovable company page](../../companies/lovable/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [The Complete Guide to GEO](../../../handbook/geo/README.md)
+
+## Executable Skill
+
+- [Elena Verna PLG Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/elena-verna-plg-growth-lens) — diagnose growth models, PLG, Product-Led Sales, free models, monetization, distribution, experimentation, AI-native PMF, and discovery using Elena Verna's public methods.
