@@ -3,7 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/krillinai/growth-playbook?style=flat-square&logo=github&label=Stars)](https://github.com/krillinai/growth-playbook/stargazers)
 [![MIT License](https://img.shields.io/github/license/krillinai/growth-playbook?style=flat-square&label=License)](LICENSE)
 [![English](https://img.shields.io/badge/Language-English-0969da?style=flat-square)](README.md)
-[![简体中文](https://img.shields.io/badge/语言-简体中文-c8202f?style=flat-square)](README.zh.md)
+[![Chinese](https://img.shields.io/badge/Language-Chinese-c8202f?style=flat-square)](README.zh.md)
 [![Growth Skills](https://img.shields.io/badge/Growth-Skills-1f883d?style=flat-square)](https://github.com/krillinai/growth-skills)
 [![clawee.ai](https://img.shields.io/badge/clawee.ai-Enterprise_Growth_Agent-6f42c1?style=flat-square)](https://clawee.ai)
 
