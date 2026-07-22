@@ -1,6 +1,6 @@
 # Growth Playbook
 
-**Knowledge, Cases & Tools for Growth**
+**Frameworks, Cases & Tools for Growth**
 
 By [clawee.ai](https://clawee.ai/), an enterprise-grade Growth Agent platform.
 
