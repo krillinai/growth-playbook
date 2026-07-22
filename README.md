@@ -64,10 +64,8 @@ We follow a content-first approach: a module is published only when it contains 
 | --- | --- |
 | [Product-Market Fit](handbook/product-market-fit/README.md) | Segment-specific value, retention evidence, Four Fits, and repeated revalidation |
 | [Positioning](handbook/positioning/README.md) | Competitive alternatives, differentiated value, best-fit customers, and market categories |
-| [Customer Lifecycle](handbook/retention/README.md#customer-lifecycle) | How customers move from first contact to recurring and expanding value |
-| [Funnels](handbook/activation/README.md#funnels) | How transitions and constraints are represented across the journey |
-| [Growth Loops](handbook/referral-and-loops/README.md#product-loops) | How product outputs create reusable inputs and compounding value |
-| [Network Effects](handbook/referral-and-loops/README.md#network-effects) | How relevant participation changes product value, density, and defensibility |
+| [Customer Lifecycle Model](handbook/retention/README.md#customer-lifecycle) | How customers move from first contact to recurring and expanding value |
+| [Funnel & Constraint Model](handbook/activation/README.md#funnels) | How to represent transitions, diagnose drop-offs, and identify the primary constraint |
 
 ## Growth Lifecycle
 

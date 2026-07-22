@@ -12,10 +12,8 @@
 | --- | --- |
 | [产品市场匹配](product-market-fit/README.zh.md) | 分群价值、留存证据、Four Fits、Model-Market Fit 与重新验证 |
 | [定位](positioning/README.zh.md) | 替代方案、差异化价值、最佳客户、品类、销售叙事与资格判断 |
-| [用户生命周期](retention/README.zh.md#用户生命周期) | 从首次接触到重复价值与扩张的过程 |
-| [漏斗](activation/README.zh.md#漏斗) | 转换结构、转化、流失点与约束 |
-| [增长循环](referral-and-loops/README.zh.md#产品增长循环) | 可复用输出、输入、周期与复利价值 |
-| [网络效应](referral-and-loops/README.zh.md#网络效应) | 网络单元、密度、强化机制、Multi-homing 与防御性 |
+| [用户生命周期模型](retention/README.zh.md#用户生命周期) | 从首次接触到重复价值与扩张的过程 |
+| [漏斗与约束模型](activation/README.zh.md#漏斗) | 转化结构、流失点、瓶颈与主要约束 |
 
 ## 增长生命周期
 
@@ -73,7 +71,7 @@
 
 | 分类 | 概念 |
 | --- | --- |
-| 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [定位](positioning/README.zh.md) · [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [增长循环](referral-and-loops/README.zh.md#产品增长循环) · [网络效应](referral-and-loops/README.zh.md#网络效应) |
+| 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [定位](positioning/README.zh.md) · [用户生命周期模型](retention/README.zh.md#用户生命周期) · [漏斗与约束模型](activation/README.zh.md#漏斗) |
 | 获客 | [渠道选择](acquisition/README.zh.md#渠道选择矩阵) · [付费获客](acquisition/README.zh.md#付费获客) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [GEO](geo/README.zh.md) |
 | 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |

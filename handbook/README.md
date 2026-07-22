@@ -12,10 +12,8 @@ Foundations explain the concepts, models, and logic used across every stage.
 | --- | --- |
 | [Product-Market Fit](product-market-fit/README.md) | Segment value, retention evidence, Four Fits, Model-Market Fit, and revalidation |
 | [Positioning](positioning/README.md) | Alternatives, differentiated value, best-fit customers, categories, narratives, and qualification |
-| [Customer Lifecycle](retention/README.md#customer-lifecycle) | The progression from first contact to recurring and expanding value |
-| [Funnels](activation/README.md#funnels) | Transition structure, conversion, drop-offs, and constraints |
-| [Growth Loops](referral-and-loops/README.md#product-loops) | Reusable outputs, inputs, cycle time, and compounding value |
-| [Network Effects](referral-and-loops/README.md#network-effects) | Network units, density, reinforcement, multi-homing, and defensibility |
+| [Customer Lifecycle Model](retention/README.md#customer-lifecycle) | The progression from first contact to recurring and expanding value |
+| [Funnel & Constraint Model](activation/README.md#funnels) | Transition structure, conversion, drop-offs, bottlenecks, and primary constraints |
 
 ## Growth Lifecycle
 
@@ -73,7 +71,7 @@ Turn a visible symptom into one primary constraint, an evidence ledger, a 30-day
 
 | Area | Concepts |
 | --- | --- |
-| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Growth Loops](referral-and-loops/README.md#product-loops) · [Network Effects](referral-and-loops/README.md#network-effects) |
+| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Customer Lifecycle Model](retention/README.md#customer-lifecycle) · [Funnel & Constraint Model](activation/README.md#funnels) |
 | Acquisition | [Channel Selection](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [GEO](geo/README.md) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
