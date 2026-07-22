@@ -95,6 +95,9 @@
 - 访谈压缩了多个产品、团队、地区和年份，字节跳动当前组织可能已经不同。
 - 收录不代表认同讨论中的全部获客、激励、数据、劳动、内容或平台实践。
 
+## 可执行 Skill
+
+- [徐洪亮增长基础设施视角](https://github.com/krillinai/growth-skills/tree/main/skills/xu-hongliang-growth-infrastructure-lens) — 运用徐洪亮的公开访谈设计共享增长平台、多周期价值模型、受治理的自动化、素材与风控系统、激励、防作弊、产品组合流量与国际化。
 ## 相关内容
 
 - [字节跳动公司页](../../companies/bytedance/README.zh.md)

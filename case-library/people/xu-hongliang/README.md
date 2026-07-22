@@ -95,6 +95,9 @@ International growth requires local market priorities, channels, creative contex
 - The interviews compress multiple products, teams, regions, and years; ByteDance's current organization may differ.
 - Inclusion does not endorse every acquisition, incentive, data, labor, content, or platform practice discussed.
 
+## Executable Skill
+
+- [Xu Hongliang Growth Infrastructure Lens](https://github.com/krillinai/growth-skills/tree/main/skills/xu-hongliang-growth-infrastructure-lens) — design shared growth platforms, multi-horizon value models, governed automation, creative-risk systems, incentives, anti-abuse, portfolio allocation, and localization using Xu Hongliang's public interviews.
 ## Related Content
 
 - [ByteDance company page](../../companies/bytedance/README.md)
