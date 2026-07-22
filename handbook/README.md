@@ -1,81 +1,83 @@
-# Growth Playbook Modules
+# Growth Knowledge Index
 
-This index lists modules with complete, useful material. A new module directory is created only when writing has begun.
+This index organizes complete modules by their role in the growth system. Directory paths remain stable so existing links continue to work.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-## Available Modules
+## Growth Foundations
 
-### [Growth Diagnosis Protocol](diagnosis/README.md)
+Foundations explain the concepts, models, and logic used across every stage.
 
-A repeatable method for identifying the primary growth constraint, evaluating evidence, selecting 30-day actions, and choosing the right execution route.
+| Module | Scope |
+| --- | --- |
+| [Product-Market Fit](product-market-fit/README.md) | Segment value, retention evidence, Four Fits, Model-Market Fit, and revalidation |
+| [Positioning](positioning/README.md) | Alternatives, differentiated value, best-fit customers, categories, narratives, and qualification |
+| [Customer Lifecycle](retention/README.md#customer-lifecycle) | The progression from first contact to recurring and expanding value |
+| [Funnels](activation/README.md#funnels) | Transition structure, conversion, drop-offs, and constraints |
+| [Growth Loops](referral-and-loops/README.md#product-loops) | Reusable outputs, inputs, cycle time, and compounding value |
 
-[Questions](diagnosis/questions.md) · [Output Template](diagnosis/output-template.md) · [Examples](diagnosis/examples/README.md)
-
-### [GEO: Generative Engine Optimization](geo/README.md)
-
-A guide to AI search mechanics, content optimization, brand authority, technical implementation, and performance analysis.
-
-### [Growth Metrics System](metrics/README.md)
-
-A framework for North Star Metrics, business and funnel metrics, guardrails, and weekly growth reviews.
-
-### [Product-Market Fit](product-market-fit/README.md)
-
-Segment-specific value, retention, Four Fits, evidence conflicts, and repeated revalidation.
-
-### [Positioning](positioning/README.md)
-
-Competitive alternatives, differentiated value, best-fit customers, market categories, sales narratives, qualification, and execution evidence.
-
-### [Activation](activation/README.md)
-
-A framework for defining first value, building an activation metric tree, diagnosing friction, connecting Setup, Aha, and Habit, and validating activation against retention.
+## Growth Lifecycle
 
 ### [Acquisition](acquisition/README.md)
 
-Audience, channel mechanisms, incrementality, acquisition quality, sustainable economics, scalable SEO page systems, and the transition from kindle to repeatable growth.
+Audience, channel mechanisms, incrementality, acquisition quality, sustainable economics, SEO page systems, content and social distribution, and paid acquisition.
+
+[GEO](geo/README.md) · [Channel Selection](acquisition/README.md#channel-selection-matrix) · [SEO](acquisition/README.md#scalable-seo-page-systems) · [Paid Acquisition](acquisition/README.md#paid-acquisition)
+
+### [Activation](activation/README.md)
+
+First value, activation metric trees, friction, onboarding, Setup-Aha-Habit, time to value, and conversion-rate optimization.
+
+[Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization)
 
 ### [Retention](retention/README.md)
 
-Recurring value, cohort retention, growth accounting, resurrection, and retention diagnosis.
+Recurring value, cohort retention, growth accounting, lifecycle marketing, churn prevention, and resurrection.
+
+[Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention)
 
 ### [Monetization](monetization/README.md)
 
-Payers, value metrics, packaging, unit economics, retained revenue, and payback.
+Payers, value metrics, pricing, packaging, revenue models, unit economics, retained revenue, LTV, and payback.
 
-### [Referral & Growth Loops](referral-and-loops/README.md)
+[Pricing](monetization/README.md#pricing) · [Revenue Models](monetization/README.md#revenue-models) · [Profitable Growth](monetization/README.md#profitable-growth)
 
-Loop mechanics, recipient value, retention-adjusted propagation, incrementality, and guardrails.
+### [Referral & Expansion](referral-and-loops/README.md)
 
-### [Experimentation](experimentation/README.md)
+Referrals, virality, product loops, advocacy, recipient value, retention-adjusted propagation, incrementality, and guardrails.
 
-Decision hypotheses, effect measurement, uncertainty, guardrails, and reusable learning.
+[Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy)
 
-### [Growth Infrastructure](growth-infrastructure/README.md)
+## Growth Systems
 
-Reusable data, decision, delivery, creative, and governance capabilities.
+Systems support measurement, decisions, execution, and organizational scale across every lifecycle stage.
 
-### [Incentive Growth](incentive-growth/README.md)
+| Module | Scope |
+| --- | --- |
+| [Metrics & Measurement](metrics/README.md) | North Stars, business and funnel metrics, input and guardrail metrics, accounting, and reviews |
+| [Experimentation](experimentation/README.md) | Decision hypotheses, effect measurement, uncertainty, guardrails, and reusable learning |
+| [Growth Infrastructure](growth-infrastructure/README.md) | Data, decision, delivery, creative, automation, and governance capabilities |
+| [Incentive Systems](incentive-growth/README.md) | Incremental behavior, reward economics, post-incentive retention, fraud, and cannibalization |
+| [Growth Organization](growth-organization/README.md) | Outcome ownership, decision rights, cross-functional capabilities, and learning systems |
 
-Incremental behavior, reward economics, post-incentive retention, fraud, and cannibalization.
+## Tools
 
-### [Growth Organization](growth-organization/README.md)
+### [Growth Diagnosis](diagnosis/README.md)
 
-Outcome ownership, decision rights, cross-functional capabilities, and learning systems.
+Turn a visible symptom into one primary constraint, an evidence ledger, a 30-day action plan, and the correct execution route.
+
+[Questions](diagnosis/questions.md) · [Output Template](diagnosis/output-template.md) · [Examples](diagnosis/examples/README.md)
 
 ## Concept Index
 
-| Area | Published concepts |
+| Area | Concepts |
 | --- | --- |
-| Diagnosis | [Context, outcome, constraint, evidence, action, and execution](diagnosis/README.md#the-six-diagnostic-layers) · [Acquisition](diagnosis/README.md#acquisition-diagnosis) · [Activation](diagnosis/README.md#activation-diagnosis) · [Retention](diagnosis/README.md#retention-diagnosis) · [Monetization](diagnosis/README.md#monetization-diagnosis) · [Growth Loops](diagnosis/README.md#growth-loops-diagnosis) · [Growth System](diagnosis/README.md#growth-system-diagnosis) |
-| Foundations | [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Model-Market Fit](product-market-fit/README.md#model-market-fit) · [Metric Constellation](metrics/README.md#metric-constellation) |
-| Acquisition | [Channel Selection Matrix](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [Content & Social Distribution](acquisition/README.md#content-and-social-distribution) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [Kindle and Fire](acquisition/README.md#kindle-and-fire-strategies) |
+| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Growth Loops](referral-and-loops/README.md#product-loops) |
+| Acquisition | [Channel Selection](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [GEO](geo/README.md) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
 | Monetization | [Pricing](monetization/README.md#pricing) · [Revenue Models](monetization/README.md#revenue-models) · [Profitable Growth](monetization/README.md#profitable-growth) |
-| Referral & Loops | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [AI-Assisted UGC Content Loops](referral-and-loops/README.md#ai-assisted-ugc-content-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
+| Referral & Expansion | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
+| Systems | [Metrics](metrics/README.md) · [Experimentation](experimentation/README.md) · [Infrastructure](growth-infrastructure/README.md) · [Incentives](incentive-growth/README.md) · [Organization](growth-organization/README.md) |
 
-## Roadmap
-
-Future directions are listed in the repository [Roadmap](../ROADMAP.md). A planned topic does not imply a fixed release date or final directory structure.
+Future directions are listed in the repository [Roadmap](../ROADMAP.md).
