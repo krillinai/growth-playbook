@@ -105,7 +105,7 @@ ICP 应回答五个问题：
 - [获客](../acquisition/README.zh.md#分群与诊断)
 - [激活](../activation/README.zh.md#分群与-cohort-分析)
 - [漏斗与约束模型](../funnel-and-constraint/README.zh.md)
-- [商业化](../monetization/README.zh.md#分群与套餐)
+- [商业化](../monetization/README.zh.md#商业化分群)
 - [指标与衡量](../metrics/README.zh.md#8-用户与分群)
 - [April Dunford](../../case-library/people/april-dunford/README.zh.md)
 - [Elena Verna](../../case-library/people/elena-verna/README.zh.md)

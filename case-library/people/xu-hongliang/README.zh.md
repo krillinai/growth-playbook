@@ -110,6 +110,8 @@
 
 ## 相关内容
 
+- [商业化](../../../handbook/monetization/README.zh.md)
+
 - [激励系统](../../../handbook/incentive-growth/README.zh.md)
 
 - [字节跳动公司页](../../companies/bytedance/README.zh.md)

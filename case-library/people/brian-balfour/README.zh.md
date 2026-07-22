@@ -174,6 +174,8 @@ North Star 通常是输出指标：它描述重要结果，却过于宽泛，无
 
 ## 相关手册与案例
 
+- [商业化](../../../handbook/monetization/README.zh.md)
+
 - [增长模型](../../../handbook/growth-model/README.zh.md)
 - [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
 - [产品市场匹配](../../../handbook/product-market-fit/README.zh.md)

@@ -72,4 +72,6 @@ Gamification works when progress systems reinforce the reason people use the pro
 
 ## Related Content
 
+- [Monetization](../../../handbook/monetization/README.md)
+
 - [Duolingo company page](../../companies/duolingo/README.md)

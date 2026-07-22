@@ -182,6 +182,8 @@ Accessible education mission
 
 ## Related Content
 
+- [Monetization](../../../handbook/monetization/README.md)
+
 - [Incentive Systems](../../../handbook/incentive-growth/README.md)
 
 - [Duolingo company page](../../companies/duolingo/README.md)

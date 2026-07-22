@@ -92,6 +92,8 @@ This was not a single pricing change. It was a coordinated revision of market, p
 
 ## Related Handbook and Cases
 
+- [Monetization](../../themes/monetization/README.md)
+
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Retention](../../../handbook/retention/README.md)
