@@ -1,10 +1,10 @@
-# Growth Playbook by clawee.ai
+# Growth & Marketing Playbook by clawee.ai
 
 > Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth. KrillinAI also develops [krillinai/growth-skills](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
-Growth Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
+Growth & Marketing Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
@@ -110,8 +110,8 @@ See the [Roadmap](ROADMAP.md) for how this structure will grow as complete mater
 
 ## Contributing
 
-Growth Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
+Growth & Marketing Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
 
 ## License
 
-Growth Playbook is available under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense, and sell copies subject to the license terms. The material is provided without warranty.
+Growth & Marketing Playbook is available under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense, and sell copies subject to the license terms. The material is provided without warranty.
