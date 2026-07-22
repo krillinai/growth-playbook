@@ -140,6 +140,10 @@ SuperMe 讨论如何从写作、对话等内容中表达专业判断。产品依
 - [Grubhub](../../companies/grubhub/README.zh.md)
 - [Eventbrite](../../companies/eventbrite/README.zh.md)
 
+## 可执行 Skill
+
+- [Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens) — 运用 Casey Winters 的公开方法诊断留存、Onboarding、Marketplace 供给、扩张、SEO、转化、可持续获客与增长组织。
+
 ## 视频索引
 
 | 日期 | 来源 | 主题 | 时长 |

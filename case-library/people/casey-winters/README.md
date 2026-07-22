@@ -140,6 +140,10 @@ Making expertise searchable can create network and data advantages, but only if 
 - [Grubhub](../../companies/grubhub/README.md)
 - [Eventbrite](../../companies/eventbrite/README.md)
 
+## Executable Skill
+
+- [Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens) — diagnose retention, onboarding, marketplace supply, expansion, SEO, conversion, sustainable acquisition, and growth ownership using Casey Winters' public methods.
+
 ## Video Index
 
 | Date | Source | Topic | Duration |
