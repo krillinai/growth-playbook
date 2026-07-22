@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [Alex Schultz Data Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/alex-schultz-data-growth-lens)
+
 Use this lens when retention, activation, growth accounting, data quality, acquisition sequencing, or viral mechanics are unclear.
 
 1. Define the retained value and the behavior that signals a real Magic Moment.

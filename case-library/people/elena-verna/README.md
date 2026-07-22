@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [Elena Verna PLG Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/elena-verna-plg-growth-lens)
+
 Use this lens for PLG, Product-Led Sales, freemium, monetization, earned distribution, experimentation, AI-native PMF, launches, or discovery portfolios.
 
 1. Define the product value, growth model, free-to-paid path, target segment, and organizational stage.

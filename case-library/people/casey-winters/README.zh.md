@@ -6,6 +6,8 @@
 
 ## 应用此视角
 
+**可执行 Skill：**[Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens)
+
 适用于留存、Setup-Aha-Habit Onboarding、Marketplace 供给、地区或品类扩张、SEO 系统、转化、可持续获客或增长组织问题。
 
 1. 定义留存行为、自然使用频率、目标分群与当前增长约束。

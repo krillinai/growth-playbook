@@ -6,6 +6,8 @@
 
 ## 应用此视角
 
+**可执行 Skill：**[Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens)
+
 适用于冷启动、Atomic Network、Marketplace 流动性、Hard Side 供给、增长循环、渠道衰减、生命周期触达或增长组织问题。
 
 1. 定义参与者价值、Atomic Network 边界、核心互动和可能的 Hard Side。

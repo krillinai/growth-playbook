@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [April Dunford Positioning Lens](https://github.com/krillinai/growth-skills/tree/main/skills/april-dunford-positioning-lens)
+
 Use this lens when buyers misunderstand the product, sales quality is inconsistent, positioning is reduced to messaging, or AI and portfolio claims sound generic.
 
 1. Define the product, segment, buying situation, and positioning decision.

@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens)
+
 Use this lens for cold starts, atomic networks, marketplace liquidity, hard-side supply, growth loops, channel decay, lifecycle reach, or growth ownership.
 
 1. Define participant value, the atomic-network boundary, the core interaction, and the suspected hard side.

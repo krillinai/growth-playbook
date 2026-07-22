@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens)
+
 Use this lens for retention, Setup-Aha-Habit onboarding, marketplace supply, geographic or category expansion, SEO systems, conversion, sustainable acquisition, or growth ownership.
 
 1. Define the retained behavior, natural usage frequency, target segment, and current growth constraint.

@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens)
+
 Use this lens for must-have PMF, activation, retention, growth stages, value-based North Stars, high-tempo experimentation, ICE prioritization, or referrals.
 
 1. Define the target segment, core benefit, activation path, repeated behavior, and current growth stage.

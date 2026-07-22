@@ -6,6 +6,8 @@
 
 ## 应用此视角
 
+**可执行 Skill：**[Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens)
+
 适用于 Must-have PMF、激活、留存、增长阶段、价值型 North Star、高频实验、ICE 优先级或推荐问题。
 
 1. 定义目标分群、核心收益、激活路径、重复行为与当前增长阶段。

@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens)
+
 Use this lens when growth does not compound, product, market, channel, or model may be misaligned, or teams lack a coherent metric and loop system.
 
 1. Define the segment, retained value, business model, current channel mix, and growth equation.

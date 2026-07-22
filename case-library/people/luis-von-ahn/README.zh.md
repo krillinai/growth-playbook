@@ -6,6 +6,8 @@
 
 ## 应用此视角
 
+**可执行 Skill：**[Luis von Ahn Habit Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/luis-von-ahn-habit-growth-lens)
+
 适用于使命一致的 Freemium、伦理动机、Streak 恢复、提醒、产品型品牌、品类扩张、实验治理或 AI 学习质量问题。
 
 1. 定义用户结果、使命约束、免费与付费价值、自然学习频率和可持续要求。

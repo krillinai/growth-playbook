@@ -6,6 +6,8 @@
 
 ## 应用此视角
 
+**可执行 Skill：**[Alex Schultz Data Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/alex-schultz-data-growth-lens)
+
 适用于留存、激活、Growth Accounting、数据质量、获客顺序或病毒机制不清晰的情况。
 
 1. 定义留存价值，以及能够表示用户真正到达 Magic Moment 的行为。

@@ -6,6 +6,8 @@
 
 ## 应用此视角
 
+**可执行 Skill：**[Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens)
+
 适用于增长无法复利、Product、Market、Channel 或 Model 可能错配，或团队缺少一致指标和循环系统的情况。
 
 1. 定义客户分群、留存价值、商业模式、当前渠道组合与增长公式。

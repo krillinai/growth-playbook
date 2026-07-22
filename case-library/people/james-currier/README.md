@@ -6,6 +6,8 @@
 
 ## Apply This Lens
 
+**Executable Skill:** [James Currier Network Effects Lens](https://github.com/krillinai/growth-skills/tree/main/skills/james-currier-network-effects-lens)
+
 Use this lens for network-effect type, white-hot centers, hard sides, marketplace structure, market networks, disguised marketplaces, multi-homing, defensibility, or AI-era networks.
 
 1. Define participant value, the smallest network unit, the core interaction, and the suspected hard side.
