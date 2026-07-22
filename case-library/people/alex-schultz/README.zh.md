@@ -322,6 +322,8 @@ Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Faceboo
 
 ## 相关手册内容
 
+- [留存](../../../handbook/retention/README.zh.md)
+
 - [Facebook / Meta 公司页](../../companies/facebook/README.zh.md)
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
 - [增长基础设施](../../../handbook/growth-infrastructure/README.zh.md)

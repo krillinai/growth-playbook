@@ -74,4 +74,6 @@ An onboarding change can raise a local conversion metric while reducing quality,
 
 ## Related Content
 
+- [Retention](../../../handbook/retention/README.md)
+
 - [Airtable company page](../../companies/airtable/README.md)

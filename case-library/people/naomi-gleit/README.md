@@ -151,6 +151,8 @@ Her meeting practice includes circulating a pre-read about 24 hours in advance, 
 
 ## Related Playbook Content
 
+- [Retention](../../../handbook/retention/README.md)
+
 - [Facebook / Meta company page](../../companies/facebook/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)

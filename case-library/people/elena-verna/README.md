@@ -478,6 +478,8 @@ The goal is to make the product understandable, credible, and accessible whereve
 
 ## Related Playbook Content
 
+- [Retention](../../../handbook/retention/README.md)
+
 - [Growth Model](../../../handbook/growth-model/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Lovable company page](../../companies/lovable/README.md)

@@ -95,6 +95,8 @@ Duolingo 的 Streak 工作覆盖入口、视觉状态、里程碑、通知、恢
 
 ## 相关内容
 
+- [留存](../../../handbook/retention/README.zh.md)
+
 - [激励系统](../../../handbook/incentive-growth/README.zh.md)
 
 - [Duolingo 公司页](../../companies/duolingo/README.zh.md)

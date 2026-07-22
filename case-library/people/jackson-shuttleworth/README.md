@@ -95,6 +95,8 @@ Valuable recurring behavior
 
 ## Related Content
 
+- [Retention](../../../handbook/retention/README.md)
+
 - [Incentive Systems](../../../handbook/incentive-growth/README.md)
 
 - [Duolingo company page](../../companies/duolingo/README.md)
