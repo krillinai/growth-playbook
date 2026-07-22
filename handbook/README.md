@@ -13,7 +13,7 @@ Foundations explain the concepts, models, and logic used across every stage.
 | [Product-Market Fit](product-market-fit/README.md) | Segment value, retention evidence, Four Fits, Model-Market Fit, and revalidation |
 | [Customer Segmentation & ICP](customer-segmentation/README.md) | Customer jobs, best-fit conditions, behavioral and economic evidence, and differentiated paths |
 | [Positioning](positioning/README.md) | Alternatives, differentiated value, best-fit customers, categories, narratives, and qualification |
-| [Funnel & Constraint Model](activation/README.md#funnels) | Transition structure, conversion, drop-offs, bottlenecks, and primary constraints |
+| [Funnel & Constraint Model](funnel-and-constraint/README.md) | Transition structure, conversion, drop-offs, bottlenecks, and primary constraints |
 | [Growth Model](growth-model/README.md) | Customer value, causal transitions, Four Fits, constraints, loops, economics, and reinvestment |
 
 ## Growth Lifecycle
@@ -72,7 +72,7 @@ Turn a visible symptom into one primary constraint, an evidence ledger, a 30-day
 
 | Area | Concepts |
 | --- | --- |
-| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Customer Segmentation & ICP](customer-segmentation/README.md) · [Positioning](positioning/README.md) · [Funnel & Constraint Model](activation/README.md#funnels) · [Growth Model](growth-model/README.md) |
+| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Customer Segmentation & ICP](customer-segmentation/README.md) · [Positioning](positioning/README.md) · [Funnel & Constraint Model](funnel-and-constraint/README.md) · [Growth Model](growth-model/README.md) |
 | Acquisition | [Channel Selection](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [GEO](geo/README.md) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |

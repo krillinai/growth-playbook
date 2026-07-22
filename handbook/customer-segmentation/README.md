@@ -104,6 +104,7 @@ Report rates and absolute volume. A small segment can show excellent rates witho
 - [Positioning](../positioning/README.md)
 - [Acquisition](../acquisition/README.md#segmentation-and-diagnosis)
 - [Activation](../activation/README.md#segmentation-and-cohort-analysis)
+- [Funnel & Constraint Model](../funnel-and-constraint/README.md)
 - [Monetization](../monetization/README.md#segmentation-and-packaging)
 - [Metrics & Measurement](../metrics/README.md#8-users-and-segmentation)
 - [April Dunford](../../case-library/people/april-dunford/README.md)

@@ -158,7 +158,7 @@ Run sensitivity analysis before optimizing a component. Ask which assumption cha
 
 - [Customer Segmentation & ICP](../customer-segmentation/README.md)
 - [Product-Market Fit](../product-market-fit/README.md)
-- [Funnel & Constraint Model](../activation/README.md#funnels)
+- [Funnel & Constraint Model](../funnel-and-constraint/README.md)
 - [Metrics & Measurement](../metrics/README.md)
 - [Experimentation](../experimentation/README.md)
 - [Referral & Growth Loops](../referral-and-loops/README.md)

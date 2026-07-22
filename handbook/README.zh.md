@@ -13,7 +13,7 @@
 | [产品市场匹配](product-market-fit/README.zh.md) | 分群价值、留存证据、Four Fits、Model-Market Fit 与重新验证 |
 | [客户分群与 ICP](customer-segmentation/README.zh.md) | 客户任务、最佳匹配条件、行为与经济性证据，以及差异化路径 |
 | [定位](positioning/README.zh.md) | 替代方案、差异化价值、最佳客户、品类、销售叙事与资格判断 |
-| [漏斗与约束模型](activation/README.zh.md#漏斗) | 转化结构、流失点、瓶颈与主要约束 |
+| [漏斗与约束模型](funnel-and-constraint/README.zh.md) | 转化结构、流失点、瓶颈与主要约束 |
 | [增长模型](growth-model/README.zh.md) | 客户价值、因果转化、Four Fits、约束、循环、经济性与再投资 |
 
 ## 增长生命周期
@@ -72,7 +72,7 @@
 
 | 分类 | 概念 |
 | --- | --- |
-| 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [客户分群与 ICP](customer-segmentation/README.zh.md) · [定位](positioning/README.zh.md) · [漏斗与约束模型](activation/README.zh.md#漏斗) · [增长模型](growth-model/README.zh.md) |
+| 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [客户分群与 ICP](customer-segmentation/README.zh.md) · [定位](positioning/README.zh.md) · [漏斗与约束模型](funnel-and-constraint/README.zh.md) · [增长模型](growth-model/README.zh.md) |
 | 获客 | [渠道选择](acquisition/README.zh.md#渠道选择矩阵) · [付费获客](acquisition/README.zh.md#付费获客) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [GEO](geo/README.zh.md) |
 | 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |

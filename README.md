@@ -13,7 +13,7 @@ By [clawee.ai](https://clawee.ai/), an enterprise-grade Growth Agent platform.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
-Growth Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
+Growth Playbook is for independent developers, founders, and product, data, marketing, and growth teams. It studies how companies systematically acquire, activate, retain, monetize, and expand customers through measurable and repeatable systems.
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the Playbook look complete.
 
@@ -65,7 +65,7 @@ We follow a content-first approach: a module is published only when it contains 
 | [Product-Market Fit](handbook/product-market-fit/README.md) | Segment-specific value, retention evidence, Four Fits, and repeated revalidation |
 | [Customer Segmentation & ICP](handbook/customer-segmentation/README.md) | Customer jobs, best-fit conditions, behavioral and economic evidence, and differentiated paths |
 | [Positioning](handbook/positioning/README.md) | Competitive alternatives, differentiated value, best-fit customers, and market categories |
-| [Funnel & Constraint Model](handbook/activation/README.md#funnels) | How to represent transitions, diagnose drop-offs, and identify the primary constraint |
+| [Funnel & Constraint Model](handbook/funnel-and-constraint/README.md) | How to represent transitions, diagnose drop-offs, and identify the primary constraint |
 | [Growth Model](handbook/growth-model/README.md) | How value, acquisition, retention, monetization, expansion, and reinvestment form a causal growth system |
 
 ## Growth Lifecycle
@@ -102,7 +102,7 @@ We follow a content-first approach: a module is published only when it contains 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **Growth Diagnosis** | Turn symptoms into evidence-backed constraints, 30-day actions, and execution routes | [Diagnosis Protocol](handbook/diagnosis/README.md)<br>[Questions](handbook/diagnosis/questions.md)<br>[Output Template](handbook/diagnosis/output-template.md)<br>[Examples](handbook/diagnosis/examples/README.md) |
-| **Tool Directory** | Growth and marketing tools organized by job, stage, and use case | [Semrush](toolkit/tools/semrush/README.md)<br>[Sensor Tower](toolkit/tools/sensor-tower/README.md)<br>[View tools](toolkit/tools/README.md) |
+| **Tool Directory** | Growth tools organized by job, stage, and use case | [Semrush](toolkit/tools/semrush/README.md)<br>[Sensor Tower](toolkit/tools/sensor-tower/README.md)<br>[View tools](toolkit/tools/README.md) |
 | **Growth & Marketing Skills** | AI-executable research, analysis, content, acquisition, and experimentation capabilities | [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) |
 
 See the [Roadmap](ROADMAP.md) for how this structure will grow as complete material is added.

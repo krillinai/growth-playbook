@@ -140,6 +140,8 @@ Keep separate activation definitions when customer jobs or value paths materiall
 
 Case evidence: [Airtable, Sean Ellis, and Brian Balfour](../../case-library/themes/activation/README.md#concept-evidence-map).
 
+For state design, absolute contribution, constraint types, cohort maturity, and decision rules, see [Funnel & Constraint Model](../funnel-and-constraint/README.md).
+
 A funnel is a diagnostic model of eligible users moving through defined states. Every step needs an eligibility rule, event, denominator, window, and decision owner.
 
 ```text

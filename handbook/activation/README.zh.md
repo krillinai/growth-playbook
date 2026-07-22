@@ -140,6 +140,8 @@
 
 案例证据：[Airtable、Sean Ellis 与 Brian Balfour](../../case-library/themes/activation/README.zh.md#概念证据地图)。
 
+关于状态设计、绝对贡献、约束类型、Cohort 成熟度与决策规则，参见[漏斗与约束模型](../funnel-and-constraint/README.zh.md)。
+
 漏斗是符合条件的用户在明确状态之间移动的诊断模型。每一步都需要资格规则、事件、分母、窗口与决策负责人。
 
 ```text

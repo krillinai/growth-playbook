@@ -6,23 +6,23 @@ Cross-company cases organized by growth stage and horizontal capability. Company
 
 ## Growth Stages
 
-| Theme | Main question | Page |
-| --- | --- | --- |
-| Acquisition | How does a product reach qualified demand? | [Explore](acquisition/README.md) |
-| Activation | How do new users reach meaningful value? | [Explore](activation/README.md) |
-| Retention | Why do users return and deepen usage? | [Explore](retention/README.md) |
-| Monetization | How does delivered value become sustainable revenue? | [Explore](monetization/README.md) |
-| Referral & Growth Loops | How does usage create additional distribution or value? | [Explore](referral-and-loops/README.md) |
+| Theme | Main question |
+| --- | --- |
+| [Acquisition](acquisition/README.md) | How does a product reach qualified demand? |
+| [Activation](activation/README.md) | How do new users reach meaningful value? |
+| [Retention](retention/README.md) | Why do users return and deepen usage? |
+| [Monetization](monetization/README.md) | How does delivered value become sustainable revenue? |
+| [Referral & Growth Loops](referral-and-loops/README.md) | How does usage create additional distribution or value? |
 
 ## Growth Capabilities
 
-| Theme | Main question | Page |
-| --- | --- | --- |
-| Metrics & Measurement | How should value, behavior, and economics be measured? | [Explore](metrics-and-measurement/README.md) |
-| Experimentation | How do teams turn uncertainty into decisions? | [Explore](experimentation/README.md) |
-| Growth Infrastructure | Which growth capabilities should become reusable systems? | [Explore](growth-infrastructure/README.md) |
-| Incentive Growth | When do rewards change behavior without destroying quality? | [Explore](incentive-growth/README.md) |
-| Growth Organization | How should people, ownership, and decision rights support growth? | [Explore](growth-organization/README.md) |
+| Theme | Main question |
+| --- | --- |
+| [Metrics & Measurement](metrics-and-measurement/README.md) | How should value, behavior, and economics be measured? |
+| [Experimentation](experimentation/README.md) | How do teams turn uncertainty into decisions? |
+| [Growth Infrastructure](growth-infrastructure/README.md) | Which growth capabilities should become reusable systems? |
+| [Incentive Growth](incentive-growth/README.md) | When do rewards change behavior without destroying quality? |
+| [Growth Organization](growth-organization/README.md) | How should people, ownership, and decision rights support growth? |
 
 ## Ongoing Update Rule
 

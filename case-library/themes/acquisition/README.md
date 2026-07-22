@@ -6,7 +6,7 @@
 
 For acquisition models, metrics, incrementality, and diagnosis, see the Handbook chapter [Acquisition](../../../handbook/acquisition/README.md).
 
-## Comparison Map
+## Company Evidence
 
 | Company | Context | Acquisition mechanism | Quality or validation signal | Transfer boundary |
 | --- | --- | --- | --- | --- |
@@ -20,11 +20,11 @@ For acquisition models, metrics, incrementality, and diagnosis, see the Handbook
 | [Shopify](../../companies/shopify/README.md) | Merchant platform serving varied business stages | Content, community, product value, and constraint-led channel choice | Merchant quality, retained use, and acquisition-retention balance | Merchant segments, ecosystems, and commerce cycles change channel behavior |
 | [Uber](../../companies/uber/README.md) | Local two-sided marketplace | Driver supply, rider demand, incentives, and city operations | Liquidity, successful trips, cross-side retention, and economics | Labor, regulation, capital intensity, and geography constrain transfer |
 
-## Shared Pattern
+## Comparison
 
 The cases connect distribution to product-specific quality signals. They differ across automated paid systems, geographic sequencing, content and community, earned social proof, marketplace operations, and B2B brand and sales support. None supports treating channel-reported conversions as the final outcome.
 
-## Material Differences
+### Material Differences
 
 - ByteDance optimizes a portfolio and paid-delivery system; Lovable emphasizes earned attention and trust.
 - Facebook's expansion depended on local network density; Ramp can create value account by account.

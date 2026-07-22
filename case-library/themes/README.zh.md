@@ -6,23 +6,23 @@
 
 ## 增长环节
 
-| 主题 | 核心问题 | 页面 |
-| --- | --- | --- |
-| 获客 | 产品如何触达合格需求？ | [查看](acquisition/README.zh.md) |
-| 激活 | 新用户如何获得有意义的价值？ | [查看](activation/README.zh.md) |
-| 留存 | 用户为什么回来并加深使用？ | [查看](retention/README.zh.md) |
-| 商业化 | 已交付价值如何转化成可持续收入？ | [查看](monetization/README.zh.md) |
-| 推荐与增长循环 | 使用行为如何创造更多分发或价值？ | [查看](referral-and-loops/README.zh.md) |
+| 主题 | 核心问题 |
+| --- | --- |
+| [获客](acquisition/README.zh.md) | 产品如何触达合格需求？ |
+| [激活](activation/README.zh.md) | 新用户如何获得有意义的价值？ |
+| [留存](retention/README.zh.md) | 用户为什么回来并加深使用？ |
+| [商业化](monetization/README.zh.md) | 已交付价值如何转化成可持续收入？ |
+| [推荐与增长循环](referral-and-loops/README.zh.md) | 使用行为如何创造更多分发或价值？ |
 
 ## 横向能力
 
-| 主题 | 核心问题 | 页面 |
-| --- | --- | --- |
-| 指标与衡量 | 如何衡量价值、行为和经济性？ | [查看](metrics-and-measurement/README.zh.md) |
-| 实验系统 | 团队如何把不确定性转化成决策？ | [查看](experimentation/README.zh.md) |
-| 增长基础设施 | 哪些增长能力应该成为可复用系统？ | [查看](growth-infrastructure/README.zh.md) |
-| 激励增长 | 奖励何时能改变行为而不破坏质量？ | [查看](incentive-growth/README.zh.md) |
-| 增长组织 | 人员、责任与决策权应如何支持增长？ | [查看](growth-organization/README.zh.md) |
+| 主题 | 核心问题 |
+| --- | --- |
+| [指标与衡量](metrics-and-measurement/README.zh.md) | 如何衡量价值、行为和经济性？ |
+| [实验系统](experimentation/README.zh.md) | 团队如何把不确定性转化成决策？ |
+| [增长基础设施](growth-infrastructure/README.zh.md) | 哪些增长能力应该成为可复用系统？ |
+| [激励增长](incentive-growth/README.zh.md) | 奖励何时能改变行为而不破坏质量？ |
+| [增长组织](growth-organization/README.zh.md) | 人员、责任与决策权应如何支持增长？ |
 
 ## 持续更新规则
 

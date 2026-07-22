@@ -158,7 +158,7 @@ x 留存质量
 
 - [客户分群与 ICP](../customer-segmentation/README.zh.md)
 - [产品市场匹配](../product-market-fit/README.zh.md)
-- [漏斗与约束模型](../activation/README.zh.md#漏斗)
+- [漏斗与约束模型](../funnel-and-constraint/README.zh.md)
 - [指标与衡量](../metrics/README.zh.md)
 - [实验系统](../experimentation/README.zh.md)
 - [推荐与增长循环](../referral-and-loops/README.zh.md)

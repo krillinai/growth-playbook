@@ -1,113 +1,68 @@
 # Growth Playbook Roadmap
 
-Growth Playbook 采用内容优先的方式逐步建设：先完成有实际价值的模块，再为它创建正式目录。本路线图用于表达方向，不承诺发布时间。
+**[English](ROADMAP.md)｜[简体中文](ROADMAP.zh.md)**
 
-## 当前状态
+Growth Playbook focuses on how companies systematically acquire, activate, retain, monetize, and expand customers through measurable and repeatable systems. It is a growth playbook, not a general marketing encyclopedia.
 
-### 已发布
+The repository follows a content-first rule: complete useful material before adding a module to the main structure. The current index in [README.md](README.md) and [README.zh.md](README.zh.md) is the source of truth for available content.
 
-- [增长诊断协议](handbook/diagnosis/README.zh.md)
-- [GEO：生成式引擎优化完全指南](handbook/geo/README.zh.md)
-- [增长指标体系](handbook/metrics/README.zh.md)
-- [产品市场匹配](handbook/product-market-fit/README.zh.md)
-- 工具：[Semrush](toolkit/tools/semrush/README.zh.md)
-- 工具：[Sensor Tower](toolkit/tools/sensor-tower/README.zh.md)
-- [激活](handbook/activation/README.zh.md)
-- [获客](handbook/acquisition/README.zh.md)
-- [留存](handbook/retention/README.zh.md)
-- [商业化](handbook/monetization/README.zh.md)
-- [推荐与增长循环](handbook/referral-and-loops/README.zh.md)
-- [实验系统](handbook/experimentation/README.zh.md)
-- [增长基础设施](handbook/growth-infrastructure/README.zh.md)
-- [激励增长](handbook/incentive-growth/README.zh.md)
-- [增长组织](handbook/growth-organization/README.zh.md)
-- 人物与思想：[Alex Schultz](case-library/people/alex-schultz/README.zh.md)
-- 人物与思想：[Andrew Chen](case-library/people/andrew-chen/README.zh.md)
-- 人物与思想：[Brian Balfour](case-library/people/brian-balfour/README.zh.md)
-- 人物与思想：[Casey Winters](case-library/people/casey-winters/README.zh.md)
-- 人物与思想：[Morgan Brown](case-library/people/morgan-brown/README.zh.md)
-- 人物与思想：[Chamath Palihapitiya](case-library/people/chamath-palihapitiya/README.zh.md)
-- 人物与思想：[Elena Verna](case-library/people/elena-verna/README.zh.md)
-- 人物与思想：[Naomi Gleit](case-library/people/naomi-gleit/README.zh.md)
-- 人物与思想：[Sean Ellis](case-library/people/sean-ellis/README.zh.md)
-- 人物与思想：[Zoelle Egner](case-library/people/zoelle-egner/README.zh.md)
-- 人物与思想：[Lauryn Isford](case-library/people/lauryn-isford/README.zh.md)
-- 人物与思想：[Gina Gotthilf](case-library/people/gina-gotthilf/README.zh.md)
-- 人物与思想：[Albert Cheng](case-library/people/albert-cheng/README.zh.md)
-- 人物与思想：[Jackson Shuttleworth](case-library/people/jackson-shuttleworth/README.zh.md)
-- 人物与思想：[Luis von Ahn](case-library/people/luis-von-ahn/README.zh.md)
-- 人物与思想：[徐洪亮](case-library/people/xu-hongliang/README.zh.md)
-- 人物与思想：[George Bonaci](case-library/people/george-bonaci/README.zh.md)
-- 人物与思想：[Sri Batchu](case-library/people/sri-batchu/README.zh.md)
-- 人物与思想：[Geoff Charles](case-library/people/geoff-charles/README.zh.md)
-- 人物与思想：[Karim Atiyeh](case-library/people/karim-atiyeh/README.zh.md)
-- 人物与思想：[Eric Glyman](case-library/people/eric-glyman/README.zh.md)
-- 公司：[Facebook / Meta](case-library/companies/facebook/README.zh.md)
-- 公司：[Lovable](case-library/companies/lovable/README.zh.md)
-- 公司：[Airtable](case-library/companies/airtable/README.zh.md)
-- 公司：[Airbnb](case-library/companies/airbnb/README.zh.md)
-- 公司：[Duolingo](case-library/companies/duolingo/README.zh.md)
-- 公司：[Dropbox](case-library/companies/dropbox/README.zh.md)
-- 公司：[Eventbrite](case-library/companies/eventbrite/README.zh.md)
-- 公司：[字节跳动](case-library/companies/bytedance/README.zh.md)
-- 公司：[Grubhub](case-library/companies/grubhub/README.zh.md)
-- 公司：[Ramp](case-library/companies/ramp/README.zh.md)
-- 公司：[Shopify](case-library/companies/shopify/README.zh.md)
-- 公司：[Pinterest](case-library/companies/pinterest/README.zh.md)
-- 公司：[Uber](case-library/companies/uber/README.zh.md)
-- 增长环节：[获客](case-library/themes/acquisition/README.zh.md)
-- 增长环节：[激活](case-library/themes/activation/README.zh.md)
-- 增长环节：[留存](case-library/themes/retention/README.zh.md)
-- 增长环节：[商业化](case-library/themes/monetization/README.zh.md)
-- 增长环节：[推荐与增长循环](case-library/themes/referral-and-loops/README.zh.md)
-- 横向能力：[指标与衡量](case-library/themes/metrics-and-measurement/README.zh.md)
-- 横向能力：[实验系统](case-library/themes/experimentation/README.zh.md)
-- 横向能力：[增长基础设施](case-library/themes/growth-infrastructure/README.zh.md)
-- 横向能力：[激励增长](case-library/themes/incentive-growth/README.zh.md)
-- 横向能力：[增长组织](case-library/themes/growth-organization/README.zh.md)
+## Current Priorities
 
-### 正在规划
+### 1. Deepen Core Growth Systems
 
-目前没有宣布正在编写的新模块。确定下一个主题后，会在这里更新状态。
+- Expand experimentation into a complete decision and causal-learning system.
+- Expand growth infrastructure across data, identity, delivery, automation, governance, and platform economics.
+- Expand incentive systems across design, incrementality, fraud, cannibalization, fairness, and exit strategy.
+- Strengthen retention with lifecycle states, frequency, habit, churn, resurrection, and retained growth accounting.
+- Strengthen monetization with willingness to pay, packaging, price metrics, revenue models, expansion, margin, and payback.
 
-## 内容方向
+### 2. Cover Major Growth Contexts
 
-### 1. 策略与认知
+- B2B and sales-led growth.
+- Marketplace and network growth.
+- International growth and localization.
+- Expansion, cross-sell, upsell, and multi-product growth.
+- Growth strategy by company and product stage.
 
-- 市场与用户研究
-- 定位与价值主张
-- 增长模型与北极星指标
-- 产品市场匹配度
+These topics should become standalone modules only after the repository has enough frameworks, evidence, metrics, and operating guidance to support them.
 
-### 2. 内容生产
+### 3. Improve Evidence Quality
 
-- 内容策略与选题研究
-- 文案、文章与视频脚本
-- 翻译、本地化、字幕与配音
-- 内容改编与多平台再利用
+- Increase the share of primary writing, books, research, company documentation, and original data.
+- Classify sources by evidence strength and preserve publication dates and context.
+- Keep participant accounts, company claims, editorial inference, and causal conclusions separate.
+- Add companies, operators, regions, industries, and business models beyond the current concentration in US technology companies.
 
-### 3. 营销与分发
+### 4. Improve Open-Source Quality
 
-- SEO 与 GEO
-- 社交媒体与社区增长
-- 邮件营销
-- 合作伙伴与联盟营销
-- 付费获客
-- 内容分发与自动化
+- Keep English and Chinese information structures equivalent.
+- Maintain consistent indexes, terminology, links, and module boundaries.
+- Define editorial, evidence, and contribution standards.
+- Add automated checks for broken links, bilingual structure, duplicate sources, and index drift.
+- Embed practical decision aids and examples inside relevant modules instead of creating empty template sections.
 
-### 4. 分析与优化
+## Scope Boundary
 
-- 渠道分析与归因
-- 增长实验
-- 复盘与规模化
+Content belongs in Growth Playbook when it materially changes at least one of the following:
 
-## 建设原则
+- customer value or Product-Market Fit;
+- acquisition quality or distribution economics;
+- activation or time to value;
+- retention, frequency, churn, or resurrection;
+- monetization, margin, payback, or expansion;
+- referrals, loops, networks, or incentives;
+- measurement, experimentation, infrastructure, or organization.
 
-- 不为尚未开始的内容创建空目录；
-- 每个模块同时解释判断框架和可执行步骤；
-- 优先提供真实案例、模板、检查清单和指标；
-- Skills、CLI 和完整软件产品保持独立，只在手册中建立关联。
+Brand, content, email, social, community, partnerships, sales, and other marketing disciplines appear only when they are part of a measurable growth mechanism. The Playbook does not aim to document every marketing workflow.
 
-## 配套仓库
+## Update Rule
 
-- [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills)
+1. Add source-backed detail to the relevant person or company page.
+2. Extract reusable concepts into the appropriate knowledge module.
+3. Update cross-company comparisons only when evidence materially supports or challenges a pattern.
+4. Add a new top-level module only when it has definitions, metrics, diagnosis, operating guidance, evidence, and limitations.
+5. Use the repository indexes rather than duplicating a manual list of published pages here.
+
+## Companion Repository
+
+- [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills) provides bounded AI-executable workflows that can support Playbook methods.
