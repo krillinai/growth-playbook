@@ -110,6 +110,8 @@
 
 ## 相关内容
 
+- [获客](../../../handbook/acquisition/README.zh.md)
+
 - [商业化](../../../handbook/monetization/README.zh.md)
 
 - [激励系统](../../../handbook/incentive-growth/README.zh.md)

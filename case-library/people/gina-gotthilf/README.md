@@ -96,4 +96,6 @@ With limited engineering support, her early growth work revisited notifications 
 
 ## Related Content
 
+- [Acquisition](../../../handbook/acquisition/README.md)
+
 - [Duolingo company page](../../companies/duolingo/README.md)

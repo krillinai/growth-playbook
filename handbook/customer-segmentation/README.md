@@ -102,7 +102,7 @@ Report rates and absolute volume. A small segment can show excellent rates witho
 
 - [Product-Market Fit](../product-market-fit/README.md)
 - [Positioning](../positioning/README.md)
-- [Acquisition](../acquisition/README.md#segmentation-and-diagnosis)
+- [Acquisition](../acquisition/README.md#segmentation-and-cohort-analysis)
 - [Activation](../activation/README.md#segmentation-and-cohort-analysis)
 - [Funnel & Constraint Model](../funnel-and-constraint/README.md)
 - [Monetization](../monetization/README.md#segmentation-for-monetization)

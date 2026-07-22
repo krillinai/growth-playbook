@@ -102,7 +102,7 @@ ICP 应回答五个问题：
 
 - [产品市场匹配](../product-market-fit/README.zh.md)
 - [定位](../positioning/README.zh.md)
-- [获客](../acquisition/README.zh.md#分群与诊断)
+- [获客](../acquisition/README.zh.md#分群与-cohort-分析)
 - [激活](../activation/README.zh.md#分群与-cohort-分析)
 - [漏斗与约束模型](../funnel-and-constraint/README.zh.md)
 - [商业化](../monetization/README.zh.md#商业化分群)

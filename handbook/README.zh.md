@@ -20,9 +20,9 @@
 
 ### [获客](acquisition/README.zh.md)
 
-目标人群、渠道机制、增量、获客质量、可持续经济性、SEO 页面系统、内容与社媒分发和付费获客。
+客户与意图匹配、渠道组合、增量、获客质量、边际经济性、搜索、付费系统、素材、入口路径与国际化。
 
-[GEO](geo/README.zh.md) · [渠道选择](acquisition/README.zh.md#渠道选择矩阵) · [SEO](acquisition/README.zh.md#可规模化-seo-页面系统) · [付费获客](acquisition/README.zh.md#付费获客)
+[渠道组合](acquisition/README.zh.md#渠道组合) · [增量](acquisition/README.zh.md#归因与增量) · [SEO](acquisition/README.zh.md#可规模化-seo-页面系统) · [付费](acquisition/README.zh.md#付费获客) · [国际化](acquisition/README.zh.md#国际化与市场进入)
 
 ### [激活](activation/README.zh.md)
 
@@ -73,7 +73,7 @@
 | 分类 | 概念 |
 | --- | --- |
 | 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [客户分群与 ICP](customer-segmentation/README.zh.md) · [定位](positioning/README.zh.md) · [漏斗与约束模型](funnel-and-constraint/README.zh.md) · [增长模型](growth-model/README.zh.md) |
-| 获客 | [渠道选择](acquisition/README.zh.md#渠道选择矩阵) · [付费获客](acquisition/README.zh.md#付费获客) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [GEO](geo/README.zh.md) |
+| 获客 | [ICP、意图与 Offer](acquisition/README.zh.md#icp意图与-offer-匹配) · [渠道组合](acquisition/README.zh.md#渠道组合) · [渠道选择](acquisition/README.zh.md#渠道选择矩阵) · [Channel-Model Fit](acquisition/README.zh.md#channel-model-fit) · [指标树](acquisition/README.zh.md#指标树) · [归因与增量](acquisition/README.zh.md#归因与增量) · [SEO](acquisition/README.zh.md#可规模化-seo-页面系统) · [内容与社媒](acquisition/README.zh.md#内容与社媒分发) · [付费获客](acquisition/README.zh.md#付费获客) · [素材](acquisition/README.zh.md#素材系统与疲劳) · [国际化](acquisition/README.zh.md#国际化与市场进入) · [成熟度](acquisition/README.zh.md#成熟度模型) · [GEO](geo/README.zh.md) |
 | 激活 | [指标树](activation/README.zh.md#指标树) · [Time to Value](activation/README.zh.md#指标字典) · [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [入口状态](activation/README.zh.md#入口状态与激活起点) · [首次价值质量](activation/README.zh.md#首次价值质量) · [产品结构](activation/README.zh.md#不同产品结构的激活) · [辅助式激活](activation/README.zh.md#辅助式激活) · [实验](activation/README.zh.md#按周期读取激活实验) · [成熟度](activation/README.zh.md#成熟度模型) |
 | 留存 | [Cohort 设计](retention/README.zh.md#cohort-设计) · [留存曲线](retention/README.zh.md#留存曲线) · [增长核算](retention/README.zh.md#增长核算) · [GRR 与 NRR](retention/README.zh.md#用户账户与收入留存) · [生命周期触达](retention/README.zh.md#生命周期触达) · [流失](retention/README.zh.md#流失分类) · [召回](retention/README.zh.md#召回与-win-back) · [留存实验](retention/README.zh.md#留存实验) · [成熟度](retention/README.zh.md#成熟度模型) |
 | 商业化 | [支付意愿](monetization/README.zh.md#支付意愿) · [套餐](monetization/README.zh.md#套餐设计) · [计价单位](monetization/README.zh.md#计价单位) · [Freemium](monetization/README.zh.md#免费试用与-freemium) · [收入模型](monetization/README.zh.md#收入模型) · [AI 商业化](monetization/README.zh.md#ai-商业化) · [单位经济性](monetization/README.zh.md#单位经济性) · [CAC 与回本](monetization/README.zh.md#cac-与回本) · [LTV](monetization/README.zh.md#ltv) · [GRR 与 NRR](monetization/README.zh.md#收入留存与扩张) · [实验](monetization/README.zh.md#商业化实验) · [成熟度](monetization/README.zh.md#成熟度模型) |

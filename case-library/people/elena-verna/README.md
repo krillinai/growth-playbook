@@ -478,6 +478,8 @@ The goal is to make the product understandable, credible, and accessible whereve
 
 ## Related Playbook Content
 
+- [Acquisition](../../../handbook/acquisition/README.md)
+
 - [Monetization](../../../handbook/monetization/README.md)
 
 - [Retention](../../../handbook/retention/README.md)
