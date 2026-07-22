@@ -12,7 +12,7 @@ Cross-company cases organized by growth stage and horizontal capability. Company
 | [Activation](activation/README.md) | How do new users reach meaningful value? |
 | [Retention](retention/README.md) | Why do users return and deepen usage? |
 | [Monetization](monetization/README.md) | How does delivered value become sustainable revenue? |
-| [Referral & Growth Loops](referral-and-loops/README.md) | How does usage create additional distribution or value? |
+| [Referral & Expansion](referral-and-loops/README.md) | How does delivered value create new distribution or deeper adoption? |
 
 ## Growth Capabilities
 

@@ -291,6 +291,8 @@ Teams should distinguish organic word of mouth from engineered referrals, then m
 
 ## Related Playbook Content
 
+- [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
+
 - [Activation](../../../handbook/activation/README.md)
 
 - [Retention](../../../handbook/retention/README.md)

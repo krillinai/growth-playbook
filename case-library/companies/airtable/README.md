@@ -50,6 +50,7 @@ Super-user insight
 
 ## Related Themes
 
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Activation](../../themes/activation/README.md)
 - [Retention](../../themes/retention/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)

@@ -75,7 +75,7 @@ Customer task
 
 - [Activation](../../themes/activation/README.md)
 - [Retention](../../themes/retention/README.md)
-- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Incentive Systems](../../themes/incentive-growth/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)

@@ -105,7 +105,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 4. 纳入奖励成本、滥用、蚕食、信任与平台依赖。
 5. 确认循环通过已接收且重复的价值闭合。
 
-从[推荐与增长循环](../referral-and-loops/README.zh.md)开始，并参考[增长循环案例](../../case-library/themes/referral-and-loops/README.zh.md)。
+从[推荐与扩张](../referral-and-loops/README.zh.md)开始，并参考[增长循环案例](../../case-library/themes/referral-and-loops/README.zh.md)。
 
 ### 增长系统诊断
 

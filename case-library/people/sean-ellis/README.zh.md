@@ -288,6 +288,8 @@ Dropbox 推荐计划是著名案例，但它能运转是因为用户已经重视
 
 ## 相关手册内容
 
+- [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)
+
 - [激活](../../../handbook/activation/README.zh.md)
 
 - [留存](../../../handbook/retention/README.zh.md)

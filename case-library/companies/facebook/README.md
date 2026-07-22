@@ -39,7 +39,7 @@ Facebook is one of the most influential examples of product-led consumer growth.
 - [Acquisition](../../themes/acquisition/README.md)
 - [Activation](../../themes/activation/README.md)
 - [Retention](../../themes/retention/README.md)
-- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
 - [Growth Infrastructure](../../themes/growth-infrastructure/README.md)

@@ -110,6 +110,8 @@
 
 ## 相关内容
 
+- [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)
+
 - [获客](../../../handbook/acquisition/README.zh.md)
 
 - [商业化](../../../handbook/monetization/README.zh.md)

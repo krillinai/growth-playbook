@@ -58,7 +58,7 @@
 
 - [获客](../../themes/acquisition/README.zh.md)
 - [商业化](../../themes/monetization/README.zh.md)
-- [推荐与增长循环](../../themes/referral-and-loops/README.zh.md)
+- [推荐与扩张](../../themes/referral-and-loops/README.zh.md)
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
 - [实验系统](../../themes/experimentation/README.zh.md)
 - [增长基础设施](../../themes/growth-infrastructure/README.zh.md)

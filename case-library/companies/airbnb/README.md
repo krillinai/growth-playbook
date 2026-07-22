@@ -49,7 +49,7 @@ Channel volume should be validated against bookings, participant quality, increm
 
 - [Acquisition](../../themes/acquisition/README.md)
 - [Activation](../../themes/activation/README.md)
-- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Growth Infrastructure](../../themes/growth-infrastructure/README.md)
 - [Andrew Chen](../../people/andrew-chen/README.md)
 

@@ -40,7 +40,7 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 
 - [Acquisition](../../themes/acquisition/README.md)
 - [Monetization](../../themes/monetization/README.md)
-- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)
 

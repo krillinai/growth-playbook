@@ -110,6 +110,8 @@ International growth requires local market priorities, channels, creative contex
 
 ## Related Content
 
+- [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
+
 - [Acquisition](../../../handbook/acquisition/README.md)
 
 - [Monetization](../../../handbook/monetization/README.md)

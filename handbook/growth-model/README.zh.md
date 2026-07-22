@@ -161,7 +161,7 @@ x 留存质量
 - [漏斗与约束模型](../funnel-and-constraint/README.zh.md)
 - [指标与衡量](../metrics/README.zh.md)
 - [实验系统](../experimentation/README.zh.md)
-- [推荐与增长循环](../referral-and-loops/README.zh.md)
+- [推荐与扩张](../referral-and-loops/README.zh.md)
 - [Brian Balfour](../../case-library/people/brian-balfour/README.zh.md)
 - [Elena Verna](../../case-library/people/elena-verna/README.zh.md)
 - [Casey Winters](../../case-library/people/casey-winters/README.zh.md)

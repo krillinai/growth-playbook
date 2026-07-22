@@ -19,7 +19,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Activation](themes/activation/README.md)
 - [Retention](themes/retention/README.md)
 - [Monetization](themes/monetization/README.md)
-- [Referral & Growth Loops](themes/referral-and-loops/README.md)
+- [Referral & Expansion](themes/referral-and-loops/README.md)
 
 ## [Growth Capabilities](themes/README.md#growth-capabilities)
 

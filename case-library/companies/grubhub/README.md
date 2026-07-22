@@ -56,7 +56,7 @@ Winters' retrospective view that Grubhub should have acted differently is not a 
 - [Acquisition](../../themes/acquisition/README.md)
 - [Retention](../../themes/retention/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
-- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)
 - [Casey Winters](../../people/casey-winters/README.md)
 

@@ -59,7 +59,7 @@ Accessible learning value
 - [Acquisition](../../themes/acquisition/README.md)
 - [Retention](../../themes/retention/README.md)
 - [Monetization](../../themes/monetization/README.md)
-- [Referral & Growth Loops](../../themes/referral-and-loops/README.md)
+- [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Experimentation](../../themes/experimentation/README.md)
 - [Incentive Systems](../../themes/incentive-growth/README.md)
 

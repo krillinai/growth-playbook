@@ -162,7 +162,7 @@
 
 ## 增长循环
 
-从主手册[推荐与增长循环](../referral-and-loops/README.zh.md)和[增长循环案例](../../case-library/themes/referral-and-loops/README.zh.md)开始。
+从主手册[推荐与扩张](../referral-and-loops/README.zh.md)和[增长循环案例](../../case-library/themes/referral-and-loops/README.zh.md)开始。
 
 ### 症状与机制
 

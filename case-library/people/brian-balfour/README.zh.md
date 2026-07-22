@@ -183,7 +183,7 @@ North Star 通常是输出指标：它描述重要结果，却过于宽泛，无
 - [获客](../../../handbook/acquisition/README.zh.md)
 - [留存](../../../handbook/retention/README.zh.md)
 - [实验系统](../../../handbook/experimentation/README.zh.md)
-- [推荐与增长循环](../../../handbook/referral-and-loops/README.zh.md)
+- [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)
 - [增长组织](../../../handbook/growth-organization/README.zh.md)
 - [GEO](../../../handbook/geo/README.zh.md)
 

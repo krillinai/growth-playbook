@@ -162,7 +162,7 @@ Proceed only if the payer segment, retained product value, revenue components, a
 
 ## Growth Loops
 
-Start with [Referral & Growth Loops](../referral-and-loops/README.md) and [Growth Loop cases](../../case-library/themes/referral-and-loops/README.md).
+Start with [Referral & Expansion](../referral-and-loops/README.md) and [Growth Loop cases](../../case-library/themes/referral-and-loops/README.md).
 
 ### Symptom Versus Mechanism
 

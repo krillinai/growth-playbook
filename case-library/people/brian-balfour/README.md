@@ -185,7 +185,7 @@ The mechanism reduces three constraints common to UGC loops: the effort required
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Retention](../../../handbook/retention/README.md)
 - [Experimentation](../../../handbook/experimentation/README.md)
-- [Referral & Growth Loops](../../../handbook/referral-and-loops/README.md)
+- [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
 - [Growth Organization](../../../handbook/growth-organization/README.md)
 - [GEO](../../../handbook/geo/README.md)
 

@@ -74,6 +74,8 @@ An onboarding change can raise a local conversion metric while reducing quality,
 
 ## Related Content
 
+- [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
+
 - [Activation](../../../handbook/activation/README.md)
 
 - [Retention](../../../handbook/retention/README.md)

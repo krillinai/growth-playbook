@@ -105,7 +105,7 @@ Use this path when referrals, collaboration, content, transactions, or other pro
 4. Include reward cost, abuse, cannibalization, trust, and platform dependency.
 5. Confirm the loop closes through received and repeated value.
 
-Start with [Referral & Growth Loops](../referral-and-loops/README.md) and compare [Growth Loop cases](../../case-library/themes/referral-and-loops/README.md).
+Start with [Referral & Expansion](../referral-and-loops/README.md) and compare [Growth Loop cases](../../case-library/themes/referral-and-loops/README.md).
 
 ### Growth System Diagnosis
 

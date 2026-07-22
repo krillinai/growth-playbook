@@ -1,57 +1,155 @@
-# 推荐与增长循环
+# 推荐与扩张
 
-> 推荐与增长循环把产品价值或用户活动转化成更多分发、内容、数据或价值。循环必须闭合并产生持续质量，而不只是邀请。
+> 五个公司案例，展示价值一致的推荐、社交图谱、Marketplace 密度、协作与产品组合激励如何创造新分发或更深采用。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于循环模型、指标与诊断，参见主手册[推荐与增长循环](../../../handbook/referral-and-loops/README.zh.md)。
+关于定义、指标、网络模型、扩张类型、实验与诊断，参见主手册[推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)。
 
-## 公司证据
+## 能力矩阵
 
-| 公司 | 循环输入与动机 | 下一项价值 | 边界 |
+| 公司 | 核心机制 | 新分发 | 扩张价值 | 主要迁移边界 |
+| --- | --- | --- | --- | --- |
+| [Dropbox](../../companies/dropbox/README.zh.md) | 与存储价值一致的双边推荐与共享效用 | 被推荐用户通过有用产品收益进入 | 共享文件、协作、团队与产品采用 | 产品价值必须先于奖励；滥用、服务成本与非活跃席位都重要 |
+| [Facebook / Meta](../../companies/facebook/README.zh.md) | 相关好友连接与高密度社交图谱 | 邀请、口碑与可见参与 | 新社区、更广入口与国际网络覆盖 | 历史环境、图谱密度、信任与社会外部性具有产品特殊性 |
+| [Uber](../../companies/uber/README.zh.md) | 本地双边 Marketplace 强化 | 供给可用性与需求改善参与者发现 | 城市级流动性与地域网络扩张 | 监管、劳动、资金、Multi-homing、激励与本地经济性 |
+| [Airtable](../../companies/airtable/README.zh.md) | 基于产物与工作流的协作 | 受邀协作者带着 Workspace 上下文进入 | 多用户工作流与留存团队采用 | 灵活产品 Setup、角色相关性、权限与非活跃席位 |
+| [字节跳动](../../companies/bytedance/README.zh.md) | 奖励推荐与产品组合互导 | 推荐奖励与活动分发 | 跨产品移动、Lite 产品与相邻服务 | 作弊、信号扭曲、补贴依赖、蚕食与治理 |
+
+## 案例 1：Dropbox - 价值一致的推荐与协作扩张
+
+**环境。** Dropbox 早期价值来自文件同步与存储。因此，推荐奖励可以强化已经被理解的产品收益，而不是引入无关奖品。
+
+**机制。** 额外存储同时有利于参与和持续使用。被推荐用户进入一个可以进一步支持文件分享、协作、团队采用与产品驱动商业扩张的产品。
+
+```text
+Must-have 存储价值 -> 带存储收益的推荐 -> 接收者激活
+-> 留存存储或分享 -> 协作 -> 团队或账户扩张
+```
+
+**保留的证据。** 公司页把推荐参与连接到接收者激活、留存质量、奖励成本与滥用。后续 PLG 证据把共享文件和协作使用视为分发与扩张信号，但不假定它们能够证明购买准备度。
+
+**迁移边界。** 奖励不能创造 PMF。需要衡量存储经济性、服务成本、作弊、身份、非活跃席位、权限与账户价值。案例没有建立跨 Dropbox 不同时期的一条连续因果历史。
+
+## 案例 2：Facebook / Meta - 社交图谱与网络扩张
+
+**环境。** 早期 Facebook 价值取决于相关的人是否存在于高密度真实身份网络。扩张从校园进入高中、更广公众入口与国际市场。
+
+**机制。** 好友发现和新用户引导帮助用户到达社交价值。现有参与、邀请与口碑可以触达更多人，而新增相关连接可能提高本地社交图谱内的价值。
+
+```text
+相关本地网络 -> 好友连接 -> 留存社交价值
+-> 口碑或邀请 -> 新参与者 -> 更高网络密度
+-> 相邻社区或市场扩张
+```
+
+**保留的证据。** 参与者讲述强调留存、激活代理、好友发现、增长核算、埋点、实验与国际化。可迁移方法是把传播连接到留存网络价值，而不是复制一个容易记住的激活阈值。
+
+**迁移边界。** Facebook 的校园顺序、身份图谱、规模、数据、市场时机与社会环境都很特殊。邀请、总连接数或月活不能独立建立参与者福祉或因果网络价值。
+
+## 案例 3：Uber - 本地流动性与地域扩张
+
+**环境。** 司机与乘客必须出现在同一地区和时间窗口。Marketplace 总规模无法弥补薄弱本地流动性。
+
+**机制。** 更多相关司机供给可能缩短接驾时间并提高履约，从而增加乘客价值与重复需求。更好的需求与利用率可能强化供给经济性。可重复本地单元随后为城市扩张提供基础。
+
+```text
+本地供给 -> 可靠匹配与行程 -> 留存乘客需求
+-> 利用率与供给价值 -> 更高本地密度
+-> 可重复运营单元 -> 相邻城市扩张
+```
+
+**保留的证据。** 公司页记录 Atomic Network、Hard Side 诊断、本地供给运营、成功行程、双边留存、参与者经济性、激励与城市级测试。每个箭头仍是市场特定假设。
+
+**迁移边界。** 资金、劳动供给、监管、安全、Multi-homing、频率、地域、激励与本地运营共同塑造机制。复制网约车界面不能复制流动性或供给者经济性。
+
+## 案例 4：Airtable - 把协作作为分发与账户价值
+
+**环境。** Airtable 的灵活性支持大量工作流，也带来空白状态问题。用户必须先建立有用产物，才能把其他人邀请到有意义的协作上下文。
+
+**机制。** 客户洞察与模板让工作流具体化；分群新用户引导帮助用户到达首次价值；共享产物或工作流随后把协作者带入 Workspace，并可能加深团队采用。
+
+```text
+具体用例 -> 首个有用工作流 -> 带上下文邀请
+-> 协作者价值 -> 重复多用户使用 -> 留存账户广度
+```
+
+**保留的证据。** Lauryn Isford 把第四周多用户协作指标描述为比孤立界面完成更强的下游信号。公司案例把早期行为连接到后续协作与留存，而不把邀请本身称为成功。
+
+**迁移边界。** 协作并非每种产品或分群的正确价值信号。角色、权限、Workspace 准备度、账户所有权、活跃席位质量与协同成本决定更多用户是否加深价值。
+
+## 案例 5：字节跳动 - 奖励推荐与产品组合扩张
+
+**环境。** 消费产品使用现金、金币、优惠券、推荐奖励、Lite 产品、节日活动与产品互导解决不同获客、留存和扩张目标。
+
+**机制。** 推荐可以拆成发送者参与、接收者、转化、留存质量、成本与滥用。共享激励基础设施可以协调资格、记账、反作弊、实验与跨产品分发。
+
+```text
+产品价值 -> 合格行为 -> 推荐或产品组合激励
+-> 接收者或相邻产品激活 -> 奖励后留存
+-> 产品组合价值 -> 作弊与蚕食决策
+```
+
+**保留的证据。** 案例区分激励类型，不把 K 值与留存割裂，把风控嵌入系统，检查奖励下降后的行为，并根据受众重叠与总价值评估 Lite 或产品组合增长。
+
+**迁移边界。** 报告数字和内部结果未得到独立验证。缺少身份、设备、支付、图谱、记账、实验与事故响应能力的小公司不应复制补贴系统。
+
+## 跨公司模式
+
+### 价值必须先于传播
+
+Dropbox 需要有用存储，Facebook 需要相关连接，Uber 需要成功行程，Airtable 需要有用工作流，字节跳动需要值得放大的产品。提示、奖励与互导无法制造长期价值。
+
+### 接收者或新范围需要首次价值
+
+循环不能结束在发送、打开、注册、购买席位或产品 Attach。接收者、协作者、相邻产品用户或新城市必须到达产品特定价值事件，并保留该价值。
+
+### 扩张使用不同实体
+
+Facebook 与 Uber 扩张网络单元，Airtable 扩张 Workspace 参与，Dropbox 可以扩张用户、团队或产品采用，字节跳动可以跨产品和分群扩张。没有统一定义时，一个扩张率不能比较这些实体。
+
+### 增量与信任限制规模
+
+Dropbox 奖励与字节跳动激励可能替代自然行为或吸引滥用。Facebook 邀请与 Airtable 协作可能制造疲劳或权限风险。Uber 补贴可能掩盖薄弱本地经济性。总传播必须与因果提升、参与者价值和完整成本对账。
+
+## 迁移矩阵
+
+| 产品条件 | 最相关案例 | 可以借鉴 | 不能假定 |
 | --- | --- | --- | --- |
-| [Facebook / Meta](../../companies/facebook/README.zh.md) | 连接、邀请、网络价值 | 更多相关人物与社交活动 | 邀请量不等于留存网络价值 |
-| [Duolingo](../../companies/duolingo/README.zh.md) | 可分享进度、品牌、习惯、学习身份 | 认知与新学习者 | 分享和 Streak 必须连接学习价值 |
-| [字节跳动](../../companies/bytedance/README.zh.md) | 推荐奖励、产品互导 | 产品间新增或召回用户 | 需要增量、反作弊与蚕食控制 |
-| [Lovable](../../companies/lovable/README.zh.md) | 产品演示、员工、客户与发布 | 可见证明吸引更多构建者与成果 | 公开关注和员工影响力未必重复 |
-| [Uber](../../companies/uber/README.zh.md) | 本地供给可用性与乘客需求 | 更好流动性可以强化跨边参与 | 质量、经济性、监管与 Multi-homing 会削弱循环 |
-| [Dropbox](../../companies/dropbox/README.zh.md) | 有用的存储、协作与价值一致的推荐容量 | 新用户获得产品容量并进入产品循环 | 奖励经济性与注册量需要用留存使用验证 |
-| [Grubhub](../../companies/grubhub/README.zh.md) | 相关餐厅、本地食客需求与后续配送供给 | 更密集下单与履约可以强化参与者价值 | Multi-homing、物流、经济性与竞争网络结构会打断循环 |
-
-## 对比
-
-Facebook 的循环依赖网络，Duolingo 让进度和身份可分享，字节跳动使用激励与产品矩阵，Lovable 把产品成果变成证明，Dropbox 把分享嵌入实用功能，Uber 与 Grubhub 依赖 Marketplace 密度。只有参与者真正获得价值，循环才闭合。
-
-## 迁移问题
-
-1. 什么价值促使用户在不受强迫的情况下参与？
-2. 接收者在被要求继续传播前获得什么价值？
-3. 扣除留存、激励、欺诈与蚕食后，增长是否仍有增量？
-4. 哪种平台或信任依赖可能打断循环？
+| 与产品一致的收益可以奖励双方 | Dropbox | 在价值后触发、奖励对齐、验证接收者留存与成本 | 双边奖励能够创造 PMF 或健康账户扩张 |
+| 相关参与能够改善社交体验 | Facebook / Meta | 连接新用户引导、图谱形成、留存与相邻网络顺序 | 邀请量或统一连接阈值证明价值 |
+| 价值依赖本地双边流动性 | Uber | 定义 Atomic Network、Hard Side、交易质量与城市扩张条件 | 总规模或补贴创造可持续本地经济性 |
+| 共享产物能够创造多用户工作流 | Airtable | 把上下文带入邀请，并衡量重复协作 | 更多席位或邀请自动加深账户价值 |
+| 多个产品共享激励与分发 | 字节跳动 | 共享控制、奖励后 Cohort、产品组合增量与反作弊 | 活动峰值或单产品增长会提高产品组合总价值 |
 
 ## 概念证据地图
 
-| 概念 | 证据 | 支持的结论 |
+| 手册概念 | 公司证据 | 支持的结论 |
 | --- | --- | --- |
-| [病毒传播](../../../handbook/referral-and-loops/README.zh.md#病毒传播) | Facebook；Brian Balfour；Sean Ellis | 扩散、接收者转化、实验与留存调整质量 |
-| [网络效应](../../../handbook/referral-and-loops/README.zh.md#网络效应) | James Currier；Andrew Chen；Casey Winters；Facebook；Uber；Grubhub | 相关参与可以通过密度、选择、数据、声誉、兼容性、信任或工作流改善价值；Multi-homing 与质量下降会削弱防御 |
-| [产品增长循环](../../../handbook/referral-and-loops/README.zh.md#产品增长循环) | Brian Balfour；Andrew Chen；Facebook；Uber；Lovable | 通过协作、网络、交易与证明让输出创造输入 |
-| [AI 辅助 UGC 内容循环](../../../handbook/referral-and-loops/README.zh.md#ai-辅助-ugc-内容循环) | Brian Balfour 对 LinkedIn 协作文章的外部分析 | AI 可以降低创作者与选题摩擦，人工贡献增加新鲜度；质量与搜索依赖仍是边界 |
-| [用户倡导](../../../handbook/referral-and-loops/README.zh.md#用户倡导) | Lovable；Duolingo；Ramp | 客户和员工证明、身份、品牌信任与下游行为 |
-
-LinkedIn 证据来自 Balfour 的外部分析与第三方 Ahrefs 估算，不是 LinkedIn 内部评估。UGC 出现在多个循环中，但创作者系统证据仍不足以建立独立公司案例。
+| [推荐设计](../../../handbook/referral-and-loops/README.zh.md#推荐设计) | Dropbox；字节跳动 | 发送者价值、接收者相关性、奖励对齐、留存、成本与滥用决定质量。 |
+| [病毒传播](../../../handbook/referral-and-loops/README.zh.md#病毒传播) | Facebook；Dropbox；字节跳动 | 传播应该被拆解，并根据接收者价值、留存、重叠与周期调整。 |
+| [网络效应](../../../handbook/referral-and-loops/README.zh.md#网络效应) | Facebook；Uber | 新增相关参与可以改善明确定义网络单元内的价值。 |
+| [协作驱动分发](../../../handbook/referral-and-loops/README.zh.md#协作驱动分发) | Airtable；Dropbox | 共享上下文可以获得协作者并加深留存账户价值。 |
+| [扩张类型](../../../handbook/referral-and-loops/README.zh.md#扩张类型) | 五家公司 | 席位、用量、工作流、产品、账户与地域扩张使用不同实体和证据。 |
+| [增量](../../../handbook/referral-and-loops/README.zh.md#增量与因果衡量) | Dropbox；字节跳动；Uber | 奖励、互导与补贴需要反事实和干预后衡量。 |
+| [信任与治理](../../../handbook/referral-and-loops/README.zh.md#信任滥用疲劳与治理) | 五家公司 | 许可、权限、质量、参与者经济性、滥用与蚕食限制规模。 |
 
 ## 相关人物
 
-- [James Currier](../../people/james-currier/README.zh.md)：网络效应分类、White-Hot Center、Marketplace 类型、Market Networks、Multi-homing 与防御性。
-- [Andrew Chen](../../people/andrew-chen/README.zh.md)：留存调整后的病毒传播、原生分享、Atomic Network、Hard Side 与 Marketplace 循环。
-- [Brian Balfour](../../people/brian-balfour/README.zh.md)：把循环作为运作模型，把漏斗作为步骤诊断。
-- [Casey Winters](../../people/casey-winters/README.zh.md)：有条件的网络效应、Marketplace 增长模型、供给与品类扩张。
-- [Morgan Brown](../../people/morgan-brown/README.zh.md)：连接产品价值、分发、留存与实验的增长系统。
-
+- [Sean Ellis](../../people/sean-ellis/README.zh.md)：Dropbox Must-have 价值、口碑与存储一致的推荐。
+- [Elena Verna](../../people/elena-verna/README.zh.md)：Dropbox 产品驱动获客、扩张与账户信号。
+- [Alex Schultz](../../people/alex-schultz/README.zh.md)：Facebook 病毒传播拆解、留存与国际化。
+- [Naomi Gleit](../../people/naomi-gleit/README.zh.md)：Facebook 网络扩张、新用户引导、埋点与运营清晰度。
+- [Andrew Chen](../../people/andrew-chen/README.zh.md)：Uber Atomic Network、Hard Side 供给、流动性与地域扩张。
+- [James Currier](../../people/james-currier/README.zh.md)：网络效应类型、White-Hot Center、Multi-homing 与防御性。
+- [Lauryn Isford](../../people/lauryn-isford/README.zh.md)：Airtable 新用户引导、激活与第四周多用户协作。
+- [徐洪亮](../../people/xu-hongliang/README.zh.md)：推荐奖励、K 值、Lite 产品、产品组合互导与风控。
+- [Brian Balfour](../../people/brian-balfour/README.zh.md)：循环模型、Marketplace 冷启动与转化质量。
 
 ## 证据与局限
 
-- 公司证据主要来自参与者访谈和公开材料，不是完整内部因果评估。
-- 公司规模、市场、产品频率、监管与数据能力限制直接迁移。
-- 发布方公布的增长与收入数字不用于证明单项方法有效。
+- 公司证据来自参与者访谈、公开演讲、文章与外部分析，而不是完整内部因果历史。
+- 案例跨越不同年代、实体、产品、市场与商业模式，传播或扩张指标不能直接比较。
+- 完整 Holdout、增量提升、留存、贡献、作弊与蚕食数据都不可得。
+- 公司结果还来自产品价值、市场结构、资金、时机、运营、监管、多个团队和未在此记录的机制。
+- 收录用于记录运营模式，不代表认可 Spam、强迫邀请、未授权访问、不安全劳动实践、操纵性奖励或任何单项公司决策。

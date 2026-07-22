@@ -56,7 +56,7 @@ Winters 对 Grubhub 应采取其他战略的回顾不是受控反事实。它适
 - [获客](../../themes/acquisition/README.zh.md)
 - [留存](../../themes/retention/README.zh.md)
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
-- [推荐与增长循环](../../themes/referral-and-loops/README.zh.md)
+- [推荐与扩张](../../themes/referral-and-loops/README.zh.md)
 - [增长组织](../../themes/growth-organization/README.zh.md)
 - [Casey Winters](../../people/casey-winters/README.zh.md)
 

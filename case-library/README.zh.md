@@ -19,7 +19,7 @@
 - [激活](themes/activation/README.zh.md)
 - [留存](themes/retention/README.zh.md)
 - [商业化](themes/monetization/README.zh.md)
-- [推荐与增长循环](themes/referral-and-loops/README.zh.md)
+- [推荐与扩张](themes/referral-and-loops/README.zh.md)
 
 ## [横向能力](themes/README.zh.md#横向能力)
 

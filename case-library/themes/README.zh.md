@@ -12,7 +12,7 @@
 | [激活](activation/README.zh.md) | 新用户如何获得有意义的价值？ |
 | [留存](retention/README.zh.md) | 用户为什么回来并加深使用？ |
 | [商业化](monetization/README.zh.md) | 已交付价值如何转化成可持续收入？ |
-| [推荐与增长循环](referral-and-loops/README.zh.md) | 使用行为如何创造更多分发或价值？ |
+| [推荐与扩张](referral-and-loops/README.zh.md) | 已交付价值如何创造新分发或更深采用？ |
 
 ## 横向能力
 

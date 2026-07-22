@@ -161,7 +161,7 @@ Run sensitivity analysis before optimizing a component. Ask which assumption cha
 - [Funnel & Constraint Model](../funnel-and-constraint/README.md)
 - [Metrics & Measurement](../metrics/README.md)
 - [Experimentation](../experimentation/README.md)
-- [Referral & Growth Loops](../referral-and-loops/README.md)
+- [Referral & Expansion](../referral-and-loops/README.md)
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md)
 - [Elena Verna](../../case-library/people/elena-verna/README.md)
 - [Casey Winters](../../case-library/people/casey-winters/README.md)
