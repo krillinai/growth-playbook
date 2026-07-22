@@ -170,6 +170,10 @@ Possible ownership models range from Growth-as-a-Service, where a team moves bet
 - [Growth Organization](../../themes/growth-organization/README.md)
 - [Airbnb](../../companies/airbnb/README.md)
 
+## Executable Skill
+
+- [Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens) — diagnose cold starts, atomic networks, marketplace liquidity, network effects, growth loops, channel decay, and lifecycle reach using Andrew Chen's public frameworks.
+
 ## Article Index
 
 | Article | Primary contribution | Authorship note |

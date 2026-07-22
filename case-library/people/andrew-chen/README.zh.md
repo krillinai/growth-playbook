@@ -170,6 +170,10 @@ Chen 的增长团队方法区分核心产品与增长工作：核心产品深化
 - [增长组织](../../themes/growth-organization/README.zh.md)
 - [Airbnb](../../companies/airbnb/README.zh.md)
 
+## 可执行 Skill
+
+- [Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens) — 运用 Andrew Chen 的公开框架诊断冷启动、原子网络、Marketplace 流动性、网络效应、增长循环、渠道衰减与生命周期触达。
+
 ## 文章索引
 
 | 文章 | 核心贡献 | 作者说明 |
