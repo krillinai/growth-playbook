@@ -1,5 +1,12 @@
 # Growth & Marketing Playbook by clawee.ai：增长营销手册
 
+[![GitHub Stars](https://img.shields.io/github/stars/krillinai/growth-playbook?style=flat-square&logo=github&label=Stars)](https://github.com/krillinai/growth-playbook/stargazers)
+[![MIT License](https://img.shields.io/github/license/krillinai/growth-playbook?style=flat-square&label=License)](LICENSE)
+[![English](https://img.shields.io/badge/Language-English-0969da?style=flat-square)](README.md)
+[![简体中文](https://img.shields.io/badge/语言-简体中文-c8202f?style=flat-square)](README.zh.md)
+[![Growth Skills](https://img.shields.io/badge/Growth-Skills-1f883d?style=flat-square)](https://github.com/krillinai/growth-skills)
+[![clawee.ai](https://img.shields.io/badge/clawee.ai-Enterprise_Growth_Agent-6f42c1?style=flat-square)](https://clawee.ai)
+
 > 由企业级 Growth Agent 产品 [clawee.ai](https://clawee.ai) 出品，[KrillinAI](https://github.com/KrillinAI) 团队创作并维护。KrillinAI 专注于内容智能与全球增长，同时开发开源项目 [krillinai/growth-skills](https://github.com/krillinai/growth-skills)，沉淀可由 AI 执行的增长能力。
 
 **[English](README.md) | [简体中文](README.zh.md)**
