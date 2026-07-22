@@ -26,6 +26,7 @@ Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调
 
 ## 相关人物
 
+- [Ronny Kohavi](../../people/ronny-kohavi/README.zh.md)：OEC、Power、SRM、可信实验平台、长期效应与实验文化。
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：假设驱动的病毒实验、Growth Machine 与学习系统。
 - [Morgan Brown](../../people/morgan-brown/README.zh.md)：约束驱动的假设、科学学习与 AI 产品评估。
 - [Casey Winters](../../people/casey-winters/README.zh.md)：转化实验、定性研究、下游验证与增长模型诊断。

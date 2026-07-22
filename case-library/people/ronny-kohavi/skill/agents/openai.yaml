@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ronny Kohavi Trustworthy Experimentation Lens"
+  short_description: "Audit online experiments, metrics, trust, and decisions"
+  default_prompt: "Use $ronny-kohavi-trustworthy-experimentation-lens to audit this experiment or experimentation program and identify the most important trust and decision risks."

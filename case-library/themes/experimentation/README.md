@@ -26,6 +26,7 @@ Transfer decision discipline, not experiment volume. Check power, instrumentatio
 
 ## Related People
 
+- [Ronny Kohavi](../../people/ronny-kohavi/README.md): OEC, power, SRM, trustworthy experiment platforms, long-term effects, and experimentation culture.
 - [Brian Balfour](../../people/brian-balfour/README.md): hypothesis-driven viral experiments, growth machines, and learning systems.
 - [Morgan Brown](../../people/morgan-brown/README.md): constraint-led hypotheses, scientific learning, and AI-product evaluation.
 - [Casey Winters](../../people/casey-winters/README.md): conversion experiments, qualitative research, downstream validation, and growth-model diagnosis.

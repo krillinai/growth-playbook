@@ -28,6 +28,7 @@
 | [Madhavan Ramanujam](madhavan-ramanujam/README.zh.md) | Simon-Kucher 前 Managing Partner；49 Palms 创始合伙人；*Monetizing Innovation* 与 *Scaling Innovation* 共同作者 | 支付意愿、分群、套餐、计价单位、收入模型、盈利增长与 AI 商业化 |
 | [Morgan Brown](morgan-brown/README.zh.md) | 曾参与 Shopify、Facebook Messenger 与 Dropbox 的增长和产品；Hacking Growth 共同作者 | 增长系统、实验、电商、获客与留存、AI 产品和产品领导 |
 | [Naomi Gleit](naomi-gleit/README.zh.md) | Meta Head of Product；Facebook 早期增长产品经理 | 激活、留存、新用户引导、数据埋点、实验与产品领导 |
+| [Ronny Kohavi](ronny-kohavi/README.zh.md) | Airbnb 前 VP and Technical Fellow；Microsoft 前 Technical Fellow 与实验负责人；Amazon 前个性化负责人 | 可信在线实验、OEC、Power、SRM、长期效应、平台与实验文化 |
 | [Sean Ellis](sean-ellis/README.zh.md) | 曾参与 LogMeIn、Dropbox、Eventbrite 与 Lookout 早期增长；GrowthHackers 创始人 | PMF Test、激活、北极星指标、ICE 与高频实验 |
 | [Sri Batchu](sri-batchu/README.zh.md) | Ramp 增长负责人；曾参与 Instacart 与 Opendoor | 增长工程、指标、回本周期、实验与团队设计 |
 | [Zoelle Egner](zoelle-egner/README.zh.md) | 曾参与 Airtable 增长与营销 | 客户洞察、客户成功、品牌、模板与产品营销 |
