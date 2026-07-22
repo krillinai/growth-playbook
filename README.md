@@ -1,15 +1,19 @@
-# Growth & Marketing Playbook by clawee.ai
+# Growth Playbook
+
+**Knowledge, Cases & Tools for Growth**
+
+By [clawee.ai](https://clawee.ai/), an enterprise-grade Growth Agent platform.
 
 [![GitHub Stars](https://img.shields.io/github/stars/krillinai/growth-playbook?style=flat-square&logo=github&label=Stars)](https://github.com/krillinai/growth-playbook/stargazers)
 [![MIT License](https://img.shields.io/github/license/krillinai/growth-playbook?style=flat-square&label=License)](LICENSE)
 [![Growth & Marketing Skills](https://img.shields.io/badge/Growth_%26_Marketing-Skills-1f883d?style=flat-square)](https://github.com/krillinai/growth-skills)
 [![clawee.ai](https://img.shields.io/badge/clawee.ai-Enterprise_Growth_Agent-6f42c1?style=flat-square)](https://clawee.ai)
 
-> Produced by [clawee.ai](https://clawee.ai), an enterprise-grade Growth Agent platform. Created and maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on content intelligence and global growth. KrillinAI also develops [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
+> Created and maintained by [KrillinAI](https://github.com/KrillinAI), the team behind [Growth & Marketing Skills](https://github.com/krillinai/growth-skills), an open-source collection of AI-executable growth capabilities.
 
 **[English](README.md) | [简体中文](README.zh.md)**
 
-Growth & Marketing Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
+Growth Playbook is for independent developers, founders, and product, marketing, and growth teams. It will grow module by module, covering the full cycle from strategy and content production to distribution, measurement, and optimization.
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the handbook look complete.
 
@@ -116,8 +120,8 @@ See the [Roadmap](ROADMAP.md) for how this structure will grow as complete mater
 
 ## Contributing
 
-Growth & Marketing Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
+Growth Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
 
 ## License
 
-Growth & Marketing Playbook is available under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense, and sell copies subject to the license terms. The material is provided without warranty.
+Growth Playbook is available under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense, and sell copies subject to the license terms. The material is provided without warranty.

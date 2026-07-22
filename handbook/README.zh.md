@@ -1,4 +1,4 @@
-# Growth & Marketing Playbook：增长营销手册模块
+# Growth Playbook：增长手册模块
 
 这里收录已经形成完整内容的增长模块。新的目录只会在对应内容开始编写时创建。
 
