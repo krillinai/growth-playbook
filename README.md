@@ -86,7 +86,7 @@ We follow a content-first approach: a module is published only when it contains 
 | [Experimentation](handbook/experimentation/README.md) | Hypotheses, effect measurement, uncertainty, decisions, and reusable learning |
 | [Growth Infrastructure](handbook/growth-infrastructure/README.md) | Reusable data, decision, delivery, creative, automation, and governance capabilities |
 | [Incentive Systems](handbook/incentive-growth/README.md) | Incrementality, reward economics, post-incentive retention, fraud, and cannibalization |
-| [Growth Organization](handbook/growth-organization/README.md) | Outcome ownership, decision rights, cross-functional capabilities, and learning systems |
+| [Growth Organization](handbook/growth-organization/README.md) | Outcome ownership, decision rights, team models, shared platforms, staffing, portfolios, and reorganization triggers |
 
 ## Cases & People
 

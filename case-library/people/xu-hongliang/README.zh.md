@@ -110,6 +110,8 @@
 
 ## 相关内容
 
+- [增长组织](../../../handbook/growth-organization/README.zh.md)
+
 - [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)
 
 - [获客](../../../handbook/acquisition/README.zh.md)

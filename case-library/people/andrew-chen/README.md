@@ -179,6 +179,7 @@ Possible ownership models range from Growth-as-a-Service, where a team moves bet
 - [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
 - [Incentive Systems](../../../handbook/incentive-growth/README.md)
+- [Growth Organization](../../../handbook/growth-organization/README.md)
 - [Referral & Expansion](../../themes/referral-and-loops/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)

@@ -80,6 +80,8 @@ Growth-team org charts are less important than clear outcomes, access to product
 
 ## Related Content
 
+- [Growth Organization](../../../handbook/growth-organization/README.md)
+
 - [Monetization](../../../handbook/monetization/README.md)
 
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)

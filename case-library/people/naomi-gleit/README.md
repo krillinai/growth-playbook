@@ -151,6 +151,8 @@ Her meeting practice includes circulating a pre-read about 24 hours in advance, 
 
 ## Related Playbook Content
 
+- [Growth Organization](../../../handbook/growth-organization/README.md)
+
 - [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
 
 - [Activation](../../../handbook/activation/README.md)

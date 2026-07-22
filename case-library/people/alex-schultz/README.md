@@ -320,6 +320,8 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 
 ## Related Playbook Content
 
+- [Growth Organization](../../../handbook/growth-organization/README.md)
+
 - [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
 
 - [Acquisition](../../../handbook/acquisition/README.md)
