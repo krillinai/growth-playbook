@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for network-effect type, white-hot centers, hard sides, marketplace structure, market networks, disguised marketplaces, multi-homing, defensibility, or AI-era networks.
+
+1. Define participant value, the smallest network unit, the core interaction, and the suspected hard side.
+2. Choose the primary lens: network effects versus virality, White-Hot Center, marketplace type, Market Network, Disguised Marketplace, multi-homing, Market Effect, or AI-era network audit.
+3. State the causal mechanism by which added participation improves value; user count, referrals, data, and AI activity do not prove a network effect.
+4. Identify one constraint, three 30-day actions, an evidence plan, and quality, trust, economics, and governance guardrails.
+
+> This lens applies frameworks documented in James Currier's public work. It is not affiliated with, endorsed by, or a simulation of James Currier.
+
 ## At a Glance
 
 | Field | Details |
@@ -96,10 +107,6 @@ Networks can create differentiated access to customers, expertise, opportunities
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Andrew Chen](../andrew-chen/README.md)
 - [Marketplace and Loop Cases](../../themes/referral-and-loops/README.md)
-
-## Executable Skill
-
-- [James Currier Network Effects Lens](https://github.com/krillinai/growth-skills/tree/main/skills/james-currier-network-effects-lens) — diagnose network-effect type, white-hot center, hard side, marketplace structure, market networks, multi-homing, defensibility, and AI-era network strategy using James Currier's public methods.
 
 ## Video Index
 

@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for PLG, Product-Led Sales, freemium, monetization, earned distribution, experimentation, AI-native PMF, launches, or discovery portfolios.
+
+1. Define the product value, growth model, free-to-paid path, target segment, and organizational stage.
+2. Choose the primary lens: PMF readiness, evolving growth model, PLG system, PLS signals, freemium versus trial, monetization, earned-first distribution, experimentation boundaries, or moving AI PMF.
+3. Connect acquisition, activation, retention, monetization, and sales instead of optimizing each function independently.
+4. Identify one constraint, three 30-day actions, a decision test, and unit-economics, trust, and channel-dependency guardrails.
+
+> This lens applies frameworks documented in Elena Verna's public work. It is not affiliated with, endorsed by, or a simulation of Elena Verna.
+
 ## At a Glance
 
 | Field | Details |
@@ -468,7 +479,3 @@ The goal is to make the product understandable, credible, and accessible whereve
 - [Lovable company page](../../companies/lovable/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [The Complete Guide to GEO](../../../handbook/geo/README.md)
-
-## Executable Skill
-
-- [Elena Verna PLG Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/elena-verna-plg-growth-lens) — diagnose growth models, PLG, Product-Led Sales, free models, monetization, distribution, experimentation, AI-native PMF, and discovery using Elena Verna's public methods.

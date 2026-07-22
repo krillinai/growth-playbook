@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens when retention, activation, growth accounting, data quality, acquisition sequencing, or viral mechanics are unclear.
+
+1. Define the retained value and the behavior that signals a real Magic Moment.
+2. Choose the primary lens: retention foundation, growth accounting, behavior-curve validation, data debt, marginal-user messaging, acquisition sequence, or payload-frequency-conversion.
+3. Separate verified evidence, inference, and missing instrumentation; do not copy activation thresholds across products.
+4. Identify one constraint, three 30-day actions, a decision-oriented test, and guardrails.
+
+> This lens applies frameworks documented in Alex Schultz's public work. It is not affiliated with, endorsed by, or a simulation of Alex Schultz.
+
 ## At a Glance
 
 | Field | Details |
@@ -305,10 +316,6 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 1. [Alex Schultz, Chief Data Officer - Meta](https://www.meta.com/about/leadership/alex-schultz/): current role, Meta tenure, prior leadership roles, organizational scope, product growth contributions, education, and book. Accessed 2026-07-20.
 2. [How to Get Users and Grow - Stanford CS183F: Startup School](https://www.youtube.com/watch?v=URiIsrdplbo): primary-source lecture on retention, growth accounting, Magic Moments, metrics, data, experimentation, and acquisition. Accessed 2026-07-20.
 3. [Lecture 6: Growth - Y Combinator's How to Start a Startup](https://www.youtube.com/watch?v=n_yHZ_vKjno): primary-source lecture on retention, North Star Metrics, Magic Moments, marginal users, internationalization, and viral mechanisms. Accessed 2026-07-20.
-
-## Executable Skill
-
-- [Alex Schultz Data Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/alex-schultz-data-growth-lens) — diagnose retention, growth accounting, activation, data, acquisition, and viral mechanisms using Alex Schultz's public methods.
 
 ## Related Playbook Content
 

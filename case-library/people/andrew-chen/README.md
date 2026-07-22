@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for cold starts, atomic networks, marketplace liquidity, hard-side supply, growth loops, channel decay, lifecycle reach, or growth ownership.
+
+1. Define participant value, the atomic-network boundary, the core interaction, and the suspected hard side.
+2. Choose the primary lens: density, liquidity, network-effects stage, retention-adjusted loop, channel decay, lifecycle reach, Power User Curve, or constraint-led organization.
+3. Separate aggregate scale from local interaction success and retained value; invitations and registrations do not prove a network.
+4. Identify one constraint, three 30-day actions, an evidence plan, and ecosystem and economic guardrails.
+
+> This lens applies frameworks documented in Andrew Chen's public work. It is not affiliated with, endorsed by, or a simulation of Andrew Chen.
+
 ## At a Glance
 
 | Field | Details |
@@ -169,10 +180,6 @@ Possible ownership models range from Growth-as-a-Service, where a team moves bet
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)
 - [Airbnb](../../companies/airbnb/README.md)
-
-## Executable Skill
-
-- [Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens) — diagnose cold starts, atomic networks, marketplace liquidity, network effects, growth loops, channel decay, and lifecycle reach using Andrew Chen's public frameworks.
 
 ## Article Index
 

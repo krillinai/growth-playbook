@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## 应用此视角
+
+适用于冷启动、Atomic Network、Marketplace 流动性、Hard Side 供给、增长循环、渠道衰减、生命周期触达或增长组织问题。
+
+1. 定义参与者价值、Atomic Network 边界、核心互动和可能的 Hard Side。
+2. 选择主要视角：密度、流动性、网络效应阶段、留存调整循环、渠道衰减、生命周期触达、Power User Curve 或约束驱动组织。
+3. 区分总规模、本地互动成功与留存价值；邀请和注册不能证明网络成立。
+4. 找出一个主要约束、三项 30 天行动、证据计划，以及生态与经济性护栏。
+
+> 此视角应用 Andrew Chen 公开工作中记录的框架，不代表关联、背书，也不是对 Andrew Chen 本人的模拟。
+
 ## 人物概览
 
 | 字段 | 内容 |
@@ -169,10 +180,6 @@ Chen 的增长团队方法区分核心产品与增长工作：核心产品深化
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
 - [增长组织](../../themes/growth-organization/README.zh.md)
 - [Airbnb](../../companies/airbnb/README.zh.md)
-
-## 可执行 Skill
-
-- [Andrew Chen Network Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/andrew-chen-network-growth-lens) — 运用 Andrew Chen 的公开框架诊断冷启动、原子网络、Marketplace 流动性、网络效应、增长循环、渠道衰减与生命周期触达。
 
 ## 文章索引
 

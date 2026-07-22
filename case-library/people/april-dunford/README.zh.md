@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## 应用此视角
+
+适用于买家无法理解产品、销售线索质量不稳定、定位被简化成文案，或 AI 与产品组合主张高度同质化的情况。
+
+1. 定义产品、客户分群、购买情境与本次定位决策。
+2. 梳理竞争替代方案、独特能力、差异化价值、最佳客户，以及能让价值变得清晰的市场品类。
+3. 用客户证据、资格判断、销售叙事、产品组合一致性与品类创建成本检验定位。
+4. 产出一个定位假设、反面证据、验证工作，以及产品、营销与销售的下一步决策。
+
+> 此视角应用 April Dunford 公开工作中记录的框架，不代表关联、背书，也不是对 April Dunford 本人的模拟。
+
 ## 人物概览
 
 | 字段 | 内容 |
@@ -112,10 +123,6 @@ Qualification 应判断潜在客户是否具备使差异化价值成立的问题
 - [产品市场匹配](../../../handbook/product-market-fit/README.zh.md)
 - [获客](../../../handbook/acquisition/README.zh.md)
 - [商业化](../../../handbook/monetization/README.zh.md)
-
-## 可执行 Skill
-
-- [April Dunford Positioning Lens](https://github.com/krillinai/growth-skills/tree/main/skills/april-dunford-positioning-lens) — 运用 April Dunford 的公开方法诊断竞争替代方案、差异化价值、最佳客户、市场品类、销售叙事、客户资格与定位执行。
 
 ## 视频索引
 

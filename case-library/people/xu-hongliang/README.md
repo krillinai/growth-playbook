@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for shared growth platforms, multi-horizon value models, governed automation, creative systems, incentives, anti-abuse, portfolio traffic, localization, or attribution calibration.
+
+1. Define the product portfolio, decision horizon, data quality, reusable capability, operating owner, and risk boundary.
+2. Choose the primary lens: shared platform, multi-horizon value, human-governed automation, creative-risk production, segmented incentives, anti-abuse architecture, cross-product allocation, localization, or measurement calibration.
+3. Separate automation scale from decision quality and gross activity from incremental retained value; preserve human review and auditability.
+4. Recommend three 30-day actions, an evidence plan, and fraud, privacy, cannibalization, creative-quality, and model-risk guardrails.
+
+> This lens applies frameworks documented in Xu Hongliang's public interviews. It is not affiliated with, endorsed by, or a simulation of Xu Hongliang.
+
 ## At a Glance
 
 | Field | Details |
@@ -95,9 +106,6 @@ International growth requires local market priorities, channels, creative contex
 - The interviews compress multiple products, teams, regions, and years; ByteDance's current organization may differ.
 - Inclusion does not endorse every acquisition, incentive, data, labor, content, or platform practice discussed.
 
-## Executable Skill
-
-- [Xu Hongliang Growth Infrastructure Lens](https://github.com/krillinai/growth-skills/tree/main/skills/xu-hongliang-growth-infrastructure-lens) — design shared growth platforms, multi-horizon value models, governed automation, creative-risk systems, incentives, anti-abuse, portfolio allocation, and localization using Xu Hongliang's public interviews.
 ## Related Content
 
 - [ByteDance company page](../../companies/bytedance/README.md)

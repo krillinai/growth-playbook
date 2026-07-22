@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens when growth does not compound, product, market, channel, or model may be misaligned, or teams lack a coherent metric and loop system.
+
+1. Define the segment, retained value, business model, current channel mix, and growth equation.
+2. Choose the primary framework: growth model, Four Fits, channel selection, Channel-Model Fit, Model-Market Fit, metric constellation, launch loop, or product loop.
+3. Trace the system from acquisition through retention, monetization, loops, and reinvestment; label evidence, assumptions, and broken transitions.
+4. Select one constraint, three 30-day actions, a test plan, and quality, economics, and concentration guardrails.
+
+> This lens applies frameworks documented in Brian Balfour's public work. It is not affiliated with, endorsed by, or a simulation of Brian Balfour.
+
 ## At a Glance
 
 | Field | Details |
@@ -171,10 +182,6 @@ The mechanism reduces three constraints common to UGC loops: the effort required
 - [Referral & Growth Loops](../../../handbook/referral-and-loops/README.md)
 - [Growth Organization](../../../handbook/growth-organization/README.md)
 - [GEO](../../../handbook/geo/README.md)
-
-## Executable Skill
-
-- [Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens) — apply Brian Balfour's public frameworks to diagnose growth constraints, evaluate fit, select channels, and design focused experiments.
 
 ## Article Index
 

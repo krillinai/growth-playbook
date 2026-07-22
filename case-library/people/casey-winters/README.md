@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for retention, Setup-Aha-Habit onboarding, marketplace supply, geographic or category expansion, SEO systems, conversion, sustainable acquisition, or growth ownership.
+
+1. Define the retained behavior, natural usage frequency, target segment, and current growth constraint.
+2. Choose the primary lens: PMF retention, onboarding, product-specific growth model, supply as product, repeatable marketplace unit, SEO product system, entry-surface conversion, or constraint-aligned ownership.
+3. Test causal transitions and segment differences; traffic, registration, supply count, and experiment volume are not outcomes by themselves.
+4. Recommend three 30-day actions, an evidence plan, and retention, trust, economics, and operational guardrails.
+
+> This lens applies frameworks documented in Casey Winters' public work. It is not affiliated with, endorsed by, or a simulation of Casey Winters.
+
 ## At a Glance
 
 | Field | Details |
@@ -139,10 +150,6 @@ Making expertise searchable can create network and data advantages, but only if 
 - [Pinterest](../../companies/pinterest/README.md)
 - [Grubhub](../../companies/grubhub/README.md)
 - [Eventbrite](../../companies/eventbrite/README.md)
-
-## Executable Skill
-
-- [Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens) — diagnose retention, onboarding, marketplace supply, expansion, SEO, conversion, sustainable acquisition, and growth ownership using Casey Winters' public methods.
 
 ## Video Index
 

@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for willingness to pay, value segmentation, packaging, price metrics, revenue models, freemium, profitable growth, or AI monetization.
+
+1. Define the segment, problem, value evidence, buying process, cost structure, and monetization decision.
+2. Choose the primary lens: price before product, willingness-to-pay evidence, segmentation, packaging, price metric, revenue model, failure mode, freemium guardrails, profitable growth, or AI autonomy and attribution.
+3. Separate stated interest from purchase evidence and revenue growth from retained margin and customer value.
+4. Produce one monetization thesis, alternatives, research or experiment design, decision rules, and trust and predictability guardrails.
+
+> This lens applies frameworks documented in Madhavan Ramanujam's public work. It is not affiliated with, endorsed by, or a simulation of Madhavan Ramanujam.
+
 ## At a Glance
 
 | Field | Details |
@@ -94,10 +105,6 @@ Long-term growth requires both acquiring more customers and expanding the value 
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Positioning](../../../handbook/positioning/README.md)
 - [Monetization Cases](../../themes/monetization/README.md)
-
-## Executable Skill
-
-- [Madhavan Ramanujam Monetization Lens](https://github.com/krillinai/growth-skills/tree/main/skills/madhavan-ramanujam-monetization-lens) — diagnose willingness to pay, segmentation, packaging, price metrics, revenue models, profitable growth, and AI monetization using Madhavan Ramanujam's public methods.
 
 ## Video Index
 

@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## 应用此视角
+
+适用于 Must-have PMF、激活、留存、增长阶段、价值型 North Star、高频实验、ICE 优先级或推荐问题。
+
+1. 定义目标分群、核心收益、激活路径、重复行为与当前增长阶段。
+2. 选择主要视角：PMF Survey、启发式审计、Survey-to-Retention 证据链、激活桥梁、增长阶段、North Star、科学增长循环、实验质量、ICE 或价值驱动推荐。
+3. 用行为与 Cohort 交叉验证问卷；不能把 40% 启发式或实验数量当成通用通过条件。
+4. 找出一个主要约束、三项 30 天行动、测试计划，以及留存、质量、经济性和用户信任护栏。
+
+> 此视角应用 Sean Ellis 公开工作中记录的框架，不代表关联、背书，也不是对 Sean Ellis 本人的模拟。
+
 ## 人物速览
 
 | 字段 | 信息 |
@@ -276,7 +287,3 @@ Dropbox 推荐计划是著名案例，但它能运转是因为用户已经重视
 ## 相关手册内容
 
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
-
-## 可执行 Skill
-
-- [Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens) — 运用 Sean Ellis 的公开方法评估 must-have PMF、激活、留存、增长阶段、价值型 North Star、实验系统、优先级与推荐循环。

@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## 应用此视角
+
+适用于留存、激活、Growth Accounting、数据质量、获客顺序或病毒机制不清晰的情况。
+
+1. 定义留存价值，以及能够表示用户真正到达 Magic Moment 的行为。
+2. 选择主要视角：留存基础、Growth Accounting、行为曲线验证、数据债务、边际用户消息、获客顺序或 Payload-Frequency-Conversion。
+3. 区分已验证证据、推断与缺失埋点，不能跨产品照搬激活阈值。
+4. 找出一个主要约束、三项 30 天行动、一个面向决策的测试及相应护栏。
+
+> 此视角应用 Alex Schultz 公开工作中记录的框架，不代表关联、背书，也不是对 Alex Schultz 本人的模拟。
+
 ## 人物速览
 
 | 项目 | 信息 |
@@ -307,10 +318,6 @@ Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Faceboo
 1. [Alex Schultz, Chief Data Officer - Meta](https://www.meta.com/about/leadership/alex-schultz/)：当前职位、Meta 任职经历、过往领导岗位、组织职责、产品增长贡献、教育和著作。访问于 2026-07-20。
 2. [How to Get Users and Grow - Stanford CS183F: Startup School](https://www.youtube.com/watch?v=URiIsrdplbo)：留存、增长会计、Magic Moment、指标、数据、实验和获客方法的一手演讲。访问于 2026-07-20。
 3. [Lecture 6: Growth - Y Combinator's How to Start a Startup](https://www.youtube.com/watch?v=n_yHZ_vKjno)：关于留存、北极星指标、Magic Moment、边缘用户、国际化和传播机制的一手演讲。访问于 2026-07-20。
-
-## 可执行 Skill
-
-- [Alex Schultz Data Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/alex-schultz-data-growth-lens) — 运用 Alex Schultz 的公开方法诊断留存、Growth Accounting、激活、数据、获客与病毒机制。
 
 ## 相关手册内容
 

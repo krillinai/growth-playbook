@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## 应用此视角
+
+适用于增长无法复利、Product、Market、Channel 或 Model 可能错配，或团队缺少一致指标和循环系统的情况。
+
+1. 定义客户分群、留存价值、商业模式、当前渠道组合与增长公式。
+2. 选择主要框架：增长模型、Four Fits、渠道选择、Channel-Model Fit、Model-Market Fit、指标组合、发布循环或产品循环。
+3. 从获客追踪到留存、商业化、循环与再投资，标记证据、假设与断裂的转化环节。
+4. 选择一个主要约束、三项 30 天行动、测试计划，以及质量、经济性和渠道集中度护栏。
+
+> 此视角应用 Brian Balfour 公开工作中记录的框架，不代表关联、背书，也不是对 Brian Balfour 本人的模拟。
+
 ## 人物概览
 
 | 字段 | 内容 |
@@ -169,10 +180,6 @@ North Star 通常是输出指标：它描述重要结果，却过于宽泛，无
 - [推荐与增长循环](../../../handbook/referral-and-loops/README.zh.md)
 - [增长组织](../../../handbook/growth-organization/README.zh.md)
 - [GEO](../../../handbook/geo/README.zh.md)
-
-## 可执行 Skill
-
-- [Brian Balfour Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/brian-balfour-growth-lens) — 运用 Brian Balfour 的公开框架诊断增长约束、评估匹配关系、选择渠道并设计聚焦实验。
 
 ## 文章索引
 

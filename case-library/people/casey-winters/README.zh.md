@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## 应用此视角
+
+适用于留存、Setup-Aha-Habit Onboarding、Marketplace 供给、地区或品类扩张、SEO 系统、转化、可持续获客或增长组织问题。
+
+1. 定义留存行为、自然使用频率、目标分群与当前增长约束。
+2. 选择主要视角：PMF 留存、新用户引导、产品专属增长模型、Supply as Product、可复制 Marketplace 单元、SEO 产品系统、真实入口转化或约束一致的责任归属。
+3. 检验因果转化与分群差异；流量、注册、供给数量和实验数量本身都不是最终结果。
+4. 提出三项 30 天行动、证据计划，以及留存、信任、经济性和运营护栏。
+
+> 此视角应用 Casey Winters 公开工作中记录的框架，不代表关联、背书，也不是对 Casey Winters 本人的模拟。
+
 ## 基本信息
 
 | 字段 | 内容 |
@@ -139,10 +150,6 @@ SuperMe 讨论如何从写作、对话等内容中表达专业判断。产品依
 - [Pinterest](../../companies/pinterest/README.zh.md)
 - [Grubhub](../../companies/grubhub/README.zh.md)
 - [Eventbrite](../../companies/eventbrite/README.zh.md)
-
-## 可执行 Skill
-
-- [Casey Winters Product Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/casey-winters-product-growth-lens) — 运用 Casey Winters 的公开方法诊断留存、Onboarding、Marketplace 供给、扩张、SEO、转化、可持续获客与增长组织。
 
 ## 视频索引
 

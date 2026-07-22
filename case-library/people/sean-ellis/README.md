@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens for must-have PMF, activation, retention, growth stages, value-based North Stars, high-tempo experimentation, ICE prioritization, or referrals.
+
+1. Define the target segment, core benefit, activation path, repeated behavior, and current growth stage.
+2. Choose the primary lens: PMF survey, heuristic audit, survey-to-retention chain, activation bridge, growth stages, North Star, scientific growth loop, experiment quality, ICE, or value-led referrals.
+3. Triangulate survey responses with behavior and cohorts; never treat the 40% heuristic or experiment count as a universal pass condition.
+4. Identify one constraint, three 30-day actions, a test plan, and retention, quality, economics, and user-trust guardrails.
+
+> This lens applies frameworks documented in Sean Ellis's public work. It is not affiliated with, endorsed by, or a simulation of Sean Ellis.
+
 ## At a Glance
 
 | Field | Details |
@@ -279,7 +290,3 @@ Teams should distinguish organic word of mouth from engineered referrals, then m
 ## Related Playbook Content
 
 - [Growth Metrics System](../../../handbook/metrics/README.md)
-
-## Executable Skill
-
-- [Sean Ellis PMF Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/sean-ellis-pmf-growth-lens) — evaluate must-have PMF, activation, retention, growth stages, value-based North Stars, experimentation, prioritization, and referral loops using Sean Ellis's public methods.

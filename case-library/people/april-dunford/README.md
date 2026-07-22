@@ -4,6 +4,17 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Apply This Lens
+
+Use this lens when buyers misunderstand the product, sales quality is inconsistent, positioning is reduced to messaging, or AI and portfolio claims sound generic.
+
+1. Define the product, segment, buying situation, and positioning decision.
+2. Map competitive alternatives, unique capabilities, differentiated value, best-fit customers, and the market category that makes the value obvious.
+3. Test the position against customer evidence, qualification, sales narrative, portfolio coherence, and the burden of creating a category.
+4. Produce one positioning thesis, contradictory evidence, validation work, and the next decisions for product, marketing, and sales.
+
+> This lens applies frameworks documented in April Dunford's public work. It is not affiliated with, endorsed by, or a simulation of April Dunford.
+
 ## At a Glance
 
 | Field | Details |
@@ -114,10 +125,6 @@ When products can copy features quickly and many vendors claim similar AI capabi
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Monetization](../../../handbook/monetization/README.md)
-
-## Executable Skill
-
-- [April Dunford Positioning Lens](https://github.com/krillinai/growth-skills/tree/main/skills/april-dunford-positioning-lens) — diagnose competitive alternatives, differentiated value, best-fit customers, market category, sales narrative, qualification, and positioning execution using April Dunford's public methods.
 
 ## Video Index
 
