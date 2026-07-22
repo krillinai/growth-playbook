@@ -67,6 +67,7 @@ We follow a content-first approach: a module is published only when it contains 
 | [Customer Lifecycle](handbook/retention/README.md#customer-lifecycle) | How customers move from first contact to recurring and expanding value |
 | [Funnels](handbook/activation/README.md#funnels) | How transitions and constraints are represented across the journey |
 | [Growth Loops](handbook/referral-and-loops/README.md#product-loops) | How product outputs create reusable inputs and compounding value |
+| [Network Effects](handbook/referral-and-loops/README.md#network-effects) | How relevant participation changes product value, density, and defensibility |
 
 ## Growth Lifecycle
 
@@ -76,7 +77,7 @@ We follow a content-first approach: a module is published only when it contains 
 | [**Activation**](handbook/activation/README.md) | How do new users reach first value and take the next meaningful action? | [Onboarding](handbook/activation/README.md#onboarding) · [Setup, Aha & Habit](handbook/activation/README.md#setup-aha-and-habit) · [CRO](handbook/activation/README.md#conversion-rate-optimization) |
 | [**Retention**](handbook/retention/README.md) | How do customers continue receiving value and return? | [Cohort Retention](handbook/retention/README.md#metric-system) · [Lifecycle Marketing](handbook/retention/README.md#lifecycle-marketing) · [Churn Prevention](handbook/retention/README.md#churn-prevention) |
 | [**Monetization**](handbook/monetization/README.md) | How does customer value become durable, profitable revenue? | [Pricing](handbook/monetization/README.md#pricing) · [Revenue Models](handbook/monetization/README.md#revenue-models) · [LTV & Payback](handbook/monetization/README.md#metric-system) · [Profitable Growth](handbook/monetization/README.md#profitable-growth) |
-| [**Referral & Expansion**](handbook/referral-and-loops/README.md) | How do customers and product activity create new distribution and deeper value? | [Virality](handbook/referral-and-loops/README.md#virality) · [Product Loops](handbook/referral-and-loops/README.md#product-loops) · [Advocacy](handbook/referral-and-loops/README.md#advocacy) |
+| [**Referral & Expansion**](handbook/referral-and-loops/README.md) | How do customers and product activity create new distribution and deeper value? | [Virality](handbook/referral-and-loops/README.md#virality) · [Network Effects](handbook/referral-and-loops/README.md#network-effects) · [Product Loops](handbook/referral-and-loops/README.md#product-loops) · [Advocacy](handbook/referral-and-loops/README.md#advocacy) |
 
 ## Growth Systems
 

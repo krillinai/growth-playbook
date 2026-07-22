@@ -12,6 +12,7 @@
 | April Dunford | 定位顾问；Ambient Strategy 创始人；*Obviously Awesome* 与 *Sales Pitch* 作者 | 定位、差异化价值、市场品类、销售叙事、客户资格与产品组合 | [查看](april-dunford/README.zh.md) |
 | Albert Cheng | 曾参与 Duolingo、Grammarly 与 Chess.com 增长 | Explore-Exploit、商业化、留存、实验与游戏化 | [查看](albert-cheng/README.zh.md) |
 | Andrew Chen | Andreessen Horowitz General Partner；Uber 前 Rider Growth 负责人 | 网络效应、Marketplace、Atomic Network、供给增长与增长循环 | [查看](andrew-chen/README.zh.md) |
+| James Currier | NFX 创始合伙人；创业者与网络效应投资人 | 网络效应、Marketplace、Market Networks、防御性、Multi-homing 与 AI 时代网络 | [查看](james-currier/README.zh.md) |
 | Brian Balfour | Reforge 创始人兼 CEO；HubSpot 前 VP of Growth | 增长模型、Four Fits、留存、分发、循环、实验与 PLG | [查看](brian-balfour/README.zh.md) |
 | Casey Winters | Eventbrite 前 CPO、Pinterest 前增长负责人、Grubhub 前运营者；SuperMe CEO | 留存、新用户引导、Marketplace、SEO、转化、可持续获客与增长组织 | [查看](casey-winters/README.zh.md) |
 | Chamath Palihapitiya | Facebook 前 VP of User Growth；Social Capital 创始人 | 核心产品价值、Aha Moment、关键行为指标、增长组织 | [查看](chamath-palihapitiya/README.zh.md) |

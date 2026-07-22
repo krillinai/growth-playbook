@@ -34,6 +34,7 @@ Facebook's loop is structurally networked, Duolingo makes progress and identity 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
 | [Virality](../../../handbook/referral-and-loops/README.md#virality) | Facebook; Brian Balfour; Sean Ellis | Propagation, recipient conversion, experiments, and retention-adjusted quality |
+| [Network effects](../../../handbook/referral-and-loops/README.md#network-effects) | James Currier; Andrew Chen; Casey Winters; Facebook; Uber; Grubhub | Relevant participation can improve value through density, selection, data, reputation, compatibility, trust, or workflow; multi-homing and degraded quality weaken defense |
 | [Product loops](../../../handbook/referral-and-loops/README.md#product-loops) | Brian Balfour; Andrew Chen; Facebook; Uber; Lovable | Outputs create inputs through collaboration, networks, transactions, and proof |
 | [AI-assisted UGC content loops](../../../handbook/referral-and-loops/README.md#ai-assisted-ugc-content-loops) | Brian Balfour's external analysis of LinkedIn collaborative articles | AI can reduce creator and topic-selection friction while human contributions add freshness; quality and search dependency remain boundaries |
 | [Advocacy](../../../handbook/referral-and-loops/README.md#advocacy) | Lovable; Duolingo; Ramp | Customer and employee proof, identity, brand trust, and downstream behavior |
@@ -42,6 +43,7 @@ LinkedIn evidence comes from Balfour's external analysis and third-party Ahrefs 
 
 ## Related People
 
+- [James Currier](../../people/james-currier/README.md): network-effect taxonomy, white-hot centers, marketplace types, market networks, multi-homing, and defensibility.
 - [Andrew Chen](../../people/andrew-chen/README.md): retention-adjusted virality, native sharing, atomic networks, hard sides, and marketplace loops.
 - [Brian Balfour](../../people/brian-balfour/README.md): loops as operating models and funnels as transition diagnostics.
 - [Casey Winters](../../people/casey-winters/README.md): conditional network effects, marketplace growth models, supply, and category expansion.

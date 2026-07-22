@@ -15,6 +15,7 @@ Foundations explain the concepts, models, and logic used across every stage.
 | [Customer Lifecycle](retention/README.md#customer-lifecycle) | The progression from first contact to recurring and expanding value |
 | [Funnels](activation/README.md#funnels) | Transition structure, conversion, drop-offs, and constraints |
 | [Growth Loops](referral-and-loops/README.md#product-loops) | Reusable outputs, inputs, cycle time, and compounding value |
+| [Network Effects](referral-and-loops/README.md#network-effects) | Network units, density, reinforcement, multi-homing, and defensibility |
 
 ## Growth Lifecycle
 
@@ -46,7 +47,7 @@ Payers, value metrics, pricing, packaging, revenue models, unit economics, retai
 
 Referrals, virality, product loops, advocacy, recipient value, retention-adjusted propagation, incrementality, and guardrails.
 
-[Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy)
+[Virality](referral-and-loops/README.md#virality) · [Network Effects](referral-and-loops/README.md#network-effects) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy)
 
 ## Growth Systems
 
@@ -72,12 +73,12 @@ Turn a visible symptom into one primary constraint, an evidence ledger, a 30-day
 
 | Area | Concepts |
 | --- | --- |
-| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Growth Loops](referral-and-loops/README.md#product-loops) |
+| Foundations | [Product-Market Fit](product-market-fit/README.md) · [Positioning](positioning/README.md) · [Lifecycle](retention/README.md#customer-lifecycle) · [Funnels](activation/README.md#funnels) · [Growth Loops](referral-and-loops/README.md#product-loops) · [Network Effects](referral-and-loops/README.md#network-effects) |
 | Acquisition | [Channel Selection](acquisition/README.md#channel-selection-matrix) · [Paid Acquisition](acquisition/README.md#paid-acquisition) · [SEO Page Systems](acquisition/README.md#scalable-seo-page-systems) · [GEO](geo/README.md) |
 | Activation | [Onboarding](activation/README.md#onboarding) · [Setup, Aha, and Habit](activation/README.md#setup-aha-and-habit) · [CRO](activation/README.md#conversion-rate-optimization) |
 | Retention | [Lifecycle Marketing](retention/README.md#lifecycle-marketing) · [Churn Prevention](retention/README.md#churn-prevention) |
 | Monetization | [Pricing](monetization/README.md#pricing) · [Revenue Models](monetization/README.md#revenue-models) · [Profitable Growth](monetization/README.md#profitable-growth) |
-| Referral & Expansion | [Virality](referral-and-loops/README.md#virality) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
+| Referral & Expansion | [Virality](referral-and-loops/README.md#virality) · [Network Effects](referral-and-loops/README.md#network-effects) · [Product Loops](referral-and-loops/README.md#product-loops) · [Advocacy](referral-and-loops/README.md#advocacy) |
 | Systems | [Metrics](metrics/README.md) · [Experimentation](experimentation/README.md) · [Infrastructure](growth-infrastructure/README.md) · [Incentives](incentive-growth/README.md) · [Organization](growth-organization/README.md) |
 
 Future directions are listed in the repository [Roadmap](../ROADMAP.md).

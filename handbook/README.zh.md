@@ -15,6 +15,7 @@
 | [用户生命周期](retention/README.zh.md#用户生命周期) | 从首次接触到重复价值与扩张的过程 |
 | [漏斗](activation/README.zh.md#漏斗) | 转换结构、转化、流失点与约束 |
 | [增长循环](referral-and-loops/README.zh.md#产品增长循环) | 可复用输出、输入、周期与复利价值 |
+| [网络效应](referral-and-loops/README.zh.md#网络效应) | 网络单元、密度、强化机制、Multi-homing 与防御性 |
 
 ## 增长生命周期
 
@@ -46,7 +47,7 @@
 
 推荐、病毒传播、产品循环、用户倡导、接收者价值、留存调整扩散、增量与护栏。
 
-[病毒传播](referral-and-loops/README.zh.md#病毒传播) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导)
+[病毒传播](referral-and-loops/README.zh.md#病毒传播) · [网络效应](referral-and-loops/README.zh.md#网络效应) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导)
 
 ## 增长系统
 
@@ -72,12 +73,12 @@
 
 | 分类 | 概念 |
 | --- | --- |
-| 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [定位](positioning/README.zh.md) · [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [增长循环](referral-and-loops/README.zh.md#产品增长循环) |
+| 增长基础 | [产品市场匹配](product-market-fit/README.zh.md) · [定位](positioning/README.zh.md) · [生命周期](retention/README.zh.md#用户生命周期) · [漏斗](activation/README.zh.md#漏斗) · [增长循环](referral-and-loops/README.zh.md#产品增长循环) · [网络效应](referral-and-loops/README.zh.md#网络效应) |
 | 获客 | [渠道选择](acquisition/README.zh.md#渠道选择矩阵) · [付费获客](acquisition/README.zh.md#付费获客) · [SEO 页面系统](acquisition/README.zh.md#可规模化-seo-页面系统) · [GEO](geo/README.zh.md) |
 | 激活 | [新用户引导](activation/README.zh.md#新用户引导) · [Setup、Aha 与 Habit](activation/README.zh.md#setupaha-与-habit) · [CRO](activation/README.zh.md#转化率优化) |
 | 留存 | [生命周期营销](retention/README.zh.md#生命周期营销) · [流失预防](retention/README.zh.md#流失预防) |
 | 商业化 | [定价](monetization/README.zh.md#定价) · [收入模型](monetization/README.zh.md#收入模型) · [盈利性增长](monetization/README.zh.md#盈利性增长) |
-| 推荐与扩张 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |
+| 推荐与扩张 | [病毒传播](referral-and-loops/README.zh.md#病毒传播) · [网络效应](referral-and-loops/README.zh.md#网络效应) · [产品增长循环](referral-and-loops/README.zh.md#产品增长循环) · [用户倡导](referral-and-loops/README.zh.md#用户倡导) |
 | 增长系统 | [指标](metrics/README.zh.md) · [实验](experimentation/README.zh.md) · [基础设施](growth-infrastructure/README.zh.md) · [激励](incentive-growth/README.zh.md) · [组织](growth-organization/README.zh.md) |
 
 后续内容方向记录在仓库的 [Roadmap](../ROADMAP.md) 中。

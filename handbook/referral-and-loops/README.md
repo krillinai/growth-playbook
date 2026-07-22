@@ -53,6 +53,34 @@ Virality is a propagation pattern in which users or product outputs expose and c
 
 Viral reach without recipient value is distribution noise. Network effects and virality are different: a product can spread virally without becoming more valuable as usage grows.
 
+## Network Effects
+
+Case evidence: [James Currier, Andrew Chen, Casey Winters, Facebook, Uber, and Grubhub](../../case-library/themes/referral-and-loops/README.md#concept-evidence-map).
+
+A network effect exists when the product becomes more valuable to a participant as relevant participation, interaction, data, compatibility, reputation, or ecosystem activity grows. Virality describes how a product spreads; network effects describe how participation changes value. Either can exist without the other.
+
+### Network Unit and Core Interaction
+
+Define the smallest boundary in which participants can repeatedly receive value. The unit may be geographic, categorical, professional, social, organizational, or time-based. Then define the core interaction and its success condition.
+
+Aggregate users or inventory can hide fragmented local networks. Measure density, availability, match or interaction success, time to value, repeat behavior, and retention within each network unit.
+
+### White-Hot Center and Hard Side
+
+Start with a narrow segment where need is urgent, interaction can become dense, and the product can reliably complete the core job. Identify the participant, inventory, expertise, trust, or behavior that constrains value. Diagnose the hard side from scarcity, availability, quality, motivation, and retention rather than marketplace labels.
+
+### Reinforcement and Defensibility
+
+State the causal mechanism by which added participation improves value: better selection, faster matching, richer data, stronger reputation, compatibility, liquidity, trust, or workflow coordination. Then test whether competitors can reproduce it.
+
+Multi-homing, portable reputation, weak switching costs, low interaction frequency, poor quality, fragmented density, and commoditized supply can weaken defense even at large scale. Network effects can also decline when relevance, trust, economics, governance, or participant control deteriorates.
+
+### AI-Era Network Audit
+
+AI agents may create supply, perform work, search, negotiate, or transact, changing which participant is scarce and where value accumulates. Re-evaluate the network unit, hard side, proprietary interaction data, workflow position, reputation, governance, and whether human or agent participation still improves outcomes.
+
+Do not call a product defensible because it has users, data, integrations, or AI activity. Require an observable value improvement and a mechanism that remains difficult to reproduce.
+
 ## Product Loops
 
 Case evidence: [Brian Balfour, Andrew Chen, Facebook, Uber, and Lovable](../../case-library/themes/referral-and-loops/README.md#concept-evidence-map).
@@ -97,3 +125,8 @@ Measure qualified downstream behavior and trust, not testimonial volume alone.
 ## Case Comparison
 
 See [Referral & Growth Loops](../../case-library/themes/referral-and-loops/README.md).
+
+## Related People
+
+- [James Currier](../../case-library/people/james-currier/README.md): network-effect types, white-hot centers, marketplace structure, market networks, multi-homing, and defensibility.
+- [Andrew Chen](../../case-library/people/andrew-chen/README.md): atomic networks, cold starts, hard-side supply, marketplace liquidity, and network expansion.
