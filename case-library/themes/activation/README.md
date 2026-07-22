@@ -1,142 +1,171 @@
-# Activation
+# Activation Cases
 
-> Airtable, Facebook / Meta, and Sean Ellis approach activation from different product contexts, but each treats it as evidence of customer value rather than completion of an interface.
+> Cross-company evidence on first value, Magic Moments, Setup-Aha-Habit, intent-based onboarding, collaboration, must-have value, and downstream retention validation.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-For definitions, metrics, cohort analysis, and diagnosis, see the Handbook chapter [Activation](../../../handbook/activation/README.md).
+For definitions, metric trees, cohort analysis, onboarding, product topologies, experiments, maturity, and diagnosis, see [Activation](../../../handbook/activation/README.md).
 
-## Comparison Map
+## Capability Matrix
 
-| Case | Growth context | Proposed value proxy | Intervention or method | Validation signal |
+| Company | Customer job and first value | Setup or intervention | Quality and downstream validation | Main boundary |
 | --- | --- | --- | --- | --- |
-| Airtable | A flexible collaborative product with many possible first use cases | A useful first workflow followed by meaningful collaboration | Segment onboarding by intent, use templates, reduce blank-state work, and connect setup to a real workflow | Later collaboration and retained workspace behavior, not onboarding completion alone |
-| Facebook / Meta | An early social network whose value depended on a sufficient connection graph | Early friend connections and the Magic Moment hypothesis | Identify behaviors associated with retained users, improve connection formation, and instrument early cohorts | Retention and repeated social value after the early connection behavior |
-| Pinterest | A discovery product reached through many logged-out pins, boards, and topics | Understanding a relevant use case and receiving useful personalized ideas | Optimize actual entry pages and connect Setup, Aha, and Habit | Retained use and value-bearing behavior after signup, not entry-page conversion alone |
-| Sean Ellis | A product-agnostic method for finding and improving the point at which users experience must-have value | Product-specific Aha Moment or value event learned from retained users | Interview must-have users, map their successful path, and focus experiments on the largest activation constraint | Stronger downstream retention among users who reach the proposed value event |
+| [Facebook / Meta](../../companies/facebook/README.md) | Receive relevant social value through meaningful connections | Friend discovery, connection formation, instrumentation | Cohort retention, repeated social use, and growth accounting | Historical friend thresholds and network scale do not transfer directly |
+| [Pinterest](../../companies/pinterest/README.md) | Discover and save relevant ideas from varied entry surfaces | Product comprehension, interests, Setup-Aha-Habit | User happiness, activation, repeated discovery, and cohort retention | Signup conversion can increase while comprehension or retention declines |
+| [Airtable](../../companies/airtable/README.md) | Build a useful workflow or artifact for a real job | Intent paths, templates, reduced blank-state work, onboarding experiments | Collaboration, repeated workspace use, and downstream account value | Flexible use cases prevent one universal activation path |
+| [Duolingo](../../companies/duolingo/README.md) | Complete meaningful learning and understand progress | Accessible first lesson, feedback, progress, experimentation | Learning quality, repeated practice, retention, and subscription state | Engagement and streak mechanics cannot substitute for learning value |
+| [Dropbox](../../companies/dropbox/README.md) | Experience reliable synchronization, storage, or file utility | Simple product use, stored files, sharing, and value-aligned referral | Repeated access, recipient activation, collaboration, and retained utility | Public accounts span different periods and lack complete activation experiments |
 
-The proxies are not interchangeable. Airtable needs a useful workflow and often collaborative reinforcement; Facebook depended on network value; Pinterest needs visitors to understand a relevant discovery use case across varied entry pages; Sean Ellis provides a method for discovering a product-specific proxy rather than prescribing one.
+The matrix describes documented cases rather than complete current onboarding systems.
 
-## Airtable
+## Case 1: Facebook / Meta - Magic Moment and Network Value
 
-### Problem Context
+An early Facebook user could register without receiving social value. The activation hypothesis focused on helping the user form enough relevant connections for the network to become useful.
 
-Airtable's flexibility creates an activation problem: different users arrive with different jobs, while a blank and highly configurable product can require substantial setup before value appears. A single generic onboarding path can therefore optimize completion without helping users build something useful.
+```text
+New user and social intent
+-> find relevant people
+-> form meaningful connections
+-> receive recurring social value
+-> retain and deepen network participation
+```
 
-### Method
+Retained-user analysis helped identify candidate early behaviors, while instrumentation and experiments supported execution. The friend threshold was an operational target selected from a relationship with retention, not the product's value by itself.
 
-- Use customer research to distinguish meaningful intents and first workflows.
-- Route users toward relevant templates and examples instead of an undifferentiated blank state.
-- Measure the first useful workflow, then observe whether value deepens through continued use or collaboration.
-- Evaluate onboarding changes with downstream guardrails instead of reading step conversion in isolation.
+**Primary boundary:** correlation does not prove that a connection count alone caused retention. Product design, relevance, network density, content, market, and historical context all matter.
 
-### What the Evidence Supports
+## Case 2: Pinterest - Entry Surface to Setup, Aha, and Habit
 
-The case supports connecting onboarding to a real customer job and treating later collaboration as a stronger quality signal than setup completion. It also shows why segmentation is useful only when intent changes the product path.
+Pinterest users often arrived through individual pins, boards, and topics rather than the homepage. Activation therefore began with the actual entry surface and the visitor's discovery intent.
 
-### Limits
+```text
+Relevant logged-out content
+-> understand the product and use case
+-> Setup interests and context
+-> Aha through useful discovery or saving
+-> Habit through repeated relevant discovery
+```
 
-Airtable's configuration depth and collaborative model are not representative of every product. A template that accelerates one use case can constrain another, and reported improvements from participant interviews do not provide a complete causal evaluation.
+The case connects quantitative conversion work with qualitative research, comprehension, user happiness, activation, and retention. A signup wall can increase registrations while weakening trust or understanding.
 
-Full evidence: [Airtable company page](../../companies/airtable/README.md).
+**Primary boundary:** Pinterest's visual content supply, SEO entry model, personalization, and consumer cadence differ from enterprise, transaction, and low-frequency products.
 
-## Facebook / Meta
+## Case 3: Airtable - Intent, Templates, and Collaborative Value
 
-### Problem Context
+Airtable's flexibility means users arrive with different jobs and can face a high-effort blank state. The activation problem is to help a user create a useful workflow without forcing every use case through one generic configuration path.
 
-An early social-network user could create an account without receiving network value. The activation problem was therefore not registration itself, but reaching enough meaningful connections for the product experience to become useful and repeatable.
+```text
+Customer intent
+-> relevant template, example, or setup path
+-> first useful workflow or artifact
+-> collaboration or repeated workspace use
+-> retained account value
+```
 
-### Method
+Templates, defaults, progressive setup, and segmented onboarding can reduce time to value. Later collaboration can indicate stronger value, but teams must test whether collaboration causes retention or simply identifies high-intent accounts.
 
-- Study retained and non-retained cohorts to find early behaviors associated with durable use.
-- Use friend connections and the Magic Moment as hypotheses about early network value.
-- Improve the mechanisms that help new users find relevant people and form a useful graph.
-- Reduce data debt so teams can interpret cohort behavior and experiments consistently.
+**Primary boundary:** one template or collaboration threshold cannot represent Airtable's varied workflows, roles, account sizes, and natural frequencies.
 
-### What the Evidence Supports
+## Case 4: Duolingo - First Learning Value Before Habit
 
-The case supports searching for a behavioral proxy tied to the product's core value, then validating it with retention. It also connects activation work to instrumentation and cross-functional execution rather than treating it as a single onboarding redesign.
+Duolingo's activation must begin with meaningful learning rather than app activity. Accessible lessons, immediate feedback, visible progress, and repeated practice can help users understand the product's value and establish a next natural action.
 
-### Limits
+```text
+Learning intent
+-> complete meaningful first lesson
+-> receive feedback and visible progress
+-> understand the next learning action
+-> repeat practice and retain
+```
 
-A friend threshold is specific to a social graph and historical product context. Public talks simplify a changing internal model, correlation does not establish that connections alone caused retention, and the method cannot be copied as a universal numerical rule.
+Streaks, reminders, leagues, and recovery belong to reinforcement after value. If users optimize points without learning, activity increases while activation quality deteriorates.
 
-Full evidence: [Facebook / Meta company page](../../companies/facebook/README.md).
+**Primary boundary:** Duolingo is a high-frequency consumer learning product with a distinct mission, brand, and experiment scale. Its activation cadence does not transfer to low-frequency or high-stakes products.
 
-## Sean Ellis
+## Case 5: Dropbox - Must-Have Utility and Stored Value
 
-### Problem Context
+Dropbox's early product value centered on reliable file synchronization and storage. Activation required the user to experience that utility, not merely install the product or create an account.
 
-Teams often acquire users before they understand which early experience represents must-have value. Funnel optimization then improves registration or interface completion while the actual constraint remains undiscovered.
+```text
+File or continuity need
+-> store or synchronize a real file
+-> retrieve or access it reliably
+-> accumulate stored value
+-> share, collaborate, or repeat use
+```
 
-### Method
+The referral loop became plausible after users understood the must-have value. Additional storage aligned with product value, but invitation or reward completion remained upstream of recipient activation and retained use.
 
-- Identify users who would be very disappointed without the product and study the value they receive.
-- Compare their language and early behavior with weaker-fit users.
-- Map the shortest credible path to the Aha Moment without assuming that the moment is universal.
-- Prioritize experiments around the largest constraint between entry and value, then verify downstream retention.
+**Primary boundary:** public material combines early Dropbox, later PLG, and an AI-product period rather than one complete internal activation history.
 
-### What the Evidence Supports
+## Cross-Company Patterns
 
-The approach provides a discovery method: define value from strong users, translate it into an observable hypothesis, and test whether reaching it predicts continued use. It prevents acquisition volume from masking weak activation.
+### First Value Is Product-Specific
 
-### Limits
+- Facebook requires relevant network value.
+- Pinterest requires useful discovery and comprehension.
+- Airtable requires a useful workflow or artifact.
+- Duolingo requires meaningful learning.
+- Dropbox requires reliable file utility.
 
-Survey responses reflect stated preference, while behavioral events remain observational until tested. The must-have segment can also overrepresent an early niche, so teams must revalidate the definition as market and product scope change.
+Signup, wizard completion, invitation, content generation, or listing creation cannot substitute for the customer outcome.
 
-Full evidence: [Sean Ellis profile](../../people/sean-ellis/README.md).
+### Setup Can Enable or Delay Value
 
-## Patterns Across the Cases
+| Product pattern | Necessary setup | Main risk |
+| --- | --- | --- |
+| Social network | Identity and relevant connections | Collecting connections without relevance |
+| Discovery product | Interests, context, and useful content | Signup wall before comprehension |
+| Flexible workspace | Data, template, structure, and workflow | Blank-state effort or over-configuration |
+| Learning product | Level, lesson context, and accessible action | Setup or game mechanics replace learning |
+| Stored-value utility | Real file, device, permissions, and reliability | Technical completion without successful retrieval |
 
-| Pattern | Airtable | Facebook / Meta | Sean Ellis |
-| --- | --- | --- | --- |
-| Start with customer value | Useful workflow | Useful social graph | Must-have outcome |
-| Observe an early proxy | First workflow and collaboration | Friend connections | Product-specific Aha Moment |
-| Reduce the constraint | Intent paths and templates | Connection formation and instrumentation | Focused experiments on the value path |
-| Validate downstream | Continued collaborative behavior | Retention and repeated social use | Retention after the proposed event |
+Removing setup is beneficial only when result quality and downstream retention remain intact.
 
-Three shared conclusions are supported:
+### Activation Is a Retention Hypothesis
 
-1. Activation begins with a hypothesis about value, not a convenient event name.
-2. Early behavior becomes useful only when compared with a durable outcome.
-3. The intervention depends on the product constraint: setup complexity, network formation, or an unclear value path.
+Each case identifies an early event and then requires later validation. Candidate behaviors can predict retention because they create value or because high-intent users are more likely to perform them. Experiments and path analysis help distinguish those explanations.
 
-## Material Differences
+### Use the Correct Entity and Entry State
 
-- **Product topology:** Airtable can deliver single-player value before collaboration; Facebook's value is structurally networked; Sean Ellis's framework is product-neutral.
-- **Discovery method:** Airtable emphasizes intent and workflow research; Facebook emphasizes behavioral cohorts and connection data; Sean Ellis starts with must-have users and Aha Moment discovery.
-- **Reinforcement:** Airtable can deepen through artifacts and collaborators; Facebook through a denser relevant graph; the Sean Ellis method requires each product to define its own repeat-value mechanism.
-- **Transfer risk:** Copying the visible tactic, such as templates or friend thresholds, loses the underlying value hypothesis.
+Meta and Pinterest primarily examine individual consumers; Airtable and Dropbox need user, collaborator, workspace, and account views; Duolingo needs learner and subscription state. Invited users, self-directed users, returning users, and assisted customers require distinct eligibility rules.
 
-## Transfer Questions
+## Transfer Matrix
 
-Before applying an approach, answer:
-
-1. Is value delivered by completing a task, creating an artifact, forming a network, or coordinating with others?
-2. Which early event represents received value rather than setup progress?
-3. Which user intents require genuinely different product paths?
-4. What repeated or downstream behavior can validate activation quality?
-5. What selection effects could make the early event appear more predictive than it is?
-6. Which errors, support costs, trust signals, or economic outcomes must act as guardrails?
+| Situation | Start with | Avoid |
+| --- | --- | --- |
+| High signup, weak first value | Promise match, entry intent, prerequisites, error, and customer path | More acquisition before value is understood |
+| Flexible or blank-state product | Intent, templates, examples, import, defaults, and progressive setup | One generic wizard for every use case |
+| Network or marketplace | Relevant supply or connections, interaction success, quality, and trust | Counting listings, connections, or registrations as value |
+| Habit product | Meaningful first action, feedback, next opportunity, and quality | Adding streaks before value exists |
+| B2B collaborative product | User, workspace, account, buyer proof, and independent repeat value | User activation as the only success level |
+| AI product | Successful task, quality, verification, retries, cost, and repeatability | Prompt or generated-output count as activation |
 
 ## Concept Evidence Map
 
 | Concept | Evidence | Supported conclusion |
 | --- | --- | --- |
-| [Funnels](../../../handbook/activation/README.md#funnels) | Airtable; Sean Ellis; Brian Balfour | End-to-end value paths, step diagnosis, and funnels inside loops |
-| [Onboarding](../../../handbook/activation/README.md#onboarding) | Airtable; Facebook / Meta; Naomi Gleit; Lauryn Isford | Intent segmentation, templates, connections, instrumentation, and downstream validation |
-| [CRO](../../../handbook/activation/README.md#conversion-rate-optimization) | Airtable experiments; Sean Ellis value path | Improve a constrained transition while protecting retained activation and quality |
-
-Landing pages and offer design remain supporting tactics rather than standalone modules.
+| [Funnels](../../../handbook/activation/README.md#funnels) | Airtable, Pinterest, Sean Ellis | Diagnose the end-to-end path from eligible entry to retained value |
+| [Onboarding](../../../handbook/activation/README.md#onboarding) | Airtable, Facebook / Meta, Pinterest, Naomi Gleit, Lauryn Isford | Use intent, templates, connections, comprehension, and downstream validation |
+| [CRO](../../../handbook/activation/README.md#conversion-rate-optimization) | Pinterest entry surfaces, Airtable experiments, Sean Ellis value path | Improve a constrained transition while protecting quality and retention |
+| [Setup, Aha, and Habit](../../../handbook/activation/README.md#setup-aha-and-habit) | Pinterest, Duolingo, Casey Winters | Separate prerequisites, recognizable first value, and repeated value |
+| [First-value quality](../../../handbook/activation/README.md#first-value-quality) | Duolingo, Dropbox, Airtable | Technical completion must produce a useful, trusted, repeatable result |
+| [Product topology](../../../handbook/activation/README.md#activation-by-product-topology) | Meta, Airtable, Dropbox, Duolingo | Activation entity and path depend on network, workspace, stored-value, or habit structure |
 
 ## Related People
 
-- [Andrew Chen](../../people/andrew-chen/README.md): early retention, engagement walls, lifecycle reach, and the Next Feature Fallacy.
-- [Casey Winters](../../people/casey-winters/README.md): Setup-Aha-Habit, entry-surface conversion, and retention-based onboarding validation.
+- [Alex Schultz](../../people/alex-schultz/README.md): Magic Moments, marginal users, retention validation, North Star Metrics, and instrumentation.
+- [Naomi Gleit](../../people/naomi-gleit/README.md): activation thresholds, onboarding, growth accounting, instrumentation, and execution.
+- [Casey Winters](../../people/casey-winters/README.md): Setup-Aha-Habit, entry-surface conversion, cadence, and retention validation.
+- [Lauryn Isford](../../people/lauryn-isford/README.md): intent segmentation, onboarding, templates, collaboration metrics, and PLG funnels.
+- [Sean Ellis](../../people/sean-ellis/README.md): must-have users, Aha Moment discovery, activation-to-retention, and focused experiments.
+- [Jackson Shuttleworth](../../people/jackson-shuttleworth/README.md): first learning value, progress, streaks, recovery, and retention experiments.
+- [Luis von Ahn](../../people/luis-von-ahn/README.md): accessible learning, motivation, habit, freemium, and mission guardrails.
 
 ## Evidence and Limits
 
-- Evidence relies mainly on participant interviews, talks, and public material rather than complete internal datasets.
-- Reported methods establish what practitioners considered important; they do not prove that one intervention caused company-level growth.
-- Product category, scale, market, acquisition mix, and data capability constrain transfer.
-- Publisher growth, revenue, valuation, customer-count, and user-count claims are not causal evidence for these methods.
+- Evidence relies mainly on participant interviews, talks, and practitioner analysis rather than complete internal activation experiments and cohort datasets.
+- Practices span different periods and do not represent every current onboarding system.
+- Product topology, cadence, market, acquisition mix, network structure, data, and organization limit transfer.
+- Reported growth, user, revenue, customer, or experiment-volume claims are not used as causal proof.
+- Company outcomes cannot be attributed to one activation event, flow, team, or practitioner.

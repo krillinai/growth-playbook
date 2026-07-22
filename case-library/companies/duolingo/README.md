@@ -54,6 +54,8 @@ Accessible learning value
 
 ## Related Themes
 
+- [Activation](../../themes/activation/README.md)
+
 - [Acquisition](../../themes/acquisition/README.md)
 - [Retention](../../themes/retention/README.md)
 - [Monetization](../../themes/monetization/README.md)

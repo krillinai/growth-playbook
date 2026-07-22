@@ -182,6 +182,8 @@ Accessible education mission
 
 ## Related Content
 
+- [Activation](../../../handbook/activation/README.md)
+
 - [Monetization](../../../handbook/monetization/README.md)
 
 - [Incentive Systems](../../../handbook/incentive-growth/README.md)

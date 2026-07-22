@@ -74,6 +74,8 @@ Isford 对 Airtable 新用户引导的描述，是从通用界面提示逐步转
 
 ## 相关内容
 
+- [激活](../../../handbook/activation/README.zh.md)
+
 - [留存](../../../handbook/retention/README.zh.md)
 
 - [Airtable 公司页](../../companies/airtable/README.zh.md)

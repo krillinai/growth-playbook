@@ -186,6 +186,127 @@ Evaluate whether the constraint sits on a landing page, in onboarding, at first 
 
 Do not optimize each stage independently. Removing setup can increase completion while weakening Aha; forcing commitment too early can reduce trust; reminders cannot create a habit when no recurring value exists.
 
+## Entry State and Activation Start
+
+Activation does not always begin at signup. Define the start from the first credible opportunity to pursue value.
+
+| Entry state | Activation implication |
+| --- | --- |
+| New self-directed user | Must understand the product and create enough context for first value |
+| Invited collaborator | Arrives with an artifact, team, permission, and social context already present |
+| Returning but unactivated user | May retain account state but still lack a completed value event |
+| Imported or migrated account | Setup may be partially complete while data quality and workflow readiness remain uncertain |
+| Sales-assisted customer | Expectations, configuration, and implementation may begin before product entry |
+| Marketplace participant | Activation depends on the opposite side, local liquidity, trust, and transaction success |
+
+Do not place these states in one denominator when their eligibility and prerequisites differ. An invited collaborator can appear to activate faster because another user already completed much of the setup.
+
+## Empty States, Templates, and Progressive Setup
+
+Flexible products often confront users with a blank state before value. The activation design should supply the minimum useful context without forcing premature configuration.
+
+| Pattern | Useful when | Main risk |
+| --- | --- | --- |
+| Template | Common jobs have recognizable starting structures | Constrains unusual use cases or creates irrelevant content |
+| Example data | Value can be demonstrated before customer data is ready | Demo value may not transfer to real work |
+| Import | Existing data or artifacts accelerate continuity | Mapping, permissions, errors, and waiting time |
+| Default | A broadly safe choice reduces decision burden | Default is wrong for important segments |
+| Progressive setup | Requirements can be deferred until needed | Missing later setup creates hidden failure |
+| Guided checklist | Users need orientation across several prerequisites | Checklist completion replaces value |
+| Human assistance | Complexity, risk, or implementation requires expertise | High cost, inconsistent delivery, and weak self-service learning |
+
+Measure whether each pattern improves first-value quality and retained value, not merely whether it reduces clicks.
+
+## First-Value Quality
+
+Binary activation can hide whether the result was useful. Define quality dimensions appropriate to the customer job.
+
+| Dimension | Example question |
+| --- | --- |
+| Success | Did the task complete without error? |
+| Relevance | Did the result match the user's intent and context? |
+| Completeness | Was enough of the job completed to be useful? |
+| Trust | Could the user understand, verify, and safely rely on the result? |
+| Effort | Was the value proportionate to time, data, and cognitive work? |
+| Repeatability | Is there a credible reason and path to receive value again? |
+| Collaboration | Did additional participants deepen the customer outcome? |
+
+Use a tiered definition when appropriate: `technical success -> usable result -> meaningful value -> retained value`. This prevents a technically completed action from being treated as customer success.
+
+## Activation by Product Topology
+
+### Consumer and Habit Products
+
+Activation should deliver a recognizable first outcome and establish the next natural opportunity. Progress, reminders, and identity can reinforce value only after the first meaningful action.
+
+### B2B and Collaborative Products
+
+Separate user, workspace, account, and payer activation. A user can activate while the account remains unconfigured; an account can be contracted while few users receive value. Useful signals include first workflow, artifact success, collaborator value, repeated team use, administrator readiness, and buyer proof.
+
+### Marketplaces and Networks
+
+Activation may require a successful interaction with another participant. Measure supply or content availability, match quality, time to match, transaction completion, trust, and both sides' return. Registration or listing creation is only setup when no recipient value occurs.
+
+### AI Products
+
+AI activation should be defined around a successful task or workflow, not prompt count, tokens, or generated output alone. Include result quality, verification, edits, retries, latency, cost, trust, and whether the customer can repeat the task. Higher usage can indicate value or repeated failure.
+
+### Low-Frequency and Episodic Products
+
+The next-value opportunity may occur weeks or months later. Use task completion, readiness, saved state, or opportunity-based follow-up rather than forcing a daily or weekly habit model.
+
+## Assisted Activation
+
+Sales, implementation, customer success, community, or support can help customers reach first value. Record who performed each step and what the customer can repeat independently.
+
+```text
+Human-assisted setup
+-> customer receives first value
+-> responsibilities and knowledge transfer
+-> customer or team repeats the workflow
+-> retained account value
+```
+
+Assisted activation is appropriate when value, risk, data integration, or organizational change justifies the cost. It becomes a problem when custom labor hides product gaps, each customer requires a different workflow, or first value cannot continue without permanent intervention.
+
+Track implementation time, human hours, blocked dependencies, customer participation, first value, independent repeat value, support burden, margin, and account retention.
+
+## Activation Experiments by Horizon
+
+Read experiment outcomes at three horizons:
+
+| Horizon | Question | Example measure |
+| --- | --- | --- |
+| Immediate | Did the intervention reduce a diagnosed barrier? | Step conversion, error, time, comprehension |
+| First value | Did more eligible users receive meaningful value? | Activation rate, TTV, quality, support |
+| Downstream | Did first value improve repeated value? | Retained activation, account adoption, revenue or trust guardrails |
+
+A shorter flow can improve immediate conversion while lowering result quality or preparedness. Preserve original assignment and denominator through the downstream readout.
+
+## Maturity Model
+
+| Stage | Characteristics | Next constraint |
+| --- | --- | --- |
+| 1. Interface completion | Signup and onboarding completion are treated as activation | Define customer job, value event, window, and quality |
+| 2. Value-event measurement | Product-specific activation and TTV exist | Validate against retention and segment differences |
+| 3. Path optimization | Intent paths, templates, diagnostics, and experiments improve first value | Add account, collaboration, trust, and cost views |
+| 4. Adaptive activation | Product routes by intent, role, state, or context with governed automation | Control bias, complexity, privacy, and causal validity |
+| 5. Value-delivery system | Acquisition promise, onboarding, product, assistance, retention, and monetization share one value model | Prevent metric sprawl and preserve customer judgment |
+
+Maturity should follow genuine path diversity. A product with one simple job may need a single clear activation event rather than adaptive onboarding.
+
+## Build Sequence
+
+1. Define customer job, entry state, eligible population, and first credible value.
+2. Map prerequisites, product steps, human work, errors, waiting, and dependencies.
+3. Define activation event, quality, window, denominator, and downstream validation.
+4. Compare equally mature cohorts by intent, source, role, device, market, and entry state.
+5. Identify the largest constraint using process data and customer evidence.
+6. Test one mechanism such as template, default, progressive setup, import, connection, or assistance.
+7. Read immediate conversion, first-value quality, retained activation, support, trust, and economics together.
+8. Add differentiated paths only when needs and value journeys materially differ.
+9. Revalidate the definition when product, audience, acquisition promise, or natural frequency changes.
+
 ## Related Evidence
 
 - [Customer Segmentation & ICP](../customer-segmentation/README.md): creating different activation paths only when customer conditions change the value journey.
@@ -202,6 +323,10 @@ Do not optimize each stage independently. Removing setup can increase completion
 - Optimizing activation while ignoring retained activation, errors, trust, support, or economics.
 - Treating activation-to-retention correlation as causal proof.
 - Adding segments that cannot change a decision or product path.
+- Mixing invited, self-directed, returning, and sales-assisted users in one denominator.
+- Treating generated output, listing creation, imported data, or collaborator invitation as value before the customer job succeeds.
+- Removing setup that was necessary for result quality or later retention.
+- Using permanent human assistance to hide a product that cannot deliver repeatable value.
 
 ## Case Comparison
 

@@ -320,6 +320,8 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 
 ## Related Playbook Content
 
+- [Activation](../../../handbook/activation/README.md)
+
 - [Retention](../../../handbook/retention/README.md)
 
 - [Facebook / Meta company page](../../companies/facebook/README.md)

@@ -95,6 +95,8 @@ Valuable recurring behavior
 
 ## Related Content
 
+- [Activation](../../../handbook/activation/README.md)
+
 - [Retention](../../../handbook/retention/README.md)
 
 - [Incentive Systems](../../../handbook/incentive-growth/README.md)
