@@ -306,6 +306,10 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 2. [How to Get Users and Grow - Stanford CS183F: Startup School](https://www.youtube.com/watch?v=URiIsrdplbo): primary-source lecture on retention, growth accounting, Magic Moments, metrics, data, experimentation, and acquisition. Accessed 2026-07-20.
 3. [Lecture 6: Growth - Y Combinator's How to Start a Startup](https://www.youtube.com/watch?v=n_yHZ_vKjno): primary-source lecture on retention, North Star Metrics, Magic Moments, marginal users, internationalization, and viral mechanisms. Accessed 2026-07-20.
 
+## Executable Skill
+
+- [Alex Schultz Data Growth Lens](https://github.com/krillinai/growth-skills/tree/main/skills/alex-schultz-data-growth-lens) — diagnose retention, growth accounting, activation, data, acquisition, and viral mechanisms using Alex Schultz's public methods.
+
 ## Related Playbook Content
 
 - [Facebook / Meta company page](../../companies/facebook/README.md)
