@@ -74,6 +74,8 @@ Isford 对 Airtable 新用户引导的描述，是从通用界面提示逐步转
 
 ## 相关内容
 
+- [指标与衡量](../../../handbook/metrics/README.zh.md)
+
 - [实验系统](../../../handbook/experimentation/README.zh.md)
 
 - [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)

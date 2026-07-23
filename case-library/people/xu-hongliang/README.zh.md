@@ -110,6 +110,8 @@
 
 ## 相关内容
 
+- [指标与衡量](../../../handbook/metrics/README.zh.md)
+
 - [增长组织](../../../handbook/growth-organization/README.zh.md)
 
 - [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)

@@ -4,6 +4,22 @@ Metrics turn growth goals into an operating model. In a growth and marketing sys
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
+## Definition and Boundaries
+
+A metric is a defined quantitative representation of behavior, value, quality, cost, risk, or system state. Measurement is the complete process that turns events and records into a trustworthy decision input.
+
+| Term | Meaning | Boundary |
+| --- | --- | --- |
+| Event | A recorded occurrence such as signup, payment, completed task, or error | An event is raw evidence, not a metric until eligibility and aggregation are defined. |
+| Metric | A quantitative definition with entity, population, formula, and window | A metric does not become important merely because it is available. |
+| KPI | A metric selected for a specific objective and owner | KPI status depends on the decision, not the name. |
+| Target | A desired value or range for a metric in a period | A target is not evidence that the value is achievable or healthy. |
+| Benchmark | A reference distribution from another period, segment, or company | Transfer requires comparable definitions, context, and maturity. |
+| Dimension | A cut such as market, source, device, role, or cohort | Excessive cuts create noise and false discovery. |
+| Model output | A prediction such as LTV, risk, propensity, or attribution credit | It requires calibration and uncertainty, and must remain distinct from observed outcomes. |
+
+Metrics describe a system; they do not explain causality by themselves. A dashboard can reveal where to investigate, while experiments, causal designs, and customer evidence test why a change occurred.
+
 ## Principles
 
 - **Define the business goal before selecting metrics.** Do not collect metrics simply to appear sophisticated.
@@ -11,6 +27,31 @@ Metrics turn growth goals into an operating model. In a growth and marketing sys
 - **Pair every primary metric with guardrails.** A higher conversion rate with a higher refund rate is not healthy growth.
 - **Break lagging outcomes into leading indicators.** LTV, revenue, and GMV react too slowly for weekly decisions; decompose them into traffic, conversion, retention, repeat purchase, and experiment activity.
 - **Connect every recommendation to a metric.** Analysis, content, CRO, experiment, and retention work should identify the metric it intends to influence.
+
+## Metric Specification
+
+Every core metric should have a versioned definition that another analyst or system can reproduce.
+
+```text
+Metric name and purpose:
+Decision and owner:
+Entity and unit of analysis:
+Eligible population:
+Start and qualifying events:
+Numerator and denominator:
+Aggregation and formula:
+Observation and maturation window:
+Time zone and currency:
+Identity and deduplication rule:
+Exclusions and missing-data treatment:
+Segments and cohort cuts:
+Source tables or events:
+Guardrails and related metrics:
+Known limitations:
+Version and effective date:
+```
+
+If a definition changes, preserve the old version or restate historical data consistently. Silent denominator, identity, attribution, or window changes can create artificial growth.
 
 ## Metric Hierarchy
 
@@ -49,6 +90,80 @@ A North Star should sit inside a small system of output, input, and trade-off me
 Output metrics are usually lagging scoreboards. Decompose them until the team reaches inputs close enough to product or channel behavior to support a decision. Inputs remain hypotheses: discard or replace them when experiments move the input without improving the output.
 
 Do not force retention, engagement, monetization, supply, or quality into one combined number when the components can move in opposing directions. A small constellation preserves focus while making those relationships visible.
+
+## Metric Tree and Causal Relationships
+
+A metric tree decomposes a durable outcome into drivers that teams can observe or change. Arithmetic decomposition is not automatically causal.
+
+```text
+Durable customer and business outcome
+├── value delivery and retained use
+├── qualified acquisition and activation
+├── monetization and contribution
+├── expansion or network health
+└── quality, trust, risk, and capacity guardrails
+```
+
+For each edge, record the proposed mechanism, evidence, owner, latency, and possible tradeoff. Inputs remain hypotheses until interventions move the input and the intended outcome follows without unacceptable harm.
+
+Use additive identities only when components are mutually exclusive and exhaustive. Use multiplicative funnels only when denominators and eligibility remain consistent. Avoid multiplying averages that come from different cohorts or time windows.
+
+## Entities, Denominators, Windows, and Cohorts
+
+The same metric name can describe different systems depending on the entity and denominator.
+
+| Design choice | Question | Common failure |
+| --- | --- | --- |
+| Entity | User, account, workspace, transaction, listing, product, market, or household? | Mixing users and accounts in one rate. |
+| Eligibility | Who had a credible opportunity to perform the behavior? | Removing users who encountered friction from the denominator. |
+| Start event | When does the clock begin? | Comparing signup-based and first-use-based cohorts. |
+| Qualifying event | What exact value or state counts? | Using interface completion as customer value. |
+| Window | Session, day, week, month, contract, or opportunity cycle? | Comparing immature and mature cohorts. |
+| Identity | How are devices, accounts, anonymous users, and merges handled? | Double counting or treatment crossover. |
+| Cohort | Which shared start time or state makes comparison valid? | Mixing calendar totals with acquisition cohorts. |
+| Segment | Which cut can change a decision? | Searching many slices until one looks interesting. |
+
+Report both rates and absolute contribution. Preserve original eligibility and cohort membership through downstream readout.
+
+## Observed and Predicted Metrics
+
+Observed metrics summarize recorded outcomes. Predicted metrics estimate future or unobserved states such as LTV, churn risk, propensity, attribution credit, demand, or fraud.
+
+| Layer | Required evidence |
+| --- | --- |
+| Observed outcome | Stable event, identity, denominator, window, and data quality |
+| Prediction | Training population, features, target, horizon, uncertainty, and calibration |
+| Decision policy | How the prediction changes treatment or allocation |
+| Outcome validation | Mature observed result, segment performance, and harm |
+| Monitoring | Drift, missingness, feedback loops, bias, and override behavior |
+
+A model can be accurate on average while failing for an important market or segment. Report calibration and error by decision-relevant cohort. Do not use a longer LTV horizon simply to justify more spend.
+
+## Measurement by Product Topology
+
+### Consumer and Habit Products
+
+Measure a value-bearing action at the natural frequency, cohort retention, engagement distribution, resurrection, trust, and monetization. DAU or MAU is meaningful only when the activity represents value.
+
+### B2B and Sales-Led Products
+
+Separate user, workspace, account, buyer, and revenue entities. Connect product activation, implementation, active seats, workflow adoption, account retention, pipeline, contribution, payback, and support burden.
+
+### Collaborative Products
+
+Measure individual first value and multi-user value separately. Invitations, seats, and shared artifacts need collaborator activation, repeated workflow use, permissions, account retention, and inactive-seat guardrails.
+
+### Marketplaces and Networks
+
+Measure each side and each local network unit. Include supply availability, demand, density, match or fulfillment, time to value, quality, cross-side retention, participant economics, incentives, and governance.
+
+### Multi-Product and Portfolio Businesses
+
+Preserve product-level outcomes while measuring portfolio incrementality. Cross-promotion, shared identity, incentives, and budget allocation require cannibalization, overlap, contribution, and total-customer-value checks.
+
+### AI Products
+
+Usage volume, prompts, tokens, or generated outputs do not establish value. Measure successful tasks, result quality, verification, corrections, latency, cost, trust, repeated workflow completion, and customer retention.
 
 ## Common North Star Metrics
 
@@ -124,7 +239,7 @@ Content Growth
 | --- | --- | --- | --- |
 | LTV | Lifetime Value | Total revenue or gross profit contributed by a customer over the relationship | Average Revenue x Gross Margin x Retention Period |
 | CAC | Customer Acquisition Cost | Average cost to acquire a new customer | Total Acquisition Cost / New Customers |
-| LTV/CAC | LTV to CAC Ratio | Tests whether acquisition investment is healthy | A ratio above 3 is often considered healthy, but payback period still matters |
+| LTV/CAC | LTV to CAC Ratio | Tests whether retained contribution can support acquisition | No universal healthy ratio; define contribution, horizon, uncertainty, payback, and cash constraints |
 | ROI | Return on Investment | Measures profit relative to total investment | (Return - Cost) / Cost |
 | ROAS | Return on Ad Spend | Measures revenue generated by advertising | Advertising Revenue / Advertising Spend |
 | ARPU | Average Revenue Per User | Average revenue across all users | Total Revenue / Total Users |
@@ -272,6 +387,46 @@ Growth metrics must be paired with guardrails:
 - low-quality lead rate;
 - paid acquisition payback period.
 
+## Diagnostic Map
+
+| Observed pattern | Check next | Possible response |
+| --- | --- | --- |
+| North Star rises while retention falls | Entity mix, input quality, cohort maturity | Redefine the output or strengthen retention guardrails. |
+| Funnel conversion improves but absolute growth does not | Eligible volume, attribution overlap, downstream contribution | Read absolute movement and incrementality. |
+| Revenue grows while contribution worsens | Discounts, cost to serve, mix, margin, acquisition cost | Move the decision metric from revenue to retained contribution. |
+| Aggregate result is stable but key market declines | Market, segment, source, role, and cohort composition | Separate structural mix change from within-segment movement. |
+| Predicted LTV rises without mature cohort improvement | Model horizon, calibration, feature drift, selection | Recalibrate, shorten the decision horizon, or constrain allocation. |
+| Marketplace registrations grow but fulfillment weakens | Local supply, density, time coverage, participant quality | Measure atomic networks and successful interactions. |
+| Active seats grow but collaboration does not | Seat eligibility, role, invitation quality, workflow adoption | Track active value-bearing seats and account outcomes. |
+| Dashboard numbers disagree | Definition version, identity, time zone, source, exclusions | Stop the decision and reconcile the metric contract. |
+
+Patterns narrow the investigation; they do not establish causality.
+
+## Maturity Model
+
+| Stage | Characteristics | Next constraint |
+| --- | --- | --- |
+| 1. Reporting | Teams collect available totals and channel metrics | Define entities, decisions, denominators, windows, and owners. |
+| 2. Metric hierarchy | Outcomes, inputs, diagnostics, and guardrails are explicit | Connect cohorts, segments, economics, and data quality. |
+| 3. Decision system | Metric definitions are versioned and reviews change action | Add causal evidence, prediction calibration, and topology-specific views. |
+| 4. Governed self-service | Shared semantic definitions support local analysis and experimentation | Control drift, exceptions, access, and model feedback loops. |
+| 5. Adaptive measurement | Metrics and models change with product, customer, and constraint | Preserve comparability, simplicity, trust, and human judgment. |
+
+Maturity is not the number of metrics, dashboards, or models. A smaller system with stable definitions and clear decisions is often stronger than a large catalog with ambiguous ownership.
+
+## Build Sequence
+
+1. Define the customer value, business outcome, entity, and decision owner.
+2. Choose one output metric and the smallest useful set of input, diagnostic, economic, and guardrail metrics.
+3. Write the metric specification, denominator, events, windows, identity, exclusions, and version.
+4. Build the metric tree and mark which relationships are identities, correlations, predictions, or causal hypotheses.
+5. Validate events, source data, freshness, reconciliation, and reproducibility.
+6. Compare equally mature cohorts and decision-relevant segments with rates and absolute contribution.
+7. Calibrate proxy and predicted metrics against later observed outcomes.
+8. Use experiments or the strongest feasible design to test important causal edges.
+9. Establish a review cadence that produces decisions, owners, and follow-up.
+10. Retire unused metrics and revalidate definitions when product, pricing, market, identity, or strategy changes.
+
 ## Weekly Growth Review
 
 Every weekly review should answer:
@@ -289,8 +444,12 @@ Every weekly review should answer:
 - [Customer Segmentation & ICP](../customer-segmentation/README.md): using segment evidence only when it changes a decision.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): Power User Curves, NPS source boundaries, CAC/CPA, consumer benchmarks, and lifecycle reach.
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md): output, input, and trade-off metrics within a metric constellation.
-- [Dropbox](../../case-library/companies/dropbox/README.md): paid-search economics, referral quality, and product-aligned acquisition.
+- [Facebook / Meta](../../case-library/companies/facebook/README.md): retention, growth accounting, activation proxies, and data quality.
+- [Ramp](../../case-library/companies/ramp/README.md): acquisition versus expansion, payback, contribution margin, and multiple value measures.
+- [ByteDance](../../case-library/companies/bytedance/README.md): predictive LTV, ROI horizons, attribution, and portfolio incrementality.
+- [Uber](../../case-library/companies/uber/README.md): local liquidity, cross-side retention, transaction quality, and participant economics.
+- [Airtable](../../case-library/companies/airtable/README.md): activation definitions, collaborative adoption, and downstream guardrails.
 
 ## Case Comparison
 
-See how Ramp, Facebook / Meta, Airtable, and ByteDance apply measurement systems in [Metrics & Measurement](../../case-library/themes/metrics-and-measurement/README.md).
+See how Facebook / Meta, Ramp, ByteDance, Uber, and Airtable apply measurement systems in [Metrics & Measurement](../../case-library/themes/metrics-and-measurement/README.md).

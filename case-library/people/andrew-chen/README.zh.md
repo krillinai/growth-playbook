@@ -173,6 +173,7 @@ Chen 的增长团队方法区分核心产品与增长工作：核心产品深化
 ## 相关手册与案例
 
 - [Uber](../../companies/uber/README.zh.md)
+- [指标与衡量](../../../handbook/metrics/README.zh.md)
 - [获客](../../../handbook/acquisition/README.zh.md)
 - [留存](../../../handbook/retention/README.zh.md)
 - [商业化](../../../handbook/monetization/README.zh.md)

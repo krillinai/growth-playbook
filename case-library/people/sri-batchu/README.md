@@ -80,6 +80,8 @@ Growth-team org charts are less important than clear outcomes, access to product
 
 ## Related Content
 
+- [Metrics & Measurement](../../../handbook/metrics/README.md)
+
 - [Experimentation](../../../handbook/experimentation/README.md)
 
 - [Growth Organization](../../../handbook/growth-organization/README.md)

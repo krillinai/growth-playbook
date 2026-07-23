@@ -110,6 +110,8 @@ International growth requires local market priorities, channels, creative contex
 
 ## Related Content
 
+- [Metrics & Measurement](../../../handbook/metrics/README.md)
+
 - [Growth Organization](../../../handbook/growth-organization/README.md)
 
 - [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
