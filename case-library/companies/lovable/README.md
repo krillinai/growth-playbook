@@ -13,6 +13,7 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 | Theme | Question | Current coverage |
 | --- | --- | --- |
 | Trust | How does an AI product turn capability claims into credible proof? | Covered in earned-growth case |
+| Customer segmentation | Which signals distinguish durable business intent from broad AI curiosity? | Initial participant evidence |
 | Earned distribution | How can founders, employees, customers, and product outputs create attention? | Covered in earned-growth case |
 | Product launches | How are product changes and distribution concentrated into an event? | Covered in earned-growth case |
 | Paid acquisition | When does paid marketing amplify rather than hide weak fundamentals? | Covered in earned-growth case |
@@ -38,6 +39,7 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 
 ## Related Themes
 
+- [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Product-Market Fit](../../themes/product-market-fit/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Monetization](../../themes/monetization/README.md)
@@ -157,25 +159,33 @@ Customer value
 
 Monetization is therefore part of the growth system, not a decision made after acquisition.
 
-### 8. Product-Market Fit Is a Moving Target
+### 8. Separate ICP Signal From Hobbyist Noise
+
+AI products can attract broad experimentation from people who enjoy trying new tools but do not have a repeated business problem, organizational readiness, or willingness to pay. That attention can support learning and distribution without representing the highest-priority customer segment.
+
+Verna discusses separating ICP signal from hobbyist noise through product behavior, repeated workflows, account context, intent, retention, and monetization. Product-Led Sales should use these signals to prioritize relevant assistance rather than contact every active free user.
+
+The public material does not disclose Lovable's complete ICP, thresholds, routing rules, segment retention, or PLS conversion. Hobbyists should not be treated as uniformly low quality; the operating question is which path matches their value and intent.
+
+### 9. Product-Market Fit Is a Moving Target
 
 Lovable operates in a category where underlying models, competing products, interfaces, and user expectations change quickly. Verna describes the company as repeatedly recapturing Product-Market Fit rather than treating it as a permanent state.
 
 Velocity helps shorten the distance between a market change and a product response. It is not sufficient by itself: the team still needs customer contact, activation, retention, and monetization signals to distinguish useful movement from output volume.
 
-### 9. Defensibility Moves Beyond Features
+### 10. Defensibility Moves Beyond Features
 
 AI-assisted development makes many software features easier to reproduce. Lovable's growth model therefore places more weight on brand, customer trust, distribution, data, networks, security, compliance, and the speed of learning.
 
 Freemium can support that system when free usage creates product learning, user habits, advocacy, or broader distribution. Its cost should be compared with other marketing investments and downstream value, not treated as automatically efficient.
 
-### 10. Core Product Owns Activation
+### 11. Core Product Owns Activation
 
 In conversational AI products, activation often happens inside the central interaction with the agent rather than through a separate onboarding layer. Verna argues that the core product team must own this experience instead of offloading activation to a growth team.
 
 Growth can still work on retention, communication, loops, monetization, and distribution. The ownership boundary keeps the product's first value experience close to the team building the underlying capability.
 
-### 11. Discovery Requires More Than One Search Surface
+### 12. Discovery Requires More Than One Search Surface
 
 Lovable's discovery approach extends beyond conventional SEO. Search-accessible content can contribute to answer-engine visibility, while product data, brand, communities, integrations, and partnerships create other paths into the product.
 
@@ -192,6 +202,7 @@ AEO/GEO and SEO should be treated as related, evolving systems rather than mutua
 | Launches | Concentrate product, proof, and communication | Can one event create both reach and learning? |
 | Paid acquisition | Amplify validated value and messaging | What proven signal will paid spend scale? |
 | Monetization | Connect pricing to value and AI usage costs | Does packaging support adoption and sustainable economics? |
+| ICP | Combine product behavior, intent, account readiness, and economics | Which users should remain self-serve, receive assistance, or be deprioritized? |
 | PMF | Revalidate fit as the category changes | Which customer and retention signals show that fit still holds? |
 | Defensibility | Combine brand, data, networks, trust, and learning speed | Which advantage remains hard to reproduce? |
 | Activation | Keep the core AI interaction with the product team | Who owns the user's first successful outcome? |
@@ -206,15 +217,17 @@ AEO/GEO and SEO should be treated as related, evolving systems rather than mutua
 5. Measure earned response, activation, retention, and advocacy before scaling paid acquisition.
 6. Use paid channels to amplify a validated message rather than discover product value.
 7. Model pricing with customer value, usage intensity, variable cost, and expansion behavior.
-8. Review PMF whenever models, competitors, interfaces, or user expectations shift.
-9. Track feature-copying speed and invest in harder-to-reproduce advantages.
-10. Keep activation ownership with the team responsible for the core AI experience.
-11. Map discovery across search, answer engines, communities, integrations, and partner ecosystems.
+8. Define ICP signals from repeated product value, business intent, account readiness, retention, and economics.
+9. Review PMF whenever models, competitors, interfaces, or user expectations shift.
+10. Track feature-copying speed and invest in harder-to-reproduce advantages.
+11. Keep activation ownership with the team responsible for the core AI experience.
+12. Map discovery across search, answer engines, communities, integrations, and partner ecosystems.
 
 ### What Should Not Be Copied
 
 - Do not require every employee to build a personal brand or post constantly.
 - Do not mistake social reach for activation, retention, or revenue quality.
+- Do not treat all hobbyists as low quality or route every active free user to sales.
 - Do not increase launch frequency by shipping changes without meaningful user value.
 - Do not reject paid acquisition categorically; its role depends on stage, economics, and evidence.
 - Do not copy AI pricing conclusions without modeling the product's own costs and buying behavior.

@@ -9,6 +9,7 @@
 | 主题 | 核心问题 |
 | --- | --- |
 | [产品市场匹配](product-market-fit/README.zh.md) | 哪些证据表明明确市场能够反复获得可行产品价值？ |
+| [客户分群与 ICP](customer-segmentation/README.zh.md) | 哪些客户差异应该改变产品与增长决策？ |
 
 ## 增长环节
 

@@ -56,6 +56,7 @@ Product value and retention
 
 ## Related Themes
 
+- [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Monetization](../../themes/monetization/README.md)
 - [Referral & Expansion](../../themes/referral-and-loops/README.md)

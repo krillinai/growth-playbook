@@ -92,6 +92,7 @@ This was not a single pricing change. It was a coordinated revision of market, p
 
 ## Related Handbook and Cases
 
+- [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
 - [Product-Market Fit Cases](../../themes/product-market-fit/README.md)
 - [Monetization](../../themes/monetization/README.md)
 

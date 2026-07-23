@@ -56,6 +56,7 @@
 
 ## 相关主题
 
+- [客户分群与 ICP](../../themes/customer-segmentation/README.zh.md)
 - [获客](../../themes/acquisition/README.zh.md)
 - [商业化](../../themes/monetization/README.zh.md)
 - [推荐与扩张](../../themes/referral-and-loops/README.zh.md)

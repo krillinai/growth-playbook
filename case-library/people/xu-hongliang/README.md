@@ -110,6 +110,10 @@ International growth requires local market priorities, channels, creative contex
 
 ## Related Content
 
+- [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
+
+- [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
+
 - [Metrics & Measurement](../../../handbook/metrics/README.md)
 
 - [Growth Organization](../../../handbook/growth-organization/README.md)

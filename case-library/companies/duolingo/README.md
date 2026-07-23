@@ -54,6 +54,7 @@ Accessible learning value
 
 ## Related Themes
 
+- [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Activation](../../themes/activation/README.md)
 
 - [Acquisition](../../themes/acquisition/README.md)

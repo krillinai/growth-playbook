@@ -110,6 +110,10 @@
 
 ## 相关内容
 
+- [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
+
+- [客户分群与 ICP 案例](../../themes/customer-segmentation/README.zh.md)
+
 - [指标与衡量](../../../handbook/metrics/README.zh.md)
 
 - [增长组织](../../../handbook/growth-organization/README.zh.md)

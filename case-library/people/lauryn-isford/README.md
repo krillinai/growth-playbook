@@ -74,6 +74,10 @@ An onboarding change can raise a local conversion metric while reducing quality,
 
 ## Related Content
 
+- [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
+
+- [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
+
 - [Metrics & Measurement](../../../handbook/metrics/README.md)
 
 - [Experimentation](../../../handbook/experimentation/README.md)

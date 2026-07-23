@@ -96,6 +96,10 @@ With limited engineering support, her early growth work revisited notifications 
 
 ## Related Content
 
+- [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
+
+- [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
+
 - [Acquisition](../../../handbook/acquisition/README.md)
 
 - [Duolingo company page](../../companies/duolingo/README.md)

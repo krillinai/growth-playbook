@@ -103,6 +103,8 @@ Long-term growth requires both acquiring more customers and expanding the value 
 
 ## Related Knowledge and Cases
 
+- [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
+- [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
 - [Monetization](../../../handbook/monetization/README.md)
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
 - [Positioning](../../../handbook/positioning/README.md)

@@ -9,6 +9,7 @@ Cross-company cases organized by growth foundation, lifecycle stage, and horizon
 | Theme | Main question |
 | --- | --- |
 | [Product-Market Fit](product-market-fit/README.md) | Which evidence shows that a defined market repeatedly receives viable product value? |
+| [Customer Segmentation & ICP](customer-segmentation/README.md) | Which customer differences should change product and growth decisions? |
 
 ## Growth Stages
 

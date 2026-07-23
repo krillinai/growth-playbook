@@ -121,6 +121,8 @@ Qualification 应判断潜在客户是否具备使差异化价值成立的问题
 
 ## 相关手册与案例
 
+- [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
+- [客户分群与 ICP 案例](../../themes/customer-segmentation/README.zh.md)
 - [定位](../../../handbook/positioning/README.zh.md)
 - [产品市场匹配](../../../handbook/product-market-fit/README.zh.md)
 - [获客](../../../handbook/acquisition/README.zh.md)
