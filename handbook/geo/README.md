@@ -397,7 +397,7 @@ Research findings, crawler identities, product behavior, and platform policies c
 - Business attribution is incomplete because AI referrals may be hidden, cross-device, delayed, or unclicked.
 - GEO methods should therefore be treated as versioned hypotheses with explicit evidence and uncertainty.
 
-## Related Knowledge, Cases, and Tools
+## Related Knowledge and Cases
 
 - [Acquisition](../acquisition/README.md)
 - [Positioning](../positioning/README.md)
@@ -409,4 +409,3 @@ Research findings, crawler identities, product behavior, and platform policies c
 - [Positioning Cases](../../case-library/themes/positioning/README.md)
 - [Lovable](../../case-library/companies/lovable/README.md)
 - [Pinterest](../../case-library/companies/pinterest/README.md)
-- [Semrush](../../toolkit/tools/semrush/README.md)
