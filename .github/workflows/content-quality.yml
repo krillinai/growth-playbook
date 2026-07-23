@@ -1,0 +1,25 @@
+name: Content Quality
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: content-quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Test content validator
+        run: ruby -Itest test/validate_content_test.rb
+
+      - name: Validate repository content
+        run: ruby scripts/validate-content.rb

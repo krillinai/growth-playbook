@@ -1,0 +1,58 @@
+name: Content proposal
+description: Propose a person, company, theme, knowledge module, or substantial content change.
+title: "[Content]: "
+labels:
+  - content
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read CONTRIBUTING.md and EDITORIAL.md before submitting. Proposals should start from a growth decision and available evidence.
+  - type: dropdown
+    id: content_type
+    attributes:
+      label: Content type
+      options:
+        - Knowledge module
+        - Theme case
+        - Company
+        - Person
+        - Diagnosis or tool
+        - Taxonomy or governance
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Growth decision
+      description: Which decision, diagnosis, or operating question will this improve?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Primary evidence
+      description: Include direct links, dates, participants, companies, products, and the strongest available source type.
+    validations:
+      required: true
+  - type: textarea
+    id: supported
+    attributes:
+      label: Supported conclusion
+      description: What narrow conclusion can the evidence support?
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: Missing evidence and transfer boundaries
+      description: What cannot be concluded or copied directly?
+    validations:
+      required: true
+  - type: textarea
+    id: integration
+    attributes:
+      label: Repository integration
+      description: Which knowledge, theme, company, person, diagnosis, and index pages should change?
+    validations:
+      required: true
