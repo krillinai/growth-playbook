@@ -170,8 +170,9 @@ Possible ownership models range from Growth-as-a-Service, where a team moves bet
 | Economics | Does value survive incentives and cost? | Contribution margin, payback, post-incentive retention |
 | Defense | Why is the network hard to replace? | Multi-homing, switching, unique supply, accumulated trust |
 
-## Related Handbook and Cases
+## Related Knowledge and Cases
 
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Uber](../../companies/uber/README.md)
 - [Metrics & Measurement](../../../handbook/metrics/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)

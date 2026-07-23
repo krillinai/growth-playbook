@@ -138,7 +138,7 @@ Company-level growth can hide Facebook cohort churn, weak Ramp expansion, ByteDa
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Metric hierarchy](../../../handbook/metrics/README.md#metric-hierarchy) | All five | Outcome, input, diagnostic, economic, and guardrail layers should remain distinct. |
 | [Metric constellation](../../../handbook/metrics/README.md#metric-constellation) | Facebook; Ramp; Airtable | One North Star needs controllable inputs and visible tradeoffs. |

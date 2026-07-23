@@ -81,6 +81,7 @@ Find highly engaged users
 
 ## Related Content
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
 - [Positioning](../../../handbook/positioning/README.md)
 - [Positioning Cases](../../themes/positioning/README.md)
 - [Airtable company page](../../companies/airtable/README.md)

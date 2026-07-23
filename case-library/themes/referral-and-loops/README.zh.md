@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于定义、指标、网络模型、扩张类型、实验与诊断，参见主手册[推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)。
+关于定义、指标、网络模型、扩张类型、实验与诊断，参见[推荐与扩张知识模块](../../../handbook/referral-and-loops/README.zh.md)。
 
 ## 能力矩阵
 
@@ -124,7 +124,7 @@ Dropbox 奖励与字节跳动激励可能替代自然行为或吸引滥用。Fac
 
 ## 概念证据地图
 
-| 手册概念 | 公司证据 | 支持的结论 |
+| Playbook 概念 | 公司证据 | 支持的结论 |
 | --- | --- | --- |
 | [推荐设计](../../../handbook/referral-and-loops/README.zh.md#推荐设计) | Dropbox；字节跳动 | 发送者价值、接收者相关性、奖励对齐、留存、成本与滥用决定质量。 |
 | [病毒传播](../../../handbook/referral-and-loops/README.zh.md#病毒传播) | Facebook；Dropbox；字节跳动 | 传播应该被拆解，并根据接收者价值、留存、重叠与周期调整。 |

@@ -80,6 +80,7 @@ Growth-team org charts are less important than clear outcomes, access to product
 
 ## Related Content
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
 - [Metrics & Measurement](../../../handbook/metrics/README.md)
 
 - [Experimentation](../../../handbook/experimentation/README.md)

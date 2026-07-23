@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Sean Ellis profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/sean-ellis) as the consolidated index.
+Use the [Sean Ellis profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/sean-ellis) as the consolidated index.
 
 | Source | Use for |
 | --- | --- |

@@ -170,8 +170,9 @@ Chen 的增长团队方法区分核心产品与增长工作：核心产品深化
 | Economics | 激励与成本之后价值是否成立？ | 贡献毛利、回本、激励后留存 |
 | Defense | 为什么网络难以替代？ | Multi-homing、切换、独特供给与信任 |
 
-## 相关手册与案例
+## 相关知识与案例
 
+- [增长模型案例](../../themes/growth-model/README.zh.md)
 - [Uber](../../companies/uber/README.zh.md)
 - [指标与衡量](../../../handbook/metrics/README.zh.md)
 - [获客](../../../handbook/acquisition/README.zh.md)

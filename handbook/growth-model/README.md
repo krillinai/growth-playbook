@@ -156,6 +156,7 @@ Run sensitivity analysis before optimizing a component. Ask which assumption cha
 
 ## Related Knowledge and Evidence
 
+- [Growth Model Cases](../../case-library/themes/growth-model/README.md)
 - [Customer Segmentation & ICP](../customer-segmentation/README.md)
 - [Product-Market Fit](../product-market-fit/README.md)
 - [Funnel & Constraint Model](../funnel-and-constraint/README.md)

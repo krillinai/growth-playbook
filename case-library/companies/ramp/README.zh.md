@@ -43,6 +43,7 @@ Ramp 是面向企业的财务运营平台。当前内容研究其负责人如何
 
 ## 相关主题
 
+- [漏斗与约束模型](../../themes/funnel-and-constraint/README.zh.md)
 - [定位](../../themes/positioning/README.zh.md)
 - [获客](../../themes/acquisition/README.zh.md)
 - [商业化](../../themes/monetization/README.zh.md)

@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Brian Balfour profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/brian-balfour) as the consolidated index. Prefer the primary essays below for specific claims.
+Use the [Brian Balfour profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/brian-balfour) as the consolidated index. Prefer the primary essays below for specific claims.
 
 | Source | Use for |
 | --- | --- |

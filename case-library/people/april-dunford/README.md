@@ -121,7 +121,7 @@ When products can copy features quickly and many vendors claim similar AI capabi
 | Narrative | How should the decision be explained? | Discovery quality, objection handling, pitch conversion |
 | Execution | Does the position work across the journey? | Acquisition quality, sales cycle, pricing, adoption, retention |
 
-## Related Handbook and Cases
+## Related Knowledge and Cases
 
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)

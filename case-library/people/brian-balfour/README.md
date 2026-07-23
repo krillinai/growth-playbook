@@ -174,8 +174,10 @@ The mechanism reduces three constraints common to UGC loops: the effort required
 | Process | How does the team reduce uncertainty? | Decision quality, experiment interpretation, learning reuse |
 | Organization | Does the team have ownership and access to the constraint? | Cycle time, dependency wait, outcome movement |
 
-## Related Handbook and Cases
+## Related Knowledge and Cases
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Monetization](../../../handbook/monetization/README.md)
 
 - [Growth Model](../../../handbook/growth-model/README.md)

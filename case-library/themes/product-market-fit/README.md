@@ -132,7 +132,7 @@ New segments, geographies, participant sides, prices, channels, product lines, o
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Unit of fit](../../../handbook/product-market-fit/README.md#unit-of-fit) | All five | PMF claims require a named product, participant, use case, market, and period. |
 | [Evidence stack](../../../handbook/product-market-fit/README.md#evidence-stack) | All five | Independent signals strengthen a judgment; missing and contradictory evidence must remain visible. |

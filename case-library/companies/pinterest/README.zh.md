@@ -63,6 +63,7 @@ Setup-Aha-Habit 模型可以直接应用：
 
 ## 相关主题与人物
 
+- [漏斗与约束模型](../../themes/funnel-and-constraint/README.zh.md)
 - [获客](../../themes/acquisition/README.zh.md)
 - [激活](../../themes/activation/README.zh.md)
 - [留存](../../themes/retention/README.zh.md)

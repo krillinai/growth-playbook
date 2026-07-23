@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-For definitions, models, metrics, attribution, channel portfolios, and diagnosis, see the Handbook chapter [Acquisition](../../../handbook/acquisition/README.md).
+For definitions, models, metrics, attribution, channel portfolios, and diagnosis, see the [Acquisition module](../../../handbook/acquisition/README.md).
 
 ## Capability Matrix
 
@@ -128,7 +128,7 @@ Pinterest, ByteDance, and Duolingo all show that language is only one part of ex
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Channel portfolios](../../../handbook/acquisition/README.md#channel-portfolio) | All five | Mechanisms differ in control, decay, dependency, and economics. |
 | [SEO page systems](../../../handbook/acquisition/README.md#scalable-seo-page-systems) | Pinterest | Structured supply must connect intent, real entry pages, activation, and retention. |

@@ -17,6 +17,15 @@ Growth Playbook is for independent developers, founders, and product, data, mark
 
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the Playbook look complete.
 
+## Start Here
+
+| Goal | Starting point |
+| --- | --- |
+| Learn a growth concept or system | Use the [Knowledge Index](handbook/README.md) to move from foundations to lifecycle stages and operating systems. |
+| Diagnose a growth problem | Run the local [Growth Diagnosis Protocol](handbook/diagnosis/README.md) to identify the primary constraint and produce a 30-day action plan. |
+| Execute a bounded growth task | Use [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) for reusable, AI-executable workflows. |
+| Implement an enterprise growth system | Work with [clawee.ai](https://clawee.ai/?utm_source=github&utm_medium=playbook&utm_campaign=growth-diagnosis) when the problem requires connected data, agents, governance, and organization-wide deployment. |
+
 ## How the Playbook Fits Together
 
 ```text
@@ -93,9 +102,9 @@ We follow a content-first approach: a module is published only when it contains 
 | Collection | What belongs here | Index |
 | --- | --- | --- |
 | **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | [Alex Schultz](case-library/people/alex-schultz/README.md)<br>[April Dunford](case-library/people/april-dunford/README.md)<br>[Andrew Chen](case-library/people/andrew-chen/README.md)<br>[Elena Verna](case-library/people/elena-verna/README.md)<br>[Sean Ellis](case-library/people/sean-ellis/README.md)<br>[View all 26 people](case-library/people/README.md) |
-| **Growth Foundations** | Cross-company evidence for the assumptions that must hold before lifecycle scaling | [Product-Market Fit](case-library/themes/product-market-fit/README.md)<br>[Customer Segmentation & ICP](case-library/themes/customer-segmentation/README.md)<br>[Positioning](case-library/themes/positioning/README.md) |
+| **Growth Foundations** | Cross-company evidence for the assumptions that must hold before lifecycle scaling | [Product-Market Fit](case-library/themes/product-market-fit/README.md)<br>[Customer Segmentation & ICP](case-library/themes/customer-segmentation/README.md)<br>[Positioning](case-library/themes/positioning/README.md)<br>[Funnel & Constraint Model](case-library/themes/funnel-and-constraint/README.md)<br>[Growth Model](case-library/themes/growth-model/README.md) |
 | **Growth Stages** | Cross-company evidence organized by where growth happens in the customer journey | [Acquisition](case-library/themes/acquisition/README.md)<br>[Activation](case-library/themes/activation/README.md)<br>[Retention](case-library/themes/retention/README.md)<br>[Monetization](case-library/themes/monetization/README.md)<br>[Referral & Expansion](case-library/themes/referral-and-loops/README.md) |
-| **Growth Capabilities** | Cross-company evidence organized by the systems that support every growth stage | [Metrics & Measurement](case-library/themes/metrics-and-measurement/README.md)<br>[Experimentation](case-library/themes/experimentation/README.md)<br>[Growth Infrastructure](case-library/themes/growth-infrastructure/README.md)<br>[Incentive Systems](case-library/themes/incentive-growth/README.md)<br>[Growth Organization](case-library/themes/growth-organization/README.md) |
+| **Growth Systems** | Cross-company evidence organized by the systems that support every growth stage | [Metrics & Measurement](case-library/themes/metrics-and-measurement/README.md)<br>[Experimentation](case-library/themes/experimentation/README.md)<br>[Growth Infrastructure](case-library/themes/growth-infrastructure/README.md)<br>[Incentive Systems](case-library/themes/incentive-growth/README.md)<br>[Growth Organization](case-library/themes/growth-organization/README.md) |
 | **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | [Airtable](case-library/companies/airtable/README.md)<br>[Booking.com](case-library/companies/booking-com/README.md)<br>[ByteDance](case-library/companies/bytedance/README.md)<br>[Duolingo](case-library/companies/duolingo/README.md)<br>[Facebook / Meta](case-library/companies/facebook/README.md)<br>[View all 16 companies](case-library/companies/README.md) |
 
 ## Tools
@@ -110,7 +119,7 @@ See the [Roadmap](ROADMAP.md) for how this structure will grow as complete mater
 
 ## Contributing
 
-Growth Playbook is still at an early stage. Contributions are welcome through Issues and Pull Requests, including proposals for new growth topics, practical examples, data, and improvements to existing modules.
+Read the [Contribution Guide](CONTRIBUTING.md) and [Editorial & Evidence Standards](EDITORIAL.md) before proposing a topic or opening a Pull Request.
 
 ## License
 

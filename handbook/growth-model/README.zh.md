@@ -156,6 +156,7 @@ x 留存质量
 
 ## 相关知识与证据
 
+- [增长模型案例](../../case-library/themes/growth-model/README.zh.md)
 - [客户分群与 ICP](../customer-segmentation/README.zh.md)
 - [产品市场匹配](../product-market-fit/README.zh.md)
 - [漏斗与约束模型](../funnel-and-constraint/README.zh.md)

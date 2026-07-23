@@ -140,6 +140,7 @@ x 置信度
 
 ## 相关知识与证据
 
+- [漏斗与约束案例](../../case-library/themes/funnel-and-constraint/README.zh.md)
 - [增长模型](../growth-model/README.zh.md)
 - [客户分群与 ICP](../customer-segmentation/README.zh.md)
 - [激活](../activation/README.zh.md)

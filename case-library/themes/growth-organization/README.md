@@ -127,7 +127,7 @@ Instrumentation, experiment records, canonical documents, postmortems, platform 
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Outcome ownership](../../../handbook/growth-organization/README.md#outcome-ownership) | Facebook; Ramp; Pinterest | Teams need a bounded customer outcome and access to the levers that can move it. |
 | [Decision rights](../../../handbook/growth-organization/README.md#decision-rights) | All five | Autonomy works only with clear boundaries, evidence, risk controls, and escalation. |

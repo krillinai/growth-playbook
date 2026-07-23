@@ -320,8 +320,9 @@ Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Faceboo
 2. [How to Get Users and Grow - Stanford CS183F: Startup School](https://www.youtube.com/watch?v=URiIsrdplbo)：留存、增长会计、Magic Moment、指标、数据、实验和获客方法的一手演讲。访问于 2026-07-20。
 3. [Lecture 6: Growth - Y Combinator's How to Start a Startup](https://www.youtube.com/watch?v=n_yHZ_vKjno)：关于留存、北极星指标、Magic Moment、边缘用户、国际化和传播机制的一手演讲。访问于 2026-07-20。
 
-## 相关手册内容
+## 相关知识
 
+- [增长模型案例](../../themes/growth-model/README.zh.md)
 - [实验系统](../../../handbook/experimentation/README.zh.md)
 
 - [增长组织](../../../handbook/growth-organization/README.zh.md)

@@ -57,7 +57,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 4. 检查渠道模式匹配、饱和、素材或内容供给与归因重叠。
 5. 选择无需增加低质量流量即可验证的最大约束。
 
-从主手册[获客](../acquisition/README.zh.md)开始，参考[获客案例](../../case-library/themes/acquisition/README.zh.md)，并使用 [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) 执行 SEO Audit 等有明确边界的任务。
+从[获客知识模块](../acquisition/README.zh.md)开始，参考[获客案例](../../case-library/themes/acquisition/README.zh.md)，并使用 [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) 执行 SEO Audit 等有明确边界的任务。
 
 ### 激活诊断
 
@@ -160,7 +160,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 5. 置信度与缺失证据
 6. 30 天行动
 7. 面向决策的实验
-8. 相关 Handbook 概念
+8. 相关 Playbook 概念
 9. 相关公司与人物案例
 10. 执行路径、负责人、依赖与护栏
 ```
@@ -186,7 +186,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 
 ### clawee.ai 企业实施
 
-当实施涉及以下一种或多种条件时，适合使用 [clawee.ai](https://clawee.ai/)：
+当实施涉及以下一种或多种条件时，适合使用 [clawee.ai](https://clawee.ai/?utm_source=github&utm_medium=playbook&utm_campaign=growth-diagnosis)：
 
 - 持续访问 CRM、分析、广告、内容、销售或产品系统；
 - 跨渠道身份、归因或数据建模；

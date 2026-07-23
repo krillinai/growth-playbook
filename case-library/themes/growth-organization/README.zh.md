@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于组织模式、决策权、能力设计、人员配置、运营节奏与诊断，参见主手册[增长组织](../../../handbook/growth-organization/README.zh.md)。
+关于组织模式、决策权、能力设计、人员配置、运营节奏与诊断，参见[增长组织知识模块](../../../handbook/growth-organization/README.zh.md)。
 
 ## 能力矩阵
 
@@ -127,7 +127,7 @@ Facebook 小型工作组、Booking.com 自助团队、Ramp 聚焦团队与字节
 
 ## 概念证据地图
 
-| 手册概念 | 公司证据 | 支持的结论 |
+| Playbook 概念 | 公司证据 | 支持的结论 |
 | --- | --- | --- |
 | [结果责任](../../../handbook/growth-organization/README.zh.md#结果责任) | Facebook；Ramp；Pinterest | 团队需要有边界客户结果和能够改变它的杠杆权限。 |
 | [决策权](../../../handbook/growth-organization/README.zh.md#决策权) | 五家公司 | 自治只有在边界、证据、风险控制与升级清晰时成立。 |

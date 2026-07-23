@@ -8,13 +8,11 @@ The repository follows a content-first rule: complete useful material before add
 
 ## Current Priorities
 
-### 1. Deepen Core Growth Systems
+### 1. Complete Foundation Evidence
 
-- Expand experimentation into a complete decision and causal-learning system.
-- Expand growth infrastructure across data, identity, delivery, automation, governance, and platform economics.
-- Expand incentive systems across design, incrementality, fraud, cannibalization, fairness, and exit strategy.
-- Strengthen retention with lifecycle states, frequency, habit, churn, resurrection, and retained growth accounting.
-- Strengthen monetization with willingness to pay, packaging, price metrics, revenue models, expansion, margin, and payback.
+- Build cross-company evidence for the Funnel & Constraint Model and Growth Model.
+- Deepen Product-Market Fit, segmentation, and positioning with primary sources, conflicting evidence, and clearer transfer boundaries.
+- Connect each foundation concept to lifecycle decisions, growth systems, diagnosis, and relevant company evidence.
 
 ### 2. Cover Major Growth Contexts
 
@@ -40,6 +38,12 @@ These topics should become standalone modules only after the repository has enou
 - Define editorial, evidence, and contribution standards.
 - Add automated checks for broken links, bilingual structure, duplicate sources, and index drift.
 - Embed practical decision aids and examples inside relevant modules instead of creating empty template sections.
+
+### 5. Connect Diagnosis to Implementation
+
+- Improve the local diagnosis path from symptoms to constraints, evidence gaps, and bounded next actions.
+- Route reusable tasks to Growth & Marketing Skills without presenting a skill as a substitute for organizational change.
+- Define a traceable path to clawee.ai for enterprise work that requires connected data, agents, governance, and cross-team implementation.
 
 ## Scope Boundary
 

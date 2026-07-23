@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Alex Schultz profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/alex-schultz) as the consolidated index.
+Use the [Alex Schultz profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/alex-schultz) as the consolidated index.
 
 | Source | Use for |
 | --- | --- |

@@ -36,6 +36,7 @@ Facebook is one of the most influential examples of product-led consumer growth.
 
 ## Related Themes
 
+- [Growth Model](../../themes/growth-model/README.md)
 - [Product-Market Fit](../../themes/product-market-fit/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Activation](../../themes/activation/README.md)

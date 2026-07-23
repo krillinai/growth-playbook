@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Luis von Ahn profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/luis-von-ahn) as the consolidated index.
+Use the [Luis von Ahn profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/luis-von-ahn) as the consolidated index.
 
 | Source | Use for |
 | --- | --- |

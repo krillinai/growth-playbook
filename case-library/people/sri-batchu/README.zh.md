@@ -80,6 +80,7 @@ Pipeline、客户或收入规模要与回本周期和贡献毛利一起看。回
 
 ## 相关内容
 
+- [漏斗与约束案例](../../themes/funnel-and-constraint/README.zh.md)
 - [指标与衡量](../../../handbook/metrics/README.zh.md)
 
 - [实验系统](../../../handbook/experimentation/README.zh.md)

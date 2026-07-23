@@ -134,7 +134,7 @@ Moving upmarket, entering a country, creating a Lite product, changing free-paid
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Decision-first segmentation](../../../handbook/customer-segmentation/README.md#decision-first-segmentation) | All five | A segment is useful when it changes product or operating treatment. |
 | [Segmentation hierarchy](../../../handbook/customer-segmentation/README.md#segmentation-unit-and-hierarchy) | All five | Market, account, role, use case, state, and cohort are different units. |

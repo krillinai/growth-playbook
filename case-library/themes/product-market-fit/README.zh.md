@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于定义、证据设计、调查边界、诊断、成熟度与操作方法，参见主手册[产品市场匹配](../../../handbook/product-market-fit/README.zh.md)。
+关于定义、证据设计、调查边界、诊断、成熟度与操作方法，参见[产品市场匹配知识模块](../../../handbook/product-market-fit/README.zh.md)。
 
 ## 证据矩阵
 
@@ -132,7 +132,7 @@ Dropbox 推荐、Facebook 网络扩张、HubSpot 病毒与付费渠道、Eventbr
 
 ## 概念证据地图
 
-| 手册概念 | 公司证据 | 支持的结论 |
+| Playbook 概念 | 公司证据 | 支持的结论 |
 | --- | --- | --- |
 | [匹配单位](../../../handbook/product-market-fit/README.zh.md#匹配单位) | 五家公司 | PMF 主张需要命名产品、参与者、使用场景、市场与时期。 |
 | [证据栈](../../../handbook/product-market-fit/README.zh.md#证据栈) | 五家公司 | 独立信号增强判断，缺失与冲突证据必须保持可见。 |

@@ -142,8 +142,10 @@ Making expertise searchable can create network and data advantages, but only if 
 | Organization | Match ownership to the constraint | Can the team execute on the outcome it owns? |
 | AI trust | Preserve consent and attribution | Is represented expertise faithful and controllable? |
 
-## Related Handbook and Cases
+## Related Knowledge and Cases
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Growth Model](../../../handbook/growth-model/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)

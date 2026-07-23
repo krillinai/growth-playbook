@@ -142,8 +142,10 @@ SuperMe 讨论如何从写作、对话等内容中表达专业判断。产品依
 | 组织 | 让所有权匹配约束 | 团队能否执行自己负责的结果？ |
 | AI 信任 | 保留同意与署名 | 专业表达是否忠实且可控制？ |
 
-## 相关手册与案例
+## 相关知识与案例
 
+- [漏斗与约束案例](../../themes/funnel-and-constraint/README.zh.md)
+- [增长模型案例](../../themes/growth-model/README.zh.md)
 - [增长模型](../../../handbook/growth-model/README.zh.md)
 - [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
 - [产品市场匹配](../../../handbook/product-market-fit/README.zh.md)

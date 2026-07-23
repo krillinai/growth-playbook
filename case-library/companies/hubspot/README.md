@@ -90,8 +90,10 @@ This was not a single pricing change. It was a coordinated revision of market, p
 4. A new product line inside a larger company benefits when it can reuse institutional channel, customer, or operating strengths.
 5. When one Fit changes, the other Fits should be reviewed rather than assumed constant.
 
-## Related Handbook and Cases
+## Related Knowledge and Cases
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Positioning Cases](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)
 - [Product-Market Fit Cases](../../themes/product-market-fit/README.md)

@@ -93,6 +93,7 @@ This supports a general organization principle: ownership should match the const
 
 ## Related Themes and People
 
+- [Growth Model](../../themes/growth-model/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Metrics & Measurement](../../themes/metrics-and-measurement/README.md)
 - [Incentive Systems](../../themes/incentive-growth/README.md)

@@ -70,7 +70,7 @@
 
 ## 获客
 
-从主手册[获客](../acquisition/README.zh.md)和[获客案例](../../case-library/themes/acquisition/README.zh.md)开始。
+从[获客知识模块](../acquisition/README.zh.md)和[获客案例](../../case-library/themes/acquisition/README.zh.md)开始。
 
 ### 症状与机制
 
@@ -93,7 +93,7 @@
 
 ## 激活
 
-从主手册[激活](../activation/README.zh.md)和[激活案例](../../case-library/themes/activation/README.zh.md)开始。
+从[激活知识模块](../activation/README.zh.md)和[激活案例](../../case-library/themes/activation/README.zh.md)开始。
 
 ### 症状与机制
 
@@ -116,7 +116,7 @@
 
 ## 留存
 
-从主手册[留存](../retention/README.zh.md)和[留存案例](../../case-library/themes/retention/README.zh.md)开始。
+从[留存知识模块](../retention/README.zh.md)和[留存案例](../../case-library/themes/retention/README.zh.md)开始。
 
 ### 症状与机制
 
@@ -139,7 +139,7 @@
 
 ## 商业化
 
-从主手册[商业化](../monetization/README.zh.md)和[商业化案例](../../case-library/themes/monetization/README.zh.md)开始。
+从[商业化知识模块](../monetization/README.zh.md)和[商业化案例](../../case-library/themes/monetization/README.zh.md)开始。
 
 ### 症状与机制
 
@@ -162,7 +162,7 @@
 
 ## 增长循环
 
-从主手册[推荐与扩张](../referral-and-loops/README.zh.md)和[增长循环案例](../../case-library/themes/referral-and-loops/README.zh.md)开始。
+从[推荐与扩张知识模块](../referral-and-loops/README.zh.md)和[增长循环案例](../../case-library/themes/referral-and-loops/README.zh.md)开始。
 
 ### 症状与机制
 

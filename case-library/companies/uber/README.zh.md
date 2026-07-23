@@ -93,6 +93,7 @@ Chen 描述 Uber 增长组织经历了多种配置，从跨职能协作逐渐发
 
 ## 相关主题与人物
 
+- [增长模型](../../themes/growth-model/README.zh.md)
 - [获客](../../themes/acquisition/README.zh.md)
 - [指标与衡量](../../themes/metrics-and-measurement/README.zh.md)
 - [激励系统](../../themes/incentive-growth/README.zh.md)

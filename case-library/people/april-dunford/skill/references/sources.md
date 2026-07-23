@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [April Dunford profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/april-dunford) as the full 24-video index. Use the [Positioning Handbook](https://github.com/krillinai/growth-playbook/tree/main/handbook/positioning) for the consolidated concept module.
+Use the [April Dunford profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/april-dunford) as the full 24-video index. Use the [Positioning module](https://github.com/krillinai/growth-playbook/tree/main/handbook/positioning) for the consolidated concept module.
 
 ## Primary Source Groups
 

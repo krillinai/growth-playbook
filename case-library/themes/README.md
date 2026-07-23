@@ -1,6 +1,6 @@
 # Thematic Cases
 
-Cross-company cases organized by growth foundation, lifecycle stage, and horizontal capability. Company pages preserve detailed evidence and source context; theme pages compare how different companies approach the same growth problem.
+Cross-company cases organized by growth foundation, lifecycle stage, and growth system. Company pages preserve detailed evidence and source context; theme pages compare how different companies approach the same growth problem.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
@@ -11,6 +11,8 @@ Cross-company cases organized by growth foundation, lifecycle stage, and horizon
 | [Product-Market Fit](product-market-fit/README.md) | Which evidence shows that a defined market repeatedly receives viable product value? |
 | [Customer Segmentation & ICP](customer-segmentation/README.md) | Which customer differences should change product and growth decisions? |
 | [Positioning](positioning/README.md) | Which competitive context makes differentiated value clear to best-fit customers? |
+| [Funnel & Constraint Model](funnel-and-constraint/README.md) | Which transition currently limits the growth system, and what evidence distinguishes it from nearby symptoms? |
+| [Growth Model](growth-model/README.md) | How do value, acquisition, retention, monetization, expansion, and reinvestment interact over time? |
 
 ## Growth Stages
 
@@ -22,7 +24,7 @@ Cross-company cases organized by growth foundation, lifecycle stage, and horizon
 | [Monetization](monetization/README.md) | How does delivered value become sustainable revenue? |
 | [Referral & Expansion](referral-and-loops/README.md) | How does delivered value create new distribution or deeper adoption? |
 
-## Growth Capabilities
+## Growth Systems
 
 | Theme | Main question |
 | --- | --- |
@@ -35,7 +37,7 @@ Cross-company cases organized by growth foundation, lifecycle stage, and horizon
 ## Ongoing Update Rule
 
 1. Add detailed company-specific evidence to the company page.
-2. Classify evidence by growth foundation, lifecycle stage, and horizontal capability.
+2. Classify evidence by growth foundation, lifecycle stage, and growth system.
 3. Update only the relevant theme comparison pages.
 4. Change a cross-company pattern only when evidence materially supports or challenges it.
 5. Preserve source date, evidence type, participant perspective, and applicability boundaries.

@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Andrew Chen profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/andrew-chen) as the consolidated index.
+Use the [Andrew Chen profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/andrew-chen) as the consolidated index.
 
 ## Primary and Direct Sources
 

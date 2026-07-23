@@ -124,7 +124,7 @@ Dropbox rewards and ByteDance incentives can replace organic behavior or attract
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Referral design](../../../handbook/referral-and-loops/README.md#referral-design) | Dropbox; ByteDance | Sender value, recipient relevance, reward alignment, retention, cost, and abuse determine quality. |
 | [Virality](../../../handbook/referral-and-loops/README.md#virality) | Facebook; Dropbox; ByteDance | Propagation should be decomposed and adjusted for recipient value, retention, overlap, and cycle time. |

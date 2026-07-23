@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Elena Verna profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/elena-verna) as the consolidated index.
+Use the [Elena Verna profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/elena-verna) as the consolidated index.
 
 | Source | Use for |
 | --- | --- |

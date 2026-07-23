@@ -320,6 +320,7 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 
 ## Related Playbook Content
 
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Experimentation](../../../handbook/experimentation/README.md)
 
 - [Growth Organization](../../../handbook/growth-organization/README.md)

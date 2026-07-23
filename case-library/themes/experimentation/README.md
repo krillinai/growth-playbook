@@ -129,7 +129,7 @@ Booking.com can support high throughput because product teams own actions and sh
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Decision model](../../../handbook/experimentation/README.md#decision-model) | All five | Experiments should begin with a decision, mechanism, owner, and action rule. |
 | [OEC and metric system](../../../handbook/experimentation/README.md#oec-and-metric-system) | Microsoft / Bing; Facebook; Ramp; Airtable | Primary outcomes need diagnostics, guardrails, and connection to durable value. |

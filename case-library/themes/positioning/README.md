@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-For definitions, positioning architecture, evidence design, testing, diagnostics, and governance, see the [Positioning Handbook](../../../handbook/positioning/README.md).
+For definitions, positioning architecture, evidence design, testing, diagnostics, and governance, see the [Positioning module](../../../handbook/positioning/README.md).
 
 ## Evidence Matrix
 
@@ -143,7 +143,7 @@ New workflows, product modules, AI capabilities, market tiers, geographies, and 
 
 ## Concept Evidence Map
 
-| Handbook concept | Company evidence | Supported conclusion |
+| Playbook concept | Company evidence | Supported conclusion |
 | --- | --- | --- |
 | [Unique capabilities, value, and proof](../../../handbook/positioning/README.md#unique-capabilities-differentiated-value-and-proof) | Airtable; Ramp; Lovable | Capabilities need consequences, customer value, and claim-appropriate proof. |
 | [Best-fit customers and segmentation](../../../handbook/positioning/README.md#best-fit-customers-and-segmentation) | Lovable; HubSpot | Attention or product use does not establish target-customer and economic fit. |

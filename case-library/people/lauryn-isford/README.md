@@ -74,6 +74,7 @@ An onboarding change can raise a local conversion metric while reducing quality,
 
 ## Related Content
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 
 - [Customer Segmentation & ICP Cases](../../themes/customer-segmentation/README.md)

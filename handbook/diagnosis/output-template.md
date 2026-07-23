@@ -103,11 +103,11 @@ An experiment is useful only when its result changes a named decision.
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mechanism-based hypothesis] | [Controlled change or evidence-gathering test] | [Metric] | [Ship, stop, iterate, or change the diagnosis when a defined condition occurs] | [Metrics and thresholds that prevent harm] | [Owner] | [Dates or duration] |
 
-## 7. Handbook References
+## 7. Knowledge References
 
 | Title | URL | Relevance to this diagnosis |
 | --- | --- | --- |
-| [Handbook concept or chapter] | [Relative or absolute URL] | [Decision, mechanism, metric, or method it informs] |
+| [Playbook concept or module] | [Relative or absolute URL] | [Decision, mechanism, metric, or method it informs] |
 
 ## 8. Case References
 

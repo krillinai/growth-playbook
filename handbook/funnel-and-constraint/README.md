@@ -140,6 +140,7 @@ Use randomized experiments when assignment and interference permit. Otherwise us
 
 ## Related Knowledge and Evidence
 
+- [Funnel & Constraint Cases](../../case-library/themes/funnel-and-constraint/README.md)
 - [Growth Model](../growth-model/README.md)
 - [Customer Segmentation & ICP](../customer-segmentation/README.md)
 - [Activation](../activation/README.md)

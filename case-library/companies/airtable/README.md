@@ -50,6 +50,7 @@ Super-user insight
 
 ## Related Themes
 
+- [Funnel & Constraint Model](../../themes/funnel-and-constraint/README.md)
 - [Positioning](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Referral & Expansion](../../themes/referral-and-loops/README.md)

@@ -63,6 +63,7 @@ The case supports market-level diagnosis and content-quality investment, but doe
 
 ## Related Themes and People
 
+- [Funnel & Constraint Model](../../themes/funnel-and-constraint/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Activation](../../themes/activation/README.md)
 - [Retention](../../themes/retention/README.md)

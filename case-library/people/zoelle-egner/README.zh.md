@@ -81,6 +81,7 @@ PR、营销活动和内容都应该服务于明确受众、产品行为或战略
 
 ## 相关内容
 
+- [漏斗与约束案例](../../themes/funnel-and-constraint/README.zh.md)
 - [定位](../../../handbook/positioning/README.zh.md)
 - [定位案例](../../themes/positioning/README.zh.md)
 - [Airtable 公司页](../../companies/airtable/README.zh.md)

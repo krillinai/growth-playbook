@@ -18,6 +18,8 @@
 - [产品市场匹配](themes/product-market-fit/README.zh.md)
 - [客户分群与 ICP](themes/customer-segmentation/README.zh.md)
 - [定位](themes/positioning/README.zh.md)
+- [漏斗与约束模型](themes/funnel-and-constraint/README.zh.md)
+- [增长模型](themes/growth-model/README.zh.md)
 
 ## [增长环节](themes/README.zh.md#增长环节)
 
@@ -27,7 +29,7 @@
 - [商业化](themes/monetization/README.zh.md)
 - [推荐与扩张](themes/referral-and-loops/README.zh.md)
 
-## [横向能力](themes/README.zh.md#横向能力)
+## [增长系统](themes/README.zh.md#增长系统)
 
 - [指标与衡量](themes/metrics-and-measurement/README.zh.md)
 - [实验系统](themes/experimentation/README.zh.md)

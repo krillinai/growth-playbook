@@ -478,6 +478,7 @@ The goal is to make the product understandable, credible, and accessible whereve
 
 ## Related Playbook Content
 
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
 
 - [Acquisition](../../../handbook/acquisition/README.md)

@@ -182,6 +182,8 @@ Accessible education mission
 
 ## Related Content
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Positioning](../../../handbook/positioning/README.md)
 - [Positioning Cases](../../themes/positioning/README.md)
 - [Activation](../../../handbook/activation/README.md)

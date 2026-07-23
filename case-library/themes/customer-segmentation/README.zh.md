@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于定义、分群规范、ICP Contract、证据设计、诊断、治理与成熟度，参见主手册[客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)。
+关于定义、分群规范、ICP Contract、证据设计、诊断、治理与成熟度，参见[客户分群与 ICP 知识模块](../../../handbook/customer-segmentation/README.zh.md)。
 
 ## 证据矩阵
 
@@ -134,7 +134,7 @@ HubSpot 区分个人用户与目标账户，Airtable 区分用户意图与 Works
 
 ## 概念证据地图
 
-| 手册概念 | 公司证据 | 支持的结论 |
+| Playbook 概念 | 公司证据 | 支持的结论 |
 | --- | --- | --- |
 | [决策优先的分群](../../../handbook/customer-segmentation/README.zh.md#决策优先的分群) | 五家公司 | 分群只有改变产品或运营处理时才有用。 |
 | [分群单位与层级](../../../handbook/customer-segmentation/README.zh.md#分群单位与层级) | 五家公司 | 市场、账户、角色、使用场景、状态与 Cohort 是不同单位。 |

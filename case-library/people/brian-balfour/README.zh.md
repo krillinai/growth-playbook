@@ -172,8 +172,10 @@ North Star 通常是输出指标：它描述重要结果，却过于宽泛，无
 | 流程 | 团队如何降低不确定性？ | 决策质量、实验解释、学习复用 |
 | 组织 | 团队是否拥有解决约束的责任和权限？ | 周期、依赖等待、结果变化 |
 
-## 相关手册与案例
+## 相关知识与案例
 
+- [漏斗与约束案例](../../themes/funnel-and-constraint/README.zh.md)
+- [增长模型案例](../../themes/growth-model/README.zh.md)
 - [商业化](../../../handbook/monetization/README.zh.md)
 
 - [增长模型](../../../handbook/growth-model/README.zh.md)

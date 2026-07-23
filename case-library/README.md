@@ -18,6 +18,8 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Product-Market Fit](themes/product-market-fit/README.md)
 - [Customer Segmentation & ICP](themes/customer-segmentation/README.md)
 - [Positioning](themes/positioning/README.md)
+- [Funnel & Constraint Model](themes/funnel-and-constraint/README.md)
+- [Growth Model](themes/growth-model/README.md)
 
 ## [Growth Stages](themes/README.md#growth-stages)
 
@@ -27,7 +29,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Monetization](themes/monetization/README.md)
 - [Referral & Expansion](themes/referral-and-loops/README.md)
 
-## [Growth Capabilities](themes/README.md#growth-capabilities)
+## [Growth Systems](themes/README.md#growth-systems)
 
 - [Metrics & Measurement](themes/metrics-and-measurement/README.md)
 - [Experimentation](themes/experimentation/README.md)

@@ -106,7 +106,7 @@ Customer evidence should shape priorities, while explicit decision rights and ev
 | AI product | Evaluate result quality and customer usefulness | Separate shipping motion from progress |
 | AI workflow | Use models for alternatives, review, and synthesis | Keep evidence and human judgment in the loop |
 
-## Related Handbook and Cases
+## Related Knowledge and Cases
 
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Content & Social Distribution](../../../handbook/acquisition/README.md#content-and-social-distribution)

@@ -119,7 +119,7 @@ Qualification 应判断潜在客户是否具备使差异化价值成立的问题
 | 叙事 | 应该如何解释购买决策？ | Discovery、异议处理、Pitch 转化 |
 | 执行 | 定位是否贯穿整个客户旅程？ | 获客质量、销售周期、定价、采用与留存 |
 
-## 相关手册与案例
+## 相关知识与案例
 
 - [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
 - [客户分群与 ICP 案例](../../themes/customer-segmentation/README.zh.md)

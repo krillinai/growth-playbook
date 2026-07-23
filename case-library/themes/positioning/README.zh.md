@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-定义、定位架构、证据设计、测试、诊断与治理参见[定位主手册](../../../handbook/positioning/README.zh.md)。
+定义、定位架构、证据设计、测试、诊断与治理参见[定位知识模块](../../../handbook/positioning/README.zh.md)。
 
 ## 证据矩阵
 
@@ -143,7 +143,7 @@ Airtable 通过工作流让广泛灵活性变得具体；Ramp 把平台广度连
 
 ## 概念证据地图
 
-| 手册概念 | 公司证据 | 可以支持的结论 |
+| Playbook 概念 | 公司证据 | 可以支持的结论 |
 | --- | --- | --- |
 | [独特能力、价值与证据](../../../handbook/positioning/README.zh.md#独特能力差异化价值与证据) | Airtable；Ramp；Lovable | 能力需要连接后果、客户价值和与主张匹配的证据。 |
 | [最佳客户与客户分群](../../../handbook/positioning/README.zh.md#最佳客户与客户分群) | Lovable；HubSpot | 关注或产品使用不能证明目标客户与经济匹配。 |

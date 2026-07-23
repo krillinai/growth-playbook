@@ -1,6 +1,6 @@
 # Sources and Attribution Boundaries
 
-Use the [Casey Winters profile in Growth & Marketing Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/casey-winters) as the consolidated index.
+Use the [Casey Winters profile in Growth Playbook](https://github.com/krillinai/growth-playbook/tree/main/case-library/people/casey-winters) as the consolidated index.
 
 | Source | Use for |
 | --- | --- |

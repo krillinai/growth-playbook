@@ -96,6 +96,8 @@ With limited engineering support, her early growth work revisited notifications 
 
 ## Related Content
 
+- [Funnel & Constraint Cases](../../themes/funnel-and-constraint/README.md)
+- [Growth Model Cases](../../themes/growth-model/README.md)
 - [Positioning](../../../handbook/positioning/README.md)
 - [Positioning Cases](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)

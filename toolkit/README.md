@@ -12,7 +12,7 @@ The [Growth Diagnosis Protocol](../handbook/diagnosis/README.md) identifies the 
 | --- | --- |
 | Playbook | Self-serve diagnosis, concepts, metrics, decision rules, and cases |
 | [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) | Bounded, reusable, and auditable workflows such as the current [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) |
-| [clawee.ai](https://clawee.ai/) | Persistent integrations, private data, continuous Agent execution, governance, and cross-team enterprise implementation |
+| [clawee.ai](https://clawee.ai/?utm_source=github&utm_medium=playbook&utm_campaign=growth-diagnosis) | Persistent integrations, private data, continuous Agent execution, governance, and cross-team enterprise implementation |
 
 ## Collections
 

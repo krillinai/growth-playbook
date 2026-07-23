@@ -54,6 +54,8 @@ Accessible learning value
 
 ## Related Themes
 
+- [Funnel & Constraint Model](../../themes/funnel-and-constraint/README.md)
+- [Growth Model](../../themes/growth-model/README.md)
 - [Positioning](../../themes/positioning/README.md)
 - [Customer Segmentation & ICP](../../themes/customer-segmentation/README.md)
 - [Activation](../../themes/activation/README.md)

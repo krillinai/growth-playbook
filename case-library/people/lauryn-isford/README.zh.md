@@ -74,6 +74,7 @@ Isford 对 Airtable 新用户引导的描述，是从通用界面提示逐步转
 
 ## 相关内容
 
+- [漏斗与约束案例](../../themes/funnel-and-constraint/README.zh.md)
 - [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
 
 - [客户分群与 ICP 案例](../../themes/customer-segmentation/README.zh.md)

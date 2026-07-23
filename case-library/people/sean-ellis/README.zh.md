@@ -286,8 +286,9 @@ Dropbox 推荐计划是著名案例，但它能运转是因为用户已经重视
 5. [The original growth hacker reveals his secrets - Lenny's Podcast](https://www.youtube.com/watch?v=VjJ6xcv7e8s)。访问于 2026-07-20。
 6. [Hacking Growth with Sean Ellis - Mahmoud Khodor](https://www.youtube.com/watch?v=9MQdM7WD3f8)。访问于 2026-07-20。
 
-## 相关手册内容
+## 相关知识
 
+- [增长模型案例](../../themes/growth-model/README.zh.md)
 - [产品市场匹配](../../../handbook/product-market-fit/README.zh.md)
 
 - [产品市场匹配案例](../../themes/product-market-fit/README.zh.md)

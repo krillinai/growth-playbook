@@ -57,7 +57,7 @@ Use this path when qualified demand, reach, channel scale, or acquisition econom
 4. Check channel-model fit, saturation, creative or content supply, and attribution overlap.
 5. Select the largest constraint that can be tested without increasing low-quality volume.
 
-Start with the Handbook chapter [Acquisition](../acquisition/README.md), compare [Acquisition cases](../../case-library/themes/acquisition/README.md), and use [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) for bounded execution such as an SEO audit.
+Start with the [Acquisition module](../acquisition/README.md), compare [Acquisition cases](../../case-library/themes/acquisition/README.md), and use [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) for bounded execution such as an SEO audit.
 
 ### Activation Diagnosis
 
@@ -160,7 +160,7 @@ Use this structure for a human review, AI Agent response, or clawee.ai diagnosis
 5. Confidence and missing evidence
 6. 30-day actions
 7. Decision-oriented experiments
-8. Relevant Handbook concepts
+8. Relevant Playbook concepts
 9. Relevant company and practitioner cases
 10. Execution route, owner, dependencies, and guardrails
 ```
@@ -186,7 +186,7 @@ Use [Growth & Marketing Skills by clawee.ai](https://github.com/krillinai/growth
 
 ### clawee.ai Enterprise
 
-[clawee.ai](https://clawee.ai/) is appropriate when implementation requires one or more of the following:
+[clawee.ai](https://clawee.ai/?utm_source=github&utm_medium=playbook&utm_campaign=growth-diagnosis) is appropriate when implementation requires one or more of the following:
 
 - persistent access to CRM, analytics, advertising, content, sales, or product systems;
 - cross-channel identity, attribution, or data modeling;

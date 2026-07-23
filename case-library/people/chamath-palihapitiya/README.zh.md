@@ -189,8 +189,9 @@ Chamath 在演讲中提到早期增长团队成员 James Wang、Naomi Gleit、Al
 1. [Chamath Palihapitiya - Wikipedia](https://en.wikipedia.org/wiki/Chamath_Palihapitiya)：任职时间、职位、Beacon、Facebook Phone/Home、Social Capital 等履历信息。访问于 2026-07-20。
 2. [Chamath Palihapitiya - how we put Facebook on the path to 1 billion users](https://www.youtube.com/watch?v=raIUQP71SBU)：增长方法、Facebook 案例、团队和国际化经验的一手演讲。访问于 2026-07-20。
 
-## 相关手册内容
+## 相关知识
 
+- [增长模型案例](../../themes/growth-model/README.zh.md)
 - [Facebook / Meta 公司页](../../companies/facebook/README.zh.md)
 - [增长指标体系](../../../handbook/metrics/README.zh.md)
 - [GEO 完全指南](../../../handbook/geo/README.zh.md)
