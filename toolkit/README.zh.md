@@ -11,5 +11,5 @@
 | 路径 | 适用范围 |
 | --- | --- |
 | Playbook | 自助诊断、概念、指标、决策规则与案例 |
-| [Growth & Marketing Skills](https://github.com/krillinai/growth-skills) | 边界明确、可复用且可审计的工作流，例如当前已有的 [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) |
+| [增长与营销技能](https://github.com/krillinai/growth-skills) | 边界明确、可复用且可审计的工作流，例如当前已有的 [SEO Audit](https://github.com/krillinai/growth-skills/tree/main/skills/seo-audit) |
 | [clawee.ai](https://clawee.ai/?utm_source=github&utm_medium=playbook&utm_campaign=growth-diagnosis) | 持续系统集成、私有数据、持续 Agent 执行、治理与跨团队企业级实施 |
