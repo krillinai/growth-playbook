@@ -397,6 +397,8 @@ L30 bucket = users active on 1, 2, ... 30 days in a month
 
 Use a value-bearing action rather than an app open when possible. Select the window according to product rhythm. Compare the distribution by cohort, segment, market, and period; do not assume every healthy product needs daily use or a smile-shaped curve.
 
+Use the [Engagement Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/engagement-analysis) to turn supplied event or aggregate data into a zero-inclusive, evidence-bounded engagement distribution.
+
 ## Net Promoter Score
 
 ```text

@@ -397,6 +397,8 @@ L30 = 一个月内分别活跃 1、2、...、30 天的用户分布
 
 尽量使用承载价值的行为，而不只是打开应用。时间窗口应匹配产品节奏，并按 Cohort、分群、市场和时期对比。健康产品不一定需要每日使用或形成微笑曲线。
 
+使用 [Engagement Analysis Skill](https://github.com/krillinai/growth-skills/tree/main/skills/engagement-analysis) 可以把用户提供的事件或汇总数据转化为包含零值人群、证据边界清晰的参与度分布。
+
 ## Net Promoter Score
 
 ```text
