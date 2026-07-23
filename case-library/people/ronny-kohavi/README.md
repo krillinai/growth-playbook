@@ -116,6 +116,7 @@ Experiment culture is not created by purchasing a platform. It emerges when evid
 - [Metrics & Measurement](../../../handbook/metrics/README.md)
 - [Funnel & Constraint Model](../../../handbook/funnel-and-constraint/README.md)
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)
+- [Microsoft / Bing](../../companies/microsoft/README.md)
 - [Airbnb](../../companies/airbnb/README.md)
 - [Experimentation Cases](../../themes/experimentation/README.md)
 

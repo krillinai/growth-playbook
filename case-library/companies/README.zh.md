@@ -19,6 +19,7 @@
 | [Grubhub](grubhub/README.zh.md) | 餐厅 Marketplace、本地密度、配送演进与网络竞争 | 供需循环、履约与有条件的网络效应 |
 | [HubSpot](hubspot/README.zh.md) | B2B 软件、Freemium、产品套餐、Inbound 分发、销售与 Four Fits | HubSpot Sales 留存、病毒与付费增长、套餐经济性和市场选择 |
 | [Lovable](lovable/README.zh.md) | AI 产品增长、信任、自然分发、产品发布与商业化 | 信任、自然分发、发布、AI 商业化与 PMF |
+| [Microsoft / Bing](microsoft/README.zh.md) | 可信实验、OEC、平台质量、长期效应与证据驱动决策 | A/A Test、SRM、不变量、Power、Scorecard 与代理验证 |
 | [Pinterest](pinterest/README.zh.md) | SEO 入口页、转化、新用户引导、留存与国际增长 | 结构化 Landing Page、真实入口界面与 Setup-Aha-Habit |
 | [Ramp](ramp/README.zh.md) | 客户节省、B2B UX、产品速度、增长衡量、品牌与 AI 运营 | 衡量、产品速度与 AI Agent 营销运营 |
 | [Shopify](shopify/README.zh.md) | 商家增长、电商、获客与留存、内容、社区和实验 | 商家旅程、内容与社区、增长系统执行 |

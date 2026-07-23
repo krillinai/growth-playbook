@@ -94,6 +94,8 @@ Statistical significance does not establish business value. Non-significance doe
 
 ## Trust and Experiment Quality
 
+Case evidence: [Microsoft / Bing, Booking.com, and Facebook / Meta](../../case-library/themes/experimentation/README.md#concept-evidence-map).
+
 ```text
 eligibility
 -> assignment
@@ -118,6 +120,8 @@ Do not interpret treatment effects until a material SRM is resolved or bounded.
 An unusually interesting result is often wrong. Large surprising effects should trigger checks for denominator changes, logging, implementation, outliers, repeated analysis, novelty, and sample-ratio problems before celebration.
 
 ## Long-Term Effects and Proxies
+
+Case evidence: [Microsoft / Bing, Facebook / Meta, and Airtable](../../case-library/themes/experimentation/README.md#concept-evidence-map).
 
 Short-term proxies are necessary when retention, revenue, marketplace equilibrium, or ecosystem outcomes mature slowly. Validate whether proxy movement predicts the long-term outcome across historical experiments, segments, and product states.
 
@@ -173,6 +177,8 @@ Predefine rules, but allow accountable judgment when assumptions fail. Document 
 
 ## Experimentation Operating System
 
+Case evidence: [Booking.com, Facebook / Meta, Ramp, and Microsoft / Bing](../../case-library/themes/experimentation/README.md#concept-evidence-map).
+
 1. Maintain a shared metric and eligibility registry.
 2. Review experiment specifications before exposure.
 3. Automate assignment, SRM, invariant, logging, and maturation checks.
@@ -183,6 +189,56 @@ Predefine rules, but allow accountable judgment when assumptions fail. Document 
 8. Revalidate proxies, guardrails, and platform assumptions as products evolve.
 
 Experiment count is an activity metric. Better program measures include decision cycle time, conclusive-result rate, guardrail incidents, learning reuse, percentage of launches with credible evidence, and realized downstream value.
+
+## Experiment Portfolio and Program Metrics
+
+An experiment program should allocate scarce traffic, engineering, analysis, and decision attention across different uncertainty and risk horizons.
+
+| Portfolio class | Purpose | Example decision |
+| --- | --- | --- |
+| Core optimization | Improve a proven value path or remove a known constraint | Which onboarding path produces more retained activation? |
+| Adjacency | Extend a working mechanism to a new segment, surface, or product | Does the value proposition transfer to another account type? |
+| Exploration | Test a different mechanism or product model | Can a new workflow create a repeatable customer outcome? |
+| System quality | Improve assignment, metrics, diagnostics, or evidence reuse | Does automated SRM detection prevent invalid decisions? |
+| Long-term validation | Test proxy durability and delayed harm | Does an early engagement lift preserve retention and trust? |
+
+Program metrics should describe decision quality rather than reward positive results.
+
+| Program measure | Useful interpretation | Failure mode |
+| --- | --- | --- |
+| Decision cycle time | Time from important uncertainty to accountable action | Fast cycles can still produce invalid decisions. |
+| Conclusive-result rate | Share of work that resolves the predefined decision | Easy questions can inflate the rate. |
+| Follow-through rate | Decisions implemented, stopped, or investigated as specified | Shipping alone does not prove the decision was correct. |
+| Quality-incident rate | SRM, logging, exposure, metric, or analysis defects | More detection can initially raise reported incidents. |
+| Learning reuse | Prior evidence changes a later design or decision | Citation volume does not prove useful reuse. |
+| Realized downstream value | Mature customer and business result after decision | Attribution to one experiment remains limited. |
+
+Ramp's portfolio framing, Booking.com's distributed decision system, and Microsoft / Bing's quality controls illustrate different parts of this program layer. See the [case comparison](../../case-library/themes/experimentation/README.md).
+
+## Maturity Model
+
+| Stage | Characteristics | Next constraint |
+| --- | --- | --- |
+| 1. Ad hoc tests | Teams compare variants without stable eligibility, metrics, or decisions | Standardize specifications, assignment, exposure, and ownership. |
+| 2. Trustworthy experiments | Core randomization, metrics, power, SRM, and guardrails are reliable | Improve self-service, interpretation, and follow-through. |
+| 3. Decision system | Experiments begin with decisions and preserve negative, flat, and harmful results | Build portfolios, long-term validation, and learning reuse. |
+| 4. Distributed capability | Product teams own routine decisions using shared platforms, methods, and training | Manage interference, governance, and cross-team dependencies. |
+| 5. Adaptive evidence system | Experiments, qualitative evidence, offline evaluation, and causal designs match the decision | Preserve trust, ethics, strategic judgment, and system simplicity. |
+
+Maturity is not experiment volume or platform complexity. A small organization can make high-quality decisions with few experiments, while a large platform can produce unreliable certainty.
+
+## Build Sequence
+
+1. Define the decision, owner, customer state, and action rules.
+2. Specify eligibility, randomization unit, assignment, exposure, identity, and exclusions.
+3. Choose the OEC, primary outcome, diagnostics, guardrails, and long-term validation.
+4. Define the minimum meaningful effect, power, duration, maturation, and stopping rule.
+5. Validate implementation, events, metric computation, invariants, and SRM before interpretation.
+6. Read effect size, interval, practical value, harm, heterogeneity, and assumptions together.
+7. Execute the predefined action or document the reason for an override.
+8. Preserve the result, decision, limitations, and reusable mechanism learning.
+9. Add self-service automation only after recurring work and failure modes are visible.
+10. Revalidate metrics, proxies, platform controls, and decision rights as the product evolves.
 
 ## Diagnosis
 
@@ -212,6 +268,9 @@ Experiment count is an activity metric. Better program measures include decision
 
 - [Ronny Kohavi](../../case-library/people/ronny-kohavi/README.md): OEC, power, SRM, trustworthy platforms, long-term effects, and experiment culture.
 - [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.md): decentralized experimentation, self-service platforms, concurrent tests, interaction effects, empowered teams, and leadership.
+- [Microsoft / Bing](../../case-library/companies/microsoft/README.md): OEC, quality diagnostics, SRM, Twyman's Law, and long-term validation.
+- [Booking.com](../../case-library/companies/booking-com/README.md): self-service experimentation, shared methods, parallel tests, and local decision ownership.
+- [Ramp](../../case-library/companies/ramp/README.md): experiment portfolios, conclusive failure, economic guardrails, and postmortems.
 - [Sean Ellis](../../case-library/people/sean-ellis/README.md): scientific growth loops, high-tempo testing, and prioritization.
 - [Alex Schultz](../../case-library/people/alex-schultz/README.md): retention-first growth, instrumentation, and company-level metrics.
 - [Airtable](../../case-library/companies/airtable/README.md): onboarding experiments, downstream collaboration, and guardrails.

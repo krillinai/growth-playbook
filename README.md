@@ -83,7 +83,7 @@ We follow a content-first approach: a module is published only when it contains 
 | System | What it supports |
 | --- | --- |
 | [Metrics & Measurement](handbook/metrics/README.md) | North Stars, input metrics, guardrails, accounting, and review cadence |
-| [Experimentation](handbook/experimentation/README.md) | Hypotheses, effect measurement, uncertainty, decisions, and reusable learning |
+| [Experimentation](handbook/experimentation/README.md) | Decisions, OECs, power, experiment quality, long-term effects, portfolios, and reusable causal learning |
 | [Growth Infrastructure](handbook/growth-infrastructure/README.md) | Reusable data, decision, delivery, creative, automation, and governance capabilities |
 | [Incentive Systems](handbook/incentive-growth/README.md) | Incrementality, reward economics, post-incentive retention, fraud, and cannibalization |
 | [Growth Organization](handbook/growth-organization/README.md) | Outcome ownership, decision rights, team models, shared platforms, staffing, portfolios, and reorganization triggers |
@@ -95,7 +95,7 @@ We follow a content-first approach: a module is published only when it contains 
 | **People & Ideas** | Growth leaders, their methods, interviews, articles, principles, limitations, and original sources | [Alex Schultz](case-library/people/alex-schultz/README.md)<br>[April Dunford](case-library/people/april-dunford/README.md)<br>[Andrew Chen](case-library/people/andrew-chen/README.md)<br>[Elena Verna](case-library/people/elena-verna/README.md)<br>[Sean Ellis](case-library/people/sean-ellis/README.md)<br>[View all 26 people](case-library/people/README.md) |
 | **Growth Stages** | Cross-company evidence organized by where growth happens in the customer journey | [Acquisition](case-library/themes/acquisition/README.md)<br>[Activation](case-library/themes/activation/README.md)<br>[Retention](case-library/themes/retention/README.md)<br>[Monetization](case-library/themes/monetization/README.md)<br>[Referral & Expansion](case-library/themes/referral-and-loops/README.md) |
 | **Growth Capabilities** | Cross-company evidence organized by the systems that support every growth stage | [Metrics & Measurement](case-library/themes/metrics-and-measurement/README.md)<br>[Experimentation](case-library/themes/experimentation/README.md)<br>[Growth Infrastructure](case-library/themes/growth-infrastructure/README.md)<br>[Incentive Systems](case-library/themes/incentive-growth/README.md)<br>[Growth Organization](case-library/themes/growth-organization/README.md) |
-| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | [Airtable](case-library/companies/airtable/README.md)<br>[Booking.com](case-library/companies/booking-com/README.md)<br>[ByteDance](case-library/companies/bytedance/README.md)<br>[Duolingo](case-library/companies/duolingo/README.md)<br>[Facebook / Meta](case-library/companies/facebook/README.md)<br>[View all 15 companies](case-library/companies/README.md) |
+| **Companies** | Company overview pages that connect multiple cases, people, channels, and stages | [Airtable](case-library/companies/airtable/README.md)<br>[Booking.com](case-library/companies/booking-com/README.md)<br>[ByteDance](case-library/companies/bytedance/README.md)<br>[Duolingo](case-library/companies/duolingo/README.md)<br>[Facebook / Meta](case-library/companies/facebook/README.md)<br>[View all 16 companies](case-library/companies/README.md) |
 
 ## Tools
 

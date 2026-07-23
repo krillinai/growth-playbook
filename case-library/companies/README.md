@@ -19,6 +19,7 @@ Growth companies organized by their stages, methods, related people, and cases.
 | [Grubhub](grubhub/README.md) | Restaurant marketplace, local density, delivery evolution, and network competition | Supply-demand loops, fulfillment, and conditional network effects |
 | [HubSpot](hubspot/README.md) | B2B software, freemium, product tiers, inbound distribution, sales, and Four Fits | HubSpot Sales retention, viral and paid growth, tier economics, and market choice |
 | [Lovable](lovable/README.md) | AI product growth, trust, earned distribution, launches, and monetization | Trust, earned distribution, launches, AI monetization, and PMF |
+| [Microsoft / Bing](microsoft/README.md) | Trustworthy experimentation, OECs, platform quality, long-term effects, and evidence-driven decisions | A/A tests, SRM, invariants, power, scorecards, and proxy validation |
 | [Pinterest](pinterest/README.md) | SEO entry pages, conversion, onboarding, retention, and international growth | Structured landing pages, real entry surfaces, and Setup-Aha-Habit |
 | [Ramp](ramp/README.md) | Customer savings, B2B UX, product velocity, growth measurement, brand, and AI operations | Measurement, product velocity, and AI-agent marketing operations |
 | [Shopify](shopify/README.md) | Merchant growth, e-commerce, acquisition and retention, content, community, and experimentation | Merchant journey, content and community, and growth-system execution |

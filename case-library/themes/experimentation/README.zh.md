@@ -1,41 +1,159 @@
 # 实验系统
 
-> 实验是降低重要不确定性的决策系统。只有当假设针对重要约束、结果可解释且学习改变后续行动时，实验数量才有意义。
+> 五个公司案例，展示实验质量、自助基础设施、埋点、项目组合决策与下游护栏如何把测试转化为可信决策系统。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于实验设计、不确定性与决策规则，参见[实验系统](../../../handbook/experimentation/README.zh.md)。
+关于因果设计、不确定性、指标、干扰、替代证据与决策规则，参见主手册[实验系统](../../../handbook/experimentation/README.zh.md)。
 
-## 公司证据
+## 能力矩阵
 
-| 公司 | 证据与方法 |
-| --- | --- |
-| [Booking.com](../../companies/booking-com/README.zh.md) | 去中心化实验、自助式基础设施、统一方法、并行测试与交互管理。 |
-| [Ramp](../../companies/ramp/README.zh.md) | 押注组合、结论性失败、复盘与决策质量。 |
-| [Duolingo](../../companies/duolingo/README.zh.md) | Explore-Exploit 平衡与留存机制的重复测试。 |
-| [Airtable](../../companies/airtable/README.zh.md) | 连接激活与下游护栏的新用户引导实验。 |
-| [Facebook / Meta](../../companies/facebook/README.zh.md) | 埋点、Cohort、学习速度与跨职能实验。 |
-| [Lovable](../../companies/lovable/README.zh.md) | 警惕在低影响界面上追求高实验量。 |
-| [Dropbox](../../companies/dropbox/README.zh.md) | AI 结果评估、客户结果，以及区分发布活动与可衡量进展。 |
-| [Pinterest](../../companies/pinterest/README.zh.md) | 把入口页和注册实验与产品理解、用户体验、激活和留存一起阅读。 |
+| 公司 | 核心实验能力 | 决策用途 | 质量系统 | 主要迁移边界 |
+| --- | --- | --- | --- | --- |
+| [Microsoft / Bing](../../companies/microsoft/README.zh.md) | 可信大规模在线受控实验 | 根据 OEC 评估产品与业务干预 | A/A Test、SRM、不变量、Power、Scorecard、长期验证 | 公开教学案例跨产品和时期，完整内部记录不可得 |
+| [Booking.com](../../companies/booking-com/README.zh.md) | 去中心化自助实验 | 让产品团队负责假设与行动 | 共享分组、指标、方法、培训、曝光记录 | 依赖流量、统计判断、平台可靠性与证据文化 |
+| [Facebook / Meta](../../companies/facebook/README.zh.md) | 有埋点的跨职能产品学习 | 把激活与产品变化连接到留存价值 | 关键路径日志、Cohort 分析、共享指标、实验基础设施 | 网络效应、规模、社会环境与参与者回顾限制迁移 |
+| [Ramp](../../companies/ramp/README.zh.md) | 实验组合与有结论决策 | 在优化、相邻和高不确定投入间分配 | 预定义阈值、经济护栏、Postmortem、增长工程 | 完整实验日志、经济性与组织界面不可得 |
+| [Airtable](../../companies/airtable/README.zh.md) | 带下游验证的新用户引导与激活实验 | 改善首个工作流与协作采用 | 激活定义、定性证据、留存与协作护栏 | 报告提升缺少完整设计、分母、区间与独立复现 |
 
-## 对比与迁移
+## 案例 1：Microsoft / Bing - 可信实验质量
 
-Booking.com 把去中心化产品决策与共享基础设施、方法和培训结合；Ramp 把实验视为押注组合并重视有结论的失败；Duolingo 重复调整留存机制；Airtable 把引导实验连接到下游质量；Facebook 依赖埋点和跨职能执行；Lovable 警惕实验速度掩盖更大的产品约束；Dropbox 区分 AI 产品进展与发布活动；Pinterest 把入口页实验与定性理解和下游留存结合。
+**环境。** 大型在线产品可以在大量用户上测试微小变化，但分组、曝光、身份、事件或指标缺陷也可能产生非常精确的错误答案。
 
-应该迁移决策纪律，而不是实验数量。需要检查统计功效、埋点、产品风险、实施责任，以及测试界面是否足以实质改变结果。
+**系统。** Ronny Kohavi 与 Microsoft 相关的工作连接决策、合格人群、随机化、Overall Evaluation Criterion、诊断、不确定性与长期跟踪。
+
+```text
+决策 -> 随机分组 -> 受控曝光 -> 可信指标
+-> SRM 与不变量检查 -> 效应与区间 -> 行动 -> 长期验证
+```
+
+**保留的证据。** 案例支持发布前定义最小有意义效应、Power 分析、A/A Test、确定性分组、Sample-Ratio Mismatch 检测、自动 Scorecard、可复现指标、Twyman's Law，以及对意外结果进行更严格检查。
+
+**迁移边界。** 公开例子跨越 Microsoft 不同产品、时期与教学环境。完整平台架构、指标定义、实验结果与长期业务影响不完整；基础需要尚未出现前，不应复制大规模基础设施。
+
+## 案例 2：Booking.com - 带共享护栏的自助实验
+
+**环境。** 当每项常规测试都需要中央专家时，高产品与实验量会形成瓶颈；没有标准的完全分散又会产生另一种问题：快速但不可靠的结论。
+
+**系统。** 产品团队负责客户问题、假设与行动；共享实验能力提供分组、曝光、分析、指标定义、方法、培训、文档与复杂案例支持。
+
+```text
+本地问题 -> 自助定义与发布 -> 共享质量控制
+-> 本地解释与决策 -> 记录学习 -> 改善平台
+```
+
+**保留的证据。** Lukas Vermeer 的讲述说明基础设施、方法、指标、培训与文化需要共同发展。并行实验使用曝光记录、合理交互分析、选择性互斥与升级，而不是全部串行。
+
+**迁移边界。** 自助需要可靠埋点、足够流量、统计能力、领导支持与本地产品判断。实验吞吐不能补偿薄弱战略或低价值假设。
+
+## 案例 3：Facebook / Meta - 实验速度之前先做好埋点
+
+**环境。** 早期 Facebook 增长工作连接好友发现、激活代理、Cohort 留存、增长核算与国际扩张。关键行为缺少埋点时，团队无法可靠诊断或测试重要路径。
+
+**系统。** 参与者讲述包括暂停路线图，改善注册、新用户引导、好友连接与沟通路径的日志。共享结果方向与跨职能产品权限随后支持更快测试和决策。
+
+```text
+核心社交价值 -> 稳定指标与 Cohort 定义 -> 关键路径埋点
+-> 产品干预 -> 实验与留存读数 -> 组织决策
+```
+
+**保留的证据。** 可迁移模式不是通用激活阈值，而是从客户价值与预测代理到埋点、受控干预、下游留存，以及由拥有产品和数据权限的团队做出决策的顺序。
+
+**迁移边界。** Facebook 的规模、网络效应、身份图谱、市场时机、社会后果与参与者讲述都很特殊。好友数与留存相关不能证明存在因果断点。
+
+## 案例 4：Ramp - 项目组合、有结论失败与 Postmortem
+
+**环境。** B2B 金融增长包括新客获客、激活、账户扩张、交叉销售、留存、回本、贡献毛利、销售、产品与受监管运营。一个局部转化指标无法表示完整决策。
+
+**系统。** Ramp 参与者讲述包括核心优化、相邻机会与高不确定投入组成的组合。实验应该预定义假设、阈值、护栏与下一项行动，再把结论反馈到 Postmortem 与资源分配。
+
+```text
+增长约束 -> 组合投入 -> 假设与经济护栏
+-> 产品、数据与 GTM 执行 -> 有结论结果
+-> 扩大、修改、停止或改变运营系统
+```
+
+**保留的证据。** 当负向结果排除重要假设时，它仍有价值；Power 不足或埋点薄弱的结果通常不能产生结论。增长工程、回本、贡献毛利、实验质量与 Postmortem 属于同一决策系统。
+
+**迁移边界。** 完整定义、分组、区间、日志、经济性与组合结果不可得。金融安全、合规、审计与风控会改变哪些实验可以进行以及运行速度。
+
+## 案例 5：Airtable - 带下游护栏的激活实验
+
+**环境。** Airtable 的灵活性可能让新用户不知道应该构建什么。新用户引导实验需要帮助不同用户到达有用首个工作流，同时避免把界面完成误认为客户价值。
+
+**系统。** 客户研究与分群支持引导路径。激活表示走向有用工作流的进展，后续留存、多用户协作、放弃、支持与错误可以检验局部改善是否保护下游价值。
+
+```text
+客户任务 -> 分群引导假设 -> 受控体验
+-> 首个有用工作流 -> 留存与协作护栏 -> 决策
+```
+
+**保留的证据。** Lauryn Isford 报告新用户引导改版带来 20% 激活提升，并把第四周多用户协作描述为下游信号。案例也保留单用户价值，并警惕把引导完成或邀请当成激活。
+
+**迁移边界。** 公开讲述没有提供完整指标定义、分母、随机化、置信区间、曝光、护栏或长期复现。报告结果是参与者讲述证据，不是可迁移 Benchmark。
+
+## 跨公司模式
+
+### 决策先于测试
+
+Microsoft / Bing 从行动与 OEC 开始；Booking.com 把问题和行动留给产品团队；Facebook 把代理连接到留存与产品责任；Ramp 定义组合决策；Airtable 定义引导需要改变的客户状态。
+
+没有任何案例支持仅因为界面容易随机化就运行实验。
+
+### 信任需要完整数据路径
+
+```text
+资格 -> 分组 -> 曝光 -> 身份 -> 事件
+-> 指标 -> 分析 -> 解释 -> 决策
+```
+
+Microsoft / Bing 强调诊断，Booking.com 标准化可信路径，Facebook 偿还 Data Debt，Ramp 要求有结论证据，Airtable 把目标连接到下游护栏。路径任一缺陷都可能让精确估计失效。
+
+### 局部指标需要长期护栏
+
+短期搜索、点击、引导、激活、Pipeline 或收入变化可能与留存、协作、延迟、可靠性、信任、毛利或生态健康冲突。案例使用不同护栏，但都要求决策标准越过方便的局部指标。
+
+### 实验数量不等于学习
+
+Booking.com 能够支持高吞吐，是因为产品团队负责行动且共享系统保护质量；Ramp 重视结论和资源变化；Facebook 在速度前先建设埋点；Microsoft / Bing 把意外大效应视为加强检查的理由；Airtable 结合定量变化、定性理解与下游证据。
+
+## 迁移矩阵
+
+| 实验条件 | 最相关案例 | 可以借鉴 | 不能假定 |
+| --- | --- | --- | --- |
+| 流量大且有大量高影响产品变化 | Microsoft / Bing | OEC、Power、SRM、不变量、Scorecard、长期验证 | 统计精确能够保证数据或业务有效性 |
+| 多个产品团队需要常规受控实验 | Booking.com | 自助平台、共享标准、培训、本地决策 | 没有判断、流量或可靠系统时分散仍可成立 |
+| 关键增长路径缺少观察 | Facebook / Meta | 扩大测试前先埋点，把代理连接到留存价值 | 一个激活目标是因果或通用阈值 |
+| 容量需要跨风险周期分配 | Ramp | 投入组合、预承诺决策、经济护栏、Postmortem | 实验数量或目标失败率衡量项目健康 |
+| 灵活产品需要更好的首次价值路径 | Airtable | 按任务分群、从价值定义激活、读取下游护栏 | 缺少原设计与分母时，报告相对提升可以迁移 |
+
+## 概念证据地图
+
+| 手册概念 | 公司证据 | 支持的结论 |
+| --- | --- | --- |
+| [决策模型](../../../handbook/experimentation/README.zh.md#决策模型) | 五家公司 | 实验应该从决策、机制、负责人和行动规则开始。 |
+| [OEC 与指标体系](../../../handbook/experimentation/README.zh.md#oec-与指标体系) | Microsoft / Bing；Facebook；Ramp；Airtable | 主要结果需要诊断、护栏与长期价值连接。 |
+| [Power 与不确定性](../../../handbook/experimentation/README.zh.md#power效应与不确定性) | Microsoft / Bing；Ramp | 最小有意义效应与不确定性决定结果能否行动。 |
+| [信任与实验质量](../../../handbook/experimentation/README.zh.md#信任与实验质量) | Microsoft / Bing；Booking.com；Facebook | 分组、曝光、事件、指标与可复现性必须通过验证。 |
+| [长期效应](../../../handbook/experimentation/README.zh.md#长期效应与代理指标) | Microsoft / Bing；Facebook；Airtable | 短期代理需要通过留存价值与伤害进行下游验证。 |
+| [干扰与随机化](../../../handbook/experimentation/README.zh.md#干扰与随机化单位) | Booking.com；Facebook | 并行曝光、网络与共享界面需要明确设计假设。 |
+| [决策规则](../../../handbook/experimentation/README.zh.md#决策规则) | Ramp；Microsoft / Bing | 正向、负向、Flat、有害与不确定结果需要预定义行动。 |
+| [实验运行系统](../../../handbook/experimentation/README.zh.md#实验运行系统) | 五家公司 | 平台、方法、人员、所有权、文档与落实共同构成系统。 |
 
 ## 相关人物
 
-- [Ronny Kohavi](../../people/ronny-kohavi/README.zh.md)：OEC、Power、SRM、可信实验平台、长期效应与实验文化。
-- [Lukas Vermeer](../../people/lukas-vermeer/README.zh.md)：实验民主化、自助式平台、并行测试、交互效应、赋权团队与实验领导力。
-- [Brian Balfour](../../people/brian-balfour/README.zh.md)：假设驱动的病毒实验、Growth Machine 与学习系统。
-- [Morgan Brown](../../people/morgan-brown/README.zh.md)：约束驱动的假设、科学学习与 AI 产品评估。
-- [Casey Winters](../../people/casey-winters/README.zh.md)：转化实验、定性研究、下游验证与增长模型诊断。
-
+- [Ronny Kohavi](../../people/ronny-kohavi/README.zh.md)：OEC、Power、SRM、可信平台、Twyman's Law 与长期效应。
+- [Lukas Vermeer](../../people/lukas-vermeer/README.zh.md)：自助平台、并行测试、交互管理、赋权团队与领导力。
+- [Alex Schultz](../../people/alex-schultz/README.zh.md)：留存优先指标、埋点、产品权限与实验驱动决策。
+- [Naomi Gleit](../../people/naomi-gleit/README.zh.md)：埋点、激活代理边界、学习速度、Canonical Document 与决策系统。
+- [George Bonaci](../../people/george-bonaci/README.zh.md)：实验组合、速度与质量、Postmortem 与资源分配。
+- [Sri Batchu](../../people/sri-batchu/README.zh.md)：有结论失败、增长工程、经济指标与团队设计。
+- [Lauryn Isford](../../people/lauryn-isford/README.zh.md)：Airtable 新用户引导、激活结果、分群、协作与护栏。
 
 ## 证据与局限
 
-- 证据主要来自参与者访谈和公开材料，不是完整内部因果评估。
-- 公司规模、品类、监管、数据与人才条件限制直接迁移。
-- 发布方增长、收入、估值与客户数主张不用于证明单项方法。
+- 公司证据主要来自参与者访谈、公开演讲、教学材料与重构公司页，而不是完整内部实验记录。
+- 案例覆盖不同年代、产品、流量、随机化约束、监管与证据质量。
+- 完整样本量、Power 假设、分组、曝光、区间、护栏、长期效应与决策结果不可得。
+- 公司整体结果还来自产品价值、市场条件、战略、工程、领导层与实验项目之外的多个团队。
+- 收录用于描述实验模式，不代表任何公司或人物认可。

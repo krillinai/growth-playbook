@@ -116,6 +116,7 @@ Novelty、Primacy、学习、季节性、延迟流失、内容供给、网络效
 - [指标与衡量](../../../handbook/metrics/README.zh.md)
 - [漏斗与约束模型](../../../handbook/funnel-and-constraint/README.zh.md)
 - [增长基础设施](../../../handbook/growth-infrastructure/README.zh.md)
+- [Microsoft / Bing](../../companies/microsoft/README.zh.md)
 - [Airbnb](../../companies/airbnb/README.zh.md)
 - [实验案例](../../themes/experimentation/README.zh.md)
 

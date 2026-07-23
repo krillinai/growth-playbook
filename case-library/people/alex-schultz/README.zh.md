@@ -322,6 +322,8 @@ Hotmail 的邮件签名、PayPal 的交易市场与推荐激励，以及 Faceboo
 
 ## 相关手册内容
 
+- [实验系统](../../../handbook/experimentation/README.zh.md)
+
 - [增长组织](../../../handbook/growth-organization/README.zh.md)
 
 - [推荐与扩张](../../../handbook/referral-and-loops/README.zh.md)
