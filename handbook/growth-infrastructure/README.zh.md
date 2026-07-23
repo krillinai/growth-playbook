@@ -135,18 +135,28 @@ Consent 与保留等级
 
 ## 6. 素材系统
 
-素材基础设施应保留假设、资产、受众、Placement、曝光和下游结果之间的关系。
+素材基础设施应保留客户证据、Concept、资产、受众、Placement、曝光和下游结果之间的关系。
 
 | 能力 | 支持的决策 |
 | --- | --- |
 | 资产注册与血缘 | 创建、修改、批准和复用了什么？ |
-| 结构化标签 | 使用了什么信息、格式、Hook、产品和受众？ |
+| 结构化标签 | 使用了什么 Persona、Pillar、Angle、Proof、Format、Hook、产品、Creator 与受众？ |
+| Concept 血缘 | 哪些资产属于同一假设的迭代，哪些属于 Net-new Concept？ |
 | 生成与适配 | 哪些变体能在品牌和政策规则内生成？ |
 | 审核流程 | 谁检查主张、权利、安全、本地化与质量？ |
 | 疲劳监控 | 重复曝光何时降低效果或信任？ |
 | 结果反馈 | 哪种创意机制贡献了留存客户价值？ |
 
-素材系统不能以资产数量为目标。有效吞吐量是通过可信下游衡量测试了多少会影响决策的假设。
+```text
+研究与账户证据
+-> Concept 地图与优先 Brief
+-> 生产、Creator 权利与审核
+-> 上线、投放与曝光
+-> Concept 级下游分析
+-> 决策日志与下一份 Brief
+```
+
+指定一名负责人维护 Concept 地图，并让证据在研究、品牌、Creator、编辑、媒体采购、落地路径与分析之间流动。素材系统不能以资产数量为目标。有效吞吐量是通过可信下游衡量测试了多少会影响决策的假设。
 
 ## 7. 治理与运营
 
@@ -278,6 +288,7 @@ Consent 与保留等级
 - [Ramp](../../case-library/companies/ramp/README.zh.md)：增长工程、GTM 数据连接、衡量与共享 AI Agent 上下文。
 - [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.zh.md)：约束驱动基础设施、实验民主化、并行实验与赋权团队。
 - [徐洪亮](../../case-library/people/xu-hongliang/README.zh.md)：共享增长平台、多周期价值、自动化、素材系统、激励与风险。
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.zh.md)：素材分类、Concept 血缘、付费社媒账户诊断、Creator 运营、AI 辅助工作流与反馈循环。
 - [Ronny Kohavi](../../case-library/people/ronny-kohavi/README.zh.md)：可信实验平台、OEC、SRM、Power 与质量体系。
 - [Alex Schultz](../../case-library/people/alex-schultz/README.zh.md) 与 [Naomi Gleit](../../case-library/people/naomi-gleit/README.zh.md)：留存驱动指标、埋点、新用户引导与组织学习。
 

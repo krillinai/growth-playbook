@@ -135,18 +135,28 @@ Delivery success is not customer success. Measure downstream activation, retaine
 
 ## 6. Creative Systems
 
-Creative infrastructure should preserve the relationship between hypothesis, asset, audience, placement, exposure, and downstream outcome.
+Creative infrastructure should preserve the relationship between customer evidence, concept, asset, audience, placement, exposure, and downstream outcome.
 
 | Capability | Decision supported |
 | --- | --- |
 | Asset registry and lineage | What was created, changed, approved, and reused? |
-| Structured tags | Which message, format, hook, product, and audience were represented? |
+| Structured tags | Which persona, pillar, angle, proof, format, hook, product, creator, and audience were represented? |
+| Concept lineage | Which assets are iterations of one hypothesis, and which are net-new concepts? |
 | Generation and adaptation | Which variations can be produced within brand and policy rules? |
 | Review workflow | Who checks claims, rights, safety, localization, and quality? |
 | Fatigue monitoring | When does repeated exposure reduce performance or trust? |
 | Outcome feedback | Which creative mechanism contributes to retained customer value? |
 
-Do not optimize the creative system for asset count. Useful throughput is the number of decision-relevant hypotheses tested with valid downstream measurement.
+```text
+research and account evidence
+-> concept map and prioritized brief
+-> production, creator rights, and review
+-> launch, delivery, and exposure
+-> concept-level downstream analysis
+-> decision log and next brief
+```
+
+Give one owner responsibility for maintaining the concept map and moving evidence across research, brand, creators, editors, media buying, landing paths, and analysis. Do not optimize the creative system for asset count. Useful throughput is the number of decision-relevant hypotheses tested with valid downstream measurement.
 
 ## 7. Governance and Operations
 
@@ -278,6 +288,7 @@ Internal adoption is necessary but insufficient. A widely used platform that doe
 - [Ramp](../../case-library/companies/ramp/README.md): growth engineering, GTM data connections, measurement, and shared AI-agent context.
 - [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.md): constraint-led infrastructure, democratization, concurrent experiments, and empowered teams.
 - [Xu Hongliang](../../case-library/people/xu-hongliang/README.md): shared growth platforms, multi-horizon value, automation, creative systems, incentives, and risk.
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.md): creative taxonomy, concept lineage, paid-social account diagnosis, creator operations, AI-assisted workflows, and feedback loops.
 - [Ronny Kohavi](../../case-library/people/ronny-kohavi/README.md): trustworthy experiment platforms, OEC, SRM, power, and quality systems.
 - [Alex Schultz](../../case-library/people/alex-schultz/README.md) and [Naomi Gleit](../../case-library/people/naomi-gleit/README.md): retention-led metrics, instrumentation, onboarding, and organizational learning.
 

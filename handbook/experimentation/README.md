@@ -272,6 +272,7 @@ Maturity is not experiment volume or platform complexity. A small organization c
 - [Booking.com](../../case-library/companies/booking-com/README.md): self-service experimentation, shared methods, parallel tests, and local decision ownership.
 - [Ramp](../../case-library/companies/ramp/README.md): experiment portfolios, conclusive failure, economic guardrails, and postmortems.
 - [Sean Ellis](../../case-library/people/sean-ellis/README.md): scientific growth loops, high-tempo testing, and prioritization.
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.md): concept versus execution tests, creative portfolio coverage, paid-social measurement, and AI-assisted workflow boundaries.
 - [Alex Schultz](../../case-library/people/alex-schultz/README.md): retention-first growth, instrumentation, and company-level metrics.
 - [Airtable](../../case-library/companies/airtable/README.md): onboarding experiments, downstream collaboration, and guardrails.
 - [Facebook / Meta](../../case-library/companies/facebook/README.md): experimentation, data systems, activation, and network context.

@@ -272,6 +272,7 @@ Ramp 的组合框架、Booking.com 的分布式决策系统，以及 Microsoft /
 - [Booking.com](../../case-library/companies/booking-com/README.zh.md)：自助实验、共享方法、并行测试与本地决策责任。
 - [Ramp](../../case-library/companies/ramp/README.zh.md)：实验组合、有结论失败、经济护栏与 Postmortem。
 - [Sean Ellis](../../case-library/people/sean-ellis/README.zh.md)：科学增长循环、高频测试与优先级。
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.zh.md)：Concept 与执行测试、素材组合覆盖、付费社媒衡量与 AI 辅助工作流边界。
 - [Alex Schultz](../../case-library/people/alex-schultz/README.zh.md)：留存优先增长、数据埋点与公司级指标。
 - [Airtable](../../case-library/companies/airtable/README.zh.md)：Onboarding 实验、下游协作与护栏。
 - [Facebook / Meta](../../case-library/companies/facebook/README.zh.md)：实验、数据系统、激活与网络情境。

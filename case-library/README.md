@@ -11,7 +11,7 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Elena Verna](people/elena-verna/README.md): Cross-company growth operator focused on PLG, PLS, monetization, growth models, earned distribution, and experimentation.
 - [Naomi Gleit](people/naomi-gleit/README.md): Meta Head of Product; activation, retention, onboarding, instrumentation, experimentation, and clear product operations.
 - [Sean Ellis](people/sean-ellis/README.md): PMF Test, activation, North Star Metrics, ICE prioritization, and high-tempo experimentation.
-- [View more](people/README.md)
+- [View all 27 people](people/README.md)
 
 ## [Growth Foundations](themes/README.md#growth-foundations)
 
@@ -44,4 +44,4 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Duolingo](companies/duolingo/README.md): organic growth, internationalization, subscriptions, experimentation, retention, and gamification.
 - [Facebook / Meta](companies/facebook/README.md): campus expansion, activation, retention, experimentation, internationalization, and multi-product growth.
 - [Ramp](companies/ramp/README.md): customer savings, B2B UX, product velocity, growth measurement, brand, and AI operations.
-- [View more](companies/README.md)
+- [View all 16 companies](companies/README.md)

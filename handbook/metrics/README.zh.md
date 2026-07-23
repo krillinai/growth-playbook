@@ -443,6 +443,7 @@ Fully Loaded CAC 应定义客户，按照转化延迟匹配投入，区分新增
 - [增长模型](../growth-model/README.zh.md)：围绕明确因果关系组织结果、输入与护栏指标。
 - [客户分群与 ICP](../customer-segmentation/README.zh.md)：只有分群证据能够改变决策时才使用它。
 - [Andrew Chen](../../case-library/people/andrew-chen/README.zh.md)：Power User Curve、NPS 来源边界、CAC/CPA、消费产品基准与生命周期 Reach。
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.zh.md)：平台功劳、事件质量、新客户衡量、素材分类与付费社媒账户诊断。
 - [Brian Balfour](../../case-library/people/brian-balfour/README.zh.md)：指标星座中的输出、输入与 Trade-off Metrics。
 - [Facebook / Meta](../../case-library/companies/facebook/README.zh.md)：留存、增长核算、激活代理与数据质量。
 - [Ramp](../../case-library/companies/ramp/README.zh.md)：获客与扩张、回本、贡献毛利与多种价值指标。

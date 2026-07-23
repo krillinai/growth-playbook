@@ -443,6 +443,7 @@ Every weekly review should answer:
 - [Growth Model](../growth-model/README.md): organizing outcome, input, and guardrail metrics around explicit causal relationships.
 - [Customer Segmentation & ICP](../customer-segmentation/README.md): using segment evidence only when it changes a decision.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): Power User Curves, NPS source boundaries, CAC/CPA, consumer benchmarks, and lifecycle reach.
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.md): platform credit, event quality, new-customer measurement, creative taxonomy, and paid-social account diagnosis.
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md): output, input, and trade-off metrics within a metric constellation.
 - [Facebook / Meta](../../case-library/companies/facebook/README.md): retention, growth accounting, activation proxies, and data quality.
 - [Ramp](../../case-library/companies/ramp/README.md): acquisition versus expansion, payback, contribution margin, and multiple value measures.

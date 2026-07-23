@@ -11,7 +11,7 @@
 - [Elena Verna](people/elena-verna/README.zh.md)：跨公司增长负责人，围绕 PLG、PLS、商业化、增长模型、自然分发与实验的方法。
 - [Naomi Gleit](people/naomi-gleit/README.zh.md)：Meta Head of Product，围绕激活、留存、新用户引导、数据埋点、实验与清晰的产品协作方法。
 - [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF Test、激活、北极星指标、ICE 排序与高频实验的方法。
-- [查看更多](people/README.zh.md)
+- [查看全部 27 位人物](people/README.zh.md)
 
 ## [增长基础](themes/README.zh.md#增长基础)
 
@@ -44,4 +44,4 @@
 - [Duolingo](companies/duolingo/README.zh.md)：自然增长、国际化、订阅、实验、留存与游戏化。
 - [Facebook / Meta](companies/facebook/README.zh.md)：校园扩张、激活、留存、实验、国际化与多产品增长。
 - [Ramp](companies/ramp/README.zh.md)：客户节省、B2B UX、产品速度、增长衡量、品牌与 AI 运营。
-- [查看更多](companies/README.zh.md)
+- [查看全部 16 家公司](companies/README.zh.md)

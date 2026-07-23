@@ -137,6 +137,7 @@ Risk controls should sit inside data access, assignment, delivery, model, and re
 - [Ronny Kohavi](../../people/ronny-kohavi/README.md): trustworthy experiment services, OEC, power, SRM, long-term effects, and culture.
 - [Sri Batchu](../../people/sri-batchu/README.md): growth engineering, metrics, payback, experiments, and team design.
 - [George Bonaci](../../people/george-bonaci/README.md): measurement, experiment portfolios, postmortems, and AI-agent operations.
+- [Andrew Foxwell](../../people/andrew-foxwell/README.md): creative taxonomy, concept lineage, creator workflows, paid-social diagnosis, and AI-assisted production systems.
 - [Andrew Chen](../../people/andrew-chen/README.md): technical growth and productized distribution in the Airbnb case.
 
 ## Evidence and Limits

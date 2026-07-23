@@ -216,7 +216,29 @@ Track marginal performance by channel, asset, audience, and cohort. Paid acquisi
 
 ## Creative System and Fatigue
 
-Creative is a system of hypotheses, assets, audiences, contexts, and downstream outcomes. Tag the problem, promise, proof, format, creator, market, and call to action so learning can accumulate.
+Creative is a system of customer hypotheses, messages, assets, delivery contexts, and downstream outcomes. Tag the problem, persona, value pillar, angle, proof, format, creator, market, call to action, and concept lineage so learning can accumulate.
+
+| Dimension | Required question |
+| --- | --- |
+| Persona | Which customer situation, motivation, or segment is addressed? |
+| Pillar | Which core problem or value is communicated? |
+| Angle | Which objection, interpretation, use case, or reason to care is tested? |
+| Format | Which execution form carries the concept? |
+| Hook and proof | How is attention earned and the promise made credible? |
+| Concept lineage | Is this a net-new hypothesis or an iteration of an existing concept? |
+
+Separate a concept from its executions:
+
+```text
+customer evidence
+-> persona x pillar x angle hypothesis
+-> formats, hooks, creators, and placements
+-> platform delivery and landing path
+-> new-customer and downstream outcomes
+-> updated concept map
+```
+
+An execution test changes how a concept is expressed. A net-new concept changes the customer, problem, value, objection, offer, or proof hypothesis. Both can be useful, but combining them under “more creative” hides what the team learned.
 
 | Failure pattern | Check | Response |
 | --- | --- | --- |
@@ -225,7 +247,7 @@ Creative is a system of hypotheses, assets, audiences, contexts, and downstream 
 | Strong platform conversion, weak lift | Attribution overlap | Run holdout or market tests. |
 | More variants, no better learning | Weak taxonomy or automated noise | Reduce volume and improve hypothesis quality. |
 
-Creative volume without original insight, brand control, and downstream measurement scales noise.
+Audit portfolio coverage as well as individual winners. Concentrated spend can reveal a strong concept, an underexplored portfolio, platform delivery preference, or attribution bias; it does not prove that all other customer needs are irrelevant. Creative volume without original insight, brand control, rights, and downstream measurement scales noise.
 
 ## Landing Path and Downstream Quality
 
@@ -360,6 +382,7 @@ Decision owner and review cadence:
 - [Experimentation](../experimentation/README.md): causal tests, uncertainty, guardrails, and decision rules.
 - [Growth Infrastructure](../growth-infrastructure/README.md): taxonomy, attribution, creative, delivery, and governance services.
 - [Andrew Chen](../../case-library/people/andrew-chen/README.md): channel decay, paid dependency, CAC, and productized distribution.
+- [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.md): Meta advertising, persona-pillar-angle systems, net-new concepts, creator partnerships, account diagnosis, and creative operations.
 - [Brian Balfour](../../case-library/people/brian-balfour/README.md): channel selection, Channel-Model Fit, and scoped launches.
 - [Casey Winters](../../case-library/people/casey-winters/README.md): SEO, kindle-to-fire acquisition, and sustainable scaling.
 - [Xu Hongliang](../../case-library/people/xu-hongliang/README.md): LTV horizons, automation, creative systems, and international execution.

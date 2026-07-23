@@ -143,6 +143,7 @@ Pinterest, ByteDance, and Duolingo all show that language is only one part of ex
 
 - [Casey Winters](../../people/casey-winters/README.md): Pinterest SEO, real entry surfaces, international growth, and kindle-to-fire acquisition.
 - [Andrew Chen](../../people/andrew-chen/README.md): Airbnb's productized distribution, channel decay, marginal CAC, and paid dependency.
+- [Andrew Foxwell](../../people/andrew-foxwell/README.md): Meta advertising, creative diversification, net-new concepts, creator partnerships, account diagnosis, and paid-social operations.
 - [Xu Hongliang](../../people/xu-hongliang/README.md): ByteDance LTV horizons, automated delivery, creative systems, risk control, and localization.
 - [Gina Gotthilf](../../people/gina-gotthilf/README.md): Duolingo organic acquisition, internationalization, brand, and subscription growth.
 - [Elena Verna](../../people/elena-verna/README.md): Lovable launches, earned distribution, PLG, and AI-era channel portfolios.
