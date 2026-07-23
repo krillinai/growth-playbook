@@ -86,7 +86,7 @@ Sensor Tower is useful when internal data explains only your own product and you
 6. Validate with app-store consoles, product analytics, advertising platforms, CRM, revenue, and qualitative research.
 7. Revisit external estimates when methodology, coverage, category definitions, or platform policies change.
 
-## Related Handbook
+## Related Knowledge
 
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Paid Acquisition](../../../handbook/acquisition/README.md#paid-acquisition)

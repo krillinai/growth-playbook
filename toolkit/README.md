@@ -1,6 +1,6 @@
 # Toolkit
 
-> Tools and execution resources connected to the methods, metrics, and evidence in the Handbook and Case Library.
+> Tools and execution resources connected to the methods, metrics, and evidence in the Playbook knowledge modules and Case Library.
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 

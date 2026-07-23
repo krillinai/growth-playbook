@@ -9,4 +9,4 @@
 
 ## Selection Standard
 
-Each tool page documents suitable jobs, usage context, metrics, limitations, and links to the relevant Handbook modules. It does not reproduce vendor marketing or imply that purchasing a tool replaces strategy, customer research, experimentation, or first-party measurement.
+Each tool page documents suitable jobs, usage context, metrics, limitations, and links to the relevant Playbook knowledge modules. It does not reproduce vendor marketing or imply that purchasing a tool replaces strategy, customer research, experimentation, or first-party measurement.

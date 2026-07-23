@@ -86,7 +86,7 @@
 6. 使用 App Store 后台、产品分析、广告平台、CRM、收入和定性研究验证。
 7. 方法、覆盖、品类定义或平台政策变化时重新检查外部估算。
 
-## 相关手册
+## 相关知识
 
 - [获客](../../../handbook/acquisition/README.zh.md)
 - [付费获客](../../../handbook/acquisition/README.zh.md#付费获客)

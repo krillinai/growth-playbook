@@ -1,6 +1,6 @@
 # 工具箱
 
-> 把工具与 Handbook、Case Library 中的方法、指标和证据连接起来。
+> 把工具与 Playbook 知识模块、Case Library 中的方法、指标和证据连接起来。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 

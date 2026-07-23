@@ -20,9 +20,9 @@
 
 ### [获客](acquisition/README.zh.md)
 
-客户与意图匹配、渠道组合、增量、获客质量、边际经济性、搜索、付费系统、素材、入口路径与国际化。
+客户与意图匹配、渠道组合、增量、获客质量、边际经济性、搜索、生成式答案可见性、付费系统、素材、入口路径与国际化。
 
-[渠道组合](acquisition/README.zh.md#渠道组合) · [增量](acquisition/README.zh.md#归因与增量) · [SEO](acquisition/README.zh.md#可规模化-seo-页面系统) · [付费](acquisition/README.zh.md#付费获客) · [国际化](acquisition/README.zh.md#国际化与市场进入)
+[渠道组合](acquisition/README.zh.md#渠道组合) · [增量](acquisition/README.zh.md#归因与增量) · [SEO](acquisition/README.zh.md#可规模化-seo-页面系统) · [GEO](geo/README.zh.md) · [付费](acquisition/README.zh.md#付费获客) · [国际化](acquisition/README.zh.md#国际化与市场进入)
 
 ### [激活](activation/README.zh.md)
 

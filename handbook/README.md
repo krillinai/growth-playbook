@@ -20,9 +20,9 @@ Foundations explain the concepts, models, and logic used across every stage.
 
 ### [Acquisition](acquisition/README.md)
 
-Customer and intent fit, channel portfolios, incrementality, acquisition quality, marginal economics, search, paid systems, creative, entry paths, and internationalization.
+Customer and intent fit, channel portfolios, incrementality, acquisition quality, marginal economics, search, generative answer visibility, paid systems, creative, entry paths, and internationalization.
 
-[Channel Portfolio](acquisition/README.md#channel-portfolio) · [Incrementality](acquisition/README.md#attribution-and-incrementality) · [SEO](acquisition/README.md#scalable-seo-page-systems) · [Paid](acquisition/README.md#paid-acquisition) · [Internationalization](acquisition/README.md#internationalization-and-market-entry)
+[Channel Portfolio](acquisition/README.md#channel-portfolio) · [Incrementality](acquisition/README.md#attribution-and-incrementality) · [SEO](acquisition/README.md#scalable-seo-page-systems) · [GEO](geo/README.md) · [Paid](acquisition/README.md#paid-acquisition) · [Internationalization](acquisition/README.md#internationalization-and-market-entry)
 
 ### [Activation](activation/README.md)
 

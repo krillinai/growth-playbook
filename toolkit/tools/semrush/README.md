@@ -87,7 +87,7 @@ Semrush is most useful before and around execution: understanding discoverable d
 6. Monitor visibility changes without treating them as business outcomes.
 7. Validate through first-party acquisition, activation, retention, revenue, and incrementality data.
 
-## Related Handbook
+## Related Knowledge
 
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Content & Social Distribution](../../../handbook/acquisition/README.md#content-and-social-distribution)
