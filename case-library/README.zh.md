@@ -13,6 +13,10 @@
 - [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF Test、激活、北极星指标、ICE 排序与高频实验的方法。
 - [查看更多](people/README.zh.md)
 
+## [增长基础](themes/README.zh.md#增长基础)
+
+- [产品市场匹配](themes/product-market-fit/README.zh.md)
+
 ## [增长环节](themes/README.zh.md#增长环节)
 
 - [获客](themes/acquisition/README.zh.md)

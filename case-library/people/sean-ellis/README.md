@@ -291,6 +291,10 @@ Teams should distinguish organic word of mouth from engineered referrals, then m
 
 ## Related Playbook Content
 
+- [Product-Market Fit](../../../handbook/product-market-fit/README.md)
+
+- [Product-Market Fit Cases](../../themes/product-market-fit/README.md)
+
 - [Referral & Expansion](../../../handbook/referral-and-loops/README.md)
 
 - [Activation](../../../handbook/activation/README.md)

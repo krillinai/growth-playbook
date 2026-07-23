@@ -486,6 +486,8 @@ The goal is to make the product understandable, credible, and accessible whereve
 
 - [Retention](../../../handbook/retention/README.md)
 
+- [Product-Market Fit](../../../handbook/product-market-fit/README.md)
+- [Product-Market Fit Cases](../../themes/product-market-fit/README.md)
 - [Growth Model](../../../handbook/growth-model/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Lovable company page](../../companies/lovable/README.md)

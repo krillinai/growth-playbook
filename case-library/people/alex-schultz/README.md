@@ -332,6 +332,8 @@ Hotmail's email signature, PayPal's marketplace and referral incentives, and Fac
 
 - [Retention](../../../handbook/retention/README.md)
 
+- [Product-Market Fit](../../../handbook/product-market-fit/README.md)
+- [Product-Market Fit Cases](../../themes/product-market-fit/README.md)
 - [Facebook / Meta company page](../../companies/facebook/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [Growth Infrastructure](../../../handbook/growth-infrastructure/README.md)

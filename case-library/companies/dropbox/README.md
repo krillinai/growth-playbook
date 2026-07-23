@@ -73,6 +73,7 @@ Customer task
 
 ## Related Themes and People
 
+- [Product-Market Fit](../../themes/product-market-fit/README.md)
 - [Activation](../../themes/activation/README.md)
 - [Retention](../../themes/retention/README.md)
 - [Referral & Expansion](../../themes/referral-and-loops/README.md)

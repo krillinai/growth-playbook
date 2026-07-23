@@ -38,6 +38,7 @@ Lovable is a useful case for studying growth in AI-native software, where produc
 
 ## Related Themes
 
+- [Product-Market Fit](../../themes/product-market-fit/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Monetization](../../themes/monetization/README.md)
 - [Referral & Expansion](../../themes/referral-and-loops/README.md)

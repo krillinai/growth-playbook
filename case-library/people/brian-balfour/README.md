@@ -181,6 +181,7 @@ The mechanism reduces three constraints common to UGC loops: the effort required
 - [Growth Model](../../../handbook/growth-model/README.md)
 - [Customer Segmentation & ICP](../../../handbook/customer-segmentation/README.md)
 - [Product-Market Fit](../../../handbook/product-market-fit/README.md)
+- [Product-Market Fit Cases](../../themes/product-market-fit/README.md)
 - [Growth Metrics System](../../../handbook/metrics/README.md)
 - [Acquisition](../../../handbook/acquisition/README.md)
 - [Retention](../../../handbook/retention/README.md)

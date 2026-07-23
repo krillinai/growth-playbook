@@ -36,6 +36,7 @@ Market shocks and structural category changes also limit optimization. Better ex
 
 ## Related Themes and People
 
+- [Product-Market Fit Cases](../../themes/product-market-fit/README.md)
 - [Acquisition](../../themes/acquisition/README.md)
 - [Retention](../../themes/retention/README.md)
 - [Growth Organization](../../themes/growth-organization/README.md)

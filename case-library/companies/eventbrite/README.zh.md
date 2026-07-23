@@ -36,6 +36,7 @@ CPO 内容强调：
 
 ## 相关主题与人物
 
+- [产品市场匹配案例](../../themes/product-market-fit/README.zh.md)
 - [获客](../../themes/acquisition/README.zh.md)
 - [留存](../../themes/retention/README.zh.md)
 - [增长组织](../../themes/growth-organization/README.zh.md)

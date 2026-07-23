@@ -13,6 +13,10 @@ The Case Library collects growth practitioners, ideas, companies, and concrete c
 - [Sean Ellis](people/sean-ellis/README.md): PMF Test, activation, North Star Metrics, ICE prioritization, and high-tempo experimentation.
 - [View more](people/README.md)
 
+## [Growth Foundations](themes/README.md#growth-foundations)
+
+- [Product-Market Fit](themes/product-market-fit/README.md)
+
 ## [Growth Stages](themes/README.md#growth-stages)
 
 - [Acquisition](themes/acquisition/README.md)

@@ -147,6 +147,7 @@ SuperMe 讨论如何从写作、对话等内容中表达专业判断。产品依
 - [增长模型](../../../handbook/growth-model/README.zh.md)
 - [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
 - [产品市场匹配](../../../handbook/product-market-fit/README.zh.md)
+- [产品市场匹配案例](../../themes/product-market-fit/README.zh.md)
 - [获客](../../../handbook/acquisition/README.zh.md)
 - [激活](../../../handbook/activation/README.zh.md)
 - [留存](../../../handbook/retention/README.zh.md)
