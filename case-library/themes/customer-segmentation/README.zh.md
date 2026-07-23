@@ -4,7 +4,7 @@
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
-关于定义、分群规范、ICP Contract、证据设计、诊断、治理与成熟度，参见[客户分群与 ICP 知识模块](../../../handbook/customer-segmentation/README.zh.md)。
+关于定义、分群规范、ICP（理想客户画像） Contract、证据设计、诊断、治理与成熟度，参见[客户分群与 ICP 知识模块](../../../handbook/customer-segmentation/README.zh.md)。
 
 ## 证据矩阵
 
@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- |
 | [Airtable](../../companies/airtable/README.zh.md) | 哪种意图与工作流应该引导灵活产品用户到达首次价值？ | 新用户引导路径、模板、激活、协作衡量 | 参与者对超级用户研究、Guided Setup、工作流与下游协作的讲述 | 公开材料缺少完整分群规则、样本量与分群实验结果 |
 | [HubSpot](../../companies/hubspot/README.zh.md) | 哪个市场层级、角色、价格与购买动作能够支持产品和商业模式？ | 目标市场、产品深度、套餐、渠道、销售动作 | 留存、客户研究、市场计算、定价与 Four Fits 调整 | 单一产品时期的近似回顾数字不是官方分群经济性 |
-| [Lovable](../../companies/lovable/README.zh.md) | 快速增长 AI 产品如何区分 Hobbyist 关注与拥有长期商业意图的客户？ | ICP 定义、激活、Product-Led Sales、商业化、付费获客时机 | 参与者对 ICP 信号、产品行为、留存、信任与 AI-native 增长的讲述 | 完整资格规则、Cohort、PLS 转化与单位经济性不可得 |
+| [Lovable](../../companies/lovable/README.zh.md) | 快速增长 AI 产品如何区分 Hobbyist 关注与拥有长期商业意图的客户？ | ICP 定义、激活、Product-Led Sales、商业化、付费获客时机 | 参与者对 ICP 信号、产品行为、留存、信任与 AI-native 增长的讲述 | 完整资格规则、Cohort（同期群）、PLS（产品驱动销售）转化与单位经济性不可得 |
 | [字节跳动](../../companies/bytedance/README.zh.md) | 市场、设备、价格敏感度、监管或产品组合重叠何时需要不同产品与运营？ | 市场优先级、Lite 产品、资格、本地化、风险、互导 | 参与者对本地适配、设备条件、激励、人群隔离与产品组合衡量的讲述 | 实践跨越多个产品和年份，规模特殊且分群记录有限 |
 | [Duolingo](../../companies/duolingo/README.zh.md) | 消费订阅产品如何区分市场、渠道、产品状态与学习意图？ | 国际化、获客、免费与付费处理、留存、召回、商业化 | 跨市场扩张、订阅、生命周期状态与学习行为的参与者综合证据 | 公开证据缺少完整分群定义、本地 Cohort、处理效果与经济性 |
 
@@ -43,7 +43,7 @@
     -> 重复邮件追踪价值
     -> 相邻的关系型专业人士
     -> 市场与支付意愿证据
-    -> 广泛低 ARPU 路径或 HubSpot Mid-market 路径
+    -> 广泛低 ARPU（每用户平均收入）路径或 HubSpot Mid-market 路径
     -> 协调改变产品、价格、渠道、销售与合同
 
 Balfour 的讲述区分了用户角色与账户级目标市场。选择 HubSpot 已有的 Mid-market 客户不只是改变企业属性标签；产品、套餐、获客动作、销售流程与经济性需要一起变化。
@@ -104,7 +104,7 @@ Verna 的参与者视角强调区分 ICP 信号与 Hobbyist Noise，并把产品
 
 ### 分群必须改变决策
 
-Airtable 改变新用户引导，HubSpot 改变完整市场与 GTM 系统，Lovable 改变资格与销售路由，字节跳动改变产品和本地执行，Duolingo 改变市场、生命周期与商业化处理。
+Airtable 改变新用户引导，HubSpot 改变完整市场与 GTM（市场进入策略）系统，Lovable 改变资格与销售路由，字节跳动改变产品和本地执行，Duolingo 改变市场、生命周期与商业化处理。
 
 描述性切片只有在改变决策后，才成为运营分群。
 
@@ -127,7 +127,7 @@ HubSpot 区分个人用户与目标账户，Airtable 区分用户意图与 Works
 | 产品条件 | 最相关案例 | 可以借鉴 | 不能假定 |
 | --- | --- | --- | --- |
 | 灵活产品服务大量工作流 | Airtable | 只询问能改变路径的意图问题，并通过下游价值验证 | 更多个性化问题或协作一定改善激活 |
-| B2B 产品正在考虑市场层级迁移 | HubSpot | 围绕目标分群重建产品、价格、渠道、销售与经济性 | 只用公司规模定义新 ICP |
+| B2B（企业对企业）产品正在考虑市场层级迁移 | HubSpot | 围绕目标分群重建产品、价格、渠道、销售与经济性 | 只用公司规模定义新 ICP |
 | AI 产品关注度广泛，但商业需求不确定 | Lovable | 路由前组合产品行为、账户准备度、留存与商业化 | Hobbyist 没有价值，或一个使用阈值证明 Sales-ready |
 | 消费产品组合跨设备与市场 | 字节跳动 | 创建独立路径前使用本地条件、资格与产品组合检查 | 历史 Lite 产品或激励策略可以直接迁移 |
 | Freemium 消费产品跨市场与生命周期状态 | Duolingo | 按市场、渠道、意图、免费付费状态与留存行为分群 | 一个全球 Paywall、节奏或学习模式适合所有分群 |
@@ -150,7 +150,7 @@ HubSpot 区分个人用户与目标账户，Airtable 区分用户意图与 Works
 - [April Dunford](../../people/april-dunford/README.zh.md)：最佳匹配客户、替代方案、差异化价值与定位。
 - [Madhavan Ramanujam](../../people/madhavan-ramanujam/README.zh.md)：需求、价值、支付意愿、套餐与经济分群。
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：市场层级、Four Fits、Channel-Model 对齐与 HubSpot Sales。
-- [Elena Verna](../../people/elena-verna/README.zh.md)：ICP 信号、Hobbyist Noise、PLG、Product-Led Sales 与 AI-native 增长。
+- [Elena Verna](../../people/elena-verna/README.zh.md)：ICP 信号、Hobbyist Noise、PLG（产品驱动增长）、Product-Led Sales 与 AI-native 增长。
 - [Lauryn Isford](../../people/lauryn-isford/README.zh.md)：用户意图、新用户引导路径、激活与协作。
 - [徐洪亮](../../people/xu-hongliang/README.zh.md)：市场、设备、本地化、资格、激励与产品组合边界。
 - [Gina Gotthilf](../../people/gina-gotthilf/README.zh.md)：国际市场、订阅增长、渠道与消费生命周期。

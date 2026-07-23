@@ -2,7 +2,7 @@
 
 **[English](output-template.md)｜[简体中文](output-template.zh.md)**
 
-完成[诊断问题](questions.zh.md)后使用本模板。只能用有证据支持的信息替换占位符，不能推断缺失事实。JSON 输出可以省略未知的可选字段。如果必填字段未知，则诊断尚未完成：应先在 `evidence.missing_evidence` 中记录完整陈述，解决后再生成符合 Schema 的输出。枚举或数值字段绝不能使用`未知`占位值。最终输出应符合 [`protocol.schema.json`](protocol.schema.json)。
+完成[诊断问题](questions.zh.md)后使用本模板。只能用有证据支持的信息替换占位符，不能推断缺失事实。JSON（JavaScript 对象表示法）输出可以省略未知的可选字段。如果必填字段未知，则诊断尚未完成：应先在 `evidence.missing_evidence` 中记录完整陈述，解决后再生成符合 Schema 的输出。枚举或数值字段绝不能使用`未知`占位值。最终输出应符合 [`protocol.schema.json`](protocol.schema.json)。
 
 ## Schema 映射
 
@@ -36,7 +36,7 @@
 | 目标（`outcome.target`） | [目标值与单位] |
 | 分群（`outcome.segment`） | [合格用户或优先分群] |
 | 时间窗口（`outcome.time_window`） | [衡量与决策周期] |
-| 症状（`outcome.symptom`） | [观察到的变化、受影响 Cohort 与开始日期] |
+| 症状（`outcome.symptom`） | [观察到的变化、受影响 Cohort（同期群）与开始日期] |
 
 ### 结果指标
 
@@ -70,7 +70,7 @@
 
 | 类型 | 发现 | 来源 | 分群 | 周期 | 质量说明 |
 | --- | --- | --- | --- | --- | --- |
-| [类型] | [支持主要约束的发现] | [数据集、分析、访谈或 URL] | [分群] | [周期] | [覆盖范围、偏差、时效性或衡量局限] |
+| [类型] | [支持主要约束的发现] | [数据集、分析、访谈或 URL（统一资源定位符）] | [分群] | [周期] | [覆盖范围、偏差、时效性或衡量局限] |
 
 ### 矛盾证据
 

@@ -11,10 +11,10 @@
 | 公司 | 定位维度 | 保留的证据 | 可以支持的结论 | 主要边界 |
 | --- | --- | --- | --- | --- |
 | [Airtable](../../companies/airtable/README.zh.md) | 让灵活产品价值变得具体 | 参与者把客户工作流、使用场景、故事与模板连接起来 | 灵活产品可以用已验证工作流与模板表达容易识别的起始价值 | 公开证据无法分离信息、模板、引导、产品或品牌的效果 |
-| [Ramp](../../companies/ramp/README.zh.md) | 经济价值与 B2B 体验 | 管理者描述客户节省、时间节省、消费级 UX、企业控制与产品聚焦 | B2B 定位可以把经济承诺、体验差异与必要信任控制连接起来 | 完整客户结果、Win/Loss、理解度和竞争数据不可得 |
+| [Ramp](../../companies/ramp/README.zh.md) | 经济价值与 B2B（企业对企业）体验 | 管理者描述客户节省、时间节省、消费级 UX（用户体验）、企业控制与产品聚焦 | B2B 定位可以把经济承诺、体验差异与必要信任控制连接起来 | 完整客户结果、Win/Loss、理解度和竞争数据不可得 |
 | [Lovable](../../companies/lovable/README.zh.md) | AI 信任与可信证据 | 参与者证据涉及公开演示、客户示例、产品产物与信任约束 | 当 AI 能力连接到工作流价值与可信证据时，定位更有意义 | 公开演示与参与者解释不能证明具有代表性的产品结果 |
 | [Duolingo](../../companies/duolingo/README.zh.md) | 使命、可达性、产品价值与品牌表达 | 管理者连接普惠学习、Freemium、重复学习、订阅价值与鲜明品牌声音 | 当使命、商业模式、产品行为与品牌表达兼容价值时，定位可以保持一致 | 学习结果、品牌贡献、转化与留存效果无法被分离 |
-| [HubSpot](../../companies/hubspot/README.zh.md) | 市场层级再定位 | 参与者回顾描述聚焦 Mid-market，并协调改变产品、价格、渠道、销售与合同 | 改变目标市场可能要求价值与 GTM 系统一起变化 | 近似历史数字与回顾性解释不能形成定位因果研究 |
+| [HubSpot](../../companies/hubspot/README.zh.md) | 市场层级再定位 | 参与者回顾描述聚焦 Mid-market，并协调改变产品、价格、渠道、销售与合同 | 改变目标市场可能要求价值与 GTM（市场进入策略）系统一起变化 | 近似历史数字与回顾性解释不能形成定位因果研究 |
 
 ## 案例 1：Airtable - 让灵活性变得具体
 
@@ -33,7 +33,7 @@
 
 **可以支持的定位结论。** 灵活平台可以通过客户已经理解的工作流、结果和起始素材，让产品更容易被理解。当模板代表真实价值路径时，它可以同时承载品类教育与产品证据。
 
-**缺失证据与迁移边界。** 公开材料没有提供信息理解测试、模板级留存 Cohort、Win/Loss 变化、竞争替换，或不同定位之间的比较。模板不能补偿薄弱工作流，协作也不是每个个人场景的正确结果。
+**缺失证据与迁移边界。** 公开材料没有提供信息理解测试、模板级留存 Cohort（同期群）、Win/Loss 变化、竞争替换，或不同定位之间的比较。模板不能补偿薄弱工作流，协作也不是每个个人场景的正确结果。
 
 ## 案例 2：Ramp - 连接经济价值、体验与控制
 
@@ -94,7 +94,7 @@
 
 **环境。** Brian Balfour 对 HubSpot Sales 的回顾描述了早期面向个人 Relationship-focused Professionals 的低摩擦产品，以及后来优先聚焦 HubSpot 已有 Mid-market 客户的决定。
 
-**保留的证据。** 这份回顾把市场层级决定连接到产品深度、套餐与价格、获客渠道、销售方式、最低席位和年度合同变化。留存表明产品可能提供重复价值，市场规模与渠道经济性则限制了原有低 ARPU 路径。
+**保留的证据。** 这份回顾把市场层级决定连接到产品深度、套餐与价格、获客渠道、销售方式、最低席位和年度合同变化。留存表明产品可能提供重复价值，市场规模与渠道经济性则限制了原有低 ARPU（每用户平均收入）路径。
 
 ```text
 新目标市场层级
@@ -160,7 +160,7 @@ Airtable 通过工作流让广泛灵活性变得具体；Ramp 把平台广度连
 - [Zoelle Egner](../../people/zoelle-egner/README.zh.md)：客户洞察、工作流、故事、模板、品牌与 Airtable 早期增长。
 - [Eric Glyman](../../people/eric-glyman/README.zh.md)：客户节省、商业模式激励、聚焦与财务工作流信任。
 - [Karim Atiyeh](../../people/karim-atiyeh/README.zh.md)：消费级 B2B 体验、企业控制、差异化与产品速度。
-- [Elena Verna](../../people/elena-verna/README.zh.md)：AI 信任、证据、自然分发、ICP 信号与产品驱动增长。
+- [Elena Verna](../../people/elena-verna/README.zh.md)：AI 信任、证据、自然分发、ICP（理想客户画像）信号与产品驱动增长。
 - [Luis von Ahn](../../people/luis-von-ahn/README.zh.md)：教育可达性、Freemium、产品价值、动机、品牌与 AI 学习。
 - [Gina Gotthilf](../../people/gina-gotthilf/README.zh.md)：品牌声音、国际化、自然获客与订阅。
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：Four Fits、市场层级、渠道、定价与 HubSpot Sales。

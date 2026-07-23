@@ -28,7 +28,7 @@
 
 ## 与增长相关的经历
 
-Dunford 的公开方法来自她在 B2B 科技公司中的运营与咨询经验。她关注的典型问题是：产品本身有价值，但买家、销售团队或市场无法迅速理解，因为产品所处的竞争语境不清晰。
+Dunford 的公开方法来自她在 B2B（企业对企业）科技公司中的运营与咨询经验。她关注的典型问题是：产品本身有价值，但买家、销售团队或市场无法迅速理解，因为产品所处的竞争语境不清晰。
 
 定位会影响获客质量、销售转化、定价能力、产品策略、发布和留存预期，但不能制造产品市场匹配，也不能替代产品证据。
 
@@ -121,7 +121,7 @@ Qualification 应判断潜在客户是否具备使差异化价值成立的问题
 
 ## 相关知识与案例
 
-- [客户分群与 ICP](../../../handbook/customer-segmentation/README.zh.md)
+- [客户分群与 ICP（理想客户画像）](../../../handbook/customer-segmentation/README.zh.md)
 - [客户分群与 ICP 案例](../../themes/customer-segmentation/README.zh.md)
 - [定位](../../../handbook/positioning/README.zh.md)
 - [定位案例](../../themes/positioning/README.zh.md)

@@ -44,6 +44,7 @@ English pages use `README.md`; Simplified Chinese pages use `README.zh.md`. A co
 - equivalent section structure and conclusions;
 - matching source lists and evidence boundaries;
 - language-correct links between paired pages;
+- a Chinese gloss on first use of an English abbreviation or retained English growth term in Chinese body copy, followed by the short form thereafter;
 - product names, company names, formulas, and technical terms accurate rather than mechanically translated.
 
 A translation can adapt sentence structure, but it must not add or remove substantive claims.

@@ -1,6 +1,6 @@
 # 产品市场匹配案例
 
-> 五个公司案例，展示声明依赖、Cohort 留存、相互连接的 Fit 假设、Marketplace 条件与反复验证如何提供不同类型的产品市场匹配证据。
+> 五个公司案例，展示声明依赖、Cohort（同期群）留存、相互连接的 Fit 假设、Marketplace 条件与反复验证如何提供不同类型的产品市场匹配证据。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
@@ -8,11 +8,11 @@
 
 ## 证据矩阵
 
-| 公司 | 核心 PMF 问题 | 最强可用证据 | 主要缺失证据 | 迁移边界 |
+| 公司 | 核心 PMF（产品市场匹配）问题 | 最强可用证据 | 主要缺失证据 | 迁移边界 |
 | --- | --- | --- | --- | --- |
 | [Dropbox](../../companies/dropbox/README.zh.md) | 用户是否足够重视文件同步，从而留存并邀请其他人？ | 参与者对 Must-Have 价值、激活、留存与产品一致推荐的讲述 | 调查样本、Cohort 曲线、经济性与推荐因果提升 | 早期存储行为不能代表 Dropbox 后续所有产品或分群 |
 | [Facebook / Meta](../../companies/facebook/README.zh.md) | 密集社交图谱是否在获客之外创造重复价值？ | Cohort 留存、承载价值的连接、增长核算与埋点 | 完整早期 Cohort、因果激活阈值、信任与福祉影响 | 网络密度、身份、规模与自然频率具有产品特殊性 |
-| [HubSpot](../../companies/hubspot/README.zh.md) | 留存产品价值能否支持目标市场、渠道、价格与规模？ | 趋平留存曲线、Four Fits 与 Model-Market 算术 | 官方财务、完整 Cohort、边际渠道数据与反事实 | 回顾数字与特定 B2B 产品时期限制迁移 |
+| [HubSpot](../../companies/hubspot/README.zh.md) | 留存产品价值能否支持目标市场、渠道、价格与规模？ | 趋平留存曲线、Four Fits 与 Model-Market 算术 | 官方财务、完整 Cohort、边际渠道数据与反事实 | 回顾数字与特定 B2B（企业对企业）产品时期限制迁移 |
 | [Eventbrite](../../companies/eventbrite/README.zh.md) | 供给、需求、时间与市场条件变化时，如何判断 Marketplace Fit？ | 参与者对留存分群、可持续获客、Marketplace 单元与结构变化的判断 | Eventbrite 特定 PMF 调查、留存曲线、本地流动性与经济性 | 该案例更支持诊断边界，而不是经过验证的 PMF 结论 |
 | [Lovable](../../companies/lovable/README.zh.md) | AI-native 产品如何随技术与预期变化反复获得匹配？ | 参与者对自然需求、产品速度、激活、留存与重新验证的讲述 | 成熟 Cohort、调查样本、单位经济性与独立复现 | 公开关注与快速发布不能建立长期 AI 产品匹配 |
 
@@ -57,7 +57,7 @@
     即时产品价值
     -> 趋于平稳的留存曲线
     -> 病毒与付费渠道假设
-    -> 价格与 ARPU
+    -> 价格与 ARPU（每用户平均收入）
     -> 可触达市场与可获得份额
     -> 调整市场、产品、渠道与模式
 

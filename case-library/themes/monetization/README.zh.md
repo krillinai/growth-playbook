@@ -1,6 +1,6 @@
 # 商业化案例
 
-> 对比 Freemium、订阅、广告、B2B 套餐、年度合同、AI 用量经济性、客户节省对齐、预测 LTV 与盈利增长。
+> 对比 Freemium、订阅、广告、B2B（企业对企业）套餐、年度合同、AI 用量经济性、客户节省对齐、预测 LTV（客户生命周期价值）与盈利增长。
 
 **[English](README.md)｜[简体中文](README.zh.md)**
 
@@ -11,10 +11,10 @@
 | 公司 | 用户、购买者与付款人 | 价值与模型 | 扩张或留存逻辑 | 主要风险 |
 | --- | --- | --- | --- | --- |
 | [Duolingo](../../companies/duolingo/README.zh.md) | 学习者使用并可能付费；广告主承担部分免费访问成本 | Freemium、订阅、广告、便利与学习可及性 | 习惯、留存学习、订阅转化与市场覆盖 | 商业化可能损害可及性、学习质量或信任 |
-| [HubSpot](../../companies/hubspot/README.zh.md) | 销售用户、团队购买者与 Mid-Market 账户 | Freemium、套餐定价、最低 Seat、年度合同 | 产品留存、ARPU、销售辅助扩张与 Channel-Model Fit | 更高 ARPU 可能增加 CAC 与销售复杂度 |
+| [HubSpot](../../companies/hubspot/README.zh.md) | 销售用户、团队购买者与 Mid-Market 账户 | Freemium、套餐定价、最低 Seat、年度合同 | 产品留存、ARPU（每用户平均收入）、销售辅助扩张与 Channel-Model Fit | 更高 ARPU 可能增加 CAC（客户获取成本）与销售复杂度 |
 | [Lovable](../../companies/lovable/README.zh.md) | 构建者与团队为 AI 软件生产付费 | 更早商业化、用量经济性、套餐与年付选择 | 产品速度、信任、留存创造价值与团队使用 | 模型成本、能力变化、低信任与年付错位 |
 | [Ramp](../../companies/ramp/README.zh.md) | 企业购买财务效率、节省与控制 | 客户节省主张、激励对齐、金融平台经济性 | 更广工作流采用、可衡量节省与可信扩张 | 节省主张、Interchange 经济性、销售成本与监管 |
-| [字节跳动](../../companies/bytedance/README.zh.md) | 消费者、广告主与产品矩阵参与不同价值流 | 广告与产品矩阵经济性、预测 LTV、多周期 ROI | 留存注意力、产品矩阵分配与长期价值 | 预测误差、归因、蚕食、激励与规模依赖 |
+| [字节跳动](../../companies/bytedance/README.zh.md) | 消费者、广告主与产品矩阵参与不同价值流 | 广告与产品矩阵经济性、预测 LTV、多周期 ROI（投资回报率） | 留存注意力、产品矩阵分配与长期价值 | 预测误差、归因、蚕食、激励与规模依赖 |
 
 矩阵描述已记录案例，不代表公司完整或当前定价架构。
 
@@ -82,7 +82,7 @@ Ramp 把经济承诺描述为帮助企业节省金钱并提高财务运营效率
 
 只有实际节省、定价、收入来源、产品行为、成本与控制保持一致时，承诺才可信。B2B 扩张应跟随更多客户价值，而不是只靠销售压力。
 
-**主要边界：**参与者叙述没有提供完整客户 Cohort、贡献 Margin、定价、Interchange 经济性或独立节省验证。
+**主要边界：**参与者叙述没有提供完整客户 Cohort（同期群）、贡献 Margin、定价、Interchange 经济性或独立节省验证。
 
 ## 案例 5：字节跳动——多周期 LTV 与产品矩阵分配
 
@@ -117,7 +117,7 @@ Ramp 把经济承诺描述为帮助企业节省金钱并提高财务运营效率
 | 模型条件 | 所需渠道或运营条件 |
 | --- | --- |
 | 低 ARPU 自助 | 低 CAC、短 Time to Value、强激活与留存 |
-| 销售辅助 B2B | 足够 ACV、证明、实施与回本 |
+| 销售辅助 B2B | 足够 ACV（年度合同价值）、证明、实施与回本 |
 | Freemium | 可持续免费成本，加激活、分发或升级贡献 |
 | 用量或 AI 消耗 | 可信 Metering、成本控制、价值相关与账单可预测 |
 | 广告 | 持续用户价值与明确注意力质量护栏 |
@@ -145,7 +145,7 @@ Ramp 把经济承诺描述为帮助企业节省金钱并提高财务运营效率
 ## 相关人物
 
 - [Madhavan Ramanujam](../../people/madhavan-ramanujam/README.zh.md)：支付意愿、分群、套餐、计价单位、收入模型、盈利增长与 AI 商业化。
-- [Elena Verna](../../people/elena-verna/README.zh.md)：付款人、价值、时机、计价单位、摩擦、PLG、PLS、Freemium 与 AI 商业化。
+- [Elena Verna](../../people/elena-verna/README.zh.md)：付款人、价值、时机、计价单位、摩擦、PLG（产品驱动增长）、PLS（产品驱动销售）、Freemium 与 AI 商业化。
 - [Brian Balfour](../../people/brian-balfour/README.zh.md)：Four Fits、Channel-Model Fit、ARPU-CAC 对齐、留存、回本与盈利增长。
 - [Albert Cheng](../../people/albert-cheng/README.zh.md)：Explore-Exploit、订阅、留存、实验与游戏化经济性。
 - [Luis von Ahn](../../people/luis-von-ahn/README.zh.md)：使命对齐 Freemium、订阅、广告、可及性、习惯与 AI 学习。

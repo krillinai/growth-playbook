@@ -152,7 +152,7 @@ Good-Better-Best 可以简化选择，但不是通用规则。模块化、用量
 - 税费、支付方式与收款；
 - 服务、支持与实施承诺。
 
-衡量实际价格，而不只看 List Price。Cohort 折扣、Credit、免费月份、实施、支持、退款与非标准条款会形成隐藏价格差异。
+衡量实际价格，而不只看 List Price。Cohort（同期群）折扣、Credit、免费月份、实施、支持、退款与非标准条款会形成隐藏价格差异。
 
 ## 免费、试用与 Freemium
 
@@ -257,13 +257,13 @@ CAC = 可归因获客与销售成本 / 新增付费客户
 回本 = CAC / 周期新增客户贡献
 ```
 
-让成本匹配转化延迟，并区分客户 CAC 与注册、Lead、Trial 或激活用户成本。除 Blended Average 外，报告渠道、分群、销售模式与边际 CAC。
+让成本匹配转化延迟，并区分客户 CAC（客户获取成本）与注册、Lead、Trial 或激活用户成本。除 Blended Average 外，报告渠道、分群、销售模式与边际 CAC。
 
 回本必须使用贡献而不是收入。获客和服务必需时，纳入 Onboarding 与可变服务成本。
 
 ### LTV
 
-LTV 是模型，不是已观察事实。
+LTV（客户生命周期价值）是模型，不是已观察事实。
 
 ```text
 LTV
@@ -291,7 +291,7 @@ NRR = (期初经常性收入 - 流失 - 收缩 + 扩张) / 期初经常性收入
 - 续费与支付恢复；
 - 实际价格变化与一次性收入。
 
-如果涨价或扩张抵消流失，健康 NRR 可能掩盖用户价值下降。用户留存强时，也可能因付款人价值、套餐或预算下降而 NRR 薄弱。扩张应连接更广泛实现价值，而不只是账单增长。
+如果涨价或扩张抵消流失，健康 NRR（净收入留存率）可能掩盖用户价值下降。用户留存强时，也可能因付款人价值、套餐或预算下降而 NRR 薄弱。扩张应连接更广泛实现价值，而不只是账单增长。
 
 ## 商业化实验
 
@@ -322,7 +322,7 @@ Margin、退款、支持与信任护栏：
 | 审批 | 谁能改变 List Price、折扣、合同、Credit 与例外？ |
 | 迁移 | 现有客户如何迁移、保留旧方案或收到通知？ |
 | 账单 | Metering、发票、税务、支付、退款和争议如何控制？ |
-| 衡量 | 哪些定义用于对账产品、CRM、账单与财务？ |
+| 衡量 | 哪些定义用于对账产品、CRM（客户关系管理）、账单与财务？ |
 | 风险与信任 | 哪些公平、隐私、合规与客户控制规则适用？ |
 | 复盘 | 何时复盘转化、留存、Margin、回本与套餐复杂度？ |
 
@@ -341,9 +341,9 @@ Margin、退款、支持与信任护栏：
 ### 留存收入
 
 - 付费产品与账户留存；
-- Logo 留存、GRR 与 NRR；
+- Logo 留存、GRR（总收入留存率）与 NRR；
 - 续费、流失、收缩与扩张；
-- ARPU、ARPA、ACV 与收入结构；
+- ARPU（每用户平均收入）、ARPA（每账户平均收入）、ACV（年度合同价值）与收入结构；
 - 按 Age 的 Cohort 收入与贡献。
 
 ### 经济性
@@ -422,9 +422,9 @@ Margin、退款、支持与信任护栏：
 - [HubSpot](../../case-library/companies/hubspot/README.zh.md)：Freemium、套餐定价、最低 Seat、年度合同、留存、ARPU-CAC 对齐与 Channel-Model Fit。
 - [Lovable](../../case-library/companies/lovable/README.zh.md)：AI 用量经济性、更早商业化、信任、套餐与年付不确定性。
 - [Ramp](../../case-library/companies/ramp/README.zh.md)：客户节省、商业模式对齐、增长衡量、回本、贡献与金融产品控制。
-- [字节跳动](../../case-library/companies/bytedance/README.zh.md)：预测 LTV、多周期 ROI、产品矩阵资源分配、激励与模型风险。
+- [字节跳动](../../case-library/companies/bytedance/README.zh.md)：预测 LTV、多周期 ROI（投资回报率）、产品矩阵资源分配、激励与模型风险。
 - [Madhavan Ramanujam](../../case-library/people/madhavan-ramanujam/README.zh.md)：支付意愿、分群、套餐、计价单位、收入模型与商业化失败模式。
-- [Elena Verna](../../case-library/people/elena-verna/README.zh.md)：付款人、价值、时机、计价单位、摩擦、PLG、PLS、Freemium 与 AI 商业化。
+- [Elena Verna](../../case-library/people/elena-verna/README.zh.md)：付款人、价值、时机、计价单位、摩擦、PLG（产品驱动增长）、PLS（产品驱动销售）、Freemium 与 AI 商业化。
 - [Brian Balfour](../../case-library/people/brian-balfour/README.zh.md)：Four Fits、ARPU-CAC 对齐、Channel-Model Fit、回本与盈利增长。
 - [Albert Cheng](../../case-library/people/albert-cheng/README.zh.md) 与 [Luis von Ahn](../../case-library/people/luis-von-ahn/README.zh.md)：Duolingo 的订阅、Freemium、广告、习惯、可及性与实验。
 - [Sri Batchu](../../case-library/people/sri-batchu/README.zh.md)：Ramp 的增长经济性、贡献、回本、衡量与团队设计。

@@ -8,15 +8,15 @@
 
 - [Alex Schultz](people/alex-schultz/README.zh.md)：Meta 首任 Chief Data Officer，围绕留存、Magic Moment、增长会计、北极星指标、数据系统与获客方法。
 - [Chamath Palihapitiya](people/chamath-palihapitiya/README.zh.md)：Facebook 前增长负责人，围绕核心产品价值、Aha Moment、关键行为指标和增长团队建设的方法。
-- [Elena Verna](people/elena-verna/README.zh.md)：跨公司增长负责人，围绕 PLG、PLS、商业化、增长模型、自然分发与实验的方法。
+- [Elena Verna](people/elena-verna/README.zh.md)：跨公司增长负责人，围绕 PLG（产品驱动增长）、PLS（产品驱动销售）、商业化、增长模型、自然分发与实验的方法。
 - [Naomi Gleit](people/naomi-gleit/README.zh.md)：Meta Head of Product，围绕激活、留存、新用户引导、数据埋点、实验与清晰的产品协作方法。
-- [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF Test、激活、北极星指标、ICE 排序与高频实验的方法。
+- [Sean Ellis](people/sean-ellis/README.zh.md)：围绕 PMF（产品市场匹配） Test、激活、北极星指标、ICE（影响力、信心与易实施性）排序与高频实验的方法。
 - [查看全部 27 位人物](people/README.zh.md)
 
 ## [增长基础](themes/README.zh.md#增长基础)
 
 - [产品市场匹配](themes/product-market-fit/README.zh.md)
-- [客户分群与 ICP](themes/customer-segmentation/README.zh.md)
+- [客户分群与 ICP（理想客户画像）](themes/customer-segmentation/README.zh.md)
 - [定位](themes/positioning/README.zh.md)
 - [漏斗与约束模型](themes/funnel-and-constraint/README.zh.md)
 - [增长模型](themes/growth-model/README.zh.md)
@@ -40,8 +40,8 @@
 ## [公司](companies/README.zh.md)
 
 - [Airtable](companies/airtable/README.zh.md)：客户驱动营销、模板、新用户引导、激活与协作采用。
-- [字节跳动](companies/bytedance/README.zh.md)：增长中台、LTV、投放自动化、素材系统、风控、国际化与激励。
+- [字节跳动](companies/bytedance/README.zh.md)：增长中台、LTV（客户生命周期价值）、投放自动化、素材系统、风控、国际化与激励。
 - [Duolingo](companies/duolingo/README.zh.md)：自然增长、国际化、订阅、实验、留存与游戏化。
 - [Facebook / Meta](companies/facebook/README.zh.md)：校园扩张、激活、留存、实验、国际化与多产品增长。
-- [Ramp](companies/ramp/README.zh.md)：客户节省、B2B UX、产品速度、增长衡量、品牌与 AI 运营。
+- [Ramp](companies/ramp/README.zh.md)：客户节省、B2B（企业对企业） UX（用户体验）、产品速度、增长衡量、品牌与 AI 运营。
 - [查看全部 16 家公司](companies/README.zh.md)

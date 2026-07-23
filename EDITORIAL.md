@@ -106,6 +106,7 @@ Do not convert approximate figures into precise figures. Do not compare metrics 
 
 - Publish only English and Simplified Chinese repository pages.
 - Keep paired pages structurally equivalent and source lists aligned.
+- On Simplified Chinese pages, gloss an English abbreviation or retained English growth term on first use in body copy, for example `ICP（理想客户画像）` and `Cohort（同期群）`; keep later uses short. Do not repeat the parenthetical in a terminology table that already has a dedicated Chinese-definition column. Do not rewrite brand names, job titles, original source titles, code, formulas, or URLs.
 - Put links directly on person and company names instead of separate `Page` columns.
 - Show the total when an index uses `View all` or `查看更多`.
 - Add reciprocal links among knowledge, theme, company, and person pages when the relationship is substantive.

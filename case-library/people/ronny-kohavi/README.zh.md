@@ -25,7 +25,7 @@
 | 代表经历 | Airbnb 前 Vice President and Technical Fellow；Microsoft 前 Technical Fellow and Corporate Vice President；Amazon 前 Director of Data Mining and Personalization |
 | 教育 | Stanford University 机器学习博士 |
 | 著作 | *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing*，与 Diane Tang、Ya Xu 合著 |
-| 主要主题 | 在线受控实验、可信指标、OEC、统计功效、SRM、实验平台、长期效应、创新与实验文化 |
+| 主要主题 | 在线受控实验、可信指标、OEC（总体评估指标）、统计功效、SRM（样本比例失配）、实验平台、长期效应、创新与实验文化 |
 
 ## 与增长相关的经历
 

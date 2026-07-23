@@ -26,10 +26,10 @@
 
 | 层级 | 核心责任 | 典型能力 | 主要故障 |
 | --- | --- | --- | --- |
-| 数据基础 | 产生可信行为记录 | 事件分类、身份、Consent、Cohort、质量监控 | 团队优化不完整或不一致的数据 |
+| 数据基础 | 产生可信行为记录 | 事件分类、身份、Consent、Cohort（同期群）、质量监控 | 团队优化不完整或不一致的数据 |
 | 指标系统 | 让结果可以比较 | 语义定义、North Star、输入指标、护栏、指标注册表 | 同一个指标名在不同团队含义不同 |
-| 实验服务 | 安全估计因果效应 | 分流、曝光、Feature Flag、SRM 检查、Scorecard、Holdout | 平台产生精确但无效的结果 |
-| 决策服务 | 支持重复资源分配 | 分群、归因、LTV、预测、排序、预算规则 | 未经校准就把模型输出当成事实 |
+| 实验服务 | 安全估计因果效应 | 分流、曝光、Feature Flag、SRM（样本比例失配）检查、Scorecard、Holdout | 平台产生精确但无效的结果 |
+| 决策服务 | 支持重复资源分配 | 分群、归因、LTV（客户生命周期价值）、预测、排序、预算规则 | 未经校准就把模型输出当成事实 |
 | 执行系统 | 可靠交付干预 | 付费投放、消息、生命周期编排、本地化 | 自动化放大错误定向或客户伤害 |
 | 素材系统 | 把资产转化为可复用学习 | 资产注册、标签、生成、审核、疲劳、效果反馈 | 变体数量替代有意义的假设 |
 | 治理与运营 | 让系统保持可控 | 权限、日志、审批、人工覆盖、停止控制、事故响应 | 规模带来的风险快于学习增长 |
@@ -285,11 +285,11 @@ Consent 与保留等级
 - [Booking.com](../../case-library/companies/booking-com/README.zh.md)：自助式实验、统一方法、培训、并行测试与去中心化决策。
 - [字节跳动](../../case-library/companies/bytedance/README.zh.md)：LTV、投放自动化、素材运营、归因、风控、生命周期服务与本地化。
 - [Facebook / Meta](../../case-library/companies/facebook/README.zh.md)：埋点、增长核算、实验、新用户引导、翻译与跨职能执行。
-- [Ramp](../../case-library/companies/ramp/README.zh.md)：增长工程、GTM 数据连接、衡量与共享 AI Agent 上下文。
+- [Ramp](../../case-library/companies/ramp/README.zh.md)：增长工程、GTM（市场进入策略）数据连接、衡量与共享 AI Agent 上下文。
 - [Lukas Vermeer](../../case-library/people/lukas-vermeer/README.zh.md)：约束驱动基础设施、实验民主化、并行实验与赋权团队。
 - [徐洪亮](../../case-library/people/xu-hongliang/README.zh.md)：共享增长平台、多周期价值、自动化、素材系统、激励与风险。
 - [Andrew Foxwell](../../case-library/people/andrew-foxwell/README.zh.md)：素材分类、Concept 血缘、付费社媒账户诊断、Creator 运营、AI 辅助工作流与反馈循环。
-- [Ronny Kohavi](../../case-library/people/ronny-kohavi/README.zh.md)：可信实验平台、OEC、SRM、Power 与质量体系。
+- [Ronny Kohavi](../../case-library/people/ronny-kohavi/README.zh.md)：可信实验平台、OEC（总体评估指标）、SRM、Power 与质量体系。
 - [Alex Schultz](../../case-library/people/alex-schultz/README.zh.md) 与 [Naomi Gleit](../../case-library/people/naomi-gleit/README.zh.md)：留存驱动指标、埋点、新用户引导与组织学习。
 
 ## 案例对比

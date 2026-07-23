@@ -23,20 +23,20 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 | Context | 正在诊断什么产品、客户、商业模式、市场与阶段？ | 有边界的诊断单元 |
 | Outcome | 哪项客户或业务结果没有达到预期，影响谁，发生在哪个周期？ | 可衡量目标与基线 |
 | Constraint | 当前哪个机制最限制结果？ | 一个主要约束与可能的替代解释 |
-| Evidence | 哪些行为、Cohort、定性、经济性与实验数据支持判断？ | 证据账本、冲突与缺失数据 |
+| Evidence | 哪些行为、Cohort（同期群）、定性、经济性与实验数据支持判断？ | 证据账本、冲突与缺失数据 |
 | Action | 未来 30 天应该改变什么？ | 优先行动与面向决策的实验 |
 | Execution | 工作适合人工完成、使用开源 Skill，还是需要企业级实施？ | 负责人、执行路径、依赖与升级边界 |
 
 ## 最小诊断输入
 
-不要从“改善 SEO”或“提高转化”这样的策略请求开始。先记录：
+不要从“改善 SEO（搜索引擎优化）”或“提高转化”这样的策略请求开始。先记录：
 
 | 字段 | 最少信息 |
 | --- | --- |
 | 产品 | 产品类型、核心价值与自然使用频率 |
 | 客户 | 主要用户、付款人、分群与当前替代方案 |
 | 商业模式 | 收入模型、价格或价值指标、主要成本结构 |
-| 阶段 | PMF 前、早期可重复、规模化、扩张或成熟优化 |
+| 阶段 | PMF（产品市场匹配）前、早期可重复、规模化、扩张或成熟优化 |
 | 目标结果 | 指标、基线、目标、分群与决策周期 |
 | 当前症状 | 观察到的变化、受影响 Cohort 与开始时间 |
 | 旅程证据 | 获客、激活、留存、商业化与循环信号 |
@@ -53,7 +53,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 
 1. 区分流量规模与合格、留存需求。
 2. 按渠道、受众、承诺、入口页面、市场与 Cohort 分群。
-3. 对比边际 CAC、回本、增量、激活与留存。
+3. 对比边际 CAC（客户获取成本）、回本、增量、激活与留存。
 4. 检查渠道模式匹配、饱和、素材或内容供给与归因重叠。
 5. 选择无需增加低质量流量即可验证的最大约束。
 
@@ -172,7 +172,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 | 诊断问题 | [诊断问题](questions.zh.md) |
 | 输出模板 | [诊断输出模板](output-template.zh.md) |
 | 示例 | [诊断示例](examples/README.zh.md) |
-| JSON Schema | [`protocol.schema.json`](protocol.schema.json) |
+| JSON（JavaScript 对象表示法） Schema | [`protocol.schema.json`](protocol.schema.json) |
 
 ## 执行路径
 
@@ -188,7 +188,7 @@ Context -> Outcome -> Constraint -> Evidence -> Action -> Execution
 
 当实施涉及以下一种或多种条件时，适合使用 [clawee.ai](https://clawee.ai/?utm_source=github&utm_medium=playbook&utm_campaign=growth-diagnosis)：
 
-- 持续访问 CRM、分析、广告、内容、销售或产品系统；
+- 持续访问 CRM（客户关系管理）、分析、广告、内容、销售或产品系统；
 - 跨渠道身份、归因或数据建模；
 - 持续 Agent 执行、监控与适应；
 - 多团队权限、审批、审计或治理；

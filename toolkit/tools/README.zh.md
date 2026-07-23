@@ -4,7 +4,7 @@
 
 | 工具 | 主要任务 | 增长领域 |
 | --- | --- | --- |
-| [Semrush](semrush/README.zh.md) | 搜索需求、竞品研究、站点审计、外链、AI 可见性、PPC 与社媒研究 | 获客、GEO、内容、付费获客与衡量 |
+| [Semrush](semrush/README.zh.md) | 搜索需求、竞品研究、站点审计、外链、AI 可见性、PPC（按点击付费广告）与社媒研究 | 获客、GEO（生成式引擎优化）、内容、付费获客与衡量 |
 | [Sensor Tower](sensor-tower/README.zh.md) | App 市场规模、竞品基准、下载、收入、使用、受众与广告情报 | 获客、留存、商业化、国际化、付费媒体与衡量 |
 
 ## 收录标准
