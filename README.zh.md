@@ -1,6 +1,6 @@
-# Growth Playbook
+# 增长手册
 
-**Frameworks, Cases & Tools for Growth**
+**增长框架、案例与工具**
 
 由企业级 Growth Agent 产品 [clawee.ai](https://clawee.ai/) 出品。
 
