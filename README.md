@@ -15,6 +15,8 @@ By [clawee.ai](https://clawee.ai/), an enterprise-grade Growth Agent platform.
 
 Growth Playbook is for independent developers, founders, and product, data, marketing, and growth teams. It studies how companies systematically acquire, activate, retain, monetize, and expand customers through measurable and repeatable systems.
 
+Drawing on ideas, methods, interviews, and cases from influential growth and marketing practitioners around the world, it organizes fragmented knowledge into a practical system for learning, diagnosis, and execution.
+
 We follow a content-first approach: a module is published only when it contains useful, actionable material. We do not create empty sections simply to make the Playbook look complete.
 
 ## Start Here
